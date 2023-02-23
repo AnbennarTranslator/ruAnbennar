@@ -2,297 +2,297 @@
 
  #Missions
 
- A59_prepare_the_army_title: "Ready Our Forces"
- A59_prepare_the_army_desc: "The Marquisate of Arannen eye our humble lands as they see blood in the water. We will show that the strength of the Corvurian people is more than enough to drive out any invader."
- A59_propaganda_title: "Slander Asheniande"
- A59_propaganda_desc: "Our relatives in Asheniande think themselves better than us, but they are nothing more than secessionists and pawns of the Dove Throne. They use their propaganda to claim the moral high-ground in their invasion of our heartland. We can put our words to much more decisive action."
- A59_retake_ravenhill_title: "Retake Ravenhill"
- A59_retake_ravenhill_desc: "Ravenhill Fortress was once a sight to fear and brought order to the Vertbern Basin. If we are to secure our control of Dostanor we must reclaim this place!"
- A59_destroy_asheniande_title: "Second War of the Pale Raven"
- A59_destroy_asheniande_desc: "The First War of the Pale Raven was in response to a ploy to bring the lands of Asheniande into Corvurian hands, instead, it backfired and Valeran I síl Vivin betrayed his father and took the fortress of Ravenhill with him. We must right this wrong and bring our lost son home, at any cost."
+ A59_prepare_the_army_title: "‰ª¥²¢ª²¿ °Œª ª®º"
+ A59_prepare_the_army_desc: "¬¥´²¢ °°° °±¾¨°° °¡®½¦² © °Œª¯ª ¬¯°º¯ª ¢®¦°ª¾¯ª. º ±¬¨¯, ¶² ª®º ¬¢³ª°µ¢ ¡® ¶¯ ¦²²¶°, ¶²¡º ª©¥°²¿ ®½¡¥ ©¢²¶ª¬."
+ A59_propaganda_title: "ˆ¨¿ Œ°ª°¦"
+ A59_propaganda_desc: "Œª ¦²¢°°ª¬ª ¢ Œ°ª°¦ ¶ª²½² ¡¾ ®³¶Œ °, ° °ª ° ¡® ¶¯ ²²³±°ª¬ª ª ±Œ¬ª ‚®³¡ª°¥ Ù°. °ª ±²°¾½² ®¨ª¢º ®³ª, ¶²¡º ¢º©¢²¿ ¯³²³. º ¯¨¯ ±¢²ª²¿ °Œª ®¢ ¢  ¥©¦ ¡® Œª²®¿°º ¦þ²¢ª¾."
+ A59_retake_ravenhill_title: "Ï°³²¿ Ðþ¢°ª®®"
+ A59_retake_ravenhill_desc: "±²¿ Ð¢°ª®® ¬¥¦-² ¢°³Œ® ² ª ±ª¢°ª® ±¾¦¬ ¢ Ï²¡°¬þ °ª©ª°. ®ª ¯º ²ª¯ °ª²¿ ¬°²®¿ °¦ ƒ²°¯, ¯º ¦®¨°º ¢°³²¿ ¡ ¼² ¯²!"
+ A59_destroy_asheniande_title: "Ï²¾ ¢þ° €®¦°¥ ¢°"
+ A59_destroy_asheniande_desc: "‰¢¾ Ïþ° €®¦°¥ Ï° ¡º® ²¢²¯ ° ±±º²¬³ ±¦²¿ ©¯®ª Œ°ª°¦ ¢ ³¬ª ¬¢³ª°µ¢, ¦°¬ ¼² ª¯® °±ª¾²°º ±®¦²¢ª¾, ª Ï®° I ª® Ïª¢ª° ±¦® ¢¥ ²µ ª ©¡® ¡ ¬±²¿ Ðþ¢°ª®®. º ¦®¨°º ª±¢ª²¿ ¼²³ Œª¡¬³ ª ®½¡þ µ°þ ¢°³²¿ °Œ¥ ¡®³¦°¥ º° ¦¯þ."
  
- A59_imperial_diplomacy_title: "Imperial Diplomacy"
- A59_imperial_diplomacy_desc: "The first human king of Corvuria, Lucian the Protector, was no doubt a brave warrior, but also an excellent diplomat. He impressed Jaher and was the only human to be given command of one of Jaher's realms and gave our people much autonomy under Jaher's Phoenix Empire. While that empire is long gone, another stands in its place much closer to home: Anbennar. We must emulate Lucian in order to preserve our country: a silver tongue will lead Corvuria to greatness."
- A59_imperial_distraction_title: "Distract the Emperor"
- A59_imperial_distraction_desc: "Asheniande cowers beneath the skirt of the Emperor like a child that knows it deserves punishment. If we are to get at the child, we must first strike at the adult, directly or otherwise."
- A59_imperial_weakening_title: "Weaken the Empire"
- A59_imperial_weakening_desc: "To ensure that the pathetic attempts by the Empire at consolidation fail we shall shake the foundations of their borders. Without their territorial integrity, the Emperor will forever be seen as unjust."
+ A59_imperial_diplomacy_title: "†¯±¬¾ ¦ª±®¯²ª¾"
+ A59_imperial_diplomacy_desc: "‰¢ºþ ¶®¢¶¬ªþ ¬®¿ ¢³ªª, ˆ½µª° …¸ª²°ª¬, °¯°°°, ¡º® ¡º¯ ¢ª°¯, ° ²¬¨ ° ¡º® ª ±¢¦°º¯ ¦ª±®¯²¯. ° ¢±¶²®ª® ƒ¨ ª ¡º® ¦ª°²¢°°º¯ ¶®¢¬¯, ±®³¶ª¢Œª¯ ¬¯°¦¢°ª ¦°ª¯ ª© ¢®¦°ªþ ƒ¨, ª ¦® °Œ¯³ °¦³ ¡®¿Œ³½ ¢²°¯ª½ ±¦ †¯±ªþ Ê°ª¬. Û²¾ ¼²þ ª¯±ªª ³¨ ¦¢° °², °  ¯² ¥©¦ ¡®ª¨ ¬ °¯ ²ª² ¦³¥¾: °¡°°. º ¦®¨°º ±¦¨²¿ ˆ½µª°³, ¶²¡º °ª²¿ °Œ³ ²°³: ¡¾°ºþ ¾©º¬ ±ª¢¦² ¢³ª½ ¬ ¢®ª¶ª½."
+ A59_imperial_distraction_title: "Ô¡ª²¿  ²®¬³ †¯±²"
+ A59_imperial_distraction_desc: "Œ°ª°¦ ±¾¶²¾ ±¦ ½¡¬þ †¯±² ®¢° ¡°¬, ¬²ºþ ©°², ¶² ©®³¨ª® °¬©°ª¾. ®ª ¯º ²ª¯ ¦¡²¿¾ ¦ ¡°¬, ¯º ¦®¨°º °¶® ³¦ª²¿ ± ¢©®¯³, ±¾¯ ª®ª ¬¢°°."
+ A59_imperial_weakening_title: "®¡ª²¿ †¯±ª½"
+ A59_imperial_weakening_desc: "Ì²¡º ³¡¦ª²¿¾ ¢ ²¯, ¶² ¨®¬ª ±±º²¬ª †¯±ªª ±®²ª²¿¾ ±²±¾² °³¦¶³, ¯º ²¾¯ °¢º ª ¥°ªµ. €© ²ª²ª®¿°þ µ®²°²ª †¯±² ¢¥¦ ¡³¦² ¶ª²²¿¾ ®¡º¯."
  
- A59_secure_west_title: "Secure Western Flank"
- A59_secure_west_desc: "With much of Escann in chaos, our strongest neighbors are to the West, so it is this direction in which we must be strongest. Shroudfort already stands guard in that direction, and while it does not have the pride of Arca Corvur, with some reinforcement it will make a worthy counterpart."
- A59_secure_heartland_title: "Secure the Heartland"
- A59_secure_heartland_desc: "With Ravenhill retaken it is critical that it shall not be used as an alternative point of invasion. A fortress in that position will deter all invasions of the heartland."
- A59_secure_corvuria_title: "Reinvigorate Corvuria"
- A59_secure_corvuria_desc: "Many of our enemies accuse us of being a poor backwater that deserves to be ruled by a richer neighbor. Now is the time to put such rumors to rest once and for all, and show that Corvuria is a power comparable to the likes of Gawed or Lorent!"
+ A59_secure_west_title: "…¸ª² ©±¦°¥ °±¢®°ª¾"
+ A59_secure_west_desc: "‰¬®¿¬³ ¡®¿Œ¾ ¶²¿ ™¬°° °¦ª²¾ ¢ , °Œª ¯º ª®¿°º ¦ª °¦¾²¾ ° ©±¦, ±¼²¯³ ª¯°° ¢ ¼²¯ °±¢®°ªª ¯º ¦®¨°º ±¾¢ª²¿ ª®³. ÷³¦´² ³¨ ©¸ª¸² ©±¦, ª ²¾ ³ °¥ °² ¢®ª¶ª¾ ¬ ¢³,  °¬²º¯ª ³®³¶Œ°ª¾¯ª ° ²°² ¦²þ°º¯ ±¦¡ª¯."
+ A59_secure_heartland_title: "…¸ª²ª² Û²®°¦"
+ A59_secure_heartland_desc: "‰® ¢©¾²ª¾ Ðþ¢°ª®® ¬þ° ¢¨°, ¶²¡º ° ° ª±®¿©¢®¾ ¢ ¬¶²¢ ®¿²°²ª¢°þ ²¶¬ª ¢²¨°ª¾. ±²¿ ° ¼²¯ ¯² ¡³¦² ¦¨ª¢²¿ ¢ ¢²¨°ª¾ ¢ ¦µ °Œª ©¯®¿."
+ A59_secure_corvuria_title: "Ï²°¢ª²¿ ¢³ª½"
+ A59_secure_corvuria_desc: "Œª ¢¥ª ¥¢¾²  ²¯, ¶² ¯º — ¡¦° ©®³²¿, ©®³¨ª¢½¸ ²¥, ¶²¡º °¯ª ±¢ª® ¡® ¡¥²ºþ ¦. ²® ¢¯¾ ±®¨ª²¿ ¬°µ ²¬ª¯ ®³¯ © ª °¢¥¦ ª ±¬©²¿, ¶² ¢³ª¾ — ª®, ¢°ª¯¾  ²¬ª¯ª ¥³¦²¢¯ª, ¬¬ ‚¢¦ ª®ª ˆ°²!"
  
- A59_tax_priests_title: "Tax the Priests of Nerat"
- A59_tax_priests_desc: "The god Nerat stands as the guardian of death, and is a threat to those who wish to live forever. If this kingdom is to last eternally, it must not fear death, but instead embrace it."
- A59_improve_livestock_title: "Corvurian Husbandry"
- A59_improve_livestock_desc: "Our principal export is the hardy livestock from our fields and hills. Developing this food supply and expanding on it will revive our economy."
- A59_monopolize_livestock_title: "Monopolize the Herds"
- A59_monopolize_livestock_desc: "While our herds are impressive, they are currently decentralized, and thus able to be bought by outside markets for less than we could be making from them. By controlling the export market we will be able to bring in more profit to the state."
- A59_control_trade_title: "Control Our Trade"
- A59_control_trade_desc: "The fate of nations is dictated by the money it handles. The merchant class of Arannen see Corvuria as a place for a quick profit. If we are to control our destiny we must ensure control over the markets."
+ A59_tax_priests_title: "¡®¨ª²¿ °®¥¯ ¨µ¢ ²"
+ A59_tax_priests_desc: "€¥ ² ¾¢®¾²¾ °ª²®¯ ¯²ª ª ±¦²¢®¾² ³¥©³ ¦®¾ ², ¬² ¶² ¨ª²¿ ¢¶°. ®ª ¼²¯³ µ²¢³ ³¨¦° ¦®ª²¿¾ ¢¶°, ° ° ¦®¨° ¡¾²¿¾ ¯²ª,  ¦®¨° ±ª°¾²¿ ."
+ A59_improve_livestock_title: "¢³ª°¬ ©¯®¦®ª"
+ A59_improve_livestock_desc: "Œ °¢°þ ¼¬±² — ±¦ª²ºþ ¬²  °Œª ±®þ ª ®¯¢. Ð©¢ª²ª ¼²þ ²®ª ª ¥ Œª°ª ¨ª¢ª² °Œ³ ¼¬°¯ª¬³."
+ A59_monopolize_livestock_title: "¡¹¦ª°ª²¿ ²¦"
+ A59_monopolize_livestock_desc: "Û²¾ °Œª ²¦ ¢±¶²®¾½², ¢ °²¾¸ ¢¯¾ °ª ©¡°º ª, ²¬ª¯ ¡©¯, ±¬³±¬ ° ¢°Œ°ª º°¬ ¦Œ¢®, ¶¯ ±ª¡º®¿  ª ±¦¨ª. °²®ª³¾ ¼¬±²°ºþ º°¬, ¯º ¯¨¯ ±ª°ª²¿ ¡®¿Œ ±ª¡º®ª ¥³¦²¢³."
+ A59_control_trade_title: "°²®¿ ²¥¢®ª"
+ A59_control_trade_desc: "Ô³¦¿¡ °µªþ ¦ª¬²³²¾ ¦°¿¥¯ª, ¬²º ° ³±¢®¾². Ù¥¢ºþ ¬® °°° ¯²ª¢² ¢³ª½ ¬¬ ¯² ¦®¾ ¡º²þ °¨ª¢º. ®ª ¯º ²ª¯ ¬°²®ª¢²¿ °Œ³ ³¦¿¡³, ¯º ¦®¨°º ¡±¶ª²¿ ¬°²®¿ °¦ º°¬¯ª."
  
- A59_capitol_fort_title: "Repair Bal Dostan"
- A59_capitol_fort_desc: "Bal Dostan was the original name for Arca Corvur and was the center of power for Castan's Empire in the region. During the Dragonwake its stewards fled and abandoned the people, and our ancestors, the Korbarid, occupied and secured the citadel and gave shelter to Korbarid and Castanorian alike. Thanks to our... patrons, we have gained the resources necessary to repair Bal Dostan and restore the decrepit village the lies beneath its gaze. The Village of Corvuria will once again be a humble yet bustling community, which provides us manpower, and our patrons... livestock."
- A59_dark_lords_title: "Placate the Dark Lords"
- A59_dark_lords_desc: "Vampires have been part of modern-day Corvuria since the Aldresian Crusade of 1044, the first of their kind were even our strongest and most powerful crusaders. Without them our lands would still be plagued with undead or conquered by foreign tyrants, and as such we have established a working relationship with them. Our patrons wish for certain privileges to be granted to them. In return they promise to consolidate power even more behind the crown."
- A59_temple_vamp_title: "Temple of the Night"
- A59_temple_vamp_desc: "Worship belongs to those who will return our honors with strength. A temple in our very capital dedicated to honoring these lords will be rewarded with strength."
- A59_corvuria_village_title: "Revive Our Village"
- A59_corvuria_village_desc: "Our humble Village of Corvuria has gone through many ups and downs. Under the safety of its fortress it has the capability to stand as an imposing tower of our will over the region."
- A59_curtail_adventurers_title: "Curtail the Suspicious"
- A59_curtail_adventurers_desc: "Pesky priests and bands of interloping adventurers could pose a threat to our patrons if certain secrets of the night were found by them. They must be kept in line."
- A59_parley_mages_title: "Parley with the Curious"
- A59_parley_mages_desc: "Of all the power groups across Cannor, none are more inquisitive than the mages of the Magisterium. Their pursuit of knowledge has led to their highest members to know the grim truth of our lords, but surprisingly, they are nothing but pragmatic. With some well placed words we can reach an understanding with this institution, where all groups benefit in a treaty in their support to uphold the masquerade in exchange for forbidden knowledge."
- A59_grand_masquerade_title: "The Grand Masquerade"
- A59_grand_masquerade_desc: "As commoners and nobles dance about the grand halls of Arca Corvur, they are unaware that some of their fellow guests are blood-drinkers. That those very individuals, who dance alongside them in the Masquerade hold dominion of the fate of this nation. That those individuals have the capacity to live longer even then elves. That those individuals... are vampires. And now with no other group strong enough to contest them, their dance has only just begun."
- A59_blood_court_title: "The Court of Blood"
- A59_blood_court_desc: "Penumbra covers these lands, the dark aristocracy stands ready to take command of the night, and all it needs is the organization to coordinate their efforts. We are happy to oblige them, and with the seat of such power in Arca Corvur, all shadows in Cannor will serve us."
+ A59_capitol_fort_title: "‰¶ª°ª²¿ €®¿ ƒ²°"
+ A59_capitol_fort_desc: "€®¿ ƒ²° ª©°¶®¿° °©º¢®¾ ¬ ¢³ ª ¾¢®¾®¾ µ°²¯ ¢®²ª ª¯±ªª ²° ¢ ¼²¯ ¥ª°. Ï ¢¯¾ ‰¡³¨¦°ª¾ ƒ¬°¢ ¥ ³±¢®¾½¸ª ¡¨®ª ª ¡ª®ª °¦, ª °Œª ±¦¬ª, ¬¡ª¦º, ©°¾®ª ª ©¸ª²ª®ª µª²¦®¿, ¦¢ ±ª½² ¬¬ ¬¡ª¦¯, ²¬ ª ¬²°µ¯. €®¥¦¾ °Œª¯... ±¬¢ª²®¾¯ ¯º ±®³¶ª®ª ³º, °¡¦ª¯º ¦®¾ ¯°² €®¿-ƒ²° ª ¢²°¢®°ª¾ ¢²þ ¦¢°ª, ®¨¸þ ³ ¥ ±¦°¨ª¾. ƒ¢°¾ ¢³ª¾ °¢ ²°² ¬¯°þ, ° ¨ª¢®°°þ ¡¸ª°þ, ¬²¾ ¡±¶ª² ° ¡¶þ ª®þ,  °Œª ±¬¢ª²®þ... ¬²¯."
+ A59_dark_lords_title: "‹¯ª²¢ª²¿ Ùž¯°º ¢®º¦º¬"
+ A59_dark_lords_desc: "Ï¯±ªº ¾¢®¾½²¾ ¶²¿½ ¢¯°°þ ¢³ªª  ¢¯° ®¿¦©ªþ¬¥ ¬²¢¥ ±¦ 1044 ¥¦, ±¢º¯ª ª© ª ¦ ¡º®ª ¦¨ °Œª ¯º ª®¿°º ª ¯¥³¸²¢°°º ¬²°µº. €© °ª °Œª ©¯®ª ¢ ¸ ¡º®ª ¡º ±¨°º °¨ª²¿½ ª®ª ©¢¢°º ª°²°°º¯ª ²ª°¯ª, ª ±¼²¯³ ¯º ³²°¢ª®ª  °ª¯ª ¡¶ª ²°Œ°ª¾. Œª ±¬¢ª²®ª ¨®½², ¶²¡º ª¯ ¡º®ª ±¦²¢®°º ±¦®°°º ±ª¢ª®¥ªª. Ï©¯° °ª ¡¸½² ¸ ¡®¿Œ ³¬±ª²¿ ¢®²¿."
+ A59_temple_vamp_title: "Û¯ °¶ª"
+ A59_temple_vamp_desc: "‰¬®°°ª ±ª°¦®¨ª² ²¯, ¬² ²¢²ª² ° °Œª ±¶²ª ª®þ. Û¯ ¢ °Œþ ²®ªµ, ±¢¾¸°°ºþ ±¶ª²°ª½ ¼²ª ¢®¦º¬, ¡³¦² ¢©°¥¨¦° ª®þ."
+ A59_corvuria_village_title: "Ï©¦ª²¿ °Œ³ ¦¢°½"
+ A59_corvuria_village_desc: "Œ ¬¯°¾ ¦¢°¾ ¢³ª¾ ±¨ª® ¯°¥ ¢©®²¢ ª ±¦°ªþ. ‰¦ °¦¨°þ ©¸ª²þ °Œþ ¬±²ª ° ¡³¦² ±¯¾²°ª¬¯ ¢®²ª °¦ ¥ª°¯."
+ A59_curtail_adventurers_title: "‹¯°¿Œª²¿ ±¦©ª²®¿°²¿"
+ A59_curtail_adventurers_desc: "©þ®ª¢º ¢¾¸°°ª¬ª ª ¥³±±º ©®²°º ¢°²½ª²¢ ¯¥³² ±¦²¢®¾²¿ ³¥©³ ¦®¾ °Œª ±¬¢ª²®þ, ®ª °¬²º ¬²º °¶ª ¡³¦³² ª¯ª ¡°³¨°º. † °³¨° ¦¨²¿ ¢ ³©¦."
+ A59_parley_mages_title: "Ð©¥¢  ®½¡±º²°º¯ª"
+ A59_parley_mages_desc: "†© ¢ ¥³±±ª¢¬ ¢®²ª ¢ °° °ª ¦° ° ¾¢®¾²¾ ¡® ®½¡©°²®¿°þ, ¶¯ ¯¥ª ¥ª²ª³¯. † ²¯®°ª ¬ ©°°ª¾¯ ±ª¢® ¬ ²¯³, ¶² ª ¢ºŒª ¶®°º ©°½² ¯¶°³½ ±¢¦³  °Œª ¢®¦º¬, °, ¶² ³¦ª¢ª²®¿°, °ª ° ¡® ¶¯ ±¥¯²ª¬ª. Ô ±¯¸¿½ °¬®¿¬ª Œ ±²¢®°°º ®¢ ¯º ¯¨¯ ¦²ª¶¿ ¢©ª¯±°ª¯°ª¾  ¼²ª¯ ³¶¨¦°ª¯, ¥¦ ¢ ¥³±±º ±®³¶² ¢º¥¦³ ² ¦¥¢ ¢ ª ±¦¦¨¬ ±¦¦¨°ª¾ ¯¬¦ ¢ ¡¯° ° ©±²°º ©°°ª¾."
+ A59_grand_masquerade_title: "Ï®ª¬ªþ ¯¬¦"
+ A59_grand_masquerade_desc: "¥¦ ±²®½¦ª°º ª ¦¢¾° ²°µ³½² ¢ ¢®ª¶²¢°°º ©® ¬ ¢³, °ª ª ° ±¦©¢½², ¶² °¬²º ª© ª ¥²þ ±¿½² ¬¢¿. Ì² ² ¯º ®½¦ª, ¬²º ²°µ³½² ¢¯²  °ª¯ª ° ¯¬¦, ¢Œ² ³¦¿¡³ ¼²¥ °¦. Ì² ¼²ª ®½¦ª ±¡°º ¨ª²¿ ¦®¿Œ ¦¨ ¼®¿´¢. Ì² ¼²ª ®½¦ª... ¢¯±ªº. † ²±¿, ¬¥¦ °² ¦³¥þ ¥³±±º, ¦²²¶° ª®¿°þ, ¶²¡º ±²ª¢²¾²¿ ª¯, ª ²°µ ²®¿¬ °¶®¾."
+ A59_blood_court_title: "Ô³¦ ¬¢ª"
+ A59_blood_court_desc: "‰°³¯¡ ±¬º¢² ¼²ª ©¯®ª, ²¯°¾ ª²¬²ª¾ ¥²¢ ¢©¾²¿ ° ¡¾ ¬¯°¦¢°ª °¶¿½, ª ¢, ¶² þ °³¨°, — ¼² ¥°ª©µª¾ ¦®¾ ¬¦ª°µªª ª ³ª®ªþ. º ¦º ¬©²¿ ª¯ ¼²³ ³®³¥³, ª  µ°²¯ ²¬þ ¢®²ª ¢ ¬ ¢³ ¢ ²°ª ¢ °° ¡³¦³² ®³¨ª²¿ °¯."
  
- A59_prepare_resettlement_title: "Prepare Resettlement"
- A59_prepare_resettlement_desc: "The region known as Daravan's Folly was once the economic center of the old Korbarid Kingdom until it was ruined by one of our own ancient kings, Daravan the Malignant, who flooded the lands with terrible magic to prevent the gnollish Third Xhaz. In his attempt to save the land, he instead doomed our forefathers to live in the poorer north where we still live in to this day.\n\nIf the adventurers and Escanni to the north can fight to reclaim their homeland against the Greentide, then surely we can do the same?"
- A59_resettle_dreadmire_title: "Resettle Dreadmire"
- A59_resettle_dreadmire_desc: "The Dreadmire, before its slaughter at the hands of gnolls, was one of several areas protected by Arca Corvur. It will receive this protection again."
- A59_resettle_flooded_coast_title: "Resettle Flooded Coast"
- A59_resettle_flooded_coast_desc: "The now Flooded Coast was once the heart of trade in Southern Escann. With the distasteful city of Nathalaire sitting just off the shores now controlling the flow of goods, our goal is made clear: Take back the coastline and prepare to invade."
+ A59_prepare_resettlement_title: "‰¦¥²¢ª²¿ ©®°ª"
+ A59_prepare_resettlement_desc: "Ð¥ª°, ª©¢²°ºþ ¬¬ ƒ¢°¢ ¥®³±²¿, ¬¥¦-² ¡º® ¼¬°¯ª¶¬ª¯ µ°²¯ ²¥ ¬®¢²¢ ¡ª¦¢, ±¬ ¥ ° ©³Œª® ¦ª° ª© °Œª ¦¢°ª ¬®þ, ƒ¢° …®¡°ºþ, ¬²ºþ °¢¦°ª® ©¯®ª ³¨°þ ¯¥ªþ, ¶²¡º ±¦²¢²ª²¿ ¥°®®¿¬ªþ Ù²ªþ Û©. ‰º²¾¿ ±²ª ©¯®½, ° ¡¬ °Œª ±¦¬¢ ° ¨ª©°¿ ° ¡® ¡¦°¯ ¢, ¥¦ ¯º ¨ª¢¯ ª ± þ ¦°¿.\n\n®ª ¢°²½ª²º ª ¼¬°°ª ° ¢ ¯¥³² ¡²¿¾ © ¢©¢¸°ª ¢þ ¦ª°º ±²ª¢ …®°¥ °Œ²¢ª¾, ², ¬°¶°, ¯º ¯¨¯ ¦®²¿ ² ¨ ¯?"
+ A59_resettle_dreadmire_title: "…®ª²¿ ƒ¦¯þ"
+ A59_resettle_dreadmire_desc: "ƒ¦¯þ, ¦ ²¥ ¬¬ ¥ ³°ª¶²¨ª®ª ¥°®®º, ¡º® ¦°þ ª© °¬®¿¬ª ²ª²ªþ, °¾¯º ¬þ ¢³. ° °¢ ±®³¶ª² ¼²³ ©¸ª²³."
+ A59_resettle_flooded_coast_title: "…®°ª …²±®°°¥ ±¡¨¿¾"
+ A59_resettle_flooded_coast_desc: "…²±®°° ±¡¨¿ ¬¥¦-² ¡º® µ°²¯ ²¥¢®ª ¢ ›¨°¯ ™¬°. ‰¬®¿¬³ ²¢²ª²®¿°ºþ ¥¦ ²®þ, ±®¨°°ºþ °¦®¬ ² ¡¥¢, ²±¿ ¬°²®ª³² ±²¬ ²¢¢, °Œ µ®¿ ¾°: ²¢¢²¿ ±¡¨¿ ª ±¦¥²¢ª²¿¾ ¬ ¢²¨°ª½."
  
- A59_prepare_fleet_title: "Raise a Fleet"
- A59_prepare_fleet_desc: "Our armies are more than capable of laying waste to Nathalaire, the issue is getting them there. Naval warfare may not be our specialty, but where there is money to be made there will always be willing participants."
- A59_subjugate_nathalire_title: "Subjugate Nathalaire"
- A59_subjugate_nathalire_desc: "With our control of the mainland established all that is left is to make the maritime city of Nathalaire bend the knee. The end of this pathetic state has arrived."
- A59_integrate_nathalire_title: "Integrate Nathalaire"
- A59_integrate_nathalire_desc: "The port city may be better put to use serving the interests of Corvuria, making sure no other threat emerges from the seas."
+ A59_prepare_fleet_title: "Ô©¦°ª ´®²"
+ A59_prepare_fleet_desc: "Œª ¯ªª ¡® ¶¯ ±¡°º ©¥¯ª²¿ ²®þ, ¢± ¢ ²¯, ¬¬ ª ²³¦ ¦²¢ª²¿. ¬¾ ¢þ°, ¢©¯¨°, ° ¾¢®¾²¾ °Œþ ±µª®ª©µªþ, ° ²¯, ¥¦ ²¿ ¦°¿¥ª, ¢¥¦ °þ¦³²¾ ¨®½¸ª."
+ A59_subjugate_nathalire_title: "‰¦¶ª°ª²¿ ²®þ"
+ A59_subjugate_nathalire_desc: "‰® ³²°¢®°ª¾ °Œ¥ ¬°²®¾ °¦ ¯²ª¬¯ ²®¿ ®ªŒ¿ ©²¢ª²¿ ±ª¯¬ªþ ¥¦ ²®þ ±¬®°ª²¿ ¬®°. ‰ªŒ® ¬°µ ¼²¯³ ¨®¬¯³ ²¾°ª½."
+ A59_integrate_nathalire_title: "‰ª¦ª°ª²¿ ²®þ"
+ A59_integrate_nathalire_desc: "‰²¢ºþ ¥¦ ®³¶Œ ª±®¿©¢²¿ ¢ ª°² ¢³ªª, ®¦¾ © ²¯, ¶²¡º ª© ¯þ ° ª¦ª® ¦³¥¾ ³¥©."
  
- A59_reports_ravenmarch_title: "Reports from Ravenmarch"
- A59_reports_ravenmarch_desc: "After the end of the Greentide we sent forward an expedition to claim the abandoned territory in the name of Corvuria. Now that they have settled down and made a nation of their own it is time to remind them of their purpose."
- A59_return_investment_title: "Return on the Investment"
- A59_return_investment_desc: "The Ravenmarch owes its existence to Corvurian patronage, and by all rights the territory is rightfully part of Corvuria. We shall collect our due."
+ A59_reports_ravenmarch_title: "²¶²º ª© Ðþ¢°¯¬"
+ A59_reports_ravenmarch_desc: "‰® ¬°¶°ª¾ …®°¥ °Œ²¢ª¾ ¯º ²±¢ª®ª ¼¬±¦ªµª½, ¶²¡º ©¾¢ª²¿ ±¢ ° ²¢®°°³½ ²ª²ª½ ² ª¯°ª ¢³ªª. Ù±¿, ¬¥¦ °ª ¡°¢®ª¿ ª ©¦®ª ¢½ ¡²¢°°³½ °µª½, ±ªŒ® ¢¯¾ °±¯°ª²¿ ª¯ ¡ ª ±¦°©°¶°ªª."
+ A59_return_investment_title: "Ï©¢² ¢®¨°ªþ"
+ A59_return_investment_desc: "Ð¢°¯¬ ¡¾©° ¢ª¯ ³¸²¢¢°ª¯ ¬¢³¬¯³ ±¬¢ª²®¿²¢³, ª ± ¢¯ ±¢¯ ¼² ²ª²ª¾ ± ±¢³ ¾¢®¾²¾ ¶²¿½ ¢³ªª. º ±®³¶ª¯ ±ª¶ª²½¸¾ °¯."
  
- A59_bal_ouord_title: "The Weakened Citadel"
- A59_bal_ouord_desc: "Like Bal Dostan, Bal Ouord also barely weathered the sands of time, no less storm of the Greentide. Now it is said to stand as an island against the goblin hordes. Under our rule, the citadel has a chance of recovery."
- A59_madiroud_title: "Reclaim the Southern Cities"
- A59_madiroud_desc: "While they are not Corvurian, the Ourdi do share some history with us in shared heritage under the greater Dostanorian Dominion. With Dostanor gone, it falls to us to ensure their safety."
- A59_repair_bal_ouord_title: "Repair Bal Ouord"
- A59_repair_bal_ouord_desc: "The white tower of Bal Ouord is the main line of defense in the South. Making sure this weathered fort has the strength necessary to keep the undesirables out will prove vital to our expansionist interests."
- A59_stengthen_bal_ouord_title: "Strengthen Bal Ouord"
- A59_stengthen_bal_ouord_desc: "A restored fortress protects, a truly strong fortress projects. The Southern fortress, when properly manned, will enable us to project our power further south."
- A59_secure_south_title: "Secure the Southern Flank"
- A59_secure_south_desc: "The lands of Ourdia and the Folly have been ruined by invaders plundering the land and trying to make it theirs. To prevent this fate and ensure Corvurian rule of the region further fortifications shall be built."
+ A59_bal_ouord_title: "®¡®°°¾ Ëª²¦®¿"
+ A59_bal_ouord_desc: "¬ ª €® ƒ²°, €® ‹¦ ²¨  ²³¦¯ ¢º¦¨® ª±º²°ª ¢¯°¯ ª ±ª¦ …®°¥ °Œ²¢ª¾. Ôþ¶, ¬¬ ¥¢¾², ° ²ª² ¬¬ ²¢¬ ¦ª ¯¾ ¥¡®ª°¢. ‰¦ °Œª¯ ±¢®°ª¯ ³ µª²¦®ª ²¿ Œ° ° ¢²°¢®°ª."
+ A59_madiroud_title: "Ï°³²¿ ½¨°º ¥¦"
+ A59_madiroud_desc: "Û²¾ °ª ª ° ¬¢³ª°µº, ³ ³¦ª ²¿  °¯ª ¡¸¾ ª²ª¾, ¢¾©°°¾  ¡¸ª¯ °®¦ª¯ ±¦ ¢®²¿½ ƒ²°¬¥ ¦¯ª°ª°. Ô ³¦¯ ƒ²° ¯º ¦®¨°º ¡±¶ª²¿ ª ¡©±°²¿."
+ A59_repair_bal_ouord_title: "Ï²°¢®°ª €® ‹¦"
+ A59_repair_bal_ouord_desc: "€®¾ ¡Œ°¾ €® ‹¦ ¾¢®¾²¾ ¥®¢°þ ®ª°ªþ ¡°º ° ½¥. ‹¡¦ª²¿¾ ¢ ²¯, ¶² ¼²² ¡¢²Œ®ºþ ´² ¡®¦² °¡¦ª¯þ ª®þ, ¶²¡º ° ¦±³²ª²¿ ±°ª¬°¢°ª¾ °¨®²®¿°º ®ªµ, ¡³¦² ¨ª©°°° ¢¨° ¦®¾ ª°²¢ °Œþ ¼¬±°ªª."
+ A59_stengthen_bal_ouord_title: "‹¬±®°ª €® ‹¦"
+ A59_stengthen_bal_ouord_desc: "Ï²°¢®°°¾ ¬±²¿ ©¸ª¸², ±-°²¾¸¯³ ª®¿°¾ ¬±²¿ ±µª³² ©¸ª²³. ›¨°¾ ¬±²¿, ¬¥¦ ° ¡³¦² ¦®¨°º¯ ¡©¯ ³¬¯±®¬²¢°, ±©¢®ª² °¯ ±µª¢²¿ °Œ³ ª®³ ¦®¿Œ ° ½¥."
+ A59_secure_south_title: "…¸ª²ª²¿ ›¨°ºþ ´®°¥"
+ A59_secure_south_desc: "…¯®ª ³¦ªª ª Ê®®ª ¡º®ª ©³Œ°º ©¢²¶ª¬¯ª, ¥¡ª¢Œª¯ª ©¯®½ ª ±º²¢Œª¯ª¾ ¦®²¿  ¢þ. Ì²¡º ±¦²¢²ª²¿ ¼²³ ³¶²¿ ª ¡±¶ª²¿ ¬¢³¬ ±¢®°ª ¢ ¥ª°, ¡³¦³² ±²°º °¢º ³¬±®°ª¾."
  
- A59_till_undeath_title: "'Til Undeath Do Us Part"
- A59_till_undeath_desc: "Our loyalty to our lords is without question. In turn, their loyalty to us must be ascertained. The union of our powers will become a force to reckon with in this world."
- A59_true_lord_title: "A True Umbral Lord"
- A59_true_lord_desc: "To tie the fate of Corvuria forever into the night, our monarch must have power beyond that of any mortal. An eternal monarch for an eternal kingdom."
+ A59_till_undeath_title: "‰¬ ¯²¿ ° ©®³¶ª² °"
+ A59_till_undeath_desc: "Œ ¢°²¿ °Œª¯ ¥±¦¯ ° ¢º©º¢² ¯°°ªþ. Ï ¢½ ¶¦¿, ª ¢°²¿ °¯ ¦®¨° ¡º²¿ ±¦²¢¨¦°. Ô½© °Œª ª® ²°² ª®þ,  ¬²þ ±ª¦²¾ ¶ª²²¿¾ ¢ ¼²¯ ¯ª."
+ A59_true_lord_title: "†²ª°°ºþ Ï®¦º¬ ²°þ"
+ A59_true_lord_desc: "Ì²¡º °¢¥¦ ¢¾©²¿ ³¦¿¡³ ¢³ªª  °¶¿½, °Œ ¯° ¦®¨° ¡®¦²¿ ª®þ, ±¢¦¾¸þ ª®³ ®½¡¥ ¯²°¥. Ï¶°ºþ ¯° ¦®¾ ¢¶°¥ ¬®¢²¢."
  
- A59_fearful_army_title: "Make the Army Fearful"
- A59_fearful_army_desc: "For far too long our armies have been viewed as a mere peasant rabble. It may take a generation of military reform and training, but in time our enemies will learn to shudder in fear at the sight of the Black Raven."
- A59_dark_legion_title: "The Dark Legion"
- A59_dark_legion_desc: "Our lords have many enemies, and thankfully we have the resources to fight said enemies. We will raise a legion unparalleled to snuff out the life of those we see fit."
+ A59_fearful_army_title: "…²¢¿² ¯ª½ ¡¾²¿¾"
+ A59_fearful_army_desc: "Ô®ªŒ¬¯ ¦®¥ °Œª ¯ªª ¶ª²®ª¿ ±²º¯ ¬²¿¾°¬ª¯ ¡¦¯. Ï©¯¨°, ±²¡³²¾ ° ¦° ±¬®°ª ¢°°º ´¯ ª ¡³¶°ª¾, °  ¢¯°¯ °Œª ¢¥ª °³¶²¾ ¦¨²¿ ² ² ±ª ¢ª¦ Ì°¥ Ï°."
+ A59_dark_legion_title: "Ù¯°ºþ ®¥ª°"
+ A59_dark_legion_desc: "‹ °Œª ¢®¦º¬ ¯°¥ ¢¥¢, ª, ¬ ¶²¿½, ³ ° ²¿ ³º ¦®¾ ¡¿¡º  °ª¯ª. º ¡¯ ®¥ª°, ° ª¯½¸ªþ ¡ ¢°º, ¶²¡º ³°ª¶²¨ª²¿ ¨ª©°¿ ², ¬¥ ¶²¯ °³¨°º¯."
  
- A59_enthrall_electors_title: "Enthrall the Electors"
- A59_enthrall_electors_desc: "The combined forces of the Empire are too much for us to take on in one invasion. Fortunately, there are those with power that may be convinced to look the other way."
- A59_aldressian_path_title: "The Aldresian Path"
- A59_aldressian_path_desc: "The Orda Aldresia was founded to protect the lands that would one day be Anbennear against a plague of undeath called the White Pestilience which had originated in our lands. While the Pestilience is long gone, the Aldresian knights still treat our people with contempt as if we were still plagued, or worse, undead! They now serve as the first line of defence for the Empire, and before us will serve as nothing more than the first stone on the road to domination."
- A59_forlorn_vale_title: "Darkness over Forlorn Vale"
- A59_forlorn_vale_desc: "It is said that the first vampires sought long life in envy of the elves. Let us see how their long lives fare against Corvurian steel."
+ A59_enthrall_electors_title: "¶¢²¿ ¢º¡¸ª¬¢"
+ A59_enthrall_electors_desc: "¡¹¦ª°°°º ª®º †¯±ªª ®ªŒ¬¯ ¢®ª¬ª, ¶²¡º ¯º ¯¥®ª ±¢ª²¿¾  °ª¯ª ¦°ª¯ ¢²¨°ª¯.  ¶²¿½, ²¿ ¢®²¿ ª¯³¸ª, ¬²º ¯¨° ³¡¦ª²¿ ±¯²²¿ ° ª²³µª½  ¦³¥þ ²°º."
+ A59_aldressian_path_title: "®¿¦ª°¬ªþ ±³²¿"
+ A59_aldressian_path_desc: "¦° ®¿¦ªª ¡º® °¢° ¦®¾ ©¸ª²º ©¯®¿, ¬²º ¦°¨¦º ²°³² °¡°°¯, ² ¶³¯º ¯²ª ±¦ °©¢°ª¯ €®ºþ ¯, ¬²¾ ©¦ª®¿ ¢ °Œª ©¯®¾. Û²¾ ¶³¯ ¦¢° ª¶©®, ®¿¦ªþ¬ª ºµª ±-±¨°¯³ ²°¾²¾ ¬ °Œ¯³ °¦³  ±©°ª¯, ¬¬ ¡³¦² ¯º ¢ ¸ ¶³¯ ª®ª, ¶² ¸ ³¨, °¨ª²¿! Ôþ¶ °ª ®³¨² ±¢þ ®ª°ªþ ¡°º †¯±ªª,  ¦®¾ ° ¡³¦³² ®³¨ª²¿ ®ªŒ¿ ±¢þ ²³±°¿¬þ ° ±³²ª ¬ ¥±¦²¢³."
+ A59_forlorn_vale_title: "Ù¿¯ °¦ Ê®° Ïþ®"
+ A59_forlorn_vale_desc: "‚¢¾², ¶² ±¢º ¢¯±ªº ²¯ª®ª¿ ¬ ¦®¥þ ¨ª©°ª, ©¢ª¦³¾ ¼®¿´¯. ‰¯²ª¯, ¬¬ ª ¦®¥¾ ¨ª©°¿ ¡³¦² ±²ª¢²¾²¿ ¬¢³¬þ ²®ª."
  
- A59_dusk_borders_title: "Dusk on The Borders"
- A59_dusk_borders_desc: "It is said that The Borders is simply Corvuria with a fresh set of paint. If that is true, then surely the Empire will not mind us taking it?"
- A59_midnight_borders_title: "Midnight on The Borders"
- A59_midnight_borders_desc: "The Borders region, covering the lands between us and the Dameshead sea, is the seat of power for the Grand Duchy of Wex. To strike this regional power will show the Empire that night has fallen over it, and in due time they shall all feel our wrath."
- A59_grim_fleet_title: "Raise the Grim Fleet"
- A59_grim_fleet_desc: "The city of Anbenncóst is protected solely by the waters around the island it rests on. We shall raise a fleet to take the city by force, and send all of the fleets of the Empire to the bottom of the Dameshead."
- A59_invade_anbenncost_title: "Invade"
- A59_invade_anbenncost_desc: "The time has come. Set sail to slaughter."
- A59_grim_anbennar_title: "The Grim Fate of Anbennar"
- A59_grim_anbennar_desc: "The Night has come, the end is neigh for the Empire of Anbennar. We shall seize Anbenncóst and gut the Empire like a cattle due for slaughter."
+ A59_dusk_borders_title: "Ô³¯¬ª ° ¥°ªµ"
+ A59_dusk_borders_desc: "‚¢¾², ¶² «‚°ªµº» — ¼² ±² ¢³ª¾ ¢ °¢º ¬¬. ®ª ¼² ±¢¦, ² †¯±ª¾, ¬°¶° ¨, ° ¡³¦² ¢©¨²¿ ®ª ¯º ž ©¢²ª¯?"
+ A59_midnight_borders_title: "‰®°¶¿ ° ¥°ªµ"
+ A59_midnight_borders_desc: "‰¥°ª¶°ºþ ¥ª°, ¢²º¢½¸ªþ ©¯®ª ¯¨¦³ °¯ª ª ƒ¯¦¬ª¯ ¯¯, ¾¢®¾²¾ ¦²¶ª¯ ¢®²ª Ï®ª¬¥ ¥µ¥²¢ Ï¬. °¾ ³¦ ± ¼²þ ¥ª°®¿°þ ¦¨¢, ¯º ±¬¨¯ †¯±ªª, ¶² °¦ °þ °²³±ª® °¶¿, ª ¢ ¢ž ¢¯¾ °ª ¢ ±¶³¢²¢³½² °Œ ¥°¢."
+ A59_grim_fleet_title: "‰¦°¾²¿ ¶°ºþ ´®²"
+ A59_grim_fleet_desc: "‚¦ °¡°°¬² ©¸ª¸° ²®¿¬ ¢¦¯ª ¢¬³¥ ²¢, ° ¬²¯ ° ±¬ª²¾. º ±¦°ª¯¯ ´®², ¶²¡º ¢©¾²¿ ¥¦ ª®þ, ª ²±¢ª¯ ¢ ´®²º †¯±ªª ° ¦° ƒ¯¦¬¥ ¯¾."
+ A59_invade_anbenncost_title: "Ï²¨°ª"
+ A59_invade_anbenncost_desc: "Ï¯¾ ±ªŒ®. ²±¢®¾þ²¿ ° ¡þ°½."
+ A59_grim_anbennar_title: "¶°¾ ³¦¿¡ °¡°°"
+ A59_grim_anbennar_desc: "¶¿ °²³±ª®, ¬°µ †¯±ªª °¡°° ¡®ª©¬. º ©¢²ª¯ °¡°°¬² ª ¢º±²Œª¯ †¯±ª½, ¬¬ ¬² ° ³¡þ."
  
- A59_dostans_way_title: "The Way of Dostan"
- A59_dostans_way_desc: "When the Castanite tribe was lost in the Deepwoods they were led out of it partly due to Castan's friend, Dostan. In exchange for his aid, Castan granted the lands beneath the Godshield Mountains to his companion, naming it after him: Dostanor, just as he did with Castanor. Now that the heirs of Castanor is no more, we must repay the favour."
- A59_path_ravenmarch_title: "The Path of Ravenmarch"
- A59_path_ravenmarch_desc: "Ravenmarch set the path for us to follow into Castanor, and with the various adventurers now instead squabbling duchies, it is time for a true kingdom to step in."
- A59_south_castanor_title: "Secure South Castanor"
- A59_south_castanor_desc: "The Southern regions of Castanor are open to us, and while not as plentiful as those to its north, it will serve as an excellent preparation ground to seize the mantle of Castanor."
- A59_amass_army_title: "An Army to Fell Castanor"
- A59_amass_army_desc: "To attain the goal of conquering the entirety of Escann, we need an army comparable of those to the old Castanorian Empire. Troops loyal to the dark lords will storm into Castonath, while backed by an artillery barrage capable of blasting any defense down will follow them."
- A59_inner_castanor_title: "Secure Inner Castanor"
- A59_inner_castanor_desc: "The heartland of the old empire, now in ruins due to Orcish invasions and unworthy usurpers, is prime for the taking. From the old city of Castonath, the Court of Blood shall dictate the fate of Escann."
- A59_contain_serpentspine_title: "Contain the Serpentspine"
- A59_contain_serpentspine_desc: "The Serpentspine Mountains that surround much of Castanor hold many threats, and were the source of the orcs during the Greentide. We cannot trust the dwarven reclaimers to hold back such threats, so our forts much be able to hold back such wickedness."
- A59_shadow_castanor_title: "A Shadow Over Castanor"
- A59_shadow_castanor_desc: "The Western flank of Castanor, while the poorest area of it, is an important buffer for keeping out powers such as the Gawedi and the Grombari Orcs. With it in the fold our domination of Escann will be absolute, and the Castanor shall become an Empire ruled by the Court of Blood, and in place of a Silver Dragon, a Black Raven."
+ A59_dostans_way_title: "‰³²¿ ƒ²°"
+ A59_dostans_way_desc: "¥¦ ±®¯¾ ¬²°ª²¢ ©¡®³¦ª®¿ ¢ ‚ª¡®º ®, °ª ¡º®ª ¢º¢¦°º ²²³¦ ²¶²ª ¡®¥¦¾ ¦³¥³ ²°, ƒ²°³. Ï ¡¯° ° ¥ ±¯¸¿ ²° ±¦ª® ¢¯³ ±³²°ª¬³ ©¯®ª ±¦ ‚¯ª €¨¿¥ •ª², °©¢¢ ª ¢ ¥ ¶²¿: ƒ²°, ²¬ ¨ ¬¬ ° ±²³±ª®  ²°¯. Ù±¿, ¬¥¦ °®¦°ª¬¢ ²° ¡®¿Œ °², ¯º ¦®¨°º ²±®²ª²¿ © ³®³¥³."
+ A59_path_ravenmarch_title: "‰³²¿ Ðþ¢°¯¬"
+ A59_path_ravenmarch_desc: "Ðþ¢°¯¬ ±®¨ª® °¯ ±³²¿ ¢ ²°,  ±¬®¿¬³ ©®ª¶°º ¢°²½ª²º ²±¿ ©¯°¾½² ¡þ ¢¨¦³½¸ª ¥µ¥²¢, ±ªŒ® ¢¯¾ °²¾¸¯³ ¬®¢²¢³ ¢¯Œ²¿¾."
+ A59_south_castanor_title: "…¸ª² ›¨°¥ ²°"
+ A59_south_castanor_desc: "›¨°º ¥ª°º ²° ²¬º²º ¦®¾ °, ª ²¾ °ª ° ²¬ ª©¡ª®¿°º, ¬¬ ¢°º, °ª ±®³¨² ²®ª¶°þ ¡©þ ¦®¾ ±¦¥²¢¬ª ¬ ±ª°¾²ª½ ¯°²ªª ²°."
+ A59_amass_army_title: "¯ª¾ ¦®¾ ±¦°ª¾ ²°"
+ A59_amass_army_desc: "Ì²¡º ¦²ª¶¿ µ®ª ©¢¢°ª¾ ¢¥ ™¬°°, °¯ °³¨° ¯ª¾, ¢°ª¯¾  ¯ªþ ²þ ²°¬þ ª¯±ªª. Ïþ¬, ¢°º ²¯°º¯ ¢®¦º¬¯, ¢¢³²¾ ¢ ²°²,  © °ª¯ª ±®¦³² ²ª®®ª¾, ±¡°¾ ³°ª¶²¨ª²¿ ®½¡³½ ¡°³."
+ A59_inner_castanor_title: "…¸ª²ª²¿ ¢°³²°°ªþ ²°"
+ A59_inner_castanor_desc: "Ô¦µ ²þ ª¯±ªª, °º° ®¨¸ ¢ ³ª° ª©-© °Œ²¢ªþ ¬¢ ª °¦²þ°º ³©³±²¢, - ¯ ±¦¦¾¸ ¯² ¦®¾ ©¢². †© ²¥ ¥¦ ²°² Ô³¦ ¢ª ¡³¦² ¦ª¬²¢²¿ ³¦¿¡³ ™¬°°."
+ A59_contain_serpentspine_title: "ƒ²ª¶¿ …¯ª°ºþ ¡²"
+ A59_contain_serpentspine_desc: "‚º …¯ª°¥ ¡², ¬³¨½¸ª ¡®¿Œ³½ ¶²¿ ²°, ²¾² ¢ ¡ ¯°¨²¢ ³¥©, ª ª¯°° °ª ¡º®ª ª²¶°ª¬¯ ¬¢ ¢ ¢¯¾ …®°¥ °Œ²¢ª¾. º ° ¯¨¯ ¦¢ª²¿ ¥°¯¯-©¢¢²®¾¯ ¦¨ª¢²¿ ²¬ª ³¥©º, ±¼²¯³ °Œª ¬±²ª ¦®¨°º ¡º²¿ ±¡°º ¦¨ª¢²¿ ²¬³½ °¶ª²¿."
+ A59_shadow_castanor_title: "Ù°¿ °¦ ²°¯"
+ A59_shadow_castanor_desc: "…±¦°ºþ ´®°¥ ²°, ²¾ ª ¾¢®¾²¾ ¯þ ¡¦°þ ¥ ¡®²¿½, ° ±¦²¢®¾² ¡þ ¢¨°ºþ ¡³´ ¦®¾ ¦¨ª¢°ª¾ ²¬ª ª®, ¬¬ ‚¢¦ ª ¬ª ‚¯¡ª. Ô °ª¯ °Œ ¥±¦²¢ ¢ ™¬°° ²°² ¡®½²°º¯,  ²° ±¢²ª²¾ ¢ †¯±ª½, ³±¢®¾¯³½ ƒ¢¯ ¢ª,  ° ¯² Ô¡¾°¥ ƒ¬° ¡³¦² Ì°ºþ Ï°."
  
- A59_unite_folly_title: "Unite the Folly"
- A59_unite_folly_desc: "Corvuria rightfully extends well beyond the Godshield Mountains, primarily to the river system to the south. The fact that hundreds of years have passed since the lands were damaged is irrelevant, soon enough it will once again all be Corvurian."
- A59_improve_fabric_title: "Improve Fabric Industry"
- A59_improve_fabric_desc: "Corvurian high fashion is, rightfully, well regarded by our neighbors. Our gothic styles demand emotion and vindication, rather than pomp and unnecessary ostentatiousness like those in Anbennar or Lorent. By improving the production of such fabrics, we may continue this tradition."
- A59_import_silk_title: "Import Silk"
- A59_import_silk_desc: "With the rising popularity of our Masquerade celebration, there is some need for fancier cloth to be used exclusively for costuming. While silk garments are uncouth and no honest Corvurian would be caught dead in them, they do have a use in the rare occasion we want to be... uncouth."
- A59_corvurian_steel_title: "Corvurian Steel"
- A59_corvurian_steel_desc: "Steel is a useful material, used from everything from buildings to swords and armor. Securing the iron resources needed to produce steel is necessary to ensure our soldiers and buildings are up to standard."
- A59_corvuria_city_title: "The Cities of Corvuria"
- A59_corvuria_city_desc: "Corvuria is a state of security, and from that security comes stability, and from that stability comes prosperity. There is no reason why Corvuria should not stand eye to eye with the other kingdoms of Cannor, and our cities should reflect this."
+ A59_unite_folly_title: "¡¹¦ª°ª²¿ ƒ®ª°³ Ê®®ª"
+ A59_unite_folly_desc: "¢³ª¾ ± ±¢³ ±²ª²¾ ¦®¬ © ±¦®º ¥ €¨¿¥ •ª², ¢ ±¢³½ ¶¦¿ ¦ ¶°þ ª²¯º ° ½¥. Ù² ´¬², ¶²  ¯¯°² ©³Œ°ª¾ ©¯®¿ ±Œ®ª ²°ª ®², ° ª¯² ©°¶°ª¾, ¬ ¢ °¢ ²°² ¬¢³ªþ¬ª¯."
+ A59_improve_fabric_title: "‹®³¶Œª²¿ Ù¬²ª®¿°³½ ±¯ºŒ®°°²¿"
+ A59_improve_fabric_desc: "¢³ª°¬¾ ¢º¬¾ ¯¦ ± ±¢³ ±®¿©³²¾ ©®³¨°°º¯ ³¢¨°ª¯ ³ °Œª ¦þ. Œª ¥²ª¶¬ª ²ª®ª ²¡³½² ¼¯µªþ ª ±¢¦°ª¾,  ° ±¯±©°²ª ª °°³¨°þ ±¬©°²ª, ¬¬ ¢ °¡°° ª®ª ˆ°². ‹®³¶Œª¢ ±ª©¢¦²¢ ²¬ª ²¬°þ, ¯º ¯¨¯ ±¦®¨ª²¿ ¼²³ ²¦ªµª½."
+ A59_import_silk_title: "†¯±²ª¢²¿ Œ®¬"
+ A59_import_silk_desc: "Ô ²¯ ±±³®¾°²ª °Œ¥ ±©¦°ª¬ ¬¦ ±¾¢ª®¿ °¡¦ª¯²¿ ¢ ¡® ª©º¬°°º ²¬°¾, ª±®¿©³¯º ª¬®½¶ª²®¿° ¦®¾ ¬²½¯¢. Û²¾ Œ®¬¢º ¦¨¦º °±ª®ª¶°º, ª °ª ¦ª° ¶²°ºþ ¬¢³ª°µ ° ¡º® ¡º ©²ª¥°³² ¢ °ª ¢±®, °ª °¦¾² ±ª¯°°ª ¢ ¦¬ª ®³¶¾, ¬¥¦ ¯º ²ª¯ ¡º²¿... °±ª®ª¶°º¯ª."
+ A59_corvurian_steel_title: "¢³ª°¬¾ ²®¿"
+ A59_corvurian_steel_desc: "Ô²®¿ - ±®©°ºþ ¯²ª®, ª±®¿©³¯ºþ ¢ ¢¯, ² ©¦°ªþ ¦ ¯¶þ ª ¦±¢. ¡±¶°ª ¨®©°º ³¢, °¡¦ª¯º ¦®¾ ±ª©¢¦²¢ ²®ª, °¡¦ª¯ ¦®¾ ²¥, ¶²¡º °Œª ®¦²º ª ©¦°ª¾ ²¢²²¢¢®ª ²°¦²¯."
+ A59_corvuria_city_title: "‚¦ ¢³ªª"
+ A59_corvuria_city_desc: "¢³ª¾ - ¼² ¥³¦²¢ ¡©±°²ª,  ª© ¡©±°²ª ±ª²¬² ²¡ª®¿°²¿,  ª© ²¡ª®¿°²ª - ±µ¢²°ª. ² ±ª¶ª°, ± ¬²º¯ ¢³ª¾ ° ¦®¨° ²¾²¿ ¢¢°¿  ¦³¥ª¯ª ¬®¢²¢¯ª °°, ª °Œª ¥¦ ¦®¨°º ²¨²¿ ¼²."
  
- A59_investigate_curse_title: "Investigate the Curse"
- A59_investigate_curse_desc: "In the year 669 the southern half of the Korbarid Kingdom was flooded by the Mage King Daravan in order to ensure the survival of the rest of the kingdom. The magic that caused this effect still lingers, and possibly even grows to this day. If we are to restore this land to functional use then this lingering curse must be dealt with by the magic of today."
- A59_rebuild_rivers_title: "Rebuild River Trade"
- A59_rebuild_rivers_desc: "The Dostanesck River has served as the perfect channel of trade into the heart of Corvuria, and along with the smaller rivers around it makes for a perfect system of trade routs across the region. Putting these rivers to use will restore the economic activity of the region, but it will take some effort."
- A59_repopulate_folly_title: "Repopulating the Folly"
- A59_repopulate_folly_desc: "With the lands of the Folly somewhat viable to inhabit, the task now comes to actually inhabit the land. A great effort to send people to populate these lands is vital for it to compare to the current heartland in the North."
- A59_healing_folly_title: "Healing the Folly"
- A59_healing_folly_desc: "We are unsure if the Folly shall ever be as prosperous as it once was, but we do know that with great effort the Corvurian people will always preserve. It may take decades or even more centuries for the wounds of the land to truly heal, but the Corvurian people are tough enough to see it through."
- A59_manipulate_merchants_title: "Manipulate the Merchants"
- A59_manipulate_merchants_desc: "As the range of trade networks expand, it is important that we keep up with such changes so as to not allow our enemies to accumulate wealth that rightfully belongs to us. Keeping the merchant class in line will keep the wealth in our hands."
- A59_goods_conquest_title: "Goods to Arm a Conquest"
- A59_goods_conquest_desc: "As techniques are developed to produce goods en masse, the opportunity for military growth has not gone unnoticed. Everything from weapons to uniforms to rations can and will be produced in enough volume to sustain a conquering army."
- A59_corvuria_metropolis_title: "The Veins of an Empire"
- A59_corvuria_metropolis_desc: "The once humble lands of Corvuria is now a thriving, but even at this height there is still room for growth. Arca Corvur shall be its heart, and the rivers of the Dostanesck and Karnvord shall be the veins that lead wealth and blood to all Corvurian peoples."
+ A59_investigate_curse_title: "†®¦¢°ª ‰¬®¾²ª¾"
+ A59_investigate_curse_desc: "Ï 669 ¥¦³ ½¨°¾ ±®¢ª° ¬®¢²¢ ¡ª¦ ¡º® ©²±®° ¬®¯-¯¥¯ ƒ¢°¯, ¶²¡º ¡±¶ª²¿ ¢º¨ª¢°ª ²®¿°þ ¶²ª ¬®¢²¢. ¥ª¾, ¢º©¢¢Œ¾ ¼²² ¼´´¬², °¾²¾ ª, ¢©¯¨°, ¦¨ ©²²¾ ± þ ¦°¿. ®ª ¯º ²ª¯ ¢°³²¿ ¼²³ ©¯®½ ¬ ´³°¬µª°®¿°¯³ ª±®¿©¢°ª½, ² ¼² ©²¾°³¢Œ¾ ±¬®¾²ª ¦®¨° ¡º²¿ ³²°°  ±¯¸¿½ ¯¥ªª ¥¦°¾Œ°¥ ¦°¾."
+ A59_rebuild_rivers_title: "Ï²°¢®°ª ¶°þ ²¥¢®ª"
+ A59_rebuild_rivers_desc: "Ð¬ ƒ²°¬ ®³¨ª² ª¦®¿°º¯ ¬°®¯ ¦®¾ ²¥¢®ª ¢ ¦µ ¢³ªª,  ¢¯²  ¬³¨½¸ª¯ª  ¬¯ª ¯°¿Œ¥ ©¯ ¡©³² ²®ª¶°³½ ª²¯³ ²¥¢º ±³²þ ± ¢¯³ ¥ª°³. †±®¿©¢°ª ¼²ª ¬ ±©¢®ª² ¢²°¢ª²¿ ¼¬°¯ª¶¬³½ ¬²ª¢°²¿ ¥ª°, ° ¦®¾ ¼²¥ ±²¡³½²¾ ±¦®°°º ³ª®ª¾."
+ A59_repopulate_folly_title: "…®°ª ƒ®ª°º Ê®®ª"
+ A59_repopulate_folly_desc: "‰¬®¿¬³ ©¯®ª ƒ®ª°º Ê®®ª ¢ °¬²þ ²±°ª ±ª¥¦°º ¦®¾ ©®°ª¾, ²±¿ ¢²² ©¦¶ ¡²¢°° ©®°ª¾ ¼²ª ©¯®¿. ƒ®¾ ²¥ ¶²¡º ¼²ª ©¯®ª ¯¥®ª ¢°ª²¿¾  °º°Œ°ª¯ ¢°º¯ µ°²¯, °¡¦ª¯ ±ª®¨ª²¿ ¡®¿Œª ³ª®ª¾ ¦®¾ ª ©®°ª¾."
+ A59_healing_folly_title: "†µ®°ª ƒ®ª°º Ê®®ª"
+ A59_healing_folly_desc: "º ° ³¢°º, ¶² ƒ®ª° Ê®®ª ¬¥¦-°ª¡³¦¿ ²°² ²¬þ ¨ ±µ¢²½¸þ, ¬¬ª¯ ° ¡º® ¬¥¦-², ° ¯º ©°¯, ¶² ±ª ¡®¿Œª ³ª®ª¾ ¬¢³ª°¬ªþ °¦ ¢¥¦ ¡³¦² ¢º¨ª¢²¿. Ï©¯¨°, ±²¡³½²¾ ¦¾²ª®²ª¾ ª®ª ¦¨ ²®²ª¾, ¶²¡º °º ©¯®ª ±-°²¾¸¯³ ©¨ª®ª, ° ¬¢³ª°µº ¦²²¶° ¢º°®ª¢º, ¶²¡º ¦¢²ª ¦® ¦ ¬°µ."
+ A59_manipulate_merchants_title: "°ª±³®ª¢°ª ²¥¢µ¯ª"
+ A59_manipulate_merchants_desc: "‰ ¯ Œª°ª¾ ²¥¢º ²þ ¢¨°, ¶²¡º ¯º ®¦ª®ª © ²¬ª¯ª ª©¯°°ª¾¯ª, ¶²¡º ° ±©¢®ª²¿ °Œª¯ ¢¥¯ °¬±®ª¢²¿ ¡¥²²¢, ¬² ± ±¢³ ±ª°¦®¨ª² °¯. ®ª ¦¨²¿ ²¥¢ºþ ¬® ¢ ³©¦, ¡¥²²¢ ²°²¾ ¢ °Œª ³¬."
+ A59_goods_conquest_title: "Ù¢º ¦®¾ ¢³¨°ª¾ …¢¢°ª¾"
+ A59_goods_conquest_desc: "‰ ¯ ©¢ª²ª¾ ²°®¥ªþ ¯¢¥ ±ª©¢¦²¢ ²¢¢, ¢©¯¨°²ª ¦®¾ ¢°°¥ ² ° ²®ª¿ °©¯¶°°º¯ª. Ï, ² ³¨ª¾ ¦ ¡¯³°¦ª¢°ª¾ ª ±þ¬¢, ¯¨² ª ¡³¦² ±ª©¢¦ª²¿¾ ¢ ¡¹¯, ¦²²¶°º ¦®¾ ±¦¦¨°ª¾ ¯ªª ©¢¢²®þ."
+ A59_corvuria_metropolis_title: "Ï°º †¯±ªª"
+ A59_corvuria_metropolis_desc: "¬¥¦ ¬¯°º ©¯®ª ¢³ªª ¥¦°¾ ±µ¢²½², ° ¦¨ ° ¼²þ ¢º² ¸ ²¿ ¯² ¦®¾ ². ¬ ¢³ ¡³¦²  ¦µ¯,  ¬ª ƒ²°¬ ª °¢¦ - ¢°¯ª, °³¸ª¯ª ¡¥²²¢ ª ¬¢¿ ¢¯ °¦¯ ¢³ªª."
  
- A59_march_deepwoods_title: "Dark March in the Woods"
- A59_march_deepwoods_desc: "The ancient Korbarids trace their legacy into the Deepwoods, a place of mystery and endless trees for lumber. The Corvurian people shall return to their birthplace, at the cost of anything that stands in our way."
- A59_shadow_deepwoods_title: "The Umbral Forest"
- A59_shadow_deepwoods_desc: "The forest paths are long and windy, but the Corvurian armies stand undaunted. The fey and their worshipers flee before our iron will, and will soon have nowhere left to hide."
- A59_destroy_fey_title: "End the Fey Ways"
- A59_destroy_fey_desc: "There is no further need of the strange powers that inhabit this forest. There may be grave consequences for destroying these forces entirely, but that is no reason to stop us from annihilating their influence and ensuring our lords are the dominant power in the region."
+ A59_march_deepwoods_title: "Ù¯°ºþ Œ ¢ ˆ³"
+ A59_march_deepwoods_desc: "ƒ¢°ª ¡ª¦º ¢¦³² ¢ °®¦ª ª© ‚®³¡¬®¿¾, ¯² ²þ° ª ¡¬°¶°º ¦¢¿¢ ¦®¾ ±ª©¢¦²¢ ±ª®¯²ª®¢. ˆ½¦ª ¢³ªªª ¦®¨°º ¢°³²¿¾ ° ¢½ ¦ª°³, µ°þ ¢¥, ¶² ¢²°² ° °Œ¯ ±³²ª."
+ A59_shadow_deepwoods_title: "ˆ ‹¯¡º"
+ A59_shadow_deepwoods_desc: "ˆ°º ²±º ¦®ª°°º ª ¢²°º, ° ¬¢³ª°¬ª ¯ªª ²¾² °±¬®¡ª¯. Êª ª ª ±¬®°°ª¬ª ¡¥³² ±¦ °Œþ ¨®©°þ ¢®þ, ª ¬ ª¯ ¡³¦² °¥¦ ³¬º²¿¾."
+ A59_destroy_fey_title: "‰¬°¶ª²¿  ²¦ªµª¾¯ª ´þ"
+ A59_destroy_fey_desc: "€®¿Œ °² °³¨¦º ¢ ²°°º ª®, °®¾½¸ª ¼²² ®. ‰®° ³°ª¶²¨°ª ¼²ª ª® ¯¨² ª¯²¿ ¿©°º ±®¦²¢ª¾, ° ¼² ° ±¢¦ ¯Œ²¿ °¯ ³°ª¶²¨ª²¿ ª ¢®ª¾°ª ª ¡±¶ª²¿ °Œª¯ ®¦¯ ¦¯ª°ª³½¸³½ ¢®²¿ ¢ ¥ª°."
  
- A59_obtain_relics_title: "Obtain the Relics"
- A59_obtain_relics_desc: "Many of those across Cannor have begun investigating relics from the old empire of the Elves. Thralls in Aelantir report that there may be powerful applications for this material. In order to not fall behind we must acquire a source of it, by legitimate means or otherwise."
- A59_artificer_unorthodoxy_title: "Recruit the Experimenters"
- A59_artificer_unorthodoxy_desc: "As the art of artificery becomes more common and the fields and schools begin to establish there are those who have begun practicing more unorthodox and less humane methods. While in their old age the Midnight Lords view any such things with suspicion, if Corvuria is to survive we must not fall behind on such deadly advancements. Cultivating the outcasts within the safety of our nation, and allowing them to make advancements on our behalf will be beneficial in the long term."
+ A59_obtain_relics_title: "¡²°ª ®ª¬¢ªþ"
+ A59_obtain_relics_desc: "°¥ª ª© ¨ª²®þ °° °¶®ª ª®¦¢²¿ ®ª¬¢ªª ²þ ª¯±ªª ¼®¿´¢. Ì¦ª ¢ ¼®°²ª ¡¸½², ¶² ¦®¾ ¼²¥ ¯²ª® ¯¥³² °þ²ª¿ ¯¸°º ±ª¯°°ª¾. Ì²¡º ° ²²²¿, ¯º ¦®¨°º ±®³¶ª²¿ ¥ ª²¶°ª¬ ©¬°°º¯ ª®ª ª°º¯ ±¡¯."
+ A59_artificer_unorthodoxy_title: "¡ ª®¦¢²®þ"
+ A59_artificer_unorthodoxy_desc: "‰ ¯ ²¥, ¬¬ ª¬³²¢  ¯¥ª¶¬¥ ¯® ²°¢ª²¾ ¢ ¡® ±²°°°º¯,  °±¢®°ª¾ ª Œ¬®º °¶ª°½² ©¦¢²¿¾, ±¾¢®¾½²¾ ², ¬² °¶ª°² ±¬²ª¬¢²¿ ¡® °²¦¬®¿°º ª ¯° ¥³¯°°º ¯²¦º. Û²¾ ¢ ²²ª ‰¢®ª²®ª ‰®³°¶ª ²°ª®ª¿ ¬ ±¦¡°º¯ ¢¸¯  ±¦©°ª¯, ®ª ¢³ª¾ ¶² ¢º¨ª²¿, ¯º ° ¦®¨°º ²²¢²¿ ² ²¬ª ¯²°°º ¦²ª¨°ªþ. Ð©¢ª²ª ¼²ª ª©¥¢ ¢ ¡©±°²ª °Œ¥ ¥³¦²¢ ª ±¦²¢®°ª ª¯ ¢©¯¨°²ª ¦¡ª¢²¿¾ ³±¢ ² °Œ¥ ª¯°ª ±ª°² ±®¿©³ ¢ ¦®¥¶°þ ±±¬²ª¢."
  
- A59_swamp_fuel_title: "Fuel from the Swamps"
- A59_swamp_fuel_desc: "As industrial techniques sweep across Cannor, the prospect of finding fuel in the boggy swamps may become viable. With appropriate preparations the peat of the swampland may easily be put to use getting our foot in the door of these developments."
+ A59_swamp_fuel_title: "Ù±®ª¢ ª© €®²"
+ A59_swamp_fuel_desc: "¥¦ ±¯ºŒ®°°º ²°®¥ªª ¢²¾² °°, ±±¬²ª¢ ±ª¬ ²±®ª¢ ¢ ¡®² ¯¨² ²²¿ ¨ª©°±¡°þ. ‰ª ²¢²²¢³½¸þ ±¦¥²¢¬ ²´ ¡®² ¯¨² ¡º²¿ ®¥¬ ª±®¿©¢°, ¶² ±©¢®ª² °¯ ¢²²¿ ° °¥ª ¢ ¼²ª ©¡²¬."
  
  #Mission Modifiers
  
- corvuria_asheniande_defeated: "Asheniande Defeated"
- corvuria_cunning_diplomacy: "Cunning Diplomacy"
- corvuria_safe: "Corvuria Safe at Last"
- corvuria_taxing: "Taxed the Priests"
- corvuria_livestock: "Corvurian Export Livestock"
- corvuria_livestock_monopoly: "Corvurian Livestock Monopoly"
- corvuria_gablaine: "Gateway to Escann"
- corvuria_village: "Village of Corvuria"
- corvuria_placate_lords: "Placated Dark Lords"
- corvuria_suspicious_curtailed: "Suspicious Curtailed"
- corvuria_curious_parleyed: "Curious Parleyed"
- corvuria_recolonizing: "March to the Marshes"
- corvuria_citadels: "Guarded against Foreign Invaders"
- corvuria_vamp_adm: "Grim Administrators"
- corvuria_vamp_dip: "Actors in the Shadows"
- corvuria_vamp_mil: "Eternal Strategists"
- corvuria_dark_lord: "Dark Lord"
- corvuria_invasion: "Imperial Invasion"
- corvuria_shadow_anbenncost: "Shadow Over Anbenncóst"
- corvuria_conquered_anbenncost: "Conquerer of Anbenncóst"
- corvuria_resources_castanor: "Resources of Castanor"
- corvuria_gloaming_castanor: "Gloaming of Castanor"
- corvuria_dwarf_fort: "Shield Against the Serpentspine"
- corvuria_shadow_castanor: "Shadow Over Castanor"
- corvuria_fashion: "Corvurian Fashion"
- corvuria_steel: "Corvurian Steel"
- corvuria_developed: "Corvuria Developed"
- corvuria_folly1: "Investigating the Curse"
- corvuria_folly2: "Restoring River Trade"
- corvuria_folly3: "Repopulating the Folly"
- corvuria_folly4: "Healing the Folly"
- corvuria_folly_healing: "Healing Heartland"
- corvuria_not_nathalaire: "Nathalaire is not included in the Folly's restoration."
- corvuria_manipulated_merchants: "Manipulated Merchants"
- corvuria_war_tools: "The Tools of War"
- corvuria_empire_core: "Veins of an Empire"
- corvuria_assimilating_deepwoods: "Assimilating the Deepwoods"
- corvuria_fey_weakened: "Corrupted Link"
- corvuria_fearful_army: "Making the Army Fearful"
- corvuria_artificer_military: "Haven for Unorthodox Practices"
+ corvuria_asheniande_defeated: "Œ°ª°¦ ±¡¨¦°"
+ corvuria_cunning_diplomacy: "†¬³°¾ ¦ª±®¯²ª¾"
+ corvuria_safe: "¢³ª¾ °¬°µ-² ¢ ¡©±°²ª"
+ corvuria_taxing: "®¥¡®¨°ª ¢¾¸°°ª¬¢"
+ corvuria_livestock: "¢³ª°¬ ¼¬±²° ¨ª¢²°¢¦²¢"
+ corvuria_livestock_monopoly: "¢³¬¾ ¬²¢¦¶¬¾ ¯°±®ª¾"
+ corvuria_gablaine: "Ï² ¢ ™¬°°"
+ corvuria_village: "ƒ¢°¾ ¢³ª¾"
+ corvuria_placate_lords: "‹¯ª²¢ž°°º Ùž¯°º Ï®²®ª°º"
+ corvuria_suspicious_curtailed: "‰¦©ª²®¿° Ô¢ž°³²ºþ"
+ corvuria_curious_parleyed: "ˆ½¡±º²°º ±¥¢º"
+ corvuria_recolonizing: "Œ ¬ €®²¯"
+ corvuria_citadels: "…¸ª² ² ª°²°°º ©¢²¶ª¬¢"
+ corvuria_vamp_adm: "¶°º ¦¯ª°ª²²º"
+ corvuria_vamp_dip: "¬²º ¢ Ù°ª"
+ corvuria_vamp_mil: "Ï¶°º ²²¥ªª"
+ corvuria_dark_lord: "Ù¯°ºþ Ï®²®ª°"
+ corvuria_invasion: "†¯±¬ ¢²¨°ª"
+ corvuria_shadow_anbenncost: "Ù°¿ °¦ °¡°°¬²¯"
+ corvuria_conquered_anbenncost: "…¢¢²®¿ °¡°°¬²"
+ corvuria_resources_castanor: "Ð³º ²°"
+ corvuria_gloaming_castanor: "…¢ ²°"
+ corvuria_dwarf_fort: "•ª² ±²ª¢ …¯ª°¥ ¡²"
+ corvuria_shadow_castanor: "Ù°¿ °¦ ²°¯"
+ corvuria_fashion: "¢³ª°¬¾ ¯¦"
+ corvuria_steel: "¢³ª°¬¾ ²®¿"
+ corvuria_developed: "Ð©¢ª²¾ ¢³ª¾"
+ corvuria_folly1: "†®¦¢°ª ±¬®¾²ª¾"
+ corvuria_folly2: "Ï²°¢®°ª ¶°þ ²¥¢®ª"
+ corvuria_folly3: "…®°ª ƒ®ª°º Ê®®ª"
+ corvuria_folly4: "†µ®°ª ƒ®ª°º Ê®®ª"
+ corvuria_folly_healing: "†µ®°ª Û²®°¦"
+ corvuria_not_nathalaire: "²®þ ° ¢¬®½¶° ¢ ¢²°¢®°ª ƒ®ª°º Ê®®ª."
+ corvuria_manipulated_merchants: "°ª±³®ª¢°ª ²¥¢µ¯ª"
+ corvuria_war_tools: "³¦ª¾ ¢þ°º"
+ corvuria_empire_core: "Ï°º †¯±ªª"
+ corvuria_assimilating_deepwoods: "ª¯ª®¾µª¾ ‚®³¡¬¥ ®"
+ corvuria_fey_weakened: "‰¢¨¦°°¾ Ô¢¾©¿"
+ corvuria_fearful_army: "Ô¦®²¿ ¯ª½ ²Œ°þ"
+ corvuria_artificer_military: "‰ª¡¨ª¸ ¦®¾ °²¦¬®¿°º ±¬²ª¬"
  
  #Tooltips
- corvuria_imperial_diplomacy: "An ally in the Empire will gain permanent claims on Asheniande's imperial lands."
- corvuria_distraction: "Be allied with a nation that is at war with the Emperor."
- corvuria_ravenhill_p: "Corvurian infiltration will raise autonomy and unrest in Asheniande's Corvurian lands."
- corvuria_no_dostanor: "§YCorvuria§! will §RNO LONGER§! be allowed to form Dostanor"
- corvuria_attack_asheniande: "So long as §YAsheniande§! still holds land in the §YDostanor§! region, the next war we declare on them shall exclude any nation §Rnot§! allied to them or guaranteeing them. §YThis includes the Emperor of Anbennar§!.\n§TShould you lose [Root.Capital.GetName], you will need to retake it before doing this!§!"
- A59_ravenhill_war: "Nations §Rnot§! directly allied to §YAsheniande§! shall not participate in the war.\n§gThis takes a day to activate.§!"
- corvuria_invite_blood_court: "All nations with vampires will be invited to join the Court of Blood. If they accept our relations with them will improve."
- corvuria_lose_devestation: "Every owned province in the Dostanor, Daravan's Folly, and Ourdia regions will lose 30 devastation."
- corvuria_dark_legion_warning: "This modifier lasts so long as a Vampire Mage rules Corvuria."
- corvuria_is_vampire: "Ruler is a Vampire"
- corvuria_not_exposed: "Ruler is not an exposed Vampire"
- corvuria_eastdameshead_businor: "§YCorvuria§! gains a permanent claim on the East Dameshead and Businor regions, excluding the Islands of Dameshead and Tef."
- corvuria_war_anbenncost: "Is at war with the owner of Anbenncóst"
- corvuria_south_castanor: "§YCorvuria§! gains a permanent claim on the western part of South Castanor Region."
- corvuria_lose_devestation_2: "Every owned province in the Castanor regions will lose 30 devastation."
- corvuria_destroy_verdant: "The Verdant Link will be severely weakened by our Dark Lords"
- corvuria_deepwoods_dev: "One base tax and three base production will be added to every owned province in the Deepwoods producing Exotic Wood."
- unlock_merc_corvurian_dark_legion_tt:0 "Unlock the mercenary company §YDark Legion§! to recruit. You must own §YArca Corvur§! to hire it"
- has_unlocked_merc_corvurian_dark_legion:0 "Has unlocked the §YDark Legion§! mercenary company."
- corvuria_coal: "Any other existing manufactory will be removed from the province."
- corvuria_relic_friend: "Have 125 relations with any nation with our primary culture or with vampires in the country that owns a Precursor Relic province."
- corvuria_relic_rival: "Have 80 spy-network in a country that owns a Precursor Relic province."
+ corvuria_imperial_diplomacy: "Ô½©°ª¬ †¯±ªª ±®³¶ª² ±²¾°°º ±¢ ° ª¯±¬ª ©¯®ª Œ°ª°¦."
+ corvuria_distraction: "€º²¿ ½©°ª¬¯ °µªª, ¬²¾ °¦ª²¾ ¢ ²¾°ªª ¢þ°º  †¯±²¯."
+ corvuria_ravenhill_p: "¢³ª°¬ ±°ª¬°¢°ª ±¦°ª¯² ¢²°¯ª½ ª ¢®°°ª¾ ¢ ¬¢³ª°¬ª ©¯®¾ Œ°ª°¦."
+ corvuria_no_dostanor: "§Y¢³ªª§! §R€ˆ˜÷  €‹ƒÙ§! ©Œ° ´¯ª¢²¿ ƒ²°"
+ corvuria_attack_asheniande: "ÐŒ°ª ²¬¢²¿ §YŒ°ª°¦§! ¡© ³¶²ª¾ ª¯±² ¡³¦² ©¡®¬ª¢°, ®ª °ª ¢ ¸ ¢®¦½² ©¯®¾¯ª ¢ ¥ª° ƒ²°."
+ A59_ravenhill_war: "ƒ¨¢º §R°§! ¾¢®¾½¸ª¾ °±¦²¢°°º¯ª ½©°ª¬¯ª §YŒ°ª°¦§! ° ¡³¦³² ³¶²¢¢²¿ ¢ ¢þ°.\n§gƒ®¾ ¬²ª¢µªª ²¡³²¾ ¦ª° ¦°¿.§!"
+ corvuria_invite_blood_court: "Ï ²°º, ¢ ¬²º ²¿ ¢¯±ªº, ¡³¦³² ±ª¥®Œ°º ±ª¦ª°ª²¿¾ ¬ Ô³¦³ ¢ª. ®ª °ª ¥®¾²¾, °Œª ²°Œ°ª¾  °ª¯ª ³®³¶Œ²¾."
+ corvuria_lose_devestation: "¨¦¾ ±ª°¦®¨¸¾ ±¢ª°µª¾ ¢ ¥ª° ƒ²°, €©³¯ª ƒ¢° ª ³¦ª¾ ±²¾² 30 ¶¬¢ ±³²Œ°ª¾."
+ corvuria_dark_legion_warning: "™²² ¯¦ª´ª¬² ¦þ²¢³² ¦ ² ±, ±¬ ¯¥-¢¯±ª ±¢ª² ¢³ªþ."
+ corvuria_is_vampire: "‰¢ª²®¿ - ¢¯±ª"
+ corvuria_not_exposed: "‰¢ª²®¿ ° ¾¢®¾²¾ ²¬º²º¯ Ï¯±ª¯"
+ corvuria_eastdameshead_businor: "§Y¢³ª¾§! ±®³¶² ±²¾°°º ±¢ ° ¥ª°º Ï²¶°ºþ ƒ¯Œ¦ ª €³ª°, ª¬®½¶¾ ²¢ ƒ¯Œ¦ ª Ù´."
+ corvuria_war_anbenncost: "¦ª²¾ ¢ ²¾°ªª ¢þ°º  ¢®¦®¿µ¯ °¡°°¬²"
+ corvuria_south_castanor: "§Y¢³ª¾§! ±ª¡²² ±²¾°°º ±ª²¾©°ª¾ ° ©±¦°³½ ¶²¿ ›¨°¥ ²°."
+ corvuria_lose_devestation_2: "¨¦¾ ±ª°¦®¨¸¾ ±¢ª°µª¾ ¢ ¥ª° ²° ±²¾² 30 ¶¬¢ ±³²Œ°ª¾."
+ corvuria_destroy_verdant: "Ï¦°²¬¾ ¢¾©¿ ¡³¦² ª®¿° ®¡®° °Œª¯ª Ù¯°º¯ª Ï®²®ª°¯ª."
+ corvuria_deepwoods_dev: "¦ª° ¡©¢ºþ °®¥ ª ²ª ¡©¢º ±ª©¢¦²¢ ¡³¦³² ¦¡¢®°º ¬ ¬¨¦þ ±ª°¦®¨¸þ ±¢ª°µªª ¢ ‚®³¡¬¯ ®³, ±ª©¢¦¾¸þ ¼¬©²ª¶¬³½ ¦¢ª°³."
+ unlock_merc_corvurian_dark_legion_tt: "‹°ª¬®¿°¾ ¬¯±°ª¾ °¯°ª¬¢ §YÙž¯°¥ ®¥ª°§! ²°² §G¦²³±°þ ¬ °þ¯³§!. Ì²¡º °°¾²¿ ª, ¢º ¦®¨°º ¢®¦²¿ ¬ ¢³¯."
+ has_unlocked_merc_corvurian_dark_legion:0 "Ð©¡®¬ª¢° ¬¯±°ª¾ °ž¯°ª¬¢ ±¦ °©¢°ª¯ §YÙž¯°ºþ ®¥ª°§!."
+ corvuria_coal: "ˆ½¡¾ ¦³¥¾ ³¸²¢³½¸¾ ¯°³´¬²³ ¡³¦² ³¦®° ª© ±¢ª°µªª."
+ corvuria_relic_friend: "†¯²¿ 125 ²°Œ°ªþ  ®½¡þ °µªþ  °Œþ °¢°þ ¬³®¿²³þ ª®ª  ¢¯±ª¯ª ¢ ²°, ¢®¦½¸þ ±¢ª°µªþ  Ð®ª¬¢ªþ ‰¦²¶."
+ corvuria_relic_rival: "†¯²¿ 80 Œ±ª°¬þ ²ª ¢ ²°, ¬²¾ ¢®¦² ±¢ª°µªþ  Ð®ª¬¢ªþ ‰¦²¶."
  
  #Mercenary
- merc_corvurian_dark_legion: "§JDark Legion§!"
+ merc_corvurian_dark_legion: "§JÙž¯°ºþ ®¥ª°§!"
  
  #Decisions
  
- #corvuria_attack_asheniande_title: "March to Ravenhill"
- #corvuria_attack_asheniande_desc: "With the Emperor distracted, now is the time to march into Asheniande and take back what is rightfully ours!"
- corvuria_emperor_is_distracted: "The Emperor will not defend Asheniande, and will white peace from the war after one day. However, Asheniande's other allies will still fight."
+# corvuria_attack_asheniande_title: "Œ ¢ Ð¼þ¢°ª®®"
+# corvuria_attack_asheniande_desc: "Ôþ¶, ¬¥¦ †¯±² ²¢®¶°, ¯ ¢¯¾ ª¦²ª ¢ Œ°ª°¦ ª ¢°³²¿ ², ¶² ±ª°¦®¨ª² °¯ ± ±¢³!"
+ corvuria_emperor_is_distracted: "†¯±² ° ¡³¦² ©¸ª¸²¿ Œ°ª°¦ ª ¶© ¦°¿ ©¬®½¶ª² ¯ª  °þ. ¦°¬ ¦³¥ª ½©°ª¬ª Œ°ª°¦ ¡³¦³² ±¦®¨²¿ ¨²¿¾."
  
- restore_corveld_title: "Restore Corveld"
- restore_corveld_desc: "Corveld, once the capital of the Korbarid nation, was ruined by the flood created by King Daravan. With the proper technology now in our hands this once great city should be restored!"
- corveld_regional_capitol: "Regional Capital"
+ restore_corveld_title: "Ï²°¢®°ª ¢®¦"
+ restore_corveld_desc: "¢®¿¦, °¬¥¦ ²®ªµ °µªª ¡ª¦¢, ¡º® ©³Œ° ±²±¯, ³²°°º¯ ¬®¯ ƒ¢°¯. Ô ²¢²²¢³½¸ª¯ª ²°®¥ª¾¯ª ¢ °Œª ³¬ ¼²² °¬¥¦ ¢®ª¬ªþ ¥¦ ¦®¨° ¡º²¿ ¢²°¢®°!"
+ corveld_regional_capitol: "Ð¥ª°®¿°¾ ²®ªµ"
  
  #Events
  
- corvuria.1.t: "Corvurian Separatist Sentiments"
- corvuria.1.d: "Our Corvurian holdings have begun talking of reuniting with the nation of Corvuria, no doubt due to infiltration by Corvurian spies!"
- corvuria.1.a: "Damn them!"
- corvuria.2.t: "Harvest of the Ashfields"
- corvuria.2.d: "Ashfield, the former capital of our enemy Asheniande, has fallen. With hearty ashwheat and plenty of... "cattle" to harvest, our forces have a field day. Whilst the Ashfields may suffer from our eager harvest, several of our crop fields will benefit from the return of piles of ash to use as fertilizer."
- corvuria.2.a: "Thus is the fate of Asheniande."
- corvuria.3.t: "The Siege of Ravenhill"
- corvuria.3.d: "After the War of the Pale Raven, the Duchy of [A60.GetName] took [431.GetName] from the Corvurian crown during its accession into Anbennar. Now, armies march upon the hill again, with the Emperor nowehere to be found."
- corvuria.3.a: "This is a síl Vivin family affair only."
- corvuria.4.t: "An Invitation to the Court of Blood"
- corvuria.4.d: "The vampires of [FROM.GetName] have organized themselves into a new organization called the Court of Blood, which strives to influence mortal affairs while ensuring their existence is kept secret from the masses, and have invited their counterparts here in [Root.GetName] to join this organization. How do we respond?"
- corvuria.4.a: "We gladly accept."
- corvuria.4.b: "We will decline."
- corvuria.5.t: "Our Vows"
- corvuria.5.d: "Our pact with the vampiric kind is sealed. Forever until our undying breath shall the destiny of Corvuria be tied with their own. In what way shall they be of most use to us?"
- corvuria.5.a: "Give them the honor of handling some administration."
- corvuria.5.b: "Enable their pacts to extend our dark reach."
- corvuria.5.c: "Allow the wisdom of a thousand battles to teach us."
+ corvuria.1.t: "¢³¬ª ±²ª²¬ª °²°ª¾"
+ corvuria.1.d: "Œª ¬¢³ª°¬ª ¢®¦°ª¾ °¶®ª ¥¢ª²¿  ¢¦ª°°ªª  °µªþ ¢³ªª, °¯°°°, ª©-© ±°ª¬°¢°ª¾ ¬¢³ª°¬ª Œ±ª°¢!"
+ corvuria.1.a: "€³¦¿ °ª ±¬®¾²º!"
+ corvuria.2.t: "‹¨þ ‰±®¿°º ±®þ"
+ corvuria.2.d: "™Œ´ª®¦, ¡º¢Œ¾ ²®ªµ °Œ¥ ¢¥ Œ°ª°¦, ±®. Ô º²°þ ±Œ°ªµþ ª ¡®¿Œª¯ ¬®ª¶²¢¯... «¬²» ¦®¾ ¡ ³¨¾, ³ °Œª ¢þ¬ ¡³¦² ¦°¿ ²¬º²º ¦¢þ. Ï ² ¢¯¾ ¬¬ ™Œ´ª®¦ ¯¨² ±²¦²¿ ² °Œ¥ °²±®ª¢¥ ¡ ³¨¾, °¬®¿¬ °Œª ±®þ ±®³¶² ±®¿©³ ² ¢©¢¸°ª¾ ¬³¶ ©®º ¦®¾ ª±®¿©¢°ª¾ ¢ ¬¶²¢ ³¦¡°ª¾."
+ corvuria.2.a: "Ù¬ ®¨ª®¿ ³¦¿¡ Œ°ª°¦."
+ corvuria.3.t: "¢³ª°¬ ¢²¨°ª"
+ corvuria.3.d: "Ï °²¾¸ ¢¯¾ ¯º ®ªŒ¬¯ ©°¾²º, ¶²¡º ©¸ª¸²¿ Œ°°¦ ² ª ±  ¢³ªþ."
+ corvuria.3.a: "‰¦²¢¿² ª®¿°º¯ Ïª¢ª°¯ ª ¯þ° ¦®."
+ corvuria.4.t: "‰ª¥®Œ°ª ¢ Ô³¦ ¢ª"
+ corvuria.4.d: "Ï¯±ªº ª© [FROM.GetName] ¥°ª©¢®ª¿ ¢ °¢³½ ¥°ª©µª½ ±¦ °©¢°ª¯ Ô³¦ ¢ª, ¬²¾ ²¯ª²¾ ¢®ª¾²¿ ° ¦® ¯²°º ª ±ª ¼²¯ ¦¨²¿ ¢ ³¸²¢¢°ª ¢ ²þ° ² ¯, ª ±ª¥®ª®ª ¢ª ¬®®¥ ½¦ ¢ [Root.GetName] ¢²³±ª²¿ ¢ ¼²³ ¥°ª©µª½. ¬ ¯º ¥ª³¯?"
+ corvuria.4.a: "º  ¦²¿½ ±ª°ª¯¯."
+ corvuria.4.b: "º ²¬¨¯¾."
+ corvuria.5.t: "Œª ¬®¾²¢º"
+ corvuria.5.d: "Œ ¦¥¢  ¢¯±ª¯ª ¬±®°. ¢¬ª, ¦ °Œ¥ ±®¦°¥ ¢©¦, ³¦¿¡ ¢³ªª ¡³¦² ¢¾©°  ª ³¦¿¡þ. ¬ª¯ ¡©¯ °ª ¡³¦³² °ª¡® ±®©°º ¦®¾ °?"
+ corvuria.5.a: "‰¦²¢¿² ª¯ ¶²¿ ©°ª¯²¿¾ ¦¯ª°ª²²ª¢°þ ¡²þ."
+ corvuria.5.b: "†±®¿©³þ² ª ¥®Œ°ª¾, ¶²¡º Œªª²¿ °Œ ²¯°ºþ ±²."
+ corvuria.5.c: "‰©¢®¿² ¯³¦²ª ²º¾¶ª ¡ª²¢ °³¶ª²¿ °."
  
- corveld_city.1.t: "A New Industry for Corveld"
- corveld_city.1.d: "Now that Corveld has been restored, it is the perfect opportunity for the productive output to be controlled. What should this magnificent city now strive to build?"
- corveld_city.1.a: "Proper administrative booking would be best."
- corveld_city.1.b: "Glass-making is an honorable profession."
- corveld_city.1.c: "The textile industry has been booming lately."
- corveld_city.1.e: "Why alter what is already profitable?"
- corveld_city.2.t: "Minorities Gather in Corveld"
- corveld_city.2.d: "As the city of Corveld grows, the races of Cannor gather to start a new life here. How should we respond to these peoples?"
- corveld_city.2.a: "Encourage this! Corveld shall rival Anbenncóst!"
- corveld_city.2.b: "Allow this. More subjects are always welcome."
- corveld_city.2.c: "Drive them away! Corveld is for our kind only!"
- corveld_city.3.t: "Corveld Prospers"
- corveld_city.3.d: "After its restoration, the city of Corveld has continued to prosper, and fortunes continue to look up for it. It has now become one of the most developed cities in Cannor. We can take advantage of the momentum and see the city rise ever-higher."
- corveld_city.3.a: "Push further, the city's splendor is still matched by others!"
- corveld_city.3.b: "A job well done already!"
- corveld_city.4.t: "Corveld Triumphant"
- corveld_city.4.d: "In recent days, Corveld has become more wealthy and prosperous than even the legendary city of Anbenncóst. This fact is not lost on the peoples of Cannor, who now rightfully regard Corveld as one of the great cities of the continent. Only multi-segmented urban area such as Viswall or Castonath or the deep Dwarven holds can now compare to the glory of Corveld."
- corveld_city.4.a: "True glory has come to the Divenhal Sea."
+ corveld_city.1.t: "¢¾ ±¯ºŒ®°°²¿ ¦®¾ ¢®¦"
+ corveld_city.1.d: "Ù±¿, ¬¥¦ ¢®¿¦ ¢²°¢®°, ±¾¢ª®¿ ±¬°¾ ¢©¯¨°²¿ ¦®¾ ¬°²®¾ °¦ ±ª©¢¦²¢°°º¯ ±µ¯. Ì² ²±¿ ¦®¨° ²¯ª²¿¾ ±ª©¢¦ª²¿ ¼²² ¢®ª¬®±°ºþ ¥¦?"
+ corveld_city.1.a: "‰¢ª®¿° ¦¯ª°ª²²ª¢° Œ°ª ¡º® ¡º °ª®³¶Œª¯."
+ corveld_city.1.b: "Ô²¬®¿¸ª¬ - ¼² ±¶²°¾ ±´ª¾."
+ corveld_city.1.c: "Ï ±®¦° ¢¯¾ ²¬²ª®¿°¾ ±¯ºŒ®°°²¿ ±¨ª¢² ¡³¯."
+ corveld_city.1.e: "…¶¯ ª©¯°¾²¿ ², ¶² ³¨ ±ª°ª² ±ª¡º®¿?"
+ corveld_city.2.t: "°¿Œª°²¢ ¡ª½²¾ ¢ ¢®¦"
+ corveld_city.2.d: "‰ ¯ ² ¥¦ ¢®¿¦ º °° ¡ª½²¾ ©¦¿, ¶²¡º °¶²¿ °¢³½ ¨ª©°¿. ¬ ¯º ¦®¨°º ¥ª¢²¿ ° ¼²ª °¦º?"
+ corveld_city.2.a: "‰¸¾þ² ¼²! ¢®¦ ¡³¦² ±°ª¶²¿  °¡°°¬²¯!"
+ corveld_city.2.b: "Ð©Œª² ¼². ƒ³¥ª °¦º ¢¥¦ ±ª¢²²¢³½²¾."
+ corveld_city.2.c: "‰¥°ª² ª! ¢®¦ - ²®¿¬ ¦®¾ °!"
+ corveld_city.3.t: "¢®¦ ±µ¢²²"
+ corveld_city.3.d: "‰® ¢²°¢®°ª¾ ¥¦ ¢®¿¦ ±¦®¨² ±µ¢²²¿, ª ³¦¶ ° ±¬ª¦² ¥. Ôþ¶ ° ²® ¦°ª¯ ª© ¯º ©¢ª²º ¥¦¢ °°. º ¯¨¯ ¢±®¿©¢²¿¾ ¼²ª¯ ª¯±³®¿¯ ª ³¢ª¦²¿, ¬¬ ¥¦ ±¦°ª¯²¾ ¢ ¢ºŒ ª ¢ºŒ."
+ corveld_city.3.a: "‰¦¢ª¥þ²¿ ¦®¿Œ, ¢®ª¬®±ª ¥¦ ° ¢°ª²¾  ¦³¥ª¯ª!"
+ corveld_city.3.b: "Ð¡² ³¨ ±¦®°!"
+ corveld_city.4.t: "Ùª³¯´ ¢®¦"
+ corveld_city.4.d: "Ï ±®¦°ª ¦°ª ¢®¿¦ ²® ¡® ¡¥²º¯ ª ±µ¢²½¸ª¯, ¶¯ ¦¨ ®¥°¦°ºþ ¥¦ °¡°°¬². ™²² ´¬² ° ²®¾ °©¯¶°°º¯ ¦®¾ °¦¢ °°, ¬²º ²±¿ ± ±¢³ ¶ª²½² ¢®¿¦ ¦°ª¯ ª© ¢®ª¬ª ¥¦¢ ¬°²ª°°². Ô ®¢þ ¢®¿¦ ²±¿ ¯¥³² ¢°ª²¿¾ ®ªŒ¿ ²¬ª ¯°¥¥¯°²°º ¥¦¬ª þ°º, ¬¬ Ïª¢®®, ²°² ª®ª ±¦©¯°º ¦¢´¬ª ¥¦."
+ corveld_city.4.a: "†²ª°°¾ ®¢ ±ªŒ® ¬ ¯½ ƒª¢°®."
  
  #Government
  
- corvurian_midnight_reform: "Midnight Monarchy"
- corvurian_midnight_reform_desc: "The Midnight Monarchy carries two conventions. For the unaware, it is known for the ruthless treatment of its citizenry, such that the Monarch's will is easily carried out. For those with a taste for blood, however, this nation is a haven worth working alongside."
+ corvurian_midnight_reform: "‰®³°¶°¾ °ª¾"
+ corvurian_midnight_reform_desc: "‰®³°¶°¾ ¯°ª¾ ¢¾©°  ¦¢³¯¾ ³®¢°²¾¯ª. ƒ®¾ ², ¬² ° ©°², ° ª©¢²° ¡©¨®²°º¯ ¡¸°ª¯  ¢ª¯ª ¥¨¦°¯ª, ¡®¥¦¾ ¶¯³ ¢®¾ ¯° ®¥¬ ¢º±®°¾²¾. ¦°¬ ¦®¾ ², ¬² ¨¨¦² ¬¢ª, ¼²² °¦ - ³¡¨ª¸,  ¬²º¯ ²ª² ²³¦°ª¶²¿".
  
  #Province Triggered Modifiers
- ravenhill_war_1: "Prepared to Strike Asheniande"
- ravenhill_war_1_desc: "The next war declared on §YAsheniande§! shall exclude nations not directly allied to them or guaranteeing them, most noticably the §YEmperor of Anbennar§! and their allies, should they not also be allied to §YAsheniande§!. \n§gThis takes a day to activate.§!\n§TThis effect will only work on the next offensive war with Asheniande, make it count!§!"
- ravenhill_otherwise_peace: "Is §RNOT§! in any other war."
- ravenhill_war_2: "Reclaiming Corvurian Lands"
- ravenhill_war_2_desc: "For the duration of this war, nations not directly allied to §YAsheniande§! will not intervene."
+ ravenhill_war_1: "‚²¢ª²¾ °°²ª ³¦ ± Œ°ª°¦"
+ ravenhill_war_1_desc: "Ô®¦³½¸¾ ¢þ°, ¡¹¾¢®°°¾ §YŒ°ª°¦§! ¡³¦² ª¬®½¶²¿ ª© ±²ª¢²¾°ª¾ °µªª, ° ¾¢®¾½¸ª¾ ±¾¯º¯ª ½©°ª¬¯ª ª®ª ¥°²¯ª, ¢ ±¢³½ ¶¦¿ §Y†¯±² °¡°°§!, ª ¥ ½©°ª¬¢, ®ª °ª ²¬¨ ° ¾¢®¾½²¾ ½©°ª¬¯ª §YŒ°ª°¦§!. \n§gƒ®¾ ¬²ª¢µªª ²¡³²¾ ¦ª° ¦°¿.§!\n§T™²² ¼´´¬² ¡²² ²®¿¬ ¢ ®¦³½¸þ °²³±²®¿°þ ¢þ°  Œ°ª°¦, ©²¢¿² ¥ ¶ª²²¿¾  ¼²ª¯!§!"
+ ravenhill_otherwise_peace: "§R§! ³¶²¢³² °ª ¢ ¬¬þ ¦³¥þ ¢þ°."
+ ravenhill_war_2: "²¢¢°ª ¬¢³ª°¬ª ©¯®¿"
+ ravenhill_war_2_desc: " ¢¯¾ ¼²þ ¢þ°º ¥³¦²¢, ° ¾¢®¾½¸ª¾ ±¾¯º¯ª ½©°ª¬¯ª §YŒ°ª°¦§! ° ¡³¦³² ¢¯Œª¢²¿¾ ¢ °Œ ±²ª¢²¾°ª."
