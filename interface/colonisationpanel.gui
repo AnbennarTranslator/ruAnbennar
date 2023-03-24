@@ -223,7 +223,7 @@ guiTypes = {
 				name = "culture_label"
 				position = { x = 80 y = 2 }
 				textureFile = ""
-				font = "vic_18"
+				font = "vic_18m" #шрифт с -ая
 				borderSize = {x = 4 y = 4}	
 				text = "CULTURE"	
 				maxWidth = 128
@@ -235,7 +235,7 @@ guiTypes = {
 				name = "culture_type"
 				position = { x = 187 y = 2 }
 				textureFile = ""
-				font = "vic_18"
+				font = "vic_18m" #шрифт с -ая
 				borderSize = {x = 4 y = 4}	
 				text = "FGDSFHDF"	
 				maxWidth = 128
@@ -332,23 +332,24 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name = "no_colony_label"
-				position = { x = 75 y = -16 }
+				position = { x = 25 y = -16 } ### Поднял надпись
 				font = "vic_29"	
 				borderSize = {x = 0 y = 0}	
 				text = "NO_COLONY_PRESENT"	
-				maxWidth = 185
-				maxHeight = 29	
+				maxWidth = 285 ### Расширил надпись
+				maxHeight = 76 ### Расширил надпись
 				format = center	
 			}
 			instantTextBoxType = {
 				name = "region_text"
-				position = { x = 05 y = 20 }
+				position = { x = 70 y = 15 } ### Поднял надпись
 				font = "vic_18"	
 				borderSize = {x = 4 y = 4}	
 				text = "NO_COLONY_PRESENT"	
-				maxWidth = 332
-				maxHeight = 40	
+				maxWidth = 180 ### Уменьшил
+				maxHeight = 76 ### Расширил надпись	
 				format = center	
+				fixedsize = yes
 			}
 			instantTextBoxType = {
 				name = "tribal_owner"
@@ -490,7 +491,7 @@ guiTypes = {
 				borderSize = {x = 4 y = 4}	
 				text = "NO_COLONY_PRESENT"	
 				maxWidth = 256
-				maxHeight = 26	
+				maxHeight = 76 ### Расширил надпись
 				format = center	
 				fixedsize = yes
 			}	
@@ -512,7 +513,7 @@ guiTypes = {
 			{
 				name ="religion_icon"
 				spriteType = "GFX_icon_religion"
-				position = { x= 19 y = 7 }	#Anbennar
+				position = { x= 19 y = 7 }
 				hint_tag = "hint_religion"
 			}
 			
@@ -885,7 +886,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "expel_minority_label"
-				position = { x = 15 y = 85 }
+				position = { x = 18 y = 85 } #x = 15
 				textureFile = ""
 				font = "vic_18"
 				text = "EXPEL_MINORITIES"	
@@ -936,7 +937,7 @@ guiTypes = {
 					position = { x = 15 y = 13 }
 					textureFile = ""
 					font = "vic_18"
-					text = "SELECT_PROVINCE"	
+					text = "SEL_PROV_GKS"	
 					maxWidth = 280
 					maxHeight = 24	
 					format = centre
@@ -996,13 +997,13 @@ windowType = {
 			name = "list_item_label"
 			position = { x = 10 y = 7 }
 			textureFile = ""
-			font = "vic_18"
+			font = "vic_18m"
 			text = ""	
 			maxWidth = 280
 			maxHeight = 20	
 			format = centre
 			fixedsize = yes
-			alwaystransparent = yes
+			allwaystransparent = yes
 		}	
 	}	
 	
@@ -1028,11 +1029,11 @@ windowType = {
 			textureFile = ""
 			font = "vic_18"
 			text = ""	
-			maxWidth = 200
+			maxWidth = 300 #200
 			maxHeight = 20	
 			format = left
 			fixedsize = yes
-			alwaystransparent = yes
+			allwaystransparent = yes
 		}
 
 
@@ -1046,14 +1047,14 @@ windowType = {
 			maxHeight = 20	
 			format = right
 			fixedsize = yes
-			alwaystransparent = yes
+			allwaystransparent = yes
 		}		
 		
 		iconType = {
 			name ="development_icon"
 			spriteType = "GFX_development_icon"
 			position = { x = 45 y = 22 }
-			alwaystransparent = yes
+			allwaystransparent = yes
 		}
 
 		instantTextBoxType = {
@@ -1066,14 +1067,14 @@ windowType = {
 			maxHeight = 20	
 			format = right
 			fixedsize = yes
-			alwaystransparent = yes
+			allwaystransparent = yes
 		}		
 		
 		iconType = {
 			name ="colonist_placement_chance_icon"
 			spriteType = "GFX_colonist_placement_chance"
 			position = { x = 145 y = 20 }
-			alwaystransparent = yes
+			allwaystransparent = yes
 		}
 
 		
@@ -1082,7 +1083,7 @@ windowType = {
 			spriteType ="GFX_province_view_religion"	
 			position = { x = 285 y = 12 }
 			frame = 14
-			alwaystransparent = yes
+			allwaystransparent = yes
 		}
 	}		
 }
