@@ -163,7 +163,7 @@
  building_mage_tower_desc:0 "§TÏ®¦°ª ± ¬þ°þ ¯ §Y1§! ¡Œ°þ ¯¥¢ ¦² §YÔ®¢ª½ ¯¥¢§! ¡®¿Œ £estate_influence£.§!\n"
  
  #Mages Agendas
- estate_privileges_and_agendas_events.3.ma:0 "Ïº¡²¿ ±pe¦®o¨e°ªe [Root.GetMagesName]"
+ estate_privileges_and_agendas_events.3.ma:0 "‰pe¦®o¨e°ªe [Root.GetMagesName]"
  estate_mages_fire_advisor:0 "‹¢®ª²¿ ¢²°ª¬ [Root.Adm_Advisor.GetTitle]"
  estate_mages_fire_advisor_desc:0 "[Root.Adm_Advisor.GetTitle] [Root.Adm_Advisor.GetName] °e ±o¦xo¦ª² [Root.Monarch.GetTitle]. [Root.GetMagesName] ±o®a¥a½², ¶²o ¦o®¨°oc²¿ [Root.Adm_Advisor.GetSheHe] °³¨°o ±epe¦a²¿ Ma¥a¯."
  estate_mages_relations_with_magisterium:0 "‹®³¶Œª²¿ ²°Œ°ª¾  [A85.GetName]"
@@ -175,9 +175,9 @@
  estate_mages_build_university_in_y:0 "‰²ª²¿ ³°ª¢ª²² ¢ ±¢ª°µªª [agenda_province.GetName]"
  estate_mages_build_university_in_y_desc:0 "[Root.GetMagesName] ±¾² ° ±´ª°°ª¢²¿ ©¦°ª °¢¥ ³°ª¢ª²² ¢ ±¢ª°µªª [agenda_province.GetName], ¶²¡º ®³¶Œª ³¯º ²°º ¯¥®ª ±®³¶ª²¿ ¦²þ° ¡©¢°ª."
  estate_mages_conquer_damestear:0 "…¢²ª²¿ ±¢ª°µª½ [agenda_province.GetName]"
- estate_mages_conquer_damestear_desc:0 "[Root.GetMagesName] ±®¨ª®ª ¥®© ° [agenda_province.GetName]. ‰¢ª°µª¾, ±ª©¢¦¾¸¾ [agenda_province.GetTradeGoodsName], ¬a¬ o°ª ³²¢ep¨¦a½², ²°² ±¬°º¯ ¦±®°°ª¯ ¬ °Œþ °µªª. °ª ±ª©º¢½² ° ©¢²ª²¿ ¼²³ ²ª²ª½ ¦®¾ ¢ª °³¨¦."
+ estate_mages_conquer_damestear_desc:0 "[Root.GetMagesName] ±®¨ª®ª ¥®© ° [agenda_province.GetName]. ‰¢ª°ª¾, ±ª©¢¦¾¸¾ [agenda_province.GetTradeGoodsName], ¬a¬ o°ª ³²¢ep¨¦a½², ²°² ±¬°º¯ ¦±®°°ª¯ ¬ °Œþ °µªª. °ª ±ª©º¢½² ° ©¢²ª²¿ ¼²³ ²ª²ª½ ¦®¾ ¢ª °³¨¦."
  estate_mages_conquer_precursor_relics:0 "…¢²ª²¿ ±¢ª°µª½ [agenda_province.GetName]"
- estate_mages_conquer_precursor_relics_desc:0 "[Root.GetMagesName] ±®¨ª®ª ¥®© ° [agenda_province.GetName]. ‰¢ª°µª¾, ±ª©¢¦¾¸¾ [agenda_province.GetTradeGoodsName], ¬a¬ o°ª ³²¢ep¨¦a½², ²°² ±¬°º¯ ¦±®°°ª¯ ¬ °Œþ °µªª. °ª ±ª©º¢½² ° ©¢²ª²¿ ¼²³ ²ª²ª½ ¦®¾ ¢ª °³¨¦."
+ estate_mages_conquer_precursor_relics_desc:0 "[Root.GetMagesName] ±®¨ª®ª ¥®© ° [agenda_province.GetName]. ‰¢ª°ª¾, ±ª©¢¦¾¸¾ [agenda_province.GetTradeGoodsName], ¬a¬ o°ª ³²¢ep¨¦a½², ²°² ±¬°º¯ ¦±®°°ª¯ ¬ °Œþ °µªª. °ª ±ª©º¢½² ° ©¢²ª²¿ ¼²³ ²ª²ª½ ¦®¾ ¢ª °³¨¦."
  estate_mages_build_fort_building_on_damestear:0 "‹¬±ª²¿ ±¢ª°µª½ [agenda_province.GetName]"
  estate_mages_build_fort_building_on_damestear_desc:0 "[Root.GetMagesName] ±ª©º¢½² ° ³ª®ª²¿ °Œª ³¬±®°ª¾ ¢ ±¢ª°µªª [agenda_province.GetName]. °ª ¶ª²½², ¶² ¯º ¡¾©°º ³¡¶¿ ¼²³ ¬®½¶¢³½ ²²¥ª¶¬³½ ±©ªµª½ ² °±¦°ª¾."
  estate_mages_build_fort_building_on_precursor_relics:0 "‹¬±ª²¿ ±¢ª°µª½ [agenda_province.GetName]"

@@ -1,36 +1,36 @@
 ﻿l_english:
- witch_king.0.t:0 "Rise of a Witch-King"
- witch_king.0.d:0 "[Root.Monarch.GetName] has made [Root.Monarch.GetHerselfHimself] known as a powerful practitioner of magic, and one unbound by the shackles of old laws and regulations, or as the Anbenncóster sycophants call it: a Witch-King.\n\nThe international community see [Root.Monarch.GetName] as a power-mad leader of a pariah state and an outcast amongst the diplomatic circles of the world...\n\n...but who cares?\n\nA lion does not concern itself with the opinions of sheep."
- witch_king.0.a:0 "Kneel before me!"
- witch_king.1.t:0 "Death of a Witch-King"
- witch_king.1.d:0 "The [Root.Monarch.GetTitle] is dead!\n\nWhispers of freedom spreads through [Root.Country.GetName], as the light of hope dawns on a possible new direction for [Root.Country.GetName].\nWill the dread realm continue on under a worthy successor, will ambitious warlords seek to fill the power vacuum left by such a power, or will freedom strike true and liberate the oppressed peoples?"
- witch_king.1.a:0 "A worthy successor rises"
- witch_king.1.b:0 "We must retain control of the state, regardless"
- witch_king.1.c:0 "Freedom for all peoples!"
+ witch_king.0.t:0 "Ï¨¦°ª ®¾-¶¦¾"
+ witch_king.0.d:0 "       [Root.Monarch.GetName] ²® ª©¢²° ¬¬ ¯¥³¸²¢°°ºþ ±¬²ª¬ ¯¥ªª, ° ¢¾©°°ºþ ¬¢¯ª ²º ©¬°¢ ª ±¢ª®, ª®ª, ¬¬ ¥ °©º¢½² °¡°°¬²¬ª ±¦®ª¯º, ®¿-¶¦þ\n\n       ¨¦³°¦° ¡¸²¢ ¢ª¦ª² ¢ [Root.Monarch.GetName] ±¯Œ°°¥ ° ¢®²ª ®ª¦ ¥³¦²¢-ª©¥¾ ª ª©¥¾ ¦ª ¦ª±®¯²ª¶¬ª ¬³¥¢ ¯ª...\n\n       ... ° ¬¯³ ¦ ¼²¥ ²¿ ¦®?\n\nˆ¿¢ ° ¢®°³² ¯°°ª ¢µ."
+ witch_king.0.a:0 "‰¬®°ª² ¬®°ª ±¦ ¯°þ!"
+ witch_king.1.t:0 "Ô¯²¿ ¬®¾-¬®¦³°"
+ witch_king.1.d:0 "       [Root.Monarch.GetTitle] ¯ž²¢!\n\n       ÷ž±² ¢¡¦º ©®ª¢²¾ ± ¦¨¢ [Root.Country.GetName], ®¢° ¢² °¦¨¦º ° ¢©¯¨° °¢ °±¢®°ª ž ©¢ª²ª¾.\n       ‰¦®¨ª² ®ª ¥©° ¥³¦²¢ ³¸²¢¢²¿ ±ª ¦²þ°¯ ±¯°ª¬, ¡³¦³² ®ª ¯¡ªµª©°º ¢°¶®¿°ª¬ª ²¯ª²¿¾ ©±®°ª²¿ ¢¬³³¯ ¢®²ª, ¡©¢¢Œªþ¾ ±® ¥ ¯²ª, ª®ª ¨ ¢¡¦ °°ž² Œ½¸ªþ ³¦ ª ¢¡¦ª² ³¥°²ž°°º °¦º?"
+ witch_king.1.a:0 "Ï¦ª² ¦²þ°ºþ ±¯°ª¬"
+ witch_king.1.b:0 "º ¦®¨°º °ª²¿ ¬°²®¿ °¦ ¥³¦²¢¯, °¯²¾ °ª ° ¶²."
+ witch_king.1.c:0 "Ô¢¡¦³ ¢¯ °¦¯!"
  
- witch_king.2.t:0 "Evil [This.Monarch.GetTitle] Removed"
- witch_king.2.d:0 "[This.Monarch.GetName] has been defeated and their empire shattered!\n\nWhispers of freedom spreads through [This.Country.GetName], as the light of hope dawns on a possible new direction for [Root.Country.GetName].\nWill the dread realm continue on under a worthy successor, will ambitious warlords seek to fill the power vacuum left by such a power, or will freedom strike true and liberate the oppressed peoples?"
- witch_king.2.a:0 "We must retain control of what still remains"
+ witch_king.2.t:0 "…®þ [This.Monarch.GetTitle] ±¢¨°"
+ witch_king.2.d:0 "       [This.Monarch.GetName] ±¡¨¦ž°,  ¥ ª¯±ª¾ ±®¿!\n\n       ÷ž±² ¢¡¦º ©®ª¢²¾ ± ¦¨¢ [Root.Country.GetName], ®¢° ¢² °¦¨¦º ° ¢©¯¨° °¢ °±¢®°ª ž ©¢ª²ª¾.\n‰¦®¨ª² ®ª ¥©° ¥³¦²¢ ³¸²¢¢²¿ ±ª ¦²þ°¯ ±¯°ª¬, ¡³¦³² ®ª ¯¡ªµª©°º ¢°¶®¿°ª¬ª ²¯ª²¿¾ ©±®°ª²¿ ¢¬³³¯ ¢®²ª, ¡©¢¢Œªþ¾ ±® ¥ ¯²ª, ª®ª ¨ ¢¡¦ °°ž² Œ½¸ªþ ³¦ ª ¢¡¦ª² ³¥°²ž°°º °¦º?"
+ witch_king.2.a:0 "º ¦®¨°º °ª²¿ ¬°²®¿ °¦ ²¯, ¶² ¸ž ²®¿"
  
  witch_king.3.t:0 "[From.Monarch.GetName] Removed"
- witch_king.3.d:0 "Thanks to our righteous deeds [From.Monarch.GetName] has been defeated and their empire shattered!\n\nThis will surely be the dawn of a new era for [From.Country.GetName]"
- witch_king.3.a:0 "Legends will be told our of deeds here today!"
+ witch_king.3.d:0 "       €®¥¦¾ °Œª¯ ±¢¦°º¯ ¦¾°ª¾¯ [From.Monarch.GetName] ¡º® ±¡¨¦ž°,  ¥ ª¯±ª¾ ©¥¯®°!\n\n       ™², °¯°°°, ²°² ¢²¯ °¢þ ¼º ¦®¾ ¦¨¢º [From.Country.GetName]"
+ witch_king.3.a:0 " ¦¾°ª¾, ¢Œ°°º ©¦¿ ¥¦°¾, ¡³¦³² ®¥²¿ ®¥°¦º!"
  
- witch_king.4.t:0 "Rise of a Witch-Prince"
- witch_king.4.d:0 "With the news that [imperial_witch_king.Monarch.GetName] has chosen to style themselves Witch-King, the empire has been shaken, surely the emperor will not allow his subjects to make such bold declarations?"
- witch_king.4.a:0 "They have forfeited the right to rule."
- witch_king.4.b:0 "We will simply denounce them."
+ witch_king.4.t:0 "Ï¨¦°ª ±ª°µ-¬®¦³°"
+ witch_king.4.d:0 "       †©¢²ª  ²¯, ¶² [imperial_witch_king.Monarch.GetName] Œª® °©¢²¿ ¡¾ ®ž¯-¬®¦³°¯, ±²¾® ª¯±ª½, ¢¦¿ ª¯±² ° ±©¢®ª² ¢ª¯ ±¦¦°°º¯ ¦®²¿ ²¬ª ¯®º ©¾¢®°ª¾?"
+ witch_king.4.a:0 "°ª ³²²ª®ª ±¢ ° ¢®²¿."
+ witch_king.4.b:0 "º ±² ³¦ª¯ ª."
  
- witch_king.5.t:0 "Rise of a Witch-Prince in [imperial_witch_king.GetName]"
- witch_king.5.d:0 "With the news that [imperial_witch_king.Monarch.GetName] the emperor has declared war to depose them, as the foremost magical authority in the empire it is our responsibility to aid the emperor in this cause."
- witch_king.5.a:0 "We will join the emperor."
- witch_king.5.b:0 "We have other concerns."
+ witch_king.5.t:0 "Ï¨¦°ª ±ª°µ-¬®¦³° ¢ ¦¨¢ [imperial_witch_king.GetName]"
+ witch_king.5.d:0 "       ‰® ª©¢²ª¾  ²¯, ¶² ª¯±² [imperial_witch_king.Monarch.GetName] ¡¹¾¢ª® ¢þ°³, ¶²¡º ¢¥°³²¿ ¥, ¯º, ¬¬ ¢ºŒ¾ ¯¥ª¶¬¾ ¢®²¿ ¢ ª¯±ªª, ¡¾©°º ±¯¶¿ ª¯±²³ ¢ ¼²¯ ¦®."
+ witch_king.5.a:0 "º ±ª¯¬°ž¯ ¬ ª¯±²³."
+ witch_king.5.b:0 "‹ ° ²¿ ª ¦³¥ª ©¡²º."
  
- incident_witch_prince:0 "Rise of a Witch-Prince in the empire"
- incident_witch_prince_member_alert:0 "[imperial_witch_king.Monarch.GetName] styles themselves Witch-King, and through their actions they have proven to be one in truth. The emperor cannot co-exist with Witch-Kings cause it's a challenge to their authority so there's growing pressure to remove them."
- incident_witch_prince_emperor_alert:0 "[imperial_witch_king.Monarch.GetName] styles themselves Witch-King, and through their actions they have proven to be one in truth. The emperor cannot co-exist with Witch-Kings cause it's a challenge to their authority so there's growing pressure to remove them."
- magisterium_may_join_war_tt:0 "The Magisterium will get a call to arms."
+ incident_witch_prince:0 "Ï¨¦°ª ±ª°µ-¬®¦³° ¢ ª¯±ªª"
+ incident_witch_prince_member_alert:0 "       [imperial_witch_king.Monarch.GetName] °©º¢² ¡¾ ®ž¯-¬®¦³°¯, ª ¢ª¯ª ¦þ²¢ª¾¯ª ° ¦¬©®, ¶² ° ¯¯ ¦® ¾¢®¾²¾ ²¬¢º¯. †¯±² ° ¯¨² ³¸²¢¢²¿  ®¾¯ª-¬®¦³°¯ª, ±¬®¿¬³ ¼² ¾¢®¾²¾ ¿ž©°º¯ ¢º©¢¯ ¥ ¢®²ª, ±¼²¯³ ° °¥ ¬©º¢²¾ ¢ž ¡®¿Œ ¦¢®°ª  µ®¿½ ³²°°ª¾ ±¦¡°º ±¢ª²®þ ² ¢®²ª."
+ incident_witch_prince_emperor_alert:0 "       [imperial_witch_king.Monarch.GetName] °©º¢² ¡¾ ®ž¯-¬®¦³°¯, ª ¢ª¯ª ¦þ²¢ª¾¯ª ° ¦¬©®, ¶² ° ¯¯ ¦® ¾¢®¾²¾ ²¬¢º¯. †¯±² ° ¯¨² ³¸²¢¢²¿  ®¾¯ª-¬®¦³°¯ª, ±¬®¿¬³ ¼² ¾¢®¾²¾ ¿ž©°º¯ ¢º©¢¯ ¥ ¢®²ª, ±¼²¯³ ° °¥ ¬©º¢²¾ ¢ž ¡®¿Œ ¦¢®°ª  µ®¿½ ³²°°ª¾ ±¦¡°º ±¢ª²®þ ² ¢®²ª."
+ magisterium_may_join_war_tt:0 "¥ª²ª³¯ ±®³¶ª² ±ª©º¢ ¬ ³¨ª½."
  
- shirked_imperial_responsibility:0 "Shirked Imperial Responsibilities"
- cowardly_emperor:0 "Cowardly Emperor"
- denounced_witch_king:0 "Unlawful Ruler"
+ shirked_imperial_responsibility:0 "Ô°¾®  ¡¾ ª¯±²¬ª ±®°¯¶ª¾"
+ cowardly_emperor:0 "Ù³®ª¢ºþ ª¯±²"
+ denounced_witch_king:0 "©¬°°ºþ ±¢ª²®¿"

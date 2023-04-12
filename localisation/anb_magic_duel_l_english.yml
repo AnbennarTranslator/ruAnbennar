@@ -1,116 +1,116 @@
 ﻿l_english:
 
  #Events
- magic_duel.1.t:0 "[attacker.Monarch.GetName] VS [defender.Monarch.GetName]\n£icon_magic_duel_background£"
- magic_duel.1.d:0 "§w[attacker.Monarch.GetName]------------\nHitpoints: [attacker.current_hp.GetValue]/[attacker.mag_hp.GetValue]§G(+[attacker.mag_hot.GetValue])§! §R(-[attacker.mag_dot.GetValue])§! [attacker.HitBySpell]\nMana: [attacker.current_mana.GetValue]/[attacker.mag_mana.GetValue] [attacker.RegenMana]\nShield: [attacker.mag_shield.GetValue] [attacker.ShieldValue]\nSpell Power Modifier: [attacker.mag_power.GetValue]%\nSpell Resistance Modifier: [attacker.mag_resistance.GetValue]%\nSpell Accuracy Modifier: [attacker.mag_accuracy.GetValue]% [attacker.SpellAccuracy]\nSpell Evasion Modifier: [attacker.mag_evasion.GetValue]% [attacker.SpellEvasion] \n[attacker.DodgedSpell]\n\n[defender.Monarch.GetName]------------\nHitpoints: [defender.current_hp.GetValue]/[defender.mag_hp.GetValue]§G (+[defender.mag_hot.GetValue])§! §R(-[defender.mag_dot.GetValue])§! [defender.HitBySpell]\nMana: [defender.current_mana.GetValue]/[defender.mag_mana.GetValue] [defender.RegenMana]\nShield: [defender.mag_shield.GetValue] [defender.ShieldValue]\nSpell Power Modifier: [defender.mag_power.GetValue]%\nSpell Resistance Modifier: [defender.mag_resistance.GetValue]%\nSpell Accuracy Modifier: [defender.mag_accuracy.GetValue]% [defender.SpellAccuracy]\nSpell Evasion Modifier: [defender.mag_evasion.GetValue]% [defender.SpellEvasion] \n[defender.DodgedSpell]§!"
- magic_duel.1.a:0 "Cast an [Root.duelabjuration] Spell"
- magic_duel.1.b:0 "Cast a [Root.duelconjuration] Spell"
- magic_duel.1.c:0 "Cast a [Root.dueldivination] Spell"
- magic_duel.1.e:0 "Cast an [Root.duelenchantment] Spell"
- magic_duel.1.f:0 "Cast an [Root.duelevocation] Spell"
- magic_duel.1.g:0 "Cast an [Root.duelillusion] Spell"
- magic_duel.1.h:0 "Cast a [Root.duelnecromancy] Spell"
- magic_duel.1.i:0 "Cast a [Root.dueltransmutation] Spell"
- magic_duel.1.j:0 "Mana Recovery"
+ magic_duel.1.t:0 "[attacker.Monarch.GetName] ±²ª¢ [defender.Monarch.GetName]\n£icon_magic_duel_background£"
+ magic_duel.1.d:0 "§w[attacker.Monarch.GetName]------------\n¶¬ª ©¦¢¿¾: [attacker.current_hp.GetValue]/[attacker.mag_hp.GetValue]§G(+[attacker.mag_hot.GetValue])§! §R(-[attacker.mag_dot.GetValue])§! [attacker.HitBySpell]\n°: [attacker.current_mana.GetValue]/[attacker.mag_mana.GetValue] [attacker.Regen°]\n•ª²: [attacker.mag_shield.GetValue] [attacker.ShieldValue]\n¦ª´ª¬² ª®º ©¬®ª°°ªþ: [attacker.mag_power.GetValue]%\n¦ª´ª¬² ±²ª¢®°ª¾ ©¬®ª°°ª¾¯: [attacker.mag_resistance.GetValue]%\n¦ª´ª¬² ²¶°²ª ©¬®ª°°ªþ: [attacker.mag_accuracy.GetValue]% [attacker.SpellAccuracy]\n¦ª´ª¬² ³¬®°°ª¾ ² ©¬®ª°°ªþ: [attacker.mag_evasion.GetValue]% [attacker.SpellEvasion] \n[attacker.DodgedSpell]\n\n[defender.Monarch.GetName]------------\n¶¬ª ©¦¢¿¾: [defender.current_hp.GetValue]/[defender.mag_hp.GetValue]§G (+[defender.mag_hot.GetValue])§! §R(-[defender.mag_dot.GetValue])§! [defender.HitBySpell]\n°: [defender.current_mana.GetValue]/[defender.mag_mana.GetValue] [defender.Regen°]\n•ª²: [defender.mag_shield.GetValue] [defender.ShieldValue]\n¦ª´ª¬² ª®º ©¬®ª°°ªþ: [defender.mag_power.GetValue]%\n¦ª´ª¬² ±²ª¢®°ª¾ ©¬®ª°°ª¾¯: [defender.mag_resistance.GetValue]%\n¦ª´ª¬² ²¶°²ª ©¬®ª°°ªþ: [defender.mag_accuracy.GetValue]% [defender.SpellAccuracy]\n¦ª´ª¬² ³¬®°°ª¾ ² ©¬®ª°°ªþ: [defender.mag_evasion.GetValue]% [defender.SpellEvasion] \n[defender.DodgedSpell]§!"
+ magic_duel.1.a:0 "‰ª©°²ª ©¬®ª°°ª  [Root.duelabjuration]"
+ magic_duel.1.b:0 "‰ª©°²ª ©¬®ª°°ª  [Root.duelconjuration]"
+ magic_duel.1.c:0 "‰ª©°²ª ©¬®ª°°ª  [Root.dueldivination]"
+ magic_duel.1.e:0 "‰ª©°²ª ©¬®ª°°ª  [Root.duelenchantment]"
+ magic_duel.1.f:0 "‰ª©°²ª ©¬®ª°°ª  [Root.duelevocation]"
+ magic_duel.1.g:0 "‰ª©°²ª ©¬®ª°°ª  [Root.duelillusion]"
+ magic_duel.1.h:0 "‰ª©°²ª ©¬®ª°°ª  [Root.duelnecromancy]"
+ magic_duel.1.i:0 "‰ª©°²ª ©¬®ª°°ª  [Root.dueltransmutation]"
+ magic_duel.1.j:0 "Ï²°¢ª²¿ ¯°³"
  
- magic_duel.2.t:0 "Spell Grimoire\n£icon_magic_duel_background£"
- magic_duel.2.d:0 "§w[attacker.Monarch.GetName]------------\nHitpoints: [attacker.current_hp.GetValue]/[attacker.mag_hp.GetValue]§G(+[attacker.mag_hot.GetValue])§! §R(-[attacker.mag_dot.GetValue])§! [attacker.HitBySpell]\nMana: [attacker.current_mana.GetValue]/[attacker.mag_mana.GetValue]  [attacker.RegenMana]\nShield: [attacker.mag_shield.GetValue] [attacker.ShieldValue]\nSpell Power Modifier: [attacker.mag_power.GetValue]%\nSpell Resistance Modifier: [attacker.mag_resistance.GetValue]%\nSpell Accuracy Modifier: [attacker.mag_accuracy.GetValue]% [attacker.SpellAccuracy]\nSpell Evasion Modifier: [attacker.mag_evasion.GetValue]% [attacker.SpellEvasion] \n[attacker.DodgedSpell]\n\n[defender.Monarch.GetName]------------\nHitpoints: [defender.current_hp.GetValue]/[defender.mag_hp.GetValue]§G (+[defender.mag_hot.GetValue])§! §R(-[defender.mag_dot.GetValue])§! [defender.HitBySpell]\nMana: [defender.current_mana.GetValue]/[defender.mag_mana.GetValue] [defender.RegenMana]\nShield: [defender.mag_shield.GetValue] [defender.ShieldValue]\nSpell Power Modifier: [defender.mag_power.GetValue]%\nSpell Resistance Modifier: [defender.mag_resistance.GetValue]%\nSpell Accuracy Modifier: [defender.mag_accuracy.GetValue]% [defender.SpellAccuracy]\nSpell Evasion Modifier: [defender.mag_evasion.GetValue]% [defender.SpellEvasion] \n[defender.DodgedSpell]§!"
- magic_duel.2.a:0 "Go Back"
- magic_duel.2.aa:0 "Snare"
- magic_duel.2.ab:0 "Mage Armour"
- magic_duel.2.ac:0 "Freedom"
- magic_duel.2.ad:0 "Awakening"
- magic_duel.2.ba:0 "Acid Splash"
- magic_duel.2.bb:0 "Flaming Sphere"
- magic_duel.2.bc:0 "Insect Plague"
- magic_duel.2.bd:0 "Reality Shift"
- magic_duel.2.ca:0 "Gift of Alacrity"
- magic_duel.2.cb:0 "Detect Thoughts"
- magic_duel.2.cc:0 "Insect Plague"
- magic_duel.2.cd:0 "Foresight"
- magic_duel.2.da:0 "Encode Thoughts"
- magic_duel.2.db:0 "Power Word: Shield"
- magic_duel.2.dc:0 "Power Word: Pain"
- magic_duel.2.dd:0 "Psychic Scream"
- magic_duel.2.ea:0 "Fireball"
- magic_duel.2.eb:0 "Lightning Bolt"
- magic_duel.2.ec:0 "Ice Storm"
- magic_duel.2.ed:0 "Power Word: Heal"
- magic_duel.2.fa:0 "Minor Illusions"
- magic_duel.2.fb:0 "Phantasmal Killer"
- magic_duel.2.fc:0 "Mislead"
- magic_duel.2.fd:0 "Mirror Images"
- magic_duel.2.ga:0 "Necro Touch"
- magic_duel.2.gb:0 "Bestow Curse"
- magic_duel.2.gc:0 "Contagion"
- magic_duel.2.gd:0 "Enervation"
- magic_duel.2.ia:0 "Thorn Whip"
- magic_duel.2.ib:0 "Guardian"
- magic_duel.2.ic:0 "Magic Empowerment"
- magic_duel.2.id:0 "Regenerate"
+ magic_duel.2.t:0 "‚ª¯³ ©¬®ª°°ªþ\n£icon_magic_duel_background£"
+ magic_duel.2.d:0 "§w[attacker.Monarch.GetName]------------\n¶¬ª ©¦¢¿¾: [attacker.current_hp.GetValue]/[attacker.mag_hp.GetValue]§G(+[attacker.mag_hot.GetValue])§! §R(-[attacker.mag_dot.GetValue])§! [attacker.HitBySpell]\n°: [attacker.current_mana.GetValue]/[attacker.mag_mana.GetValue]  [attacker.Regen°]\n•ª²: [attacker.mag_shield.GetValue] [attacker.ShieldValue]\n¦ª´ª¬² ª®º ©¬®ª°°ªþ: [attacker.mag_power.GetValue]%\n¦ª´ª¬² ±²ª¢®°ª¾ ©¬®ª°°ª¾¯: [attacker.mag_resistance.GetValue]%\n¦ª´ª¬² ²¶°²ª ©¬®ª°°ªþ: [attacker.mag_accuracy.GetValue]% [attacker.SpellAccuracy]\n¦ª´ª¬² ³¬®°°ª¾ ² ©¬®ª°°ªþ: [attacker.mag_evasion.GetValue]% [attacker.SpellEvasion] \n[attacker.DodgedSpell]\n\n[defender.Monarch.GetName]------------\n¶¬ª ©¦¢¿¾: [defender.current_hp.GetValue]/[defender.mag_hp.GetValue]§G (+[defender.mag_hot.GetValue])§! §R(-[defender.mag_dot.GetValue])§! [defender.HitBySpell]\n°: [defender.current_mana.GetValue]/[defender.mag_mana.GetValue] [defender.Regen°]\n•ª²: [defender.mag_shield.GetValue] [defender.ShieldValue]\n¦ª´ª¬² ª®º ©¬®ª°°ªþ: [defender.mag_power.GetValue]%\n¦ª´ª¬² ±²ª¢®°ª¾ ©¬®ª°°ª¾¯: [defender.mag_resistance.GetValue]%\n¦ª´ª¬² ²¶°²ª ©¬®ª°°ªþ: [defender.mag_accuracy.GetValue]% [defender.SpellAccuracy]\n¦ª´ª¬² ³¬®°°ª¾ ² ©¬®ª°°ªþ: [defender.mag_evasion.GetValue]% [defender.SpellEvasion] \n[defender.DodgedSpell]§!"
+ magic_duel.2.a:0 "©¦"
+ magic_duel.2.aa:0 "Ôª®¬"
+ magic_duel.2.ab:0 "ƒ±ª ¯¥"
+ magic_duel.2.ac:0 "Ô¢¡¦"
+ magic_duel.2.ad:0 "‰¡³¨¦°ª"
+ magic_duel.2.ba:0 "€º©¥ª ¬ª®²º"
+ magic_duel.2.bb:0 "‰º®½¸ªþ Œ"
+ magic_duel.2.bc:0 "Œ²¢ª °¬¯º"
+ magic_duel.2.bd:0 "Ô¦¢ª¥ ®¿°²ª"
+ magic_duel.2.ca:0 "ƒ ¥²¢°²ª"
+ magic_duel.2.cb:0 "¡°³¨°ª ¯º®þ"
+ magic_duel.2.cc:0 "Œ²¢ª °¬¯º"
+ magic_duel.2.cd:0 "‰¦¢ª¦°ª"
+ magic_duel.2.da:0 "…Œª´¢²¿ ¯º®ª"
+ magic_duel.2.db:0 "Ô®¢ Ôª®º: ¸ª²"
+ magic_duel.2.dc:0 "Ô®¢ Ôª®º: ¡®¿"
+ magic_duel.2.dd:0 "‰ªª¶¬ªþ ¬ª¬"
+ magic_duel.2.ea:0 "¥°°°ºþ Œ"
+ magic_duel.2.eb:0 "®°ª¾"
+ magic_duel.2.ec:0 "‚¦"
+ magic_duel.2.ed:0 "Ô®¢ Ôª®º: ªµ®°ª"
+ magic_duel.2.fa:0 "®¾ ª®®½©ª¾"
+ magic_duel.2.fb:0 "Ï¡¨¯ºþ ³¡ªþµ"
+ magic_duel.2.fc:0 "Ê®¿Œª¢ºþ ¦¢þ°ª¬"
+ magic_duel.2.fd:0 "²¨°ª¾"
+ magic_duel.2.ga:0 "¬²ª¶¬ ¬°ª"
+ magic_duel.2.gb:0 "‰¬®¾²ª"
+ magic_duel.2.gc:0 "…¨°ª"
+ magic_duel.2.gd:0 "¡ª®ª¢°ª"
+ magic_duel.2.ia:0 "Ù°¢ºþ ¬°³²"
+ magic_duel.2.ib:0 "Û°ª²®¿"
+ magic_duel.2.ic:0 "‹ª®°ª ¯¥ªª"
+ magic_duel.2.id:0 "Ð¥°µª¾"
  
- magic_duel.4.t:0 "[Root.Monarch.GetName] Triumphs!"
- magic_duel.4.d:0 "[Root.Monarch.GetName] stands as the clear victor in this duel of arcane prowess. Such an impressive showing is only to be expected of our great [Root.Monarch.GetTitle], of course."
- magic_duel.4.a:0 "Glory to the victor!"
+ magic_duel.4.t:0 "[Root.Monarch.GetName] ²¨²¢³²!"
+ magic_duel.4.d:0 "[Root.Monarch.GetName] ²® ¾¢°º¯ ±¡¦ª²®¯ ¢ ¼²þ ¦³¼®ª ¯¥ª¶¬¥ ¯²²¢. Ð©³¯²¾, ²¬¥ ¢±¶²®¾½¸¥ ¢º²³±®°ª¾ ¯¨° ²®¿¬ ¨ª¦²¿ ² °Œ¥ ¢®ª¬¥ [Root.Monarch.GetTitle]."
+ magic_duel.4.a:0 "Ô®¢ ±¡¦ª²®½!"
  
- magic_duel.5.t:0 "Draw!"
- magic_duel.5.d:0 "[Root.Monarch.GetName] fought valiantly, but sadly [Root.Monarch.GetHerHis] opponent was just as powerful. They traded even blows until finally both parties were too drained to continue the fight."
- magic_duel.5.a:0 "Damn!"
+ magic_duel.5.t:0 "ª¶¿¾!"
+ magic_duel.5.d:0 "[Root.Monarch.GetName]¯³¨²¢°° ¨®¾, °, ¬ ¨®°ª½, [Root.Monarch.GetHerHis] ±²ª¢°ª¬ ¡º® ° ¯° ª®°. °ª ¡¯°ª¢®ª¿ ³¦¯ª, ±¬, °¬°µ, ¡ ²°º ° ¡º®ª ®ªŒ¬¯ ª²¸°º, ¶²¡º ±¦®¨²¿ ¡þ."
+ magic_duel.5.a:0 "‰¬®¾²¿!"
  
- magic_duel.6.t:0 "[Root.Monarch.GetName] Lost!"
- magic_duel.6.d:0 "[Root.Monarch.GetName] was defeated in this duel of arcane prowess. We are, of course, entirely shocked to see that this has happened. No doubt [Root.Monarch.GetHerHis] opponent acted dishonorably, and we will be sure to create an appropriate story to explain this turn of events by the time we return to court."
- magic_duel.6.a:0 "Terrible!"
+ magic_duel.6.t:0 "[Root.Monarch.GetName] ±ª¥®!"
+ magic_duel.6.d:0 "[Root.Monarch.GetName] ±²±® ±¨°ª ¢ ¼²þ ¦³¼®ª ¯¥ª¶¬¥ ¯²²¢. º, ¬°¶°, ¢Œ°° ±²¾°º ²¯, ¶² ¼² ±ª©Œ®. ¯°°°, [Root.Monarch.GetHerHis] ±²ª¢°ª¬ ±²³±ª® ¡¶²°, ª ¯º ¡¾©²®¿° ©¦¦ª¯ ²¢²²¢³½¸³½ ª²ª½, ¶²¡º ¡¹¾°ª²¿ ²¬þ ±¢² ¡º²ªþ ¬ ¯¯°²³ °Œ¥ ¢©¢¸°ª¾ ¬ ¦¢³."
+ magic_duel.6.a:0 "‹¨°!"
  
- abjuration_legendary:0 "§OAbjuration§!"
- abjuration_renowned:0 "§TAbjuration§!"
- abjuration_talented:0 "§GAbjuration§!"
- abjuration_efficient:0 "§gAbjuration§!"
+ abjuration_legendary:0 "§O¥¨¦°ª§!"
+ abjuration_renowned:0 "§T¥¨¦°ª§!"
+ abjuration_talented:0 "§G¥¨¦°ª§!"
+ abjuration_efficient:0 "§g¥¨¦°ª§!"
  
- conjuration_legendary:0 "§OConjuration§!"
- conjuration_renowned:0 "§TConjuration§!"
- conjuration_talented:0 "§GConjuration§!"
- conjuration_efficient:0 "§gConjuration§!"
+ conjuration_legendary:0 "§O‰ª©º¢§!"
+ conjuration_renowned:0 "§T‰ª©º¢§!"
+ conjuration_talented:0 "§G‰ª©º¢§!"
+ conjuration_efficient:0 "§g‰ª©º¢§!"
  
- divination_legendary:0 "§ODivination§!"
- divination_renowned:0 "§TDivination§!"
- divination_talented:0 "§GDivination§!"
- divination_efficient:0 "§gDivination§!"
+ divination_legendary:0 "§O‰ªµ°ª§!"
+ divination_renowned:0 "§T‰ªµ°ª§!"
+ divination_talented:0 "§G‰ªµ°ª§!"
+ divination_efficient:0 "§g‰ªµ°ª§!"
  
- enchantment_legendary:0 "§OEnchantment§!"
- enchantment_renowned:0 "§TEnchantment§!"
- enchantment_talented:0 "§GEnchantment§!"
- enchantment_efficient:0 "§gEnchantment§!"
+ enchantment_legendary:0 "§O¶¢°ª§!"
+ enchantment_renowned:0 "§T¶¢°ª§!"
+ enchantment_talented:0 "§G¶¢°ª§!"
+ enchantment_efficient:0 "§g¶¢°ª§!"
  
- evocation_legendary:0 "§OEvocation§!"
- evocation_renowned:0 "§TEvocation§!"
- evocation_talented:0 "§GEvocation§!"
- evocation_efficient:0 "§gEvocation§!"
+ evocation_legendary:0 "§OÏ±®¸°ª§!"
+ evocation_renowned:0 "§TÏ±®¸°ª§!"
+ evocation_talented:0 "§GÏ±®¸°ª§!"
+ evocation_efficient:0 "§gÏ±®¸°ª§!"
  
- illusion_legendary:0 "§OIllusion§!"
- illusion_renowned:0 "§TIllusion§!"
- illusion_talented:0 "§GIllusion§!"
- illusion_efficient:0 "§gIllusion§!"
+ illusion_legendary:0 "§O†®®½©ª¾§!"
+ illusion_renowned:0 "§T†®®½©ª¾§!"
+ illusion_talented:0 "§G†®®½©ª¾§!"
+ illusion_efficient:0 "§g†®®½©ª¾§!"
  
- necromancy_legendary:0 "§ONecromancy§!"
- necromancy_renowned:0 "§TNecromancy§!"
- necromancy_talented:0 "§GNecromancy§!"
- necromancy_efficient:0 "§gNecromancy§!"
+ necromancy_legendary:0 "§O¬¯°²ª¾§!"
+ necromancy_renowned:0 "§T¬¯°²ª¾§!"
+ necromancy_talented:0 "§G¬¯°²ª¾§!"
+ necromancy_efficient:0 "§g¬¯°²ª¾§!"
  
- transmutation_legendary:0 "§OTransmutation§!"
- transmutation_renowned:0 "§TTransmutation§!"
- transmutation_talented:0 "§GTransmutation§!"
- transmutation_efficient:0 "§gTransmutation§!"
+ transmutation_legendary:0 "§OÙ°¯³²µª¾§!"
+ transmutation_renowned:0 "§TÙ°¯³²µª¾§!"
+ transmutation_talented:0 "§GÙ°¯³²µª¾§!"
+ transmutation_efficient:0 "§gÙ°¯³²µª¾§!"
  
- loc_dodged:0 "§G[Root.Monarch.GetName] Dodged!§!"
- loc_hitted:0 "§R[Root.Monarch.GetName] was Directly Hit!§!"
- loc_hit_by_spell:0 "§R[Root.Monarch.GetName] got Hit for §w[Root.printDamage.GetValue]§! Damage!§!"
- increased_spell_evasion:0 "§G[Root.Monarch.GetName] Spell Evasion was increased by §w[Root.printSpellEvasion.GetValue]%§!§!"
- decreased_spell_evasion:0 "§R[Root.Monarch.GetName] Spell Evasion was decreased by §w[Root.printSpellEvasion.GetValue]%§!§!"
- increased_spell_accuracy:0 "§G[Root.Monarch.GetName] Spell Accuracy was increased by §w[Root.printSpellAccuracy.GetValue]%§!§!"
- decreased_spell_accuracy:0 "§R[Root.Monarch.GetName] Spell Accuracy was decreased by §w[Root.printSpellAccuracy.GetValue]%§!§!"
- regen_mana:0 "§d[Root.Monarch.GetName] regained §w[Root.printMana.GetValue]§! mana§!"
- increased_shield:0 "§G[Root.Monarch.GetName] Shield was increased by §w[Root.printShield.GetValue]§!§!"
- decreased_shield:0 "§R[Root.Monarch.GetName] Shield was decreased by §w[Root.printShield.GetValue]§!§!"
+ loc_dodged:0 "§G[Root.Monarch.GetName] ³¬®°ª®¾!§!"
+ loc_hitted:0 "§R[Root.Monarch.GetName] ±®³¶ª® ±¾¯þ ³¦!§!"
+ loc_hit_by_spell:0 "§R[Root.Monarch.GetName] ±®³¶ª® ³¦  ³°¯ ¢ §w[Root.printDamage.GetValue]§!!§!"
+ increased_spell_evasion:0 "§G[Root.Monarch.GetName] ‹¬®°°ª ² ©¬®ª°°ªþ ³¢®ª¶° ° §w[Root.printSpellEvasion.GetValue]%§!§!"
+ decreased_spell_evasion:0 "§R[Root.Monarch.GetName] ³¬®°°ª ² ©¬®ª°°ªþ °ª¨° ° §w[Root.printSpellEvasion.GetValue]%§!§!"
+ increased_spell_accuracy:0 "§G[Root.Monarch.GetName] Ù¶°²¿ ©¬®ª°°ªþ ³¢®ª¶° ° §w[Root.printSpellAccuracy.GetValue]%§!§!"
+ decreased_spell_accuracy:0 "§R[Root.Monarch.GetName] Ù¶°²¿ ©¬®ª°°ªþ °ª¨° ° §w[Root.printSpellAccuracy.GetValue]%§!§!"
+ regen_mana:0 "§d[Root.Monarch.GetName] ¥°ª¢® §w[Root.printMana.GetValue]§! ¯°º§!"
+ increased_shield:0 "§G[Root.Monarch.GetName] •ª² ¡º® ³¢®ª¶° ° §w[Root.printShield.GetValue]§!§!"
+ decreased_shield:0 "§R[Root.Monarch.GetName] •ª² ¡º® ³¯°¿Œ° ° §w[Root.printShield.GetValue]§!§!"
  no_duel_loc:0 ""
  # loc_not_dodged:0 "§R[Root.Monarch.GetName] Was Hit!§!"
  
@@ -118,75 +118,75 @@
  
  # When Creating a Spell, keep in mind the "value" of a mana point. So the whole system stay consistent. The default spell should be calculated as costing 10 mana
  #
- # 1 Mana = 1 Damage = 1 Shield = 0.25 Accuracy = 0.25 Evasion = 0.2 DoT = 0.2 HoT = 0.2 Power = 0.8 Heal
+ # 1 ° = 1 Damage = 1 Shield = 0.25 Accuracy = 0.25 Evasion = 0.2 DoT = 0.2 HoT = 0.2 Power = 0.8 †µ®°ª
  #
- # Abjuration: 20% More Shield 15% More Evasion Buff
- # Conjuration: 15% More Shield 20% More Evasion Buff
- # Divination: 30% More Accuracy Buff 30% More Evasion Buff
- # Enchantment: 20% More Accuracy Debuff 30% More Evasion Debuff
- # Evocation: 30% More Direct Damage
- # Illusion: 30% More Accuracy Debuff 30% More Evasion Buff
- # Necromancy: 30% More DoT
- # Transmutation: 10% More Everything
+ # ¥¨¦°ª: 20% More Shield 15% More Evasion Buff
+ # ‰ª©º¢: 15% More Shield 20% More Evasion Buff
+ # ‰ªµ°ª: 30% More Accuracy Buff 30% More Evasion Buff
+ # ¶¢°ª: 20% More Accuracy Debuff 30% More Evasion Debuff
+ # Ï±®¸°ª: 30% More ‰¾¯þ ³°
+ # †®®½©ª¾: 30% More Accuracy Debuff 30% More Evasion Buff
+ # ¬¯°²ª¾: 30% More DoT
+ # Ù°¯³²µª¾: 10% More Everything
  #
  # Spell Rank should also affect the mana efficiency in an additive manner, by 10% Increment.
- # So a Legendary Evocation spell would deal (30+30)% More damage per mana, so 1 mana = 1.6 damage, while a talented one would deal (30+10%) more damage per mana (so 1.4)
+ # So a Legendary Ï±®¸°ª spell would deal (30+30)% More damage per mana, so 1 mana = 1.6 damage, while a talented one would deal (30+10%) more damage per mana (so 1.4)
  #
  # You're free to distribute the mana pool of the spell however you want for multiple effect spell. Here is an exemple :
  #
- # Legendary Necromancy Spell that apply a DoT and Shield you for 100 mana:
- # 70 mana for the DoT = 70 x (1 + 0.2 + 0.3) x 0.2 = 21 Damage Per Turn
+ # Legendary ¬¯°²ª¾ Spell that apply a DoT and Shield you for 100 mana:
+ # 70 mana for the DoT = 70 x (1 + 0.2 + 0.3) x 0.2 = 21 ‹° © ¦
  # 30 mana for the Shield = 30 x (1 + 0 + 0.3) x 1 = 39 Shield
  #
  # To make shit looks good, round number as you see fit. In the above case, it would be 20 Dot and 40 Shield. You're free to do that how you want, or not round at all
  
- regen_mana_tooltip:0 "§YSkip§! this turn, regenerating §G10.0%§! of [Root.Monarch.GetName] §MMaximum Mana§!"
- available_spell_tooltip:0 "\n§GAvailable Spells:§!\n§Y----------§!"
- casting_abjuration_0:0 "§HSnare§!\nEnemy Spell Evasion: §R-2.5%§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_abjuration_1:0 "§HMage Armour§!\nSpell Shield: §G+40.0§!\nMana Cost: §T30§!/§M[Root.current_mana.GetValue]§!\n"
- casting_abjuration_2:0 "§HFreedom§!\nSpell Evasion: §G+20.0%§!\nMana Cost: §T50§!/§M[Root.current_mana.GetValue]§!\n"
- casting_abjuration_3:0 "§HAwakening§!\nSpell Power: §G+20.0%§!\nSpell Accuracy: §G+5.0%§!\nMana Cost: §T80§!/§M[Root.current_mana.GetValue]§!\n"
+ regen_mana_tooltip:0 "§Y‰±³²ª²¿§! ¢ ¼²² ©, ¢²°¢ª¢ §G10.0%§! ² §M¯¬ª¯³¯ ¯°º§! ±¢ª²®¾ [Root.Monarch.GetName]"
+ available_spell_tooltip:0 "\n§Gƒ²³±°º ©¬®ª°°ª¾:§!\n§Y----------§!"
+ casting_abjuration_0:0 "§HÔª®¬§!\n‹¬®°°ª ² ©¬®ª°°ªþ ±²ª¢°ª¬: §R-2.5%§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_abjuration_1:0 "§Hƒ±ª ¯¥§!\n…¬®ª°²®¿°ºþ ¸ª²: §G+40.0§!\nÔ²ª¯²¿ ¯°º: §T30§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_abjuration_2:0 "§HÔ¢¡¦§!\n‹¬®°°ª ² ©¬®ª°°ªþ: §G+20.0%§!\nÔ²ª¯²¿ ¯°º: §T50§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_abjuration_3:0 "§H‰¡³¨¦°ª§!\nSpell Power: §G+20.0%§!\nÙ¶°²¿ ©¬®ª°°ªþ: §G+5.0%§!\nÔ²ª¯²¿ ¯°º: §T80§!/§M[Root.current_mana.GetValue]§!\n"
  
- casting_conjuration_0:0 "§HAcid Splash§!\nDirect Damage: §R8.0§!\nDamage Per Turn: §R0.4§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_conjuration_1:0 "§HFlaming Sphere§!\nDirect Damage: §R22.0§!\nMana Cost: §T20§!/§M[Root.current_mana.GetValue]§!\n"
- casting_conjuration_2:0 "§HInsect Plague§!\nDamage Per Turn: §R6.0§!\nEnemy Spell Accuracy: §R-3.0%§!\nMana Cost: §T35§!/§M[Root.current_mana.GetValue]§!\n"
- casting_conjuration_3:0 "§HReality Shift§!\nDirect Damage: §R40.0§!\nSpell Shield: §G+43.5§!\nMana Cost: §T60§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_conjuration_0:0 "§H€º©¥ª ¬ª®²º§!\n‰¾¯þ ³°: §R8.0§!\n‹° © ¦: §R0.4§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_conjuration_1:0 "§H‰º®½¸ªþ Œ§!\n‰¾¯þ ³°: §R22.0§!\nÔ²ª¯²¿ ¯°º: §T20§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_conjuration_2:0 "§HŒ²¢ª °¬¯º§!\n‹° © ¦: §R6.0§!\nÙ¶°²¿ ¢¨¬¥ ©¬®ª°°ª¾: §R-3.0%§!\nÔ²ª¯²¿ ¯°º: §T35§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_conjuration_3:0 "§HÔ¦¢ª¥ ®¿°²ª§!\n‰¾¯þ ³°: §R40.0§!\n…¬®ª°²®¿°ºþ ¸ª²: §G+43.5§!\nÔ²ª¯²¿ ¯°º: §T60§!/§M[Root.current_mana.GetValue]§!\n"
  
- casting_divination_0:0 "§HGift of Alacrity§!\nSpell Evasion: §G+7.5%§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_divination_1:0 "§HDetect Thoughts§!\nEnemy Spell Accuracy: §R-10.0%§!\nMana Cost: §T30§!/§M[Root.current_mana.GetValue]§!\n"
- casting_divination_2:0 "§HTrue Sight§!\nSpell Accuracy: §G+12.0%§!\nMana Cost: §T30§!/§M[Root.current_mana.GetValue]§!\n"
- casting_divination_3:0 "§HForesight§!\nSpell Accuracy: §G+25.0%§!\nSpell Power: §G+5.0%§!\nMana Cost: §T50§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_divination_0:0 "§Hƒ ¥²¢°²ª§!\n‹¬®°°ª ² ©¬®ª°°ªþ: §G+7.5%§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_divination_1:0 "§H¡°³¨°ª ¯º®þ§!\nÙ¶°²¿ ¢¨¬¥ ©¬®ª°°ª¾: §R-10.0%§!\nÔ²ª¯²¿ ¯°º: §T30§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_divination_2:0 "§HTrue Sight§!\nÙ¶°²¿ ©¬®ª°°ªþ: §G+12.0%§!\nÔ²ª¯²¿ ¯°º: §T30§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_divination_3:0 "§H‰¦¢ª¦°ª§!\nÙ¶°²¿ ©¬®ª°°ªþ: §G+25.0%§!\nSpell Power: §G+5.0%§!\nÔ²ª¯²¿ ¯°º: §T50§!/§M[Root.current_mana.GetValue]§!\n"
  
- casting_enchantment_0:0 "§HEncode Thoughts§!\nSpell Accuracy: §G+2.5%§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_enchantment_1:0 "§HPower Word: Shield§!\nSpell Shield: §G+27.5§!\nMana Cost: §T25§!/§M[Root.current_mana.GetValue]§!\n"
- casting_enchantment_2:0 "§HPower Word: Pain§!\nDamage Per Turn: §R5.0§!\nEnemy Spell Accuracy: §R-7.5%§!\nMana Cost: §T40§!/§M[Root.current_mana.GetValue]§!\n"
- casting_enchantment_3:0 "§HPsychic Scream§!\nDirect Damage: §R50.0§!\nEnemy Spell Accuracy: §R-10.0%§!\nMana Cost: §T65§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_enchantment_0:0 "§H…Œª´¢²¿ ¯º®ª§!\nÙ¶°²¿ ©¬®ª°°ªþ: §G+2.5%§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_enchantment_1:0 "§HÔ®¢ Ôª®º: ¸ª²§!\n…¬®ª°²®¿°ºþ ¸ª²: §G+27.5§!\nÔ²ª¯²¿ ¯°º: §T25§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_enchantment_2:0 "§HÔ®¢ Ôª®º: ¡®¿§!\n‹° © ¦: §R5.0§!\nÙ¶°²¿ ¢¨¬¥ ©¬®ª°°ª¾: §R-7.5%§!\nÔ²ª¯²¿ ¯°º: §T40§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_enchantment_3:0 "§H‰ªª¶¬ªþ ¬ª¬§!\n‰¾¯þ ³°: §R50.0§!\nÙ¶°²¿ ¢¨¬¥ ©¬®ª°°ª¾: §R-10.0%§!\nÔ²ª¯²¿ ¯°º: §T65§!/§M[Root.current_mana.GetValue]§!\n"
  
- casting_evocation_0:0 "§HFireball§!\nDirect Damage: §R13.0§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_evocation_1:0 "§HLightning Bolt§!\nDirect Damage: §R20.0§!\nSpell Power: §G+2.5%§!\nMana Cost: §T25§!/§M[Root.current_mana.GetValue]§!\n"
- casting_evocation_2:0 "§HIce Storm§!\nDirect Damage: §R50.0§!\nEnemy Evasion: §R-6.0%§!\nMana Cost: §T55§!/§M[Root.current_mana.GetValue]§!\n"
- casting_evocation_3:0 "§HPower Word: Heal§!\nHeal: §G+50.0§!\nHeal Per Turn: §G+6.5§!\nMana Cost: §T75§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_evocation_0:0 "§H¥°°°ºþ Œ§!\n‰¾¯þ ³°: §R13.0§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_evocation_1:0 "§H®°ª¾§!\n‰¾¯þ ³°: §R20.0§!\nSpell Power: §G+2.5%§!\nÔ²ª¯²¿ ¯°º: §T25§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_evocation_2:0 "§H‚¦§!\n‰¾¯þ ³°: §R50.0§!\n‹¬®°°ª ±²ª¢°ª¬: §R-6.0%§!\nÔ²ª¯²¿ ¯°º: §T55§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_evocation_3:0 "§HÔ®¢ Ôª®º: †µ®°ª§!\n†µ®°ª: §G+50.0§!\n†µ®°ª © ¦: §G+6.5§!\nÔ²ª¯²¿ ¯°º: §T75§!/§M[Root.current_mana.GetValue]§!\n"
  
- casting_illusion_0:0 "§HMinor Illusion§!\nEnemy Spell Accuracy: §R-2.5%§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_illusion_1:0 "§HPhantasmal Killer§!\nDirect Damage: §R22.0§!\nSpell Evasion: §G+3.5%§!\nMana Cost: §T20§!/§M[Root.current_mana.GetValue]§!\n"
- casting_illusion_2:0 "§HMislead§!\nSpell Evasion: §G+15.0%§!\nMana Cost: §T40§!/§M[Root.current_mana.GetValue]§!\n"
- casting_illusion_3:0 "§HMirror Images§!\nSpell Power: §G+15.0%§!\nSpell Evasion: §G+25.0%§!\nMana Cost: §T120§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_illusion_0:0 "§HMinor †®®½©ª¾§!\nÙ¶°²¿ ¢¨¬¥ ©¬®ª°°ª¾: §R-2.5%§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_illusion_1:0 "§HÏ¡¨¯ºþ ³¡ªþµ§!\n‰¾¯þ ³°: §R22.0§!\n‹¬®°°ª ² ©¬®ª°°ªþ: §G+3.5%§!\nÔ²ª¯²¿ ¯°º: §T20§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_illusion_2:0 "§HÊ®¿Œª¢ºþ ¦¢þ°ª¬§!\n‹¬®°°ª ² ©¬®ª°°ªþ: §G+15.0%§!\nÔ²ª¯²¿ ¯°º: §T40§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_illusion_3:0 "§H²¨°ª¾§!\nSpell Power: §G+15.0%§!\n‹¬®°°ª ² ©¬®ª°°ªþ: §G+25.0%§!\nÔ²ª¯²¿ ¯°º: §T120§!/§M[Root.current_mana.GetValue]§!\n"
  
- casting_necromancy_0:0 "§HNecro Touch§!\nDamage Per Turn: §R3.0§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_necromancy_1:0 "§HBestow Curse§!\nDamage Per Turn: §R4.2§!\nEnemy Spell Accuracy: §R-2.75%§!\nMana Cost: §T25§!/§M[Root.current_mana.GetValue]§!\n"
- casting_necromancy_2:0 "§HContagion§!\nDamage Per Turn: §R10.5§!\nMana Cost: §T35§!/§M[Root.current_mana.GetValue]§!\n"
- casting_necromancy_3:0 "§HEnervation§!\nDamage Per Turn: §R16.0§!\nEnemy Spell Power: §R-8.0%§!\nMana Cost: §T80§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_necromancy_0:0 "§H¬²ª¶¬ ¬°ª§!\n‹° © ¦: §R3.0§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_necromancy_1:0 "§H‰¬®¾²ª§!\n‹° © ¦: §R4.2§!\nÙ¶°²¿ ¢¨¬¥ ©¬®ª°°ª¾: §R-2.75%§!\nÔ²ª¯²¿ ¯°º: §T25§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_necromancy_2:0 "§H…¨°ª§!\n‹° © ¦: §R10.5§!\nÔ²ª¯²¿ ¯°º: §T35§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_necromancy_3:0 "§H¡ª®ª¢°ª§!\n‹° © ¦: §R16.0§!\nÔª® ¢¨¬¥ ©¬®ª°°ª¾: §R-8.0%§!\nÔ²ª¯²¿ ¯°º: §T80§!/§M[Root.current_mana.GetValue]§!\n"
  
- casting_transmutation_0:0 "§HThorn Whip§!\nDirect Damage: §R10.0§!\nDamage Per Turn: §R0.2§!\nMana Cost: §T0§!/§M[Root.current_mana.GetValue]§!\n"
- casting_transmutation_1:0 "§HGuardian§!\nSpell Shield: §G+42.0§!\nMana Cost: §T35§!/§M[Root.current_mana.GetValue]§!\n"
- casting_transmutation_2:0 "§HMagic Empowerment§!\nSpell Power: §G+13.0%§!\nMana Cost: §T50§!/§M[Root.current_mana.GetValue]§!\n"
- casting_transmutation_3:0 "§HRegenerate§!\nHeal Per Turn: §G+21.0§!\nMana Cost: §T75§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_transmutation_0:0 "§HÙ°¢ºþ ¬°³²§!\n‰¾¯þ ³°: §R10.0§!\n‹° © ¦: §R0.2§!\nÔ²ª¯²¿ ¯°º: §T0§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_transmutation_1:0 "§HÛ°ª²®¿§!\n…¬®ª°²®¿°ºþ ¸ª²: §G+42.0§!\nÔ²ª¯²¿ ¯°º: §T35§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_transmutation_2:0 "§H‹ª®°ª ¯¥ªª§!\nSpell Power: §G+13.0%§!\nÔ²ª¯²¿ ¯°º: §T50§!/§M[Root.current_mana.GetValue]§!\n"
+ casting_transmutation_3:0 "§HÐ¥°µª¾§!\n†µ®°ª © ¦: §G+21.0§!\nÔ²ª¯²¿ ¯°º: §T75§!/§M[Root.current_mana.GetValue]§!\n"
  
  #Misc
- not_in_magic_duel_tooltip:0 "[This.Monarch.GetName] is not already engaged in a magic duel"
+ not_in_magic_duel_tooltip:0 "[This.Monarch.GetName] ° ³¶²¢³² ¢ ¯¥ª¶¬þ ¦³¼®ª"
  
  #Dip Actions
- magic_duel_title:0 "§dC'EST L'HEURE DU DUEL!§!"
- magic_duel_tooltip:0 "Defy [From.GetName] in singular duel!"
- magic_duel_desc:0 "We will beat the fuck out of him"
+ magic_duel_title:0 "§dÏÐ× ƒˆ× ƒ‹™ˆ†!§!"
+ magic_duel_tooltip:0 "€ª²¿ ¢º©¢ [From.GetName] ¢ ¦ª°¶°þ ¦³¼®ª!"
+ magic_duel_desc:0 "º ¢º¡¿¯ ª© °¥ ¢½ ¦³¿."
  

@@ -4,33 +4,33 @@
  ### Vampire Estate
  ########################
  ########################
- estate_vampires:0 "Vampires"
- estate_jiangshi:0 "Jiangshi"
- estate_vampires_desc:0 "This estate represents the vampires that reside in your country, whether it be ancient nobility entrenched since the birth of your nation or opportunistic migrants seeking for new hunting grounds, these creatures of the night can be a friend if you cater to their wishes, or an enemy if you oppose them in their desires.\n\n§T(Having §Rdisloyal (0-30 £estate_loyalty£) Vampires Estate§! will increase the chance of spawning §O(Adventurers Wanted!)§! §YVampires§!, which will can threaten your rule, and if applicable, §Rbreak the Masquerade§!.§!"
- estate_vampires_land_rights:0 "$ESTATE_NAME$ Land Rights"
- estate_vampires_ownership:0 "Vampires Land Ownership"
- vampires_influence_modifier:0 "Vampires Influence"
- vampires_loyalty_modifier:0 "Vampires Loyalty Equilibrium"
- vampire_ruler:0 "Vampire Ruler"
+ estate_vampires:0 "Ï¯±ªº"
+ estate_jiangshi:0 "Ë©¾°ª"
+ estate_vampires_desc:0 "™² ®¢ª ±¦²¢®¾² ¢¯±ª¢, ±¨ª¢½¸ª ¢ ¢Œþ ²°, ¡³¦¿ ² ¦¢°¾¾ ª²¬²ª¾, ³¬°ª¢Œ¾¾  ¯¯°² ¨¦°ª¾ ¢Œþ ²°º, ª®ª ®³¶þ°º ¯ª¥°²º, ª¸³¸ª °¢º ²°ª¶¿ª ³¥¦¿¾, ¼²ª ©¦°ª¾ °¶ª ¯¥³² ¡º²¿ ¬¬ ¦³©¿¾¯ª, ®ª ¢º ³¦¢®²¢¾² ª ¨®°ª¾, ²¬ ª ¢¥¯ª, ®ª ¢º ±²ª¢²ª² ª¯ ¢ ª ¨®°ª¾.\n\n§T(®ª¶ª §R°®¾®¿°¥ (0-30 £estate_loyalty£) ®¢ª¾ ¢¯±ª¢§! ³¢®ª¶ª² Œ° ±¾¢®°ª¾ ¡º²ª¾ §O(Ð©º¬ª¢½²¾ ¢°²½ª²º!)§!, ¬²º ¯¥³² ³¥¨²¿ ¢Œ¯³ ±¢®°ª½, ª ®ª ±°¦¡ª²¾, §R¢²¿ ¬¦§!.§!"
+ estate_vampires_land_rights:0 "…¯®¿°º ±¢ ®¢ª¾ $ESTATE_NAME$"
+ estate_vampires_ownership:0 "…¯®¿°º ¢®¦°ª¾ ¢¯±ª¢"
+ vampires_influence_modifier:0 "Ï®ª¾°ª ¢¯±ª¢"
+ vampires_loyalty_modifier:0 "Ð¢°¢°¾ ®¾®¿°²¿ ¢¯±ª¢"
+ vampire_ruler:0 "Ï¯±ª-±¢ª²®¿"
  
- vampire_lord_tooltip:0 "§GThe Vampire Lord will actively §YReduce§! the §YInfluence§! of other estates in your country.§!"
- is_a_vampire_tooltip:0 "Ruler is a §Yvampire§!."
- is_not_a_vampire_tooltip:0 "Ruler is not a §Yvampire§!."
- estate_vampies_gain_tooltip:0 "\nUnlocks the Vampires Estate.\n"
+ vampire_lord_tooltip:0 "§GÏ®¦º¬ ¢¯±ª¢ ¡³¦² ¬²ª¢° §Y°ª¨²¿§! §Y¢®ª¾°ª§! ¦³¥ª ®¢ªþ ¢ ¢Œþ ²°.§!"
+ is_a_vampire_tooltip:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y¢¯±ª¯§!."
+ is_not_a_vampire_tooltip:0 "‰¢ª²®¿ ° ¾¢®¾²¾ §Y¢¯±ª¯§!."
+ estate_vampies_gain_tooltip:0 "\nÐ©¡®¬ª³² ®¢ª ¢¯±ª¢.\n"
  
- EST_RULED_BY_VAMPIRE_RULER:0 "The country is ruled by a Vampire: §Y$VAL$%§!"
- EST_RULED_BY_VAMPIRE_RULER_LOY:0 "The country is ruled by a Vampire: "
- EST_VAMPIRIC_LORD:0 "A Vampire Lord undermines this estate's influence: §Y$VAL$%§!"
- EST_VAMPIRES_REFUSED_STATE_COLLUSION:0 "Refused State Collusion: "
- EST_VAMPIRES_REFUSED_BLOOD_GIFT:0 "Refused the Blood Gift: "
- EST_VAMPIRES_SUPPORTED_HUNTERS:0 "Supported Vampire Hunters: "
- EST_VAMPIRES_SUPPORTED_HUNTERS_INF:0 "Supported Vampire Hunters: §Y$VAL$%§!"
- EST_VAMPIRES_NOT_SUPPORTED_HUNTERS:0 "Refused to support Vampire Hunters: "
- EST_VAMPIRES_PROTECTED_VAMPIRES:0 "Protected Vampires: "
- EST_VAMPIRES_EMIGRES_CONTROL_STATE:0 "Vampire Emigres Control State: §Y$VAL$%§!"
- EST_VAMPIRES_EMIGRES_POPULATION_BOOM:0 "Emigres Population Boom: §Y$VAL$%§!"
- EST_VAMPIRES_ACCEPTED_EMIGRES:0 "Accepted Emigres: "
- EST_VAMPIRES_EMIGRES_CONTROL_STATE_CAP:0 "Emigres Control Capital State: §Y$VAL$%§!"
+ EST_RULED_BY_VAMPIRE_RULER:0 "Ô²°þ ±¢ª² ¢¯±ª: §Y$VAL$%§!"
+ EST_RULED_BY_VAMPIRE_RULER_LOY:0 "Ô²°þ ±¢ª² ¢¯±ª: "
+ EST_VAMPIRIC_LORD:0 "ˆ¦-¢¯±ª ±¦º¢² ¢®ª¾°ª ¼²¥ ®¢ª¾: §Y$VAL$%§!"
+ EST_VAMPIRES_REFUSED_STATE_COLLUSION:0 "²¬©®¾ ² ¥³¦²¢°°¥ ©¥¢: "
+ EST_VAMPIRES_REFUSED_BLOOD_GIFT:0 "²¬©®¾ ² ¦ ¬¢ª: "
+ EST_VAMPIRES_SUPPORTED_HUNTERS:0 "‰¦¦¨ª¢² ²°ª¬¢ ° ¢¯±ª¢: "
+ EST_VAMPIRES_SUPPORTED_HUNTERS_INF:0 "‰¦¦¨ª¢² ²°ª¬¢ ° ¢¯±ª¢: §Y$VAL$%§!"
+ EST_VAMPIRES_NOT_SUPPORTED_HUNTERS:0 "²¬©®¾ ±¦¦¨ª¢²¿ ²°ª¬¢ ° ¢¯±ª¢: "
+ EST_VAMPIRES_PROTECTED_VAMPIRES:0 "Ï¯±ªº ±¦ ©¸ª²þ: "
+ EST_VAMPIRES_EMIGRES_CONTROL_STATE:0 "™¯ª¥°²º-¢¯±ªº ¬°²®ª³½² ¥³¦²¢: §Y$VAL$%§!"
+ EST_VAMPIRES_EMIGRES_POPULATION_BOOM:0 "€³¯ ¼¯ª¥°²¬¥ °®°ª¾: §Y$VAL$%§!"
+ EST_VAMPIRES_ACCEPTED_EMIGRES:0 "‰ª°¾²º ¼¯ª¥°²º "
+ EST_VAMPIRES_EMIGRES_CONTROL_STATE_CAP:0 "™¯ª¥°²º ¬°²®ª³½² ²®ªµ³ ¥³¦²¢: §Y$VAL$%§!"
  
  #Vampires Privileges
  estate_vampires_law_traditional_masquerade:0 "§RVampires Law:§! Traditional Masquerade"
@@ -229,8 +229,8 @@
  disaster_vampire_masquerade.110.d:0 "Our grand inquisition has been rooting out all of the known vampires in the woodworks of our aristocracy for quite some time now. As the Inquisition marches ever onwards, the few remaining vampires hiding amongst our nobility who still wish to follow the tenets of the masquerade have come to a wise conclusion.\n\nThey will not be able to hide forever. The Inquisition will find them and destroy them.\n\nAnd so they have gathered what belongings they could, and swiftly fled the country, seeking to worm their way into some other realm, forsaken by Nerat. At the very least, our nobility is pure once more. Something will need to be done about all of the empty castles, and the immense task of figuring out who inherits all these titles now lies in front of us.\n\nBut we will persevere. And we will emerge from this stronger and more united than ever before."
  disaster_vampire_masquerade.110.a:0 "Dawn shall break any moment now."
 
- broken_masquerade:0 "Broken Masquerade"
- restored_masquerade:0 "Restored Masquerade"
+ broken_masquerade:0 "Ô¢°°ºþ ¯¬¦"
+ restored_masquerade:0 "Ï²°¢®°°ºþ ¯¬¦"
  
  ############################
  ### Restore the Masquerade
@@ -292,9 +292,9 @@
  vampire_hideout_menu_decision_title:0 "§YDestroy Vampire Conspirator Havens§!"
  vampire_hideout_menu_decision_desc:0 "§TThe more vampires havens we destroy, the less powerful §YThe Masquerade Rebellion§! will be.§!"
  
- vampire_thrall:0 "Vampire Thrall"
- wounded_ruler:0 "Wounded Ruler"
- vampire_hideout:0 "Vampire Conspirator Haven"
+ vampire_thrall:0 "Ï¯±ª¬ªþ ±¢²"
+ wounded_ruler:0 "Ð°°ºþ ±¢ª²®¿"
+ vampire_hideout:0 "‰ª²°ª¸ ©¥¢¸ª¬¢-¢¯±ª¢"
  
  ############################
  ### Install Thrall
@@ -340,9 +340,9 @@
  disaster_vampire_masquerade.26.t:0 "Unsuccessful Thrall Coup"
  disaster_vampire_masquerade.26.d:0 "Due to our efforts we have managed to prevent a successful Thrall Coup!"
  disaster_vampire_masquerade.26.a:0 "Good."
- EST_VAMPIRE_CUT_DOWN:0 "Vampire brought back in the fold: "
+ EST_VAMPIRE_CUT_DOWN:0 "Ï¯±ª ¢°³®¾ ¢ ²þ: "
  
- vampire_plot_power_decision_title:0 "§OVampires Plot Power§!"
- vampire_plot_power_decision_desc:0 "Current power of the Vampire Thrall Coup."
- vampire_plot_power_tooltip:0 "Current Vampire Plot Power: §Y[Root.vamp_plot_power.GetValue]%§!"
+ vampire_plot_power_decision_title:0 "§OÔª® ¢¯±ª¬ª ±ª¬¢§!"
+ vampire_plot_power_decision_desc:0 "Ù¬³¸¾ ª® ¢¯±ª¬¥ ±¢²."
+ vampire_plot_power_tooltip:0 "Ù¬³¸¾ ª® ¢¯±ª¬ª ±ª¬¢: §Y[Root.vamp_plot_power.GetValue]%§!"
  

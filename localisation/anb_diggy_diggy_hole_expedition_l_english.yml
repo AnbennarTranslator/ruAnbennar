@@ -32,7 +32,7 @@
  
 
  expedition_prep_danger_kronium:0 "§E°ª³¯§!"
- expedition_prep_danger_mithril:0 "§Wª²ª®§!"
+ expedition_prep_danger_mithril:0 "§Wª´ª®§!"
  expedition_prep_danger_platinum:0 "§T‰®²ª°§!"
  expedition_prep_danger_gold:0 "§y…®²§!"
  expedition_prep_danger_silver:0 "§gÔ¡§!"
@@ -165,7 +165,7 @@
  level_bronze:0 "£expedition_bronze£"
  
  level_dungeon_save:0 "°ª³¯"
- level_mithril_save:0 "ª²ª®"
+ level_mithril_save:0 "ª´ª®"
  level_platinium_save:0 "‰®²ª°"
  level_gold_save:0 "…®²"
  level_silver_save:0 "Ô¡"

@@ -202,8 +202,8 @@
  estate_mages_ice_sculptures_desc:0 "Large ice sculptures showcasing the giant ruins found in the north are constantly maintained in the great halls of Krakdhûmvror."
  #icecraft menu
  #magic_estate.goback:0 "Go back" #used in every sub menu here
- krak_discount_spell:0 "Discounted Ice-Crafts"
- flavor_krak.100.t:0 "    Ice Smithing\n£estate_magic_icesmith_bg£\n\n\n\n[Root.GetSpellStrengthIndicator]                                   "
+ krak_discount_spell:0 "Û®¦° °¾¨°ª  ¬ª¦¬þ"
+ flavor_krak.100.t:0 "    Û®¦°¾ ¬³©°¾\n£estate_magic_icesmith_bg£\n\n\n\n[Root.GetSpellStrengthIndicator]                                   "
  flavor_krak.100.d:0 "                            [Root.GetSpellStrength]\n\n£desc_icesmith£"
  flavor_krak.100.a:0 "£magic_button_close£"
  flavor_krak.100.a.tooltip:0 "\n§Y[Root.krak_discount_spell.GetName]§!: [Root.krak_discount_spell.GetValue]\n\nA charge is used up to negate any ¤cost for Ice-Crafts"
@@ -212,10 +212,10 @@
  flavor_krak.100.e:0 "£spell_ice_gems£"
  flavor_krak.100.f:0 "£spell_ice_fields£"
  flavor_krak.100.g:0 "£spell_ice_holds£"
- flavor_krak.101.t:0 "Ice-Steel Equipment"
+ flavor_krak.101.t:0 "Û®¦°²®¿° °¾¨°ª"
  flavor_krak.101.d:0 "By requisitioning Ice-Steel equipment for our soldiers, they will be able to inflict large amounts of damage on the foe. The icy cold touch of an Ice-Steel blade, bullet or arrowhead is incredibly painful and the armour can withstand much more punishment before yielding. On top of all that, equipment itself is lighter than normal steel."
  flavor_krak.101.a:0 " Our soldiers will look good with that pale blue glow about them."
- flavor_krak.102.t:0 "Ice-Steel Drills"
+ flavor_krak.102.t:0 "Û®¦°²®¿°º ¡³º"
  flavor_krak.102.d:0 "Ordering the production of drills made from Ice-Steel will allow our miners to extract minerals at a staggering rate, as the drills can run high for extended periods of time without overheating at all."
  flavor_krak.102.a:0 "Not even the hardest rock will stop us now"
  flavor_krak.102.tooltip:0 "Every province with a §Ymineable trade good§! will receive §YIce-Steel Drills§! for §Y10 years§!, giving the following effects:\nLocal Development Cost: §G-7.5%§!\nLocal Production Efficiency: §G+20.0%§!"
