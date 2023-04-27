@@ -1,0 +1,28 @@
+﻿l_english:
+ #Estate Privileges and related
+ estate_church_new_world_mission:0 "²¬º²ª ¯ªªþ ¢ °¢º ©¯®¾"
+ estate_church_papal_emissary:0 "Ð¬²¬ª ¼¯ªº"
+ estate_burghers_new_world_charter:0 "‰¦²¢®°ª ±¢ ° ¬®°ªª"
+ cast_spell:0 "Ô²¢ª²¿ ©¬®ª°°ª"
+ research_artificery:0 "†©³¶²¿ ²´¬²ª¬³"
+ estate_church_relations_with_pope:0 "‹®³¶Œª²¿ ²°Œ°ª¾  ¬²²¯"
+ estate_church_restore_the_holy_see:0 "Ï²°¢ª²¿ Ð¬²²"
+ estate_church_propagate_religion:3 "Ð±²°ª²¿ [Root.Religion.GetName] ¢ ²¥¢¯ ³©® [agenda_trade_node.GetTradeNodeName]"
+ estate_burghers_trade_post_in_india:0 "°¢²¿ ²¥¢³½ ¡©³ ¢ Ð°"
+ estate_burghers_trade_post_in_india_reward_tooltip:1 "‰¢ª°µª¾, °¦¾¸¾¾ ¢ ¢®¦°ªª ¦¨¢º §Y[Root.GetUsableName]§! ¢ §YÐ°§! ª ±ª©¢¦¾¸¾ §YŒž®¬§!, §Y±µªª§!, §Y¡®¥¢°ª¾§! ª®ª §Y´´§! ±®³¶ª² ¯¦ª´ª¬² «§YÏ¨°ºþ ²¥¢ºþ ±²§!», ¶² ¦² §G+1§! ¬ ¯²°¯³ ±ª©¢¦²¢³."
+ estate_burghers_trade_post_in_malacca:0 "°¢²¿ ²¥¢³½ ¡©³ ¢ ›¨°¯ Û®"
+ estate_burghers_trade_post_in_malacca_reward_tooltip:1 "‰¢ª°µª¾, °¦¾¸¾¾ ¢ ¢®¦°ªª ¦¨¢º §Y[Root.GetUsableName]§! ¢ ¥ª° §Y›¨°¥ Û®§! ª ±ª©¢¦¾¸¾ §YŒž®¬§!, §Y±µªª§!, §Y¡®¥¢°ª¾§! ª®ª §Y´´§!, ±®³¶ª² ¯¦ª´ª¬² «§YÏ¨°ºþ ²¥¢ºþ ±²§!», ¶² ¦² §G+1§! ¬ ¯²°¯³ ±ª©¢¦²¢³."
+ estate_burghers_trade_post_in_china:0 "°¢²¿ ²¥¢³½ ¡©³ ¢ ×°¿Œ°"
+ estate_burghers_trade_post_in_china_reward_tooltip:2 "‰¢ª°µª¾, °¦¾¸¾¾ ¢ ¢®¦°ªª ¦¨¢º §Y[Root.GetUsableName]§! ¢ §Y×°¿Œ°§! ª ±ª©¢¦¾¸¾ §YŒž®¬§!, §Y±µªª§!, §Y¡®¥¢°ª¾§! ª®ª §Y´´§! ±®³¶ª² ¯¦ª´¬² «§YÏ¨°ºþ ²¥¢ºþ ±²§!», ¶² ¦² §G+1§! ¬ ¯²°¯³ ±ª©¢¦²¢³."
+ desc_trade_post_in_india:0 "™²² ²¥¢ºþ ±² ª¥² ¢¨°³½ ®¿ ¢ ²¥¢® Œž®¬¯ ª ±µª¾¯ª ª© Ð°."
+ desc_trade_post_in_china:0 "™²² ²¥¢ºþ ±² ª¥² ¢¨°³½ ®¿ ¢ ²¥¢® ´´¯ ª© ×°¿Œ°¾."
+
+ estate_church_propagate_religion_trigger_tooltip:1 "Ï °®ž°°º ±¢ª°µªª ¢ ²¥¢¯ ³©® §Y[agenda_trade_node.GetTradeNodeName]§! ª±¢¦³½² §Y[Root.ReligionADJ]³½§! ¢³ ¡³®¢¬¥ ¬³®¿² Ô®°µ."
+ estate_burghers_develop_x_desc:0 "       [Root.BurghersIM_CAP] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ¥¦ [agenda_province.GetName]."
+ estate_vaisyas_develop_x_desc:0 "       [Root.VaisyasIM_CAP] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ¥¦ [agenda_province.GetName]."
+ estate_jains_develop_x_desc:0 "       [Root.JainsIM_CAP] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ¥¦ [agenda_province.GetName]."
+ estate_burghers_trade_post_in_india_desc:0 "       [Root.BurghersIM_CAP] ¢ª¸½²¾ ª²ª¾¯ª  ¡¥²²¢ Ð°. °ª ±¾² ° ©¦²¿ ´¬²ª½ ° ¼²¯ ³¡¬°²ª°°², ¶²¡º °ª ¯¥®ª °¶²¿ ²¥¢®½ ª ²¢¯ª ° °Œ¯ ¬°²ª°°²."
+ estate_burghers_trade_post_in_malacca_desc:0 "       [Root.BurghersIM_CAP] ¢ª¸½²¾ ª²ª¾¯ª  ¡¥²²¢ ›¨°¥ Û®. °ª ±¾² ° ©¦²¿ ´¬²ª½ ¢ ¥ª°, ¶²¡º °ª ¯¥®ª ¬°²®ª¢²¿ ª¦¾¸³½ ²²³¦ ²¥¢®½."
+ estate_burghers_trade_post_in_china_desc:0 "       [Root.BurghersIM_CAP] ¢ª¸½²¾ ª²ª¾¯ª  ¡¥²²¢ ×°¿Œ°¾. °ª ±¾² ° ©¦²¿ ´¬²ª½ ° ¼²¯ ³¡¬°²ª°°², ¶²¡º °ª ¯¥®ª °¶²¿ ²¥¢®½ ª ²¢¯ª ° °Œ¯ ¬°²ª°°²."
+ estate_church_papal_emissary_desc:0 "       ˆ¥²º Ï¢°¥ ¬² ª ¦³¥ª ¼¯ªº ¡³¦³² ° ²®¿¬ ¦³Œ° ±ª°¾²º ¢ °Œª ©¯®¾, ° ª [Root.GetTitleIM] ¡¾©³²¾ ¢¥¦ ±¦¶ª°¾²¿¾ ª Œ°ª¾¯ ª ° ¢¯Œª¢²¿¾ ¢ ²°Œ°ª¾ ¯¨¦³ ¯²°º¯ª [Root.ChurchTV] ª Ï¢°º¯ ¬²²¯."
+ 
