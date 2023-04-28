@@ -4,7 +4,8 @@
  FABRICATE_CLAIM_INSIDE_HRE:1 "Ï°³²ª †: $VAL|-=1%$\n"  #ANBENNAR ADJUSTED
  RAJPUT_FORCELIMIT:1 "$VAL|%Y$ ² °Œ¥ ®ª¯ª² ¢þ¬ ($FL$) ¯¥³² ¡º²¿ °°¾²º ¢ ¬¶²¢ §G¢°°º ²´¬²¢§! ª©-© ®¦³½¸ª ´¬²¢:\n"  #ANBENNAR ADJUSTED
  NO_CURRENT_COUNTRIES_IN_THIS_LIST:0 "² ²¬ª ²° ¢ ¦°°ºþ ¯¯°²"
- 
+ MODIFIER_COUNTRY_ADMIN_POWER:0 "¨¯¾¶° ª©¯°°ª ¦¯. ¶¬¢"
+ MODIFIER_COUNTRY_DIPLOMATIC_POWER:0 "¨¯¾¶° ª©¯°°ª ¦ª±. ¶¬¢"
  #BELOW ANBENNAR ADJUSTED
  HARSH_INFO_TOOLTIP:0 "Ìª® ¢¦ª¬®¢ ¢ $VAL|Y$ ±¦¦¨ª¢½² ´°²ª¶°³½ ±©ªµª½ ¢ ‰°ª¾.\n‰¦¦¨¬ ´°²ª¶°þ ±©ªµªª ±ª°ž² ®¦³½¸ª ¼´´¬²º ¦®¾ $WHO$:\n$EFFECT$"
  CONCIL_INFO_TOOLTIP:0 "Ìª® ¢¦ª¬®¢ ¢ $VAL|Y$ ±¦¦¨ª¢½² ¼³¦ª²¬³½ ±©ªµª½ ¢ ‰°ª¾.\n‰¦¦¨¬ ¼³¦ª²¬þ ±©ªµªª ±ª°ž² ®¦³½¸ª ¼´´¬²º ¦®¾ $WHO$:\n$EFFECT$"
