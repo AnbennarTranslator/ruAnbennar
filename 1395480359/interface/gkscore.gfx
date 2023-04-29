@@ -123,17 +123,19 @@ bitmapfonts = {
 
 	# Global text colorings
 	textcolors = {
-		M = { 35 206 255 }
-		W = { 255 255 255 }
-		B = { 0 0 255 }
-		G = { 0 255 0 }
-		R = { 255 50 50 }
-		b = { 0 0 0 }
-		g = { 176 176 176 }
-		Y = { 255 189 0 }
-		T = { 0 255 239 }
-		O = { 255 130 0 }
-		l = { 154 193 75 }
+		M = { 35 206 255 }	# Light blue
+		W = { 255 255 255 }	# White
+		B = { 0 0 255 }		# Blue
+		G = { 0 255 0 }		# Green
+		R = { 255 50 50 }	# Red
+		b = { 0 0 0 }		# Black
+		g = { 176 176 176 } # Gray
+		Y = { 255 189 0 }	# Yellow
+		T = { 0 255 239 }	# Teal
+		O = { 255 130 0 }	# Orange
+		l = { 154 193 75 }	# Lime/Mustard
+		J = { 0 168 107 }	#Jade, used for Mercs without Army Professionalism cost
+
 		#Anbennar
 		P = { 104 75 148 }	# Purple
 		H = { 255 243 156 }	# Pale yellow
