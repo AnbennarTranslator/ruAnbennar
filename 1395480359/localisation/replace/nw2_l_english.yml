@@ -1,0 +1,8 @@
+﻿l_english:
+ colonial.EVTDESC22:0 "‰®°µº ª© [Root.Owner.ColonialParent.GetTagRD] ª±¢¦³½² ¢®ª°²¢, ¶² ¢ [Root.Owner.ColonialParent.GetAdjectiveSmall]þ ¦¨¢ ¡¹¾¢®° ¿½ ®ª¥ªª [Root.Owner.ColonialParent.Religion.OwnerReligionIM]. Ï °¦¨¦ °þ²ª ¡® ²®°²° ¡¸²¢ °ª ±®ª®ª¿ ¢ ±¢ª°µªª [Root.GetName]."
+ religious_events.EVTDESC2:0 "       Œ ±®ª²ª¬ ²±ª¯²ª ±¨ ±ª¢® ¬ °¨®²®¿°º¯ ©³®¿²²¯. ¬²º ª© °Œª ®½¦þ Œª®ª ±ª°¾²¿ ¢®ª°²¢."
+ favors_catholics_catholics:0 "‰¦¦¨¬ ¢®ª°µ¢"
+ favors_catholics_protestants:0 "‰¦¦¨¬ ¢®ª°µ¢"
+ CAPITAL_NOT_IN_EMPIRE:0 "‰ª°¦®¨ª² ¦¨¢ $COUNTRY$, ¶¿¾ ²®ªµ $CAPITAL$ ° ¾¢®¾²¾ ¶²¿½ †."
+ OVERLORD_CAPITAL_NOT_IN_EMPIRE:0 "‰ª°¦®¨ª² ³¡¹¬²³ ¦¨¢º $COUNTRY$, ¶¿¾ ²®ªµ $CAPITAL$ ° ¾¢®¾²¾ ¶²¿½ †."
+ IS_AN_ELECTOR:0 "ƒ¨¢ $COUNTRY$ ¾¢®¾²¾ ¢º¡¸ª¬¯."
