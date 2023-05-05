@@ -20,7 +20,7 @@
  increase_monstrous_1_tooltip:0 "§R¡®¿Œ ³¢®ª¶°ª ¶³¦¢ª¸°²ª§!"
  
  current_monstrous_level_tooltip:0 "Ù¬³¸ªþ ³¢°¿ ¶³¦¢ª¸°²ª: [Root.MonstrousLevel] §Y[Root.monstrousPoints.GetValue]/100§!"
- MonstrousLevel75:0 "§RVþ° ¶³¦¢ª¸°º§!"
+ MonstrousLevel75:0 "§Rþ° ¶³¦¢ª¸°º§!"
  MonstrousLevel50:0 "§YÌ³¦¢ª¸°º§!"
  MonstrousLevel25:0 "§G‰®³¯°²º§!"
  MonstrousLevel0:0 "§TÐ´¯ª¢°°º ¶³¦¢ª¸§!"
