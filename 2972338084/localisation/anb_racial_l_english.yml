@@ -1,13 +1,13 @@
 ﻿l_english:
- racial_military_menu_title:0 "£icon_pop_small£  §m†©¯°ª²¿ ¢³½ ¯ª½§!"
- racial_military_menu_desc:0 "®ª ³ ¢ ²¿ ¡® 30% ©¢ª²ª¾ ª°²¥ª¢°°þ º, ¬²¾ ° ¾¢®¾²¾ ¢Œþ ¡²¢°°þ, ¢º ¯¨² ª©¯°ª²¿ ¦¯ª°ª³½¸³½ ³ ° ¢½ ¯ª½."
+ racial_military_menu_title:0 "£icon_pop_small£  §m†©¯°ª²¿ ³ ¢³¨ž°°º ª®§!"
+ racial_military_menu_desc:0 "®ª ³ ¢ ²¿ ¡® 30% ©¢ª²ª¾ ª°²¥ª¢°°þ º, ¬²¾ ° ¾¢®¾²¾ ¢Œþ ¡²¢°°þ, ¢º ¯¨² ª©¯°ª²¿ ¦¯ª°ª³½¸³½ ³ ¢ ¢ª ¢³¨ž°°º ª®."
  
  restructuring_administration:0 "Ð²³¬²³ª©µª¾ ¢þ ¦¯ª°ª²µªª"
  desc_restructuring_administration:0 "°¢°þ ±¢ª²®¿ ª ¡½¬²ª¶¬¾  ¢ ¼²þ ²° ª©¯°ª®ª¿, ª ±¼²¯³ ¡½¬²ª¶¬þ ¦¯ª°ª²µªª ±²¡³²¾ ¢¯¾, ¶²¡º ³¥³®ª¢²¿ ª²³µª½, ±¨¦ ¶¯ ° ¢°ž²¾ ¬ °¯®¿°þ ¼´´¬²ª¢°²ª."
- restructuring_military:0 "Ð²³¬²³ª©µª¾ ¢þ ¯ªª"
+ restructuring_military:0 "Ð²³¬²³ª©µª¾ ¢³¨ž°°º ª®"
  desc_restructuring_military:0 "ƒ¯ª°ª³½¸¾  ¢³¨ž°°º ª® ¼²þ ²°º ª©¯°ª®¿, ª ±¼²¯³ ¢þ¬¯ ±²¡³²¾ ¢¯¾, ¶²¡º ±ª±¡ª²¿¾ ¬ °¢¯³ ²¢³."
  
- dwarven_administration:0 "ƒ¢´¬¾ ¦¯ª°ª²µª¾"
+ dwarven_administration:0 "ƒ¢´ªþ¬¾ ¦¯ª°ª²µª¾"
  desc_dwarven_administration:0 ""
  elven_administration:0 "™®¿´ªþ¬¾ ¦¯ª°ª²µª¾"
  desc_elven_administration:0 ""
@@ -44,7 +44,7 @@
  hobgoblin_administration:0 "Û¡¥¡®ª°¬¾ ¦¯ª°ª²µª¾"
  desc_hobgoblin_administration:0 ""
  
- dwarven_military:0 "ƒ¢´¬¾ ¯ª¾"
+ dwarven_military:0 "ƒ¢´ªþ¬¾ ¯ª¾"
  desc_dwarven_military:0 ""
  elven_military:0 "™®¿´ªþ¬¾ ¯ª¾"
  desc_elven_military:0 ""
@@ -217,7 +217,7 @@
  
  integrated_elven_people_tooltip:0 "§Y™®¿´ªþ¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_half_elven_people_tooltip:0 "§Y‰®³¼®¿´¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
- integrated_dwarven_people_tooltip:0 "§Yƒ¢´¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
+ integrated_dwarven_people_tooltip:0 "§Yƒ¢´ªþ¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_gnomish_people_tooltip:0 "§Y‚°¯¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_human_people_tooltip:0 "§Yˆ½¦¬þ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_half_orcish_people_tooltip:0 "§Y‰®³¶ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
@@ -236,7 +236,7 @@
  
  coexisting_elven_people_tooltip:0 "§Y™®¿´ªþ¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_half_elven_people_tooltip:0 "§Y‰®³¼®¿´¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
- coexisting_dwarven_people_tooltip:0 "§Yƒ¢´¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
+ coexisting_dwarven_people_tooltip:0 "§Yƒ¢´ªþ¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_gnomish_people_tooltip:0 "§Y‚°¯¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_human_people_tooltip:0 "§Yˆ½¦¬þ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_half_orcish_people_tooltip:0 "§Y‰®³¶ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
@@ -255,7 +255,7 @@
  
  oppressed_elven_people_tooltip:0 "§Y™®¿´ªþ¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_half_elven_people_tooltip:0 "§Y‰®³¼®¿´¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
- oppressed_dwarven_people_tooltip:0 "§Yƒ¢´¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
+ oppressed_dwarven_people_tooltip:0 "§Yƒ¢´ªþ¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_gnomish_people_tooltip:0 "§Y‚°¯¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_human_people_tooltip:0 "§Yˆ½¦¬þ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_half_orcish_people_tooltip:0 "§Y‰®³¶ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
