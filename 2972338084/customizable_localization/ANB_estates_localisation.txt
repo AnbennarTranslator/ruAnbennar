@@ -1,0 +1,269 @@
+
+####################################################################################################
+###																								 ###
+###									  Переменные сословий										 ###
+###																								 ###
+###																								 ###
+###						  Падежи прописаны с уже готовыми окончаниями!							 ###
+###																								 ###
+###								 Пример казаков строчными буквами								 ###
+###				  Именительный (Кто, что?) - "[RUS.CossacksIM]" : "казаки"  					 ###
+###				  Родительный (Кого, чего?) - "[RUS.CossacksRD]" : "казаков"  					 ###
+###				  Дательный (Кому, чему?) - "[RUS.CossacksDT]" : "казакам"						 ###
+###				  Винительный (Кого, что?) - "[RUS.CossacksVN]" : "казаков"					 	 ###
+###				  Творительный (Кем, чем?) - "[RUS.CossacksTV]" : "казаками"					 ###
+###				  Предложный (О ком, о чём?) - "[RUS.CossacksPR]" : "казакам"					 ###
+###																								 ###
+###								 Пример казаков	с прописной буквы								 ###
+###				  Именительный (Кто, что?) - "[RUS.CossacksIM_CAP]" : "Казаки"  				 ###
+###				  Родительный (Кого, чего?) - "[RUS.CossacksRD_CAP]" : "Казаков"  				 ###
+###				  Дательный (Кому, чему?) - "[RUS.CossacksDT_CAP]" : "Казакам"					 ###
+###				  Винительный (Кого, что?) - "[RUS.CossacksVN_CAP]" : "Казаков"				 	 ###
+###				  Творительный (Кем, чем?) - "[RUS.CossacksTV_CAP]" : "Казаками"				 ###
+###				  Предложный (О ком, о чём?) - "[RUS.CossacksPR_CAP]" : "Казакам"				 ###
+###																								 ###
+###										Варианты сословий:										 ###
+###					Brahmins - брахманы, священники												 ###
+###					Maratha - маратхи															 ###
+###					Rajput - раджпуты															 ###
+###					Vaisyas - вайшьи, горожане													 ###
+###					Cossacks - казаки															 ###
+###					Nomadic - кланы																 ###
+###					Dhimmi - зимми																 ###
+###					Jains - джайны																 ###
+###					Church - священники, монашеские ордена, бабайланы, брахманы и т.д.			 ###
+###					Nobles - дворяне, беи, бояре, шляхтичи, тимагуа, наяки и т.д.				 ###
+###					Burghers - горожане, вайшьи, буржуа, шаньбен, купеческие гильдии			 ###
+###																								 ###
+###						  		 Локализация в: gks_customizable								 ###
+###																								 ###
+####################################################################################################
+
+#Ex: Вампиры в именительном падеже с большой буквы
+defined_text = {
+    name = VampiresIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_vampiresIM_CAP
+        trigger = {
+			has_country_flag = has_vampires_estate
+			NOT = { has_adventurer_reform = yes }
+			NOT = { overlord = { has_reform = raja_reform } }
+		}		
+    }
+	text = {
+        localisation_key = EST_estate_jiangshiIM_CAP
+        trigger = {
+			culture_group = yan
+		}
+    }	
+}
+
+#Ex: Авантюристы в родительном падеже с маленькой буквы
+defined_text = {
+    name = AdventurersRD
+	
+	text = {
+        localisation_key = EST_estate_adventurersRD
+        trigger = {
+			NOT = { government = native }
+			NOT = { has_reform = cossacks_reform }
+			NOT = { has_reform = siberian_tribe }
+			is_nomad = no
+			
+			#Anbennar
+			NOT = { has_reform = hobgoblin_stratocracy_reform }
+			NOT = { has_adventurer_reform = yes }
+			is_monstrous_horde = no
+			NOT = { has_country_modifier = monstrous_nation }
+			NOT = { tag = Y01 } #fuck adventurers, stop appearing for the first month
+		}
+    }
+		text = {
+        localisation_key = EST_estate_koryaRD
+        trigger = {
+			tag = G32
+			mission_completed = G32_glory_warriors
+		}
+    }
+			text = {
+        localisation_key = EST_estate_amhasgRD
+        trigger = {
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+			text = {
+        localisation_key = EST_estate_slayersRD
+        trigger = {
+			tag = I20
+			mission_completed = krakazol_slayers_call
+		}
+    }
+}
+
+#Ex: Маги в родительном падеже с маленькой буквы
+defined_text = {
+    name = MagesRD
+	
+	text = {
+        localisation_key = EST_estate_magesRD
+        trigger = {
+			has_estate = estate_mages
+			
+			NOT = { has_estate_privilege = estate_mages_organization_magisterium }			
+			NOT = { culture_group = bulwari }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_estate_privilege = estate_mages_organization_ice_smiths }
+			NOT = { has_country_flag = esthil_lodge_of_necromancers }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { culture = ghavaanaj }
+			NOT = { religion = lefthand_path }
+			NOT = { has_country_flag = newshire_opened_door }
+			NOT = { has_estate_privilege = estate_mages_organization_runesmiths }
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magistersRD
+        trigger = {
+			has_estate = estate_mages
+			has_estate_privilege = estate_mages_organization_magisterium
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magiRD
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = bulwari
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sleepersRD
+        trigger = {
+			has_estate = estate_mages
+			has_country_flag = sleeper_mages
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_icesmithsRD
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_ice_smiths
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_necromancersRD
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = esthil_lodge_of_necromancers
+		}
+    }		
+	text = {
+        localisation_key = EST_estate_dradhRD
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = eordan_ruinborn_elf
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_reeshiRD
+        trigger = {
+			has_estate = estate_mages		
+			culture = ghavaanaj
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sorcerersRD
+        trigger = {
+			has_estate = estate_mages		
+			religion = lefthand_path
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_chloromancersRD
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = newshire_opened_door
+		}
+    }
+	text = { #Verkal Ozovar
+        localisation_key = EST_estate_runesmithRD
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_runesmiths
+		}
+    }		
+}
+
+#Ex: Артефакторы в родительном падеже с маленькой буквы
+defined_text = {
+    name = ArtificersRD
+	
+		text = {
+			localisation_key = EST_estate_artificersRD
+			trigger = {
+			NOT = { 
+				government = native
+				has_reform = cossacks_reform
+				has_reform = siberian_tribe
+				is_nomad = yes
+				has_country_flag = artificery_banned
+			}
+			
+			#Anbennar
+			NOT = { has_reform = hobgoblin_stratocracy_reform }
+			NOT = { 
+				has_reform = adventurer_reform
+				is_monstrous_horde = yes
+				primary_culture = emerald_orc
+			}
+			
+			OR = {
+				culture_group = gnomish
+				AND = {
+					is_tribal = no
+					OR = {
+						culture_group = kobold
+						culture_group = goblin
+					}
+					NOT = { primary_culture = goldscale_kobold }
+				}
+				has_government_attribute = is_technocracy
+				has_institution = manufactories
+				has_country_flag = supporting_artificers
+			}
+			OR = {
+				NOT = { religion = bulwari_sun_cult }
+				is_chosen_country = no
+				has_country_flag = nsc_artificery_enabled
+			}
+		}
+	}
+		text = {
+        localisation_key = EST_estate_innlakRD
+        trigger = {
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+		text = {
+        localisation_key = EST_estate_shuimuRD
+        trigger = {
+			OR = {
+				was_tag = Y20
+				tag = Y20
+			}
+		}
+    }
+		text = {
+        localisation_key = EST_estate_alchemistsRD
+        trigger = {
+			OR = {
+				was_tag = A99
+				tag = A99
+			}
+		}
+    }
+}
+
+
+#Ex: Маги в именительном падеже с большой буквы

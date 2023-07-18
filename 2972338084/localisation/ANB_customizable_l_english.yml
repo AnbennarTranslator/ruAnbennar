@@ -6,5 +6,23 @@
 
  #‰¯°°º ¢ ¦ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
  EST_estate_magesRD:0 "¯¥¢" #MagesRD
+ EST_estate_magistersRD:0 "¯¥ª²¢" #MagesRD
+ EST_estate_magiRD:0 "¯¦¨³¢" #MagesRD
+ EST_estate_sleepersRD:0 "±¾¸ª" #MagesRD
+ EST_estate_icesmithsRD:0 "®¦¾°º ¬³©°µ¢" #MagesRD
+ EST_estate_necromancersRD:0 "°¬¯°²¢" #MagesRD
+ EST_estate_dradhRD:0 "¦¦" #MagesRD
+ EST_estate_reeshiRD:0 "ªŒþ" #MagesRD
+ EST_estate_sorcerersRD:0 "¬®¦³°¢" #MagesRD
+ EST_estate_chloromancersRD:0 "®¯°²¢" #MagesRD
+ EST_estate_runesmithRD:0 "³°°º ¬³©°µ¢" #MagesRD
+ 
  EST_estate_adventurersRD:0 "¢°²½ª²¢" #AdventurersRD
+ EST_estate_koryaRD:0 "¬ª" #AdventurersRD
+ EST_estate_amhasgRD:0 "¯¥¢" #AdventurersRD
+ EST_estate_slayersRD:0 "ª²¡ª²®þ" #AdventurersRD
+ 
  EST_estate_artificersRD:0 "²´¬²¢" #ArtificersRD
+ EST_estate_innlakRD:0 "ª°°®¬¢" #ArtificersRD
+ EST_estate_shuimuRD:0 "Œ³ª¯³" #ArtificersRD
+ EST_estate_alchemistsRD:0 "®ª¯ª¬¢" #ArtificersRD
