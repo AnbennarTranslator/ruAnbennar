@@ -26,3 +26,30 @@
  EST_estate_innlakRD:0 "ª°°®¬¢" #ArtificersRD
  EST_estate_shuimuRD:0 "Œ³ª¯³" #ArtificersRD
  EST_estate_alchemistsRD:0 "®ª¯ª¬¢" #ArtificersRD
+ 
+ EST_estate_eunuchsRD:0 "¢°³¢" #EunuchsRD
+ EST_estate_voltojRD:0 "¢®¿²þ¢" #EunuchsRD
+ 
+ EST_estate_burghersRD:0 "¥¨°" #BurghersRD
+ EST_estate_magnatesRD:0 "¯¥°²¢" #BurghersRD
+ EST_estate_malartakRD:0 "¯®²¬¢" #BurghersRD
+ EST_estate_sgcRD:0 "Ô…" #BurghersRD
+ EST_estate_cartelsRD:0 "¬²®þ" #BurghersRD
+ EST_estate_kartelsRD:0 "¬²®þ" #BurghersRD
+ 
+ EST_estate_noblesRD:0 "¦¢¾°" #NoblesRD
+ EST_estate_hwalbaejRD:0 "¢®¡¢" #NoblesRD
+ EST_estate_companionsRD:0 "²°ª¬¢" #NoblesRD
+ EST_estate_aslaudRD:0 "®³¦¢" #NoblesRD
+ EST_estate_aistszurRD:0 "ª²©³¢" #NoblesRD
+ EST_estate_officerRD:0 "´ªµ¢" #NoblesRD
+ EST_estate_patronatesRD:0 "±¬¢ª²®þ" #NoblesRD
+ 
+ EST_estate_churchRD:0 "¢¾¸°°ª¬¢" #ChurchRD
+ EST_estate_skaldsRD:0 "¬®¿¦¢" #ChurchRD
+ EST_estate_shamansRD:0 "Œ¯°¢" #ChurchRD
+ EST_estate_klarRD:0 "¬®¢" #ChurchRD
+ EST_estate_jongsoetaRD:0 "¶°³¼²" #ChurchRD
+ EST_estate_balgarsmithsRD:0 "¡®¥¢º ¬³©°µ¢" #ChurchRD
+ 
+ EST_monstrous_tribesRD:0 "¶³¦¢ª¸°º ±®¯ž°"
