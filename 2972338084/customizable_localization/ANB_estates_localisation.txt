@@ -39,24 +39,40 @@
 ###																								 ###
 ####################################################################################################
 
-#Ex: Вампиры в именительном падеже с большой буквы
+
+###################################################################################################
+
+#Ex: Вампиры в родительном падеже с маленькой буквы
 defined_text = {
-    name = VampiresIM_CAP
+    name = VampiresRD
 	
 	text = {
-        localisation_key = EST_estate_vampiresIM_CAP
+        localisation_key = EST_estate_vampiresRD
         trigger = {
-			has_country_flag = has_vampires_estate
-			NOT = { has_adventurer_reform = yes }
-			NOT = { overlord = { has_reform = raja_reform } }
+			has_estate = estate_vampires 
+			NOT = { culture_group = yan }
 		}		
     }
 	text = {
-        localisation_key = EST_estate_jiangshiIM_CAP
+        localisation_key = EST_estate_jiangshiRD
         trigger = {
+			has_estate = estate_vampires 		
 			culture_group = yan
 		}
     }	
+}
+
+#Ex: Министры в родительном падеже с маленькой буквы
+defined_text = {
+    name = Raj_ministriesRD
+	
+	text = {
+        localisation_key = EST_estate_raj_ministriesRD
+        trigger = {
+			has_estate = estate_raj_ministries  
+			NOT = { culture_group = yan }
+		}		
+    }
 }
 
 #Ex: Авантюристы в родительном падеже с маленькой буквы
@@ -298,7 +314,8 @@ defined_text = {
 					capital_scope = { NOT = { continent = serpentspine } }
 				}			
 			}
-			NOT = { culture_group = goblin }			
+			NOT = { culture_group = goblin }
+			#NOT = {	NOT = { religion_group = christian } #Diversify a bit more.}
 		}
 
 	}
@@ -352,6 +369,13 @@ defined_text = {
 			has_estate = estate_burghers
 			culture_group = goblin
 		}
+	}
+	text = {
+        localisation_key = EST_estate_merchant_guildsRD
+        trigger = {
+			has_estate = estate_burghers
+			NOT = { religion_group = christian } #Diversify a bit more.		
+		}
 	}	
 }
 
@@ -382,7 +406,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_hwalbaejRD
         trigger = {
-			has_estate = estate_burghers
+			has_estate = estate_nobles
 			culture_group = odheongun
 		}
     }
@@ -395,13 +419,14 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_aslaudRD
         trigger = {
+			has_estate = estate_nobles		
 			culture_group = eordan_ruinborn_elf
 		}
 	}
 	text = {
         localisation_key = EST_estate_aistszurRD
         trigger = {
-			has_estate = estate_burghers
+			has_estate = estate_nobles
 			tag = Y86
 			has_country_modifier = azkare_modifier_aistszur
 		}
@@ -409,14 +434,14 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_officerRD
         trigger = {
-			has_estate = estate_burghers
+			has_estate = estate_nobles
 			has_country_flag = jiangdu_court_of_officer
 		}
 	}
 	text = {
         localisation_key = EST_estate_patronatesRD
         trigger = {
-			has_estate = estate_burghers
+			has_estate = estate_nobles
 			tag = Y63
 			mission_completed = Y63_king_of_kai
 		}
@@ -433,7 +458,7 @@ defined_text = {
 		trigger = {
 			has_estate = estate_church	
 			NOT = { 
-				NOT = { has_estate = estate_lowercastes }
+#				NOT = { has_estate = estate_lowercastes }
 				OR = {
 					religion = the_thought
 					religion = high_philosophy
@@ -516,9 +541,9 @@ defined_text = {
 		}
 	}
 	text = {
-        localisation_key = EST_estate_jongsoetaRD
-		has_estate = estate_church		
+        localisation_key = EST_estate_jongsoetaRD	
         trigger = {
+		has_estate = estate_church			
 			religion = bangujonsi	
 		}
 	}	
@@ -539,6 +564,7 @@ defined_text = {
 }	
 
 
+#Ex: Чудовищные племена в родительном падеже с маленькой буквы
 
 defined_text = {
     name = Monstrous_tribesRD
@@ -547,4 +573,2253 @@ defined_text = {
         localisation_key = EST_monstrous_tribesRD
 		has_estate = estate_monstrous_tribes
 	}
-}		
+}	
+
+#Ex: Евнухи в родительном падеже с маленькой буквы
+
+defined_text = {
+    name = EunuchsRD
+	
+	text = {
+        localisation_key = EST_estate_eunuchsRD
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojRD
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}	
+
+###################################################################################################
+
+#Ex: Вампиры в творительном падеже с маленькой буквы
+defined_text = {
+    name = VampiresTV
+	
+	text = {
+        localisation_key = EST_estate_vampiresTV
+        trigger = {
+			has_estate = estate_vampires 
+			NOT = { culture_group = yan }
+		}		
+    }
+	text = {
+        localisation_key = EST_estate_jiangshiTV
+        trigger = {
+			has_estate = estate_vampires 		
+			culture_group = yan
+		}
+    }	
+}
+
+#Ex: Министры в творительном падеже с маленькой буквы
+defined_text = {
+    name = Raj_ministriesTV
+	
+	text = {
+        localisation_key = EST_estate_raj_ministriesTV
+        trigger = {
+			has_estate = estate_raj_ministries  
+			NOT = { culture_group = yan }
+		}		
+    }
+}
+
+#Ex: Авантюристы в творительном падеже с маленькой буквы
+defined_text = {
+    name = AdventurersTV
+	
+	text = {
+        localisation_key = EST_estate_adventurersTV
+        trigger = {
+			has_estate = estate_adventurers 		
+			NOT = { government = native }
+			NOT = { has_reform = cossacks_reform }
+			NOT = { has_reform = siberian_tribe }
+			is_nomad = no
+			
+			#Anbennar
+			NOT = { has_reform = hobgoblin_stratocracy_reform }
+			NOT = { has_adventurer_reform = yes }
+			is_monstrous_horde = no
+			NOT = { has_country_modifier = monstrous_nation }
+			NOT = { tag = Y01 } #fuck adventurers, stop appearing for the first month
+		}
+    }
+	text = {
+        localisation_key = EST_estate_koryaTV
+        trigger = {
+			has_estate = estate_adventurers 		
+			tag = G32
+			mission_completed = G32_glory_warriors
+		}
+    }
+	text = {
+        localisation_key = EST_estate_amhasgTV
+        trigger = {
+			has_estate = estate_adventurers 		
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_slayersTV
+        trigger = {
+			has_estate = estate_adventurers 
+			tag = I20
+			mission_completed = krakazol_slayers_call
+		}
+    }
+}
+
+#Ex: Маги в творительном падеже с маленькой буквы
+defined_text = {
+    name = MagesTV
+	
+	text = {
+        localisation_key = EST_estate_magesTV
+        trigger = {
+			has_estate = estate_mages
+			
+			NOT = { has_estate_privilege = estate_mages_organization_magisterium }			
+			NOT = { culture_group = bulwari }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_estate_privilege = estate_mages_organization_ice_smiths }
+			NOT = { has_country_flag = esthil_lodge_of_necromancers }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { culture = ghavaanaj }
+			NOT = { religion = lefthand_path }
+			NOT = { has_country_flag = newshire_opened_door }
+			NOT = { has_estate_privilege = estate_mages_organization_runesmiths }
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magistersTV
+        trigger = {
+			has_estate = estate_mages
+			has_estate_privilege = estate_mages_organization_magisterium
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magiTV
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = bulwari
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sleepersTV
+        trigger = {
+			has_estate = estate_mages
+			has_country_flag = sleeper_mages
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_icesmithsTV
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_ice_smiths
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_necromancersTV
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = esthil_lodge_of_necromancers
+		}
+    }		
+	text = {
+        localisation_key = EST_estate_dradhTV
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = eordan_ruinborn_elf
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_reeshiTV
+        trigger = {
+			has_estate = estate_mages		
+			culture = ghavaanaj
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sorcerersTV
+        trigger = {
+			has_estate = estate_mages		
+			religion = lefthand_path
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_chloromancersTV
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = newshire_opened_door
+		}
+    }
+	text = { #Verkal Ozovar
+        localisation_key = EST_estate_runesmithTV
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_runesmiths
+		}
+    }		
+}
+
+#Ex: Артефакторы в творительном падеже с маленькой буквы
+defined_text = {
+    name = ArtificersTV
+	
+	text = {
+			localisation_key = EST_estate_artificersTV
+			has_estate = estate_artificers				
+			trigger = {
+
+		}
+	}
+	text = {
+        localisation_key = EST_estate_innlakTV
+		has_estate = estate_artificers			
+        trigger = {
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_shuimuTV
+        trigger = {
+			OR = {
+				was_tag = Y20
+				tag = Y20
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_alchemistsTV
+        trigger = {
+			OR = {
+				was_tag = A99
+				tag = A99
+			}
+		}
+    }
+}
+
+
+#Ex: Маги в именительном падеже с большой буквы
+
+#Ex: Евнухи в творительном падеже с маленькой буквы
+
+defined_text = {
+    name = EunuchsTV
+	
+	text = {
+        localisation_key = EST_estate_eunuchsTV
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojTV
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}
+
+
+#Ex: Бюргеры в творительном падеже с маленькой буквы
+
+defined_text = {
+    name = BurghersTV
+	
+	text = {
+        localisation_key = EST_estate_burghersTV
+		trigger = {
+			has_estate = estate_burghers
+			NOT = { 
+				OR = {
+					AND = {
+						culture_group = alenic
+						NOT = {
+							primary_culture = wexonard
+							primary_culture = marrodic
+						}
+					}
+					culture_group = gerudian
+					culture_group = reachman
+					primary_culture = city_goblin
+				}
+			}
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = {
+				tag = H78
+				has_country_flag = sgc_created					
+			}
+			NOT = {
+				culture_group = dwarven
+				OR = {
+					has_country_flag = adventurer_derived_government
+					capital_scope = { NOT = { continent = serpentspine } }
+				}			
+			}
+			NOT = { culture_group = goblin }
+			#NOT = {	NOT = { religion_group = christian } #Diversify a bit more.}
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_magnatesTV
+        trigger = {
+			has_estate = estate_burghers
+			OR = {
+				AND = {
+					culture_group = alenic
+					NOT = {
+						primary_culture = wexonard
+						primary_culture = marrodic
+					}
+				}
+				culture_group = gerudian
+				culture_group = reachman
+				primary_culture = city_goblin
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_malartakTV
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = eordan_ruinborn_elf			
+		}
+	}
+	text = {
+        localisation_key = EST_estate_sgcTV
+        trigger = {
+			has_estate = estate_burghers
+			tag = H78
+			has_country_flag = sgc_created	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_cartelsTV
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = dwarven
+			OR = {
+				has_country_flag = adventurer_derived_government
+				capital_scope = { NOT = { continent = serpentspine } }
+			}	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_kartelsTV
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = goblin
+		}
+	}
+	text = {
+        localisation_key = EST_estate_merchant_guildsTV
+        trigger = {
+			has_estate = estate_burghers
+			NOT = { religion_group = christian } #Diversify a bit more.		
+		}
+	}	
+}
+
+
+#Ex: Дворяне в творительном падеже с маленькой буквы
+
+defined_text = {
+    name = NoblesTV
+	
+	text = {
+        localisation_key = EST_estate_noblesTV
+		trigger = {
+			has_estate = estate_nobles
+			NOT = { culture_group = odheongun }
+			NOT = { tag = G32 }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { 
+				tag = Y86
+				has_country_modifier = azkare_modifier_aistszur
+			}
+			NOT = { has_country_flag = jiangdu_court_of_officer }
+			NOT = { 
+				tag = Y63
+				mission_completed = Y63_king_of_kai		
+			}
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_hwalbaejTV
+        trigger = {
+			has_estate = estate_nobles
+			culture_group = odheongun
+		}
+    }
+	text = {
+        localisation_key = EST_estate_companionsTV
+        trigger = {
+			tag = G32		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aslaudTV
+        trigger = {
+			has_estate = estate_nobles		
+			culture_group = eordan_ruinborn_elf
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aistszurTV
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y86
+			has_country_modifier = azkare_modifier_aistszur
+		}
+	}
+	text = {
+        localisation_key = EST_estate_officerTV
+        trigger = {
+			has_estate = estate_nobles
+			has_country_flag = jiangdu_court_of_officer
+		}
+	}
+	text = {
+        localisation_key = EST_estate_patronatesTV
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y63
+			mission_completed = Y63_king_of_kai
+		}
+	}		
+}
+
+#Ex: Духовники в творительном падеже с маленькой буквы
+
+defined_text = {
+    name = ChurchTV
+	
+	text = {
+        localisation_key = EST_estate_churchTV
+		trigger = {
+			has_estate = estate_church	
+			NOT = { 
+#				NOT = { has_estate = estate_lowercastes }
+				OR = {
+					religion = the_thought
+					religion = high_philosophy
+					religion = kheionism
+				}				
+			}
+			NOT = {
+				OR = {
+					religion = xhazobkult
+					religion = great_dookan
+					religion = old_dookan
+					religion = bulgu_orazan
+					religion = kobold_dragon_cult
+					religion = goblinic_shamanism
+					religion = the_hunt
+					religion = saanorgegh
+					religion = feast_of_the_gods
+					religion = mountain_watchers
+					religion = ik_magthaal
+					AND = {
+						tag = J16
+						OR = {
+							religion = kodave_followers
+							religion = yukel_followers
+							religion = enuuk_followers
+						}
+					}
+				}
+			}		
+			NOT = { culture_group = eordan_ruinborn_elf	}
+			NOT = { religion = bangujonsi }
+			NOT = { has_country_flag = has_balgarsmiths }
+			NOT = { religion = skaldhyrric_faith }
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_philosophersTV		
+        trigger = {
+			has_estate = estate_church	
+			NOT = { has_estate = estate_lowercastes }
+			OR = {
+				religion = the_thought
+				religion = high_philosophy
+				religion = kheionism
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_shamansTV	
+        trigger = {
+			has_estate = estate_church	
+			OR = {
+				religion = xhazobkult
+				religion = great_dookan
+				religion = old_dookan
+				religion = bulgu_orazan
+				religion = kobold_dragon_cult
+				religion = goblinic_shamanism
+				religion = the_hunt
+				religion = saanorgegh
+				religion = feast_of_the_gods
+				religion = mountain_watchers
+				religion = ik_magthaal
+				AND = {
+					tag = J16
+					OR = {
+						religion = kodave_followers
+						religion = yukel_followers
+						religion = enuuk_followers
+					}
+				}
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_klarTV	
+        trigger = {
+			has_estate = estate_church	
+			culture_group = eordan_ruinborn_elf		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_jongsoetaTV
+		has_estate = estate_church		
+        trigger = {
+			religion = bangujonsi	
+		}
+	}	
+	text = {
+        localisation_key = EST_estate_balgarsmithsTV	
+        trigger = {
+			has_estate = estate_church	
+			has_country_flag = has_balgarsmiths	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_skaldsTV	
+        trigger = {
+			has_estate = estate_church	
+			religion = skaldhyrric_faith
+		}
+	}		
+}	
+
+
+#Ex: Чудовищные племена в творительном падеже с маленькой буквы
+
+defined_text = {
+    name = Monstrous_tribesTV
+	
+	text = {
+        localisation_key = EST_monstrous_tribesTV
+		has_estate = estate_monstrous_tribes
+	}
+}	
+
+#Ex: Евнухи в творительном падеже с маленькой буквы
+
+defined_text = {
+    name = EunuchsTV
+	
+	text = {
+        localisation_key = EST_estate_eunuchsTV
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojTV
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}	
+####################################################################################################
+
+#Ex: Вампиры в дательном падеже с маленькой буквы
+defined_text = {
+    name = VampiresTV
+	
+	text = {
+        localisation_key = EST_estate_vampiresTV
+        trigger = {
+			has_estate = estate_vampires 
+			NOT = { culture_group = yan }
+		}		
+    }
+	text = {
+        localisation_key = EST_estate_jiangshiTV
+        trigger = {
+			has_estate = estate_vampires 		
+			culture_group = yan
+		}
+    }	
+}
+
+#Ex: Министры в дательном падеже с маленькой буквы
+defined_text = {
+    name = Raj_ministriesTV
+	
+	text = {
+        localisation_key = EST_estate_raj_ministriesTV
+        trigger = {
+			has_estate = estate_raj_ministries  
+			NOT = { culture_group = yan }
+		}		
+    }
+}
+
+#Ex: Авантюристы в дательном падеже с маленькой буквы
+defined_text = {
+    name = AdventurersTV
+	
+	text = {
+        localisation_key = EST_estate_adventurersTV
+        trigger = {
+			has_estate = estate_adventurers 		
+			NOT = { government = native }
+			NOT = { has_reform = cossacks_reform }
+			NOT = { has_reform = siberian_tribe }
+			is_nomad = no
+			
+			#Anbennar
+			NOT = { has_reform = hobgoblin_stratocracy_reform }
+			NOT = { has_adventurer_reform = yes }
+			is_monstrous_horde = no
+			NOT = { has_country_modifier = monstrous_nation }
+			NOT = { tag = Y01 } #fuck adventurers, stop appearing for the first month
+		}
+    }
+	text = {
+        localisation_key = EST_estate_koryaTV
+        trigger = {
+			has_estate = estate_adventurers 		
+			tag = G32
+			mission_completed = G32_glory_warriors
+		}
+    }
+	text = {
+        localisation_key = EST_estate_amhasgTV
+        trigger = {
+			has_estate = estate_adventurers 		
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_slayersTV
+        trigger = {
+			has_estate = estate_adventurers 
+			tag = I20
+			mission_completed = krakazol_slayers_call
+		}
+    }
+}
+
+#Ex: Маги в дательном падеже с маленькой буквы
+defined_text = {
+    name = MagesTV
+	
+	text = {
+        localisation_key = EST_estate_magesTV
+        trigger = {
+			has_estate = estate_mages
+			
+			NOT = { has_estate_privilege = estate_mages_organization_magisterium }			
+			NOT = { culture_group = bulwari }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_estate_privilege = estate_mages_organization_ice_smiths }
+			NOT = { has_country_flag = esthil_lodge_of_necromancers }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { culture = ghavaanaj }
+			NOT = { religion = lefthand_path }
+			NOT = { has_country_flag = newshire_opened_door }
+			NOT = { has_estate_privilege = estate_mages_organization_runesmiths }
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magistersTV
+        trigger = {
+			has_estate = estate_mages
+			has_estate_privilege = estate_mages_organization_magisterium
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magiTV
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = bulwari
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sleepersTV
+        trigger = {
+			has_estate = estate_mages
+			has_country_flag = sleeper_mages
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_icesmithsTV
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_ice_smiths
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_necromancersTV
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = esthil_lodge_of_necromancers
+		}
+    }		
+	text = {
+        localisation_key = EST_estate_dradhTV
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = eordan_ruinborn_elf
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_reeshiTV
+        trigger = {
+			has_estate = estate_mages		
+			culture = ghavaanaj
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sorcerersTV
+        trigger = {
+			has_estate = estate_mages		
+			religion = lefthand_path
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_chloromancersTV
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = newshire_opened_door
+		}
+    }
+	text = { #Verkal Ozovar
+        localisation_key = EST_estate_runesmithTV
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_runesmiths
+		}
+    }		
+}
+
+#Ex: Артефакторы в дательном падеже с маленькой буквы
+defined_text = {
+    name = ArtificersTV
+	
+	text = {
+			localisation_key = EST_estate_artificersTV
+			has_estate = estate_artificers				
+			trigger = {
+
+		}
+	}
+	text = {
+        localisation_key = EST_estate_innlakTV
+		has_estate = estate_artificers			
+        trigger = {
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_shuimuTV
+        trigger = {
+			OR = {
+				was_tag = Y20
+				tag = Y20
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_alchemistsTV
+        trigger = {
+			OR = {
+				was_tag = A99
+				tag = A99
+			}
+		}
+    }
+}
+
+
+#Ex: Маги в именительном падеже с большой буквы
+
+#Ex: Евнухи в дательном падеже с маленькой буквы
+
+defined_text = {
+    name = EunuchsTV
+	
+	text = {
+        localisation_key = EST_estate_eunuchsTV
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojTV
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}
+
+
+#Ex: Бюргеры в дательном падеже с маленькой буквы
+
+defined_text = {
+    name = BurghersTV
+	
+	text = {
+        localisation_key = EST_estate_burghersTV
+		trigger = {
+			has_estate = estate_burghers
+			NOT = { 
+				OR = {
+					AND = {
+						culture_group = alenic
+						NOT = {
+							primary_culture = wexonard
+							primary_culture = marrodic
+						}
+					}
+					culture_group = gerudian
+					culture_group = reachman
+					primary_culture = city_goblin
+				}
+			}
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = {
+				tag = H78
+				has_country_flag = sgc_created					
+			}
+			NOT = {
+				culture_group = dwarven
+				OR = {
+					has_country_flag = adventurer_derived_government
+					capital_scope = { NOT = { continent = serpentspine } }
+				}			
+			}
+			NOT = { culture_group = goblin }
+			#NOT = {	NOT = { religion_group = christian } #Diversify a bit more.}
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_magnatesTV
+        trigger = {
+			has_estate = estate_burghers
+			OR = {
+				AND = {
+					culture_group = alenic
+					NOT = {
+						primary_culture = wexonard
+						primary_culture = marrodic
+					}
+				}
+				culture_group = gerudian
+				culture_group = reachman
+				primary_culture = city_goblin
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_malartakTV
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = eordan_ruinborn_elf			
+		}
+	}
+	text = {
+        localisation_key = EST_estate_sgcTV
+        trigger = {
+			has_estate = estate_burghers
+			tag = H78
+			has_country_flag = sgc_created	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_cartelsTV
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = dwarven
+			OR = {
+				has_country_flag = adventurer_derived_government
+				capital_scope = { NOT = { continent = serpentspine } }
+			}	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_kartelsTV
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = goblin
+		}
+	}
+	text = {
+        localisation_key = EST_estate_merchant_guildsTV
+        trigger = {
+			has_estate = estate_burghers
+			NOT = { religion_group = christian } #Diversify a bit more.		
+		}
+	}	
+}
+
+
+#Ex: Дворяне в дательном падеже с маленькой буквы
+
+defined_text = {
+    name = NoblesTV
+	
+	text = {
+        localisation_key = EST_estate_noblesTV
+		trigger = {
+			has_estate = estate_nobles
+			NOT = { culture_group = odheongun }
+			NOT = { tag = G32 }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { 
+				tag = Y86
+				has_country_modifier = azkare_modifier_aistszur
+			}
+			NOT = { has_country_flag = jiangdu_court_of_officer }
+			NOT = { 
+				tag = Y63
+				mission_completed = Y63_king_of_kai		
+			}
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_hwalbaejTV
+        trigger = {
+			has_estate = estate_nobles
+			culture_group = odheongun
+		}
+    }
+	text = {
+        localisation_key = EST_estate_companionsTV
+        trigger = {
+			tag = G32		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aslaudTV
+        trigger = {
+			has_estate = estate_nobles		
+			culture_group = eordan_ruinborn_elf
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aistszurTV
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y86
+			has_country_modifier = azkare_modifier_aistszur
+		}
+	}
+	text = {
+        localisation_key = EST_estate_officerTV
+        trigger = {
+			has_estate = estate_nobles
+			has_country_flag = jiangdu_court_of_officer
+		}
+	}
+	text = {
+        localisation_key = EST_estate_patronatesTV
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y63
+			mission_completed = Y63_king_of_kai
+		}
+	}		
+}
+
+#Ex: Духовники в дательном падеже с маленькой буквы
+
+defined_text = {
+    name = ChurchTV
+	
+	text = {
+        localisation_key = EST_estate_churchTV
+		trigger = {
+			has_estate = estate_church	
+			NOT = { 
+#				NOT = { has_estate = estate_lowercastes }
+				OR = {
+					religion = the_thought
+					religion = high_philosophy
+					religion = kheionism
+				}				
+			}
+			NOT = {
+				OR = {
+					religion = xhazobkult
+					religion = great_dookan
+					religion = old_dookan
+					religion = bulgu_orazan
+					religion = kobold_dragon_cult
+					religion = goblinic_shamanism
+					religion = the_hunt
+					religion = saanorgegh
+					religion = feast_of_the_gods
+					religion = mountain_watchers
+					religion = ik_magthaal
+					AND = {
+						tag = J16
+						OR = {
+							religion = kodave_followers
+							religion = yukel_followers
+							religion = enuuk_followers
+						}
+					}
+				}
+			}		
+			NOT = { culture_group = eordan_ruinborn_elf	}
+			NOT = { religion = bangujonsi }
+			NOT = { has_country_flag = has_balgarsmiths }
+			NOT = { religion = skaldhyrric_faith }
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_philosophersTV		
+        trigger = {
+			has_estate = estate_church	
+			NOT = { has_estate = estate_lowercastes }
+			OR = {
+				religion = the_thought
+				religion = high_philosophy
+				religion = kheionism
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_shamansTV	
+        trigger = {
+			has_estate = estate_church	
+			OR = {
+				religion = xhazobkult
+				religion = great_dookan
+				religion = old_dookan
+				religion = bulgu_orazan
+				religion = kobold_dragon_cult
+				religion = goblinic_shamanism
+				religion = the_hunt
+				religion = saanorgegh
+				religion = feast_of_the_gods
+				religion = mountain_watchers
+				religion = ik_magthaal
+				AND = {
+					tag = J16
+					OR = {
+						religion = kodave_followers
+						religion = yukel_followers
+						religion = enuuk_followers
+					}
+				}
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_klarTV	
+        trigger = {
+			has_estate = estate_church	
+			culture_group = eordan_ruinborn_elf		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_jongsoetaTV
+		has_estate = estate_church		
+        trigger = {
+			religion = bangujonsi	
+		}
+	}	
+	text = {
+        localisation_key = EST_estate_balgarsmithsTV	
+        trigger = {
+			has_estate = estate_church	
+			has_country_flag = has_balgarsmiths	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_skaldsTV	
+        trigger = {
+			has_estate = estate_church	
+			religion = skaldhyrric_faith
+		}
+	}		
+}	
+
+
+#Ex: Чудовищные племена в дательном падеже с маленькой буквы
+
+defined_text = {
+    name = Monstrous_tribesTV
+	
+	text = {
+        localisation_key = EST_monstrous_tribesTV
+		has_estate = estate_monstrous_tribes
+	}
+}	
+
+#Ex: Евнухи в дательном падеже с маленькой буквы
+
+defined_text = {
+    name = EunuchsTV
+	
+	text = {
+        localisation_key = EST_estate_eunuchsTV
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojTV
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}	
+
+####################################################################################################
+
+#Ex: Вампиры в именительном падеже с маленькой буквы
+defined_text = {
+    name = VampiresIM
+	
+	text = {
+        localisation_key = EST_estate_vampiresIM
+        trigger = {
+			has_estate = estate_vampires 
+			NOT = { culture_group = yan }
+		}		
+    }
+	text = {
+        localisation_key = EST_estate_jiangshiIM
+        trigger = {
+			has_estate = estate_vampires 		
+			culture_group = yan
+		}
+    }	
+}
+
+#Ex: Министры в именительном падеже с маленькой буквы
+defined_text = {
+    name = Raj_ministriesIM
+	
+	text = {
+        localisation_key = EST_estate_raj_ministriesIM
+        trigger = {
+			has_estate = estate_raj_ministries  
+			NOT = { culture_group = yan }
+		}		
+    }
+}
+
+#Ex: Авантюристы в именительном падеже с маленькой буквы
+defined_text = {
+    name = AdventurersIM
+	
+	text = {
+        localisation_key = EST_estate_adventurersIM
+        trigger = {
+			has_estate = estate_adventurers 		
+			NOT = { government = native }
+			NOT = { has_reform = cossacks_reform }
+			NOT = { has_reform = siberian_tribe }
+			is_nomad = no
+			
+			#Anbennar
+			NOT = { has_reform = hobgoblin_stratocracy_reform }
+			NOT = { has_adventurer_reform = yes }
+			is_monstrous_horde = no
+			NOT = { has_country_modifier = monstrous_nation }
+			NOT = { tag = Y01 } #fuck adventurers, stop appearing for the first month
+		}
+    }
+	text = {
+        localisation_key = EST_estate_koryaIM
+        trigger = {
+			has_estate = estate_adventurers 		
+			tag = G32
+			mission_completed = G32_glory_warriors
+		}
+    }
+	text = {
+        localisation_key = EST_estate_amhasgIM
+        trigger = {
+			has_estate = estate_adventurers 		
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_slayersIM
+        trigger = {
+			has_estate = estate_adventurers 
+			tag = I20
+			mission_completed = krakazol_slayers_call
+		}
+    }
+}
+
+#Ex: Маги в именительном падеже с маленькой буквы
+defined_text = {
+    name = MagesIM
+	
+	text = {
+        localisation_key = EST_estate_magesIM
+        trigger = {
+			has_estate = estate_mages
+			
+			NOT = { has_estate_privilege = estate_mages_organization_magisterium }			
+			NOT = { culture_group = bulwari }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_estate_privilege = estate_mages_organization_ice_smiths }
+			NOT = { has_country_flag = esthil_lodge_of_necromancers }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { culture = ghavaanaj }
+			NOT = { religion = lefthand_path }
+			NOT = { has_country_flag = newshire_opened_door }
+			NOT = { has_estate_privilege = estate_mages_organization_runesmiths }
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magistersIM
+        trigger = {
+			has_estate = estate_mages
+			has_estate_privilege = estate_mages_organization_magisterium
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magiIM
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = bulwari
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sleepersIM
+        trigger = {
+			has_estate = estate_mages
+			has_country_flag = sleeper_mages
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_icesmithsIM
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_ice_smiths
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_necromancersIM
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = esthil_lodge_of_necromancers
+		}
+    }		
+	text = {
+        localisation_key = EST_estate_dradhIM
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = eordan_ruinborn_elf
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_reeshiIM
+        trigger = {
+			has_estate = estate_mages		
+			culture = ghavaanaj
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sorcerersIM
+        trigger = {
+			has_estate = estate_mages		
+			religion = lefthand_path
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_chloromancersIM
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = newshire_opened_door
+		}
+    }
+	text = { #Verkal Ozovar
+        localisation_key = EST_estate_runesmithIM
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_runesmiths
+		}
+    }		
+}
+
+#Ex: Артефакторы в именительном падеже с маленькой буквы
+defined_text = {
+    name = ArtificersIM
+	
+	text = {
+			localisation_key = EST_estate_artificersIM
+			has_estate = estate_artificers				
+			trigger = {
+
+		}
+	}
+	text = {
+        localisation_key = EST_estate_innlakIM
+		has_estate = estate_artificers			
+        trigger = {
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_shuimuIM
+        trigger = {
+			OR = {
+				was_tag = Y20
+				tag = Y20
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_alchemistsIM
+        trigger = {
+			OR = {
+				was_tag = A99
+				tag = A99
+			}
+		}
+    }
+}
+
+
+#Ex: Маги в именительном падеже с большой буквы
+
+#Ex: Евнухи в именительном падеже с маленькой буквы
+
+defined_text = {
+    name = EunuchsIM
+	
+	text = {
+        localisation_key = EST_estate_eunuchsIM
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojIM
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}
+
+
+#Ex: Бюргеры в именительном падеже с маленькой буквы
+
+defined_text = {
+    name = BurghersIM
+	
+	text = {
+        localisation_key = EST_estate_burghersIM
+		trigger = {
+			has_estate = estate_burghers
+			NOT = { 
+				OR = {
+					AND = {
+						culture_group = alenic
+						NOT = {
+							primary_culture = wexonard
+							primary_culture = marrodic
+						}
+					}
+					culture_group = gerudian
+					culture_group = reachman
+					primary_culture = city_goblin
+				}
+			}
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = {
+				tag = H78
+				has_country_flag = sgc_created					
+			}
+			NOT = {
+				culture_group = dwarven
+				OR = {
+					has_country_flag = adventurer_derived_government
+					capital_scope = { NOT = { continent = serpentspine } }
+				}			
+			}
+			NOT = { culture_group = goblin }
+			#NOT = {	NOT = { religion_group = christian } #Diversify a bit more.}
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_magnatesIM
+        trigger = {
+			has_estate = estate_burghers
+			OR = {
+				AND = {
+					culture_group = alenic
+					NOT = {
+						primary_culture = wexonard
+						primary_culture = marrodic
+					}
+				}
+				culture_group = gerudian
+				culture_group = reachman
+				primary_culture = city_goblin
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_malartakIM
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = eordan_ruinborn_elf			
+		}
+	}
+	text = {
+        localisation_key = EST_estate_sgcIM
+        trigger = {
+			has_estate = estate_burghers
+			tag = H78
+			has_country_flag = sgc_created	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_cartelsIM
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = dwarven
+			OR = {
+				has_country_flag = adventurer_derived_government
+				capital_scope = { NOT = { continent = serpentspine } }
+			}	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_kartelsIM
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = goblin
+		}
+	}
+	text = {
+        localisation_key = EST_estate_merchant_guildsIM
+        trigger = {
+			has_estate = estate_burghers
+			NOT = { religion_group = christian } #Diversify a bit more.		
+		}
+	}	
+}
+
+
+#Ex: Дворяне в именительном падеже с маленькой буквы
+
+defined_text = {
+    name = NoblesIM
+	
+	text = {
+        localisation_key = EST_estate_noblesIM
+		trigger = {
+			has_estate = estate_nobles
+			NOT = { culture_group = odheongun }
+			NOT = { tag = G32 }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { 
+				tag = Y86
+				has_country_modifier = azkare_modifier_aistszur
+			}
+			NOT = { has_country_flag = jiangdu_court_of_officer }
+			NOT = { 
+				tag = Y63
+				mission_completed = Y63_king_of_kai		
+			}
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_hwalbaejIM
+        trigger = {
+			has_estate = estate_nobles
+			culture_group = odheongun
+		}
+    }
+	text = {
+        localisation_key = EST_estate_companionsIM
+        trigger = {
+			tag = G32		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aslaudIM
+        trigger = {
+			has_estate = estate_nobles		
+			culture_group = eordan_ruinborn_elf
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aistszurIM
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y86
+			has_country_modifier = azkare_modifier_aistszur
+		}
+	}
+	text = {
+        localisation_key = EST_estate_officerIM
+        trigger = {
+			has_estate = estate_nobles
+			has_country_flag = jiangdu_court_of_officer
+		}
+	}
+	text = {
+        localisation_key = EST_estate_patronatesIM
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y63
+			mission_completed = Y63_king_of_kai
+		}
+	}		
+}
+
+#Ex: Духовники в именительном падеже с маленькой буквы
+
+defined_text = {
+    name = ChurchIM
+	
+	text = {
+        localisation_key = EST_estate_churchIM
+		trigger = {
+			has_estate = estate_church	
+			NOT = { 
+#				NOT = { has_estate = estate_lowercastes }
+				OR = {
+					religion = the_thought
+					religion = high_philosophy
+					religion = kheionism
+				}				
+			}
+			NOT = {
+				OR = {
+					religion = xhazobkult
+					religion = great_dookan
+					religion = old_dookan
+					religion = bulgu_orazan
+					religion = kobold_dragon_cult
+					religion = goblinic_shamanism
+					religion = the_hunt
+					religion = saanorgegh
+					religion = feast_of_the_gods
+					religion = mountain_watchers
+					religion = ik_magthaal
+					AND = {
+						tag = J16
+						OR = {
+							religion = kodave_followers
+							religion = yukel_followers
+							religion = enuuk_followers
+						}
+					}
+				}
+			}		
+			NOT = { culture_group = eordan_ruinborn_elf	}
+			NOT = { religion = bangujonsi }
+			NOT = { has_country_flag = has_balgarsmiths }
+			NOT = { religion = skaldhyrric_faith }
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_philosophersIM		
+        trigger = {
+			has_estate = estate_church	
+			NOT = { has_estate = estate_lowercastes }
+			OR = {
+				religion = the_thought
+				religion = high_philosophy
+				religion = kheionism
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_shamansIM	
+        trigger = {
+			has_estate = estate_church	
+			OR = {
+				religion = xhazobkult
+				religion = great_dookan
+				religion = old_dookan
+				religion = bulgu_orazan
+				religion = kobold_dragon_cult
+				religion = goblinic_shamanism
+				religion = the_hunt
+				religion = saanorgegh
+				religion = feast_of_the_gods
+				religion = mountain_watchers
+				religion = ik_magthaal
+				AND = {
+					tag = J16
+					OR = {
+						religion = kodave_followers
+						religion = yukel_followers
+						religion = enuuk_followers
+					}
+				}
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_klarIM	
+        trigger = {
+			has_estate = estate_church	
+			culture_group = eordan_ruinborn_elf		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_jongsoetaIM
+		has_estate = estate_church		
+        trigger = {
+			religion = bangujonsi	
+		}
+	}	
+	text = {
+        localisation_key = EST_estate_balgarsmithsIM	
+        trigger = {
+			has_estate = estate_church	
+			has_country_flag = has_balgarsmiths	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_skaldsIM	
+        trigger = {
+			has_estate = estate_church	
+			religion = skaldhyrric_faith
+		}
+	}		
+}	
+
+
+#Ex: Чудовищные племена в именительном падеже с маленькой буквы
+
+defined_text = {
+    name = Monstrous_tribesIM
+	
+	text = {
+        localisation_key = EST_monstrous_tribesIM
+		has_estate = estate_monstrous_tribes
+	}
+}	
+
+#Ex: Евнухи в именительном падеже с маленькой буквы
+
+defined_text = {
+    name = EunuchsIM
+	
+	text = {
+        localisation_key = EST_estate_eunuchsIM
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojIM
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}	
+
+###################################################################################################
+
+#Ex: Вампиры в именительном падеже с большой буквы
+defined_text = {
+    name = VampiresIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_vampiresIM_CAP
+        trigger = {
+			has_estate = estate_vampires 
+			NOT = { culture_group = yan }
+		}		
+    }
+	text = {
+        localisation_key = EST_estate_jiangshiIM_CAP
+        trigger = {
+			has_estate = estate_vampires 		
+			culture_group = yan
+		}
+    }	
+}
+
+#Ex: Министры в именительном падеже с большой буквы
+defined_text = {
+    name = Raj_ministriesIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_raj_ministriesIM_CAP
+        trigger = {
+			has_estate = estate_raj_ministries  
+			NOT = { culture_group = yan }
+		}		
+    }
+}
+
+#Ex: Авантюристы в именительном падеже с большой буквы
+defined_text = {
+    name = AdventurersIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_adventurersIM_CAP
+        trigger = {
+			has_estate = estate_adventurers 		
+			NOT = { government = native }
+			NOT = { has_reform = cossacks_reform }
+			NOT = { has_reform = siberian_tribe }
+			is_nomad = no
+			
+			#Anbennar
+			NOT = { has_reform = hobgoblin_stratocracy_reform }
+			NOT = { has_adventurer_reform = yes }
+			is_monstrous_horde = no
+			NOT = { has_country_modifier = monstrous_nation }
+			NOT = { tag = Y01 } #fuck adventurers, stop appearing for the first month
+		}
+    }
+	text = {
+        localisation_key = EST_estate_koryaIM_CAP
+        trigger = {
+			has_estate = estate_adventurers 		
+			tag = G32
+			mission_completed = G32_glory_warriors
+		}
+    }
+	text = {
+        localisation_key = EST_estate_amhasgIM_CAP
+        trigger = {
+			has_estate = estate_adventurers 		
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_slayersIM_CAP
+        trigger = {
+			has_estate = estate_adventurers 
+			tag = I20
+			mission_completed = krakazol_slayers_call
+		}
+    }
+}
+
+#Ex: Маги в именительном падеже с большой буквы
+defined_text = {
+    name = MagesIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_magesIM_CAP
+        trigger = {
+			has_estate = estate_mages
+			
+			NOT = { has_estate_privilege = estate_mages_organization_magisterium }			
+			NOT = { culture_group = bulwari }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_country_flag = sleeper_mages }
+			NOT = { has_estate_privilege = estate_mages_organization_ice_smiths }
+			NOT = { has_country_flag = esthil_lodge_of_necromancers }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { culture = ghavaanaj }
+			NOT = { religion = lefthand_path }
+			NOT = { has_country_flag = newshire_opened_door }
+			NOT = { has_estate_privilege = estate_mages_organization_runesmiths }
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magistersIM_CAP
+        trigger = {
+			has_estate = estate_mages
+			has_estate_privilege = estate_mages_organization_magisterium
+		}
+    }
+	text = {
+        localisation_key = EST_estate_magiIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = bulwari
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sleepersIM_CAP
+        trigger = {
+			has_estate = estate_mages
+			has_country_flag = sleeper_mages
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_icesmithsIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_ice_smiths
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_necromancersIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = esthil_lodge_of_necromancers
+		}
+    }		
+	text = {
+        localisation_key = EST_estate_dradhIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			culture_group = eordan_ruinborn_elf
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_reeshiIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			culture = ghavaanaj
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_sorcerersIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			religion = lefthand_path
+		}
+    }	
+	text = {
+        localisation_key = EST_estate_chloromancersIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			has_country_flag = newshire_opened_door
+		}
+    }
+	text = { #Verkal Ozovar
+        localisation_key = EST_estate_runesmithIM_CAP
+        trigger = {
+			has_estate = estate_mages		
+			has_estate_privilege = estate_mages_organization_runesmiths
+		}
+    }		
+}
+
+#Ex: Артефакторы в именительном падеже с большой буквы
+defined_text = {
+    name = ArtificersIM_CAP
+	
+	text = {
+			localisation_key = EST_estate_artificersIM_CAP
+			has_estate = estate_artificers				
+			trigger = {
+
+		}
+	}
+	text = {
+        localisation_key = EST_estate_innlakIM_CAP
+		has_estate = estate_artificers			
+        trigger = {
+			culture_group = eordan_ruinborn_elf
+		}
+    }
+	text = {
+        localisation_key = EST_estate_shuimuIM_CAP
+        trigger = {
+			OR = {
+				was_tag = Y20
+				tag = Y20
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_alchemistsIM_CAP
+        trigger = {
+			OR = {
+				was_tag = A99
+				tag = A99
+			}
+		}
+    }
+}
+
+
+#Ex: Маги в именительном падеже с большой буквы
+
+#Ex: Евнухи в именительном падеже с большой буквы
+
+defined_text = {
+    name = EunuchsIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_eunuchsIM_CAP
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojIM_CAP
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}
+
+
+#Ex: Бюргеры в именительном падеже с большой буквы
+
+defined_text = {
+    name = BurghersIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_burghersIM_CAP
+		trigger = {
+			has_estate = estate_burghers
+			NOT = { 
+				OR = {
+					AND = {
+						culture_group = alenic
+						NOT = {
+							primary_culture = wexonard
+							primary_culture = marrodic
+						}
+					}
+					culture_group = gerudian
+					culture_group = reachman
+					primary_culture = city_goblin
+				}
+			}
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = {
+				tag = H78
+				has_country_flag = sgc_created					
+			}
+			NOT = {
+				culture_group = dwarven
+				OR = {
+					has_country_flag = adventurer_derived_government
+					capital_scope = { NOT = { continent = serpentspine } }
+				}			
+			}
+			NOT = { culture_group = goblin }
+			#NOT = {	NOT = { religion_group = christian } #Diversify a bit more.}
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_magnatesIM_CAP
+        trigger = {
+			has_estate = estate_burghers
+			OR = {
+				AND = {
+					culture_group = alenic
+					NOT = {
+						primary_culture = wexonard
+						primary_culture = marrodic
+					}
+				}
+				culture_group = gerudian
+				culture_group = reachman
+				primary_culture = city_goblin
+			}
+		}
+    }
+	text = {
+        localisation_key = EST_estate_malartakIM_CAP
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = eordan_ruinborn_elf			
+		}
+	}
+	text = {
+        localisation_key = EST_estate_sgcIM_CAP
+        trigger = {
+			has_estate = estate_burghers
+			tag = H78
+			has_country_flag = sgc_created	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_cartelsIM_CAP
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = dwarven
+			OR = {
+				has_country_flag = adventurer_derived_government
+				capital_scope = { NOT = { continent = serpentspine } }
+			}	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_kartelsIM_CAP
+        trigger = {
+			has_estate = estate_burghers
+			culture_group = goblin
+		}
+	}
+	text = {
+        localisation_key = EST_estate_merchant_guildsIM_CAP
+        trigger = {
+			has_estate = estate_burghers
+			NOT = { religion_group = christian } #Diversify a bit more.		
+		}
+	}	
+}
+
+
+#Ex: Дворяне в именительном падеже с большой буквы
+
+defined_text = {
+    name = NoblesIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_noblesIM_CAP
+		trigger = {
+			has_estate = estate_nobles
+			NOT = { culture_group = odheongun }
+			NOT = { tag = G32 }
+			NOT = { culture_group = eordan_ruinborn_elf }
+			NOT = { 
+				tag = Y86
+				has_country_modifier = azkare_modifier_aistszur
+			}
+			NOT = { has_country_flag = jiangdu_court_of_officer }
+			NOT = { 
+				tag = Y63
+				mission_completed = Y63_king_of_kai		
+			}
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_hwalbaejIM_CAP
+        trigger = {
+			has_estate = estate_nobles
+			culture_group = odheongun
+		}
+    }
+	text = {
+        localisation_key = EST_estate_companionsIM_CAP
+        trigger = {
+			tag = G32		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aslaudIM_CAP
+        trigger = {
+			has_estate = estate_nobles		
+			culture_group = eordan_ruinborn_elf
+		}
+	}
+	text = {
+        localisation_key = EST_estate_aistszurIM_CAP
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y86
+			has_country_modifier = azkare_modifier_aistszur
+		}
+	}
+	text = {
+        localisation_key = EST_estate_officerIM_CAP
+        trigger = {
+			has_estate = estate_nobles
+			has_country_flag = jiangdu_court_of_officer
+		}
+	}
+	text = {
+        localisation_key = EST_estate_patronatesIM_CAP
+        trigger = {
+			has_estate = estate_nobles
+			tag = Y63
+			mission_completed = Y63_king_of_kai
+		}
+	}		
+}
+
+#Ex: Духовники в именительном падеже с большой буквы
+
+defined_text = {
+    name = ChurchIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_churchIM_CAP
+		trigger = {
+			has_estate = estate_church	
+			NOT = { 
+#				NOT = { has_estate = estate_lowercastes }
+				OR = {
+					religion = the_thought
+					religion = high_philosophy
+					religion = kheionism
+				}				
+			}
+			NOT = {
+				OR = {
+					religion = xhazobkult
+					religion = great_dookan
+					religion = old_dookan
+					religion = bulgu_orazan
+					religion = kobold_dragon_cult
+					religion = goblinic_shamanism
+					religion = the_hunt
+					religion = saanorgegh
+					religion = feast_of_the_gods
+					religion = mountain_watchers
+					religion = ik_magthaal
+					AND = {
+						tag = J16
+						OR = {
+							religion = kodave_followers
+							religion = yukel_followers
+							religion = enuuk_followers
+						}
+					}
+				}
+			}		
+			NOT = { culture_group = eordan_ruinborn_elf	}
+			NOT = { religion = bangujonsi }
+			NOT = { has_country_flag = has_balgarsmiths }
+			NOT = { religion = skaldhyrric_faith }
+		}	
+	}
+	text = {
+        localisation_key = EST_estate_philosophersIM_CAP		
+        trigger = {
+			has_estate = estate_church	
+			NOT = { has_estate = estate_lowercastes }
+			OR = {
+				religion = the_thought
+				religion = high_philosophy
+				religion = kheionism
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_shamansIM_CAP	
+        trigger = {
+			has_estate = estate_church	
+			OR = {
+				religion = xhazobkult
+				religion = great_dookan
+				religion = old_dookan
+				religion = bulgu_orazan
+				religion = kobold_dragon_cult
+				religion = goblinic_shamanism
+				religion = the_hunt
+				religion = saanorgegh
+				religion = feast_of_the_gods
+				religion = mountain_watchers
+				religion = ik_magthaal
+				AND = {
+					tag = J16
+					OR = {
+						religion = kodave_followers
+						religion = yukel_followers
+						religion = enuuk_followers
+					}
+				}
+			}
+		}
+	}
+	text = {
+        localisation_key = EST_estate_klarIM_CAP	
+        trigger = {
+			has_estate = estate_church	
+			culture_group = eordan_ruinborn_elf		
+		}
+	}
+	text = {
+        localisation_key = EST_estate_jongsoetaIM_CAP
+		has_estate = estate_church		
+        trigger = {
+			religion = bangujonsi	
+		}
+	}	
+	text = {
+        localisation_key = EST_estate_balgarsmithsIM_CAP	
+        trigger = {
+			has_estate = estate_church	
+			has_country_flag = has_balgarsmiths	
+		}
+	}
+	text = {
+        localisation_key = EST_estate_skaldsIM_CAP	
+        trigger = {
+			has_estate = estate_church	
+			religion = skaldhyrric_faith
+		}
+	}		
+}	
+
+
+#Ex: Чудовищные племена в именительном падеже с большой буквы
+
+defined_text = {
+    name = Monstrous_tribesIM_CAP
+	
+	text = {
+        localisation_key = EST_monstrous_tribesIM_CAP
+		has_estate = estate_monstrous_tribes
+	}
+}	
+
+#Ex: Евнухи в именительном падеже с большой буквы
+
+defined_text = {
+    name = EunuchsIM_CAP
+	
+	text = {
+        localisation_key = EST_estate_eunuchsIM_CAP
+		trigger = {
+		has_estate = estate_eunuchs
+		NOT = { culture_group = goblin }
+		}
+
+	}
+	text = {
+        localisation_key = EST_estate_voltojIM_CAP
+        trigger = {
+			has_estate = estate_eunuchs
+			culture_group = goblin
+		}
+    }	
+}	
