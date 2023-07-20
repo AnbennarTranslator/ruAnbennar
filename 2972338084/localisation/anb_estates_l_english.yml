@@ -167,7 +167,7 @@
  estate_mages_fire_advisor:0 "‹¢®ª²¿ ¢²°ª¬ [Root.Adm_Advisor.GetTitle]"
  estate_mages_fire_advisor_desc:0 "       [Root.Adm_Advisor.GetTitle] [Root.Adm_Advisor.GetName] °e ±o¦xo¦ª² [Root.Monarch.GetTitle]. [Root.MagesIM_CAP] ±o®a¥a½², ¶²o [Root.GetAAEgoEyo] ¦o®¨°oc²¿ °³¨°o ±epe¦a²¿ ¯a¥a¯."
  estate_mages_relations_with_magisterium:0 "‹®³¶Œª²¿ ²°Œ°ª¾  [A85.GetName]"
- estate_mages_relations_with_magisterium_desc:0 "       ‰o¬a [A85.GetName] ¬o°²po®ªp³½² ¢c½ ¯a¥ª½ °aŒe¥o ¥oc³¦apc²¢a, [Root.MagesIM] pe¬o¯e°¦³½² ³®³¶Œª²¿ o²°oŒe°ª¾ c °ª¯ª."
+ estate_mages_relations_with_magisterium_desc:0 "       ‰o¬a [A85.GetName] ¬o°²po®ªp³² ¢c½ ¯a¥ª½ °aŒe¥o ¥oc³¦apc²¢a, [Root.MagesIM] pe¬o¯e°¦³½² ³®³¶Œª²¿ o²°oŒe°ª¾ c °ª¯ª."
  estate_mages_relations_with_pro_mage_countries:0 "‹®³¶Œª²¿ ²°Œ°ª¾  [agenda_country.GetUsableName]"
  estate_mages_relations_with_pro_mage_countries_desc:0 "       [Root.MagesIM_CAP] c´op¯ªpo¢a®ª ²ec°ºe o²°oŒe°ª¾ co c¢oª¯ª ¬o®®e¥a¯ª ª© ¦¨¢º [agenda_country.GetUsableName], ª pe¬o¯e°¦³½² °a¯ c¦e®a²¿ ²o ¨e."
  estate_mages_spy_on_rival:0 "÷±ªo°º ¢ [agenda_country.GetUsableName]"
