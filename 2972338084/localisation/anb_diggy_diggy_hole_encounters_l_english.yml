@@ -439,7 +439,7 @@
  diggy_encounter.243.a:0 "Ï ¼²ª ¯² ±¦²²¶° ¦³¥ª ¬¢ª¸"
 
  diggy_encounter.250.t:0 "‰¸ ®²³¶ª ¯ºŒþ\n[EncounterOverlayBackground]"
- diggy_encounter.250.d:0 "[EncounterOverlay]       «€¥ª¿,» — ¬ª¬°³® ¦ª° ª© ©¢¦¶ª¬¢, — «°¦ °¯ª!» ° ³¬©® ° ±²®¬, ¥¦ ¥¯°¾ ¥³±± ¬³±°º ®²³¶ª ¯ºŒþ ¢ª®  ¬®ª²þ ±¢°²ª, ª ¥®© ¯¥®ª ¢ °¢°¯ ¢² ´¬®¢. Ï©¡³¦¨°°º ²¬ª¯ ¡©¯, °ª °¡ª®ª¿ ° ¥³±±³, ¬³¾ ª ©º¢¾ ±®²¿ ®¦². ‰®¦¢® ¦ª¬ ©¯ª¢°ª ³¬¯ª ¡© ¬¬þ-®ª¡ ¬¦ª°µªª, ª ¦ª ³¶²°ª¬¢ ¼¬±¦ªµªª ±²°ª®¿ ±°ª¬."
+ diggy_encounter.250.d:0 "[EncounterOverlay]       «€¥ª¿», — ¬ª¬°³® ¦ª° ª© ©¢¦¶ª¬¢, — «°¦ °¯ª!» ° ³¬©® ° ±²®¬, ¥¦ ¥¯°¾ ¥³±± ¬³±°º ®²³¶ª ¯ºŒþ ¢ª®  ¬®ª²þ ±¢°²ª, ª ¥®© ¯¥®ª ¢ °¢°¯ ¢² ´¬®¢. Ï©¡³¦¨°°º ²¬ª¯ ¡©¯, °ª °¡ª®ª¿ ° ¥³±±³, ¬³¾ ª ©º¢¾ ±®²¿ ®¦². ‰®¦¢® ¦ª¬ ©¯ª¢°ª ³¬¯ª ¡© ¬¬þ-®ª¡ ¬¦ª°µªª, ª ¦ª ³¶²°ª¬¢ ¼¬±¦ªµªª ±²°ª®¿ ±°ª¬."
  diggy_encounter.250.a:0 "€¥ª¿, °ª ±¢½¦³!"
 
  diggy_encounter.251.t:0 "ƒªµª±®ª° ª ¢º¦¨¬\n[EncounterOverlayBackground]"
@@ -455,448 +455,448 @@
  diggy_encounter.260.a:0 "ƒ¢þ² ±Œª¯ ¢ ª... ¬¯°"
  diggy_encounter.260.b:0 "Ï©¯¨°, ¼² ¦® ³¬ ƒ¨ª°! †¸ª² ²ª ®¯°°º ¯¶ ¢©® ²°º, ª¯°° ²¯ ° ±¾¶² ¦¡º¶³!"
 
- diggy_encounter.261.t:0 "Coins Beneath the Bones\n[EncounterOverlayBackground]"
- diggy_encounter.261.d:0 "[EncounterOverlay]As was to be expected, barely anything was left at the site, most likely cleared out long before our arrival. Some coins still hid under the bones, but nothing valuable was recovered that day."
- diggy_encounter.261.a:0 "It's something at least"
-
- diggy_encounter.262.t:0 "Barren Bones\n[EncounterOverlayBackground]"
- diggy_encounter.262.d:0 "[EncounterOverlay]The entire mausoleum has been cleared, not a single coin, gem or piece of jewellery left on the bones. There is nothing for us here."
- diggy_encounter.262.a:0 "Oh well"
- diggy_encounter.262.b:0 "At least something killed these orcs"
-
- diggy_encounter.263.t:0 "Hidden in the Wall\n[EncounterOverlayBackground]"
- diggy_encounter.263.d:0 "[EncounterOverlay]"Here! Here! The sign of Gerin Orcrend!" a scout yells out to the expedition.\n\nHe has indeed found the sign we've been looking for, three broken swords balanced against the wall. Shovels were quickly brought of the site, unearthing valuables and weapons of orcish artifice, baubles and other treasures, an impressive haul beyond anything we had thought of finding here."
- diggy_encounter.263.a:0 "We will pour the Trickster a beer tonight!"
-
- diggy_encounter.270.t:0 "Rolling Death\n[EncounterOverlayBackground]"
- diggy_encounter.270.d:0 "[EncounterOverlay]While the expedition continues scouting out the caverns, somewhere deep within the dark a thunderous rumbling can be heard, its reverberations echoing through the ground. Splitting and cracking stone herald its arrival: A huge boulder has dislodged deep within the cavern and is headed right for our expedition, an avalanche of smaller stones just behind it."
- diggy_encounter.270.a:0 "RUN! RUN AWAY!"
- diggy_encounter.270.b:0 "Hide away, quickly now!"
-
- diggy_encounter.271.t:0 "Barely Escaped\n[EncounterOverlayBackground]"
- diggy_encounter.271.d:0 "[EncounterOverlay]As the last echoes of the rolling death subsided the explorers and scouts look around. The expedition has scattered. With the sound of a horn, they slowly gather around again, some carrying bodies of our fellow adventurers with them their bodies disfigured by the avalanche."
- diggy_encounter.271.a:0 "These are the dangers one has to contend with"
-
- diggy_encounter.272.t:0 "Painful Death\n[EncounterOverlayBackground]"
- diggy_encounter.272.d:0 "[EncounterOverlay]The rumbling stone luckily overpowers the cracking bones of our expedition. The rolling death arrived so fast that only few managed to escape its thundering path. As the expedition leader looks around, they count many dead, and even more injured. A disaster."
- diggy_encounter.272.a:0 "The very caves conspired against us"
-
- diggy_encounter.273.t:0 "Caves and Crevices\n[EncounterOverlayBackground]"
- diggy_encounter.273.d:0 "[EncounterOverlay]The caverns of the Serpentspine give ample space for crevices and other small pathways where the tumbling rocks cannot reach. It was no problem for our expedition to drop into these and dodge the rolling death. The explorers quickly dispersed into the many holes and overhangs and emerge afterwards, unscathed by the avalanche."
- diggy_encounter.273.a:0 "It's about size, not how you use it"
-
- diggy_encounter.280.t:0 "Shimmermere\n[EncounterOverlayBackground]"
- diggy_encounter.280.d:0 "[EncounterOverlay]Glittering in the faint bioluminescence of the cavern walls lies a pool of clear, calm water, its surface like a mirror. Soon the first soldiers arrive at the shore, their water skins ready to be refilled."
- diggy_encounter.280.a:0 "Refill our water supplies"
- diggy_encounter.280.b:0 "Wait! Stop! We don't know if it's safe."
-
- diggy_encounter.281.t:0 "Reinvigorated\n[EncounterOverlayBackground]"
- diggy_encounter.281.d:0 "[EncounterOverlay]The cold water coats our throats and inspires us to go further, press onwards, uncover the secrets that await our prying eyes and ears."
- diggy_encounter.281.a:0 "Water is life"
-
- diggy_encounter.282.t:0 "A Pool of Death\n[EncounterOverlayBackground]"
- diggy_encounter.282.d:0 "[EncounterOverlay]The water is cold and fresh, and the soldiers drink quickly. When the first one starts coughing nobody expected anything. When the second one joins in, silent looks were exchanged, but by then the third and fourth were coughing up blood, and they all started to perish, their bodies soon as cold and lifeless as the water that killed them."
- diggy_encounter.282.a:0 "Curses upon curses!"
-
- diggy_encounter.290.t:0 "A Colony of Mushroom...People?\n[EncounterOverlayBackground]"
- diggy_encounter.290.d:0 "[EncounterOverlay]Mushrooms and fungi are a common sight in the Serpentspine, and they make up a significant part of any dark-dwellers diet, so much so that there are entire manuals and archives full of the properties of the different mushrooms one can find in the depths. It is to no one's surprise, then, that mushrooms are also an integral part of any expedition team exploring the secrets of the old caverns, given the sheer number of mushrooms that can be found there.\n\nAs a few explorers were picking some of these mushrooms from an easily accessible place, the most peculiar thing happened: From the dark emerged a group of strange, roughly humanoid shapes, with wide-brimmed hats. As they came closer it became apparent that these were some kind of living mushrooms, mushrooms of similar species that we were just picking…"
- diggy_encounter.290.a:0 "More food!"
- diggy_encounter.290.b:0 "These seem to be some fun guys!"
-
- diggy_encounter.291.t:0 "Food, But At What Cost?\n[EncounterOverlayBackground]"
- diggy_encounter.291.d:0 "[EncounterOverlay]With little thought to the possible repercussions our soldiers slew the mushroom-men, though the screams and terrified squeaks they made were almost intolerable. After the soldiers returned with the food, they regretted what they did more and more. Even now the screams haunt their sleep…"
- diggy_encounter.291.a:0 "I can't believe we did that"
-
- diggy_encounter.292.t:0 "Angry Mushrooms\n[EncounterOverlayBackground]"
- diggy_encounter.292.d:0 "[EncounterOverlay]"Mushrooms," one of the manuals declares, "can have devastating effects on one's health."\n\nThat is true, however no one prepared the soldiers for the onslaught of what was to come: As more and more shrooms came from the dark they started to pummel the soldiers. Their fists are manageable, but the sheer number of enemies is an overwhelming force to be reckoned with. Those who emerge make a mental note of their strange discovery: Mushrooms, while poisonous, can also be quite feisty."
- diggy_encounter.292.a:0 "No! Not there!"
-
- diggy_encounter.293.t:0 "A Good Trip With the Mushrooms\n[EncounterOverlayBackground]"
- diggy_encounter.293.d:0 "[EncounterOverlay]Despite the damp and spongy look of the mushroom caps they felt more like velvet, at least according to the group of soldiers returning from their gathering tour. Many of them just couldn't help themselves except to give these strange creatures some pats, which they, in turn, seemed to appreciate. Nevertheless, the soldiers seem to be much more upbeat now that they have interacted with these things."
- diggy_encounter.293.a:0 "What a strange encounter…"
-
- diggy_encounter.294.t:0 "A Bad Experience With the Mushrooms\n[EncounterOverlayBackground]"
- diggy_encounter.294.d:0 "[EncounterOverlay]As our men approach the mushroom-people the creatures huddle away in fear, hiding and running from the soldiers. Despite their best tries to convince the mushrooms otherwise, they quickly abandoned the cavern, and we have seen no glimpse of them since."
- diggy_encounter.294.a:0 "We just wanted to be friends"
-
- diggy_encounter.300.t:0 "Remnant Camp\n[EncounterOverlayBackground]"
- diggy_encounter.300.d:0 "[EncounterOverlay]During the Last Days of the Dwarovar, the century-long decline of the great dwarven empire, many dwarves holed themselves away in their holds, shutting out everyone and everything. These dwarves, the remnants, have slowly started to creep out of their halls once again and established small outposts throughout their ancestral land. One of these groups has now been presented to us, around 500 dwarves tending to a small village tucked away in the depths of a cavern. After surveying them for a few hours we must decide what to do with them. The village is blocking our path, so we have to somehow remove them from here."
- diggy_encounter.300.a:0 "Offer them a new home"
- diggy_encounter.300.b:0 "Kill and do away with them"
-
- diggy_encounter.301.t:0 "Old Claims\n[EncounterOverlayBackground]"
- diggy_encounter.301.d:0 "[EncounterOverlay]The remnants have decided to accept our offer for a new home and are now tagging along with the rest of the expedition. In return they gave us access to their village and the surrounding land to resupply and later incorporate into our own holdings."
- diggy_encounter.301.a:0 "Great"
- diggy_encounter.301.tooltip:0 "We will be able to use the existing infrastructure in this province, however the Remnants demand initial autonomy"
-
- diggy_encounter.302.t:0 "Refusal\n[EncounterOverlayBackground]"
- diggy_encounter.302.d:0 "[EncounterOverlay]The village chief, a young and gnarly dwarf by the name of Gundar Headstrong, turns out to be aptly named. With a simple and effective “No” he has shut down our attempts at reconciliation with his village. He says he has strict orders from his hold to stay here and work the land, and no one and nothing will break his loyalty."
- diggy_encounter.302.a:0 "At least they let us pass through the village"
-
- diggy_encounter.303.t:0 "The Unending Grudge\n[EncounterOverlayBackground]"
- diggy_encounter.303.d:0 "[EncounterOverlay]As soon as our messenger arrived at the dwarves’ doorstep he was attacked on sight. From the houses and fields dwarves poured over him, dismembering him within seconds. Seeing this an, even for us, gruesome display of blind hatred, we retaliated in kind, throwing ourselves into battle once again against our mortal enemies. Axe and sword, shield and bow, countless lives falling on both sides were the result of our well-intentioned idea of peace, but the fact that dwarves are stubborn idiots that cannot be reasoned with proves itself once again." #goblins and orcs get this from .300
- diggy_encounter.303.a:0 "No dwarf shall remain!"
-
- diggy_encounter.304.t:0 "Remnant Corpses\n[EncounterOverlayBackground]"
- diggy_encounter.304.d:0 "[EncounterOverlay]Pouring into the opening of the village we overwhelmed the guards before they knew what was upon them. Axe and blade to throat, blood gushing over our maniacal laughter, teeth stained red. These dwarves had long lost their right to these caverns, and this shall be a reminder for them: The Serpentspine is under new management.\n\nAfter the heat of battle subsided we surveyed the slaughter field. No dwarf remained, only the mangled and disfigured corpses lie strewn around. The buildings are quiet now with the last signs of life slowly fading: Food on a stove, lit torches, unfinished clothes. Among these remains are also the riches the dwarves were hoarding Gems and gold, a small hoard amassed by the diligent workers."
- diggy_encounter.304.a:0 "Not just the men, but the women and children, too"
-
- diggy_encounter.305.t:0 "Our Remnant\n[EncounterOverlayBackground]"
- diggy_encounter.305.d:0 "[EncounterOverlay]An often overlooked quality of the Remnants is not that they just hid away, but that they managed to survive the unbelievable odds against them. It is no wonder, then, that this outpost would be of a similar tenacity. As we stormed the village, the dwarves burst out, armed with axe, blade, and shield, hacking our troops to pieces, killing them without much consideration."
- diggy_encounter.305.a:0 "The dwarves win again…"
-
- diggy_encounter.310.t:0 "Hot Bath\n[EncounterOverlayBackground]"
- diggy_encounter.310.d:0 "[EncounterOverlay]Deep within the ruins of yore, the old dwarven structures that dot the caverns of the Serpentspine like stars in the sky of Halann, lie in wait, accumulating dust and spores. These ruins sometimes hide exquisite treasure, but often house extreme dangers, old and ancient foes. It was to our expedition's surprise, then, that the explorers scouting out one of these ruins found neither, instead they found what seems to be a dwarven bathhouse. Along the faint tiled floor and walls imagery of great waterfalls and rivers can be found, intricate depictions of long-lost aeons. In a corner of these murals, as well, is the manual on how to operate the bath. Many soldiers have not enjoyed a bath in months, so the idea of trying this one out is appealing.\n\nAs the water gushes through the pipes and fills the pool we notice that it gives off some steam, indicating that this was once a hot bath, presumably fed by an underground river near some geothermic activity. In a small adjacent cavern, we have found many valves and levers, seemingly regulating the heat of the water."
- diggy_encounter.310.a:0 "Let's see if we can make this more comfortable"
- diggy_encounter.310.b:0 "Everyone in, it's time to relax"
-
- diggy_encounter.311.t:0 "Perfect Temperature\n[EncounterOverlayBackground]"
- diggy_encounter.311.d:0 "[EncounterOverlay]The old valves yield to our engineers, adjusting the water temperature until it is just right for us, giving off some nice steam, an inviting sight to behold. Many are already eager to try it out. One engineer points out another valve bearing the word 'pressure', which is apparently used to turn on some jets of water."
- diggy_encounter.311.a:0 "Turn on the water jets"
- diggy_encounter.311.b:0 "Now we finally get to relax"
-
- diggy_encounter.312.t:0 "Scalding\n[EncounterOverlayBackground]"
- diggy_encounter.312.d:0 "[EncounterOverlay]Even though our engineer assured us that the valve was adjusted correctly, the stream of water entering the pool was almost boiling, sending clouds of steam into the fissures beyond. The unfortunate soldiers who have already entered the pool had to vacate it immediately, escaping with ugly burns and an increasing distrust of our engineers."
- diggy_encounter.312.a:0 "Ouch! Aah, ooh, ouch!"
-
- diggy_encounter.313.t:0 "Relaxation\n[EncounterOverlayBackground]"
- diggy_encounter.313.d:0 "[EncounterOverlay]With both the water at the right temperature and the jets gently flowing across the pool, our men can finally undress and relax, something they have been looking forward to ever since our initial discovery. The increasing anticipation is now being washed away by the water, and cramped muscles, stiff from the endless walking, can finally relax.\n\nAs time goes on a few other toys are discovered, a small fountain at the centre and artificial rain from the pipes above. This happy occasion went on deep into what the Serpentspine offers as a night until everyone had their fair share of water. The expedition stayed for a few days more, sampling the relaxing water before departing again."
- diggy_encounter.313.a:0 "Reinvigorated we continue onwards into the depths"
-
- diggy_encounter.314.t:0 "Death Jets\n[EncounterOverlayBackground]"
- diggy_encounter.314.d:0 "[EncounterOverlay]The pressure build-up over the centuries without use and maintenance was too big to be contained. Opening the valves even a bit made water shoot out of the walls with such intense strength that it cut into the flesh of some soldiers, who then got subsequent burns from the boiling hot water. Our expedition quickly jumped out of the water, their rest and relaxation cut short."
- diggy_encounter.314.a:0 "Maintenance IS worth the effort"
-
- diggy_encounter.320.t:0 "A Fuse in the Dark\n[EncounterOverlayBackground]"
- diggy_encounter.320.d:0 "[EncounterOverlay]The especially remote parts of the Serpentspine are haunted by an eerie silence that permeates the hallways with a deafening nothingness. Every sound of steps, voices, or the odd falling rocks is like an explosion, alerting the silent stalkers that hide away in the dark. Due to the remoteness of these regions most dark dwellers are not known to any manual one might recover from the aeons past.\n\nOne of these monsters has suddenly come to the expedition's attention: an utterly silent creature, whose green, tall, and armless body makes barely a whisper even as it shuffles across the cavern floor. The sudden surprise had the guards ringing the alarm due to this unknown danger, and as the entity came closer it gave off the sound of a fuse burning, striking a primal fear into our soldiers."
- diggy_encounter.320.a:0 "Kill it before it nears"
- diggy_encounter.320.b:0 "If it explodes we need to get out of here!"
-
- diggy_encounter.321.t:0 "The Shuffling Menace\n[EncounterOverlayBackground]"
- diggy_encounter.321.d:0 "[EncounterOverlay]With the soldiers roused from their rest they ready their weapons for the expedition leader to give a signal on how to strike the creature: its strange, four-legged form, with nothing but small stubs for legs, makes our expeditionaries wonder just where a weak-point would be.\n\nThere are three ways to go about this attack, the leader reasons: Hit it from a longer range to protect the expedition, charge it and keep it from coming closer, or simply barrage it with fireballs to eradicate it utterly."
- diggy_encounter.321.a:0 "Bowmen!"
- diggy_encounter.321.b:0 "Infantry!"
- diggy_encounter.321.c:0 "Mages!"
-
- diggy_encounter.322.t:0 "Pierced\n[EncounterOverlayBackground]"
- diggy_encounter.322.d:0 "[EncounterOverlay]Our bowmen take aim, the slow movements of the creature making it quite easy to hit. Our arrows fly true, striking the creature in its elongated torso, making it stumble over its stubby four legs. When it hit the ground, the skin burst open, revealing gems and diamonds within. A few druids wonder over the strange biology of this creature and decide to study it further, pocketing the gems, before being reminded that all loot must go to the coffers, not some personal stash."
- diggy_encounter.322.a:0 "Very good"
-
- diggy_encounter.323.t:0 "The Fuse\n[EncounterOverlayBackground]"
- diggy_encounter.323.d:0 "[EncounterOverlay]Before we managed to defuse the creature it committed itself to rapid self-decomposition: It exploded right in front of us, sending a shockwave through the ranks, leaving nothing behind but a few fumes of smoke."
- diggy_encounter.323.a:0 "That is unfortunate"
-
- diggy_encounter.324.t:0 "Slashed\n[EncounterOverlayBackground]"
- diggy_encounter.324.d:0 "[EncounterOverlay]Repeated charges and retreats managed to distract the creature enough that it wouldn't explode, leading to a decisive victory. As it fell to the ground it burst open, revealing a large amount of gunpowder inside its body."
- diggy_encounter.324.a:0 "Fascinating"
-
- diggy_encounter.325.t:0 "Shocked\n[EncounterOverlayBackground]"
- diggy_encounter.325.d:0 "[EncounterOverlay]The barrage of fireballs striking the creature quickly obliterated it in an explosion at a safe distance from us. In the aftermath of the explosion, we managed to find valuable gems within the remnants of the body, scattered across the ground."
- diggy_encounter.325.a:0 "That is good to know for the future"
-
- diggy_encounter.326.t:0 "A Grand Finale\n[EncounterOverlayBackground]"
- diggy_encounter.326.d:0 "[EncounterOverlay]Despite, or maybe because of, the magical barrage we subjected the creature to, it charged at us, its fuse-sound becoming louder and louder, until it reached the soldiers in some kind of super-charged state, detonating right in front of our expedition. It blasted men, mages, and explorers around and against the wall, completely obliterating itself in the explosion."
- diggy_encounter.326.a:0 "AAAAAAARGH!"
-
- diggy_encounter.330.t:0 "The Choking Death\n[EncounterOverlayBackground]"
- diggy_encounter.330.d:0 "[EncounterOverlay]Transparent clouds of gas sometimes get wedged into the corners of Serpentspine, silently floating without disturbance for centuries. These gasses are often dangerous due to the lack of oxygen for poor travellers traversing the labyrinthine paths of the ancient caverns. One such bubble of gas has now enveloped our expedition, making many explorers and scouts dizzy from the lack of oxygen.\n\nBut since the gas is colourless and odourless there is no way for our explorers to know until it is almost too late. As the signs towards a gas being the culprit behind the increasing discomfort the expedition leader is presented with three options to approach the subject matter."
- diggy_encounter.330.a:0 "Tough it out"
- diggy_encounter.330.b:0 "Let's find a different path"
- diggy_encounter.330.c:0 "Try to ignite it"
-
- diggy_encounter.331.t:0 "Bombing the Gas\n[EncounterOverlayBackground]"
- diggy_encounter.331.d:0 "[EncounterOverlay]Our engineers have set up a few explosives along the path, rows and rows of gunpowder, ready to be ignited. This solution does not go completely unopposed, and the expedition's geologist voices her concern for the structural integrity of the hallway."
- diggy_encounter.331.a:0 "Light the fuse"
- diggy_encounter.331.b:0 "This seems dangerous…"
-
- diggy_encounter.332.t:0 "Safe Passage\n[EncounterOverlayBackground]"
- diggy_encounter.332.d:0 "[EncounterOverlay]Due to the labyrinthine nature of the Serpentspine it wasn't hard to find another way around that particular part of the caves, leading us safely around the gas into fresh air. At least as fresh as one can get deep within the mountains."
- diggy_encounter.332.a:0 "Note that down"
-
- diggy_encounter.333.t:0 "Dead End\n[EncounterOverlayBackground]"
- diggy_encounter.333.d:0 "[EncounterOverlay]During our search for a secondary way around the gas we have come upon a dead end, which, luckily, seems to end in soft stone, which we must dig away in order to continue, due to the increasing reluctance to return to the gas chamber and find another way from there."
- diggy_encounter.333.a:0 "Get the pickaxes"
-
- diggy_encounter.334.t:0 "Explosion Successful\n[EncounterOverlayBackground]"
- diggy_encounter.334.d:0 "[EncounterOverlay]The explosion proved to be capable of igniting the gas, leading oxygen-rich air to sweep into the cave, making it possible to breathe again. Our explorers relish in the breeze of air coming from behind and take a few deep breathes of relaxation before continuing onwards."
- diggy_encounter.334.a:0 "Nice"
-
- diggy_encounter.335.t:0 "Cave-in\n[EncounterOverlayBackground]"
- diggy_encounter.335.d:0 "[EncounterOverlay]As the lit fuse approaches the explosives it already sets off some of the gas, triggering a cavalcade of smaller explosions that permeate uncontrollably throughout the hallway, causing the ceiling to collapse on us, killing many members of our expedition, proofing the geologist right."
- diggy_encounter.335.a:0 "”You should have listened to me.”"
-
- diggy_encounter.336.t:0 "Gas Deposit\n[EncounterOverlayBackground]"
- diggy_encounter.336.d:0 "[EncounterOverlay]The digging went along splendid, removing the soft and diggable rock from the path towards fresher air. As the process continued, however, the rock became more and more porous, with small channels, bubbles, and tubes within the stones carried away from the sit.\n\nThis strange geological feature turned out to be a herald of a much larger underground gas reservoir, hidden deep within the porous stone, seemingly deposited here by the dwarves of yore. This immediately sparked despair among the party, given the futility of escape."
- diggy_encounter.336.a:0 "From the pan, into the fire"
-
- diggy_encounter.337.t:0 "Gem Deposit\n[EncounterOverlayBackground]"
- diggy_encounter.337.d:0 "[EncounterOverlay]While searching for another way around the gas we have stumbled upon an abandoned mineshaft, with old mining equipment still lying around accumulating dust. Deeper within the shaft, however, an old shipment of gems seems to have been forgotten, lying around in carts and baskets ready for the taking. As well, it seems there may be a slight breeze in the mine shaft, indicating this could be the path to freedom after all. Many of our explorers, however, have set their eyes on the gems, trying to pocket some for themselves."
- diggy_encounter.337.a:0 "All gems into the coffers, you'll get your reward later"
-
- diggy_encounter.340.t:0 "Gelatinous Cube\n[EncounterOverlayBackground]"
- diggy_encounter.340.d:0 "[EncounterOverlay]The caverns through which the expedition travels are normally abundant with dust, mushrooms, and all other odd things one may find deep within the Serpentspine. For the last few days, the caverns have been suspiciously clean, however, featuring spotless, smooth stone. This has alerted some of the more seasoned members of our expedition to the possible danger: the infamous Gelatinous Cube, a mindless creature made of oozing gel in the shape of a cube, scouring empty hallways like a large garbage disposal, digesting whatever junk they pick up with their potent acid.\n\nAnd sure enough, after a few more hours our scouts report of floating chests and swords further along the path, suspended within the almost translucent gelatinous mass of the Cube. A few soldiers, clad in whatever protective gear they could find, approach the creature now for further inspection. They argue how to go about this situation, putting two possible possibilities in front of the expedition leader: Dispose of the Cube entirely by burning it to the ground, or try to retrieve the loot from within the Cube without the danger of harming the treasure."
- diggy_encounter.340.a:0 "Burn the creature"
- diggy_encounter.340.b:0 "Attempt to retrieve the loot"
-
- diggy_encounter.341.t:0 "Gelatinised Bonfire\n[EncounterOverlayBackground]"
- diggy_encounter.341.d:0 "[EncounterOverlay]The soldiers set fire to the cube, and the gelatinous mass immediately ignited like it was a mass of kindling, not slime. It burned with a bright blue flame with green spots, emanating an unthinkable stench and fumes into its surroundings, making the soldiers flee the conflagration.\n\nOnce they returned there was nothing left of the Cube except a few spots of ooze, but the treasure had been obliterated similarly, leaving a few melted pieces of iron scrap behind."
- diggy_encounter.341.a:0 "Oh well"
-
- diggy_encounter.342.t:0 "Torch'd\n[EncounterOverlayBackground]"
- diggy_encounter.342.d:0 "[EncounterOverlay]Our soldiers approached the Cube with a lit torch, but trying to ignite the Cube proofed futile, since it almost immediately engulfed the torch, adding it to the arrangement of stuff within its cubic body."
- diggy_encounter.342.a:0 "Well we tried, time to run"
- diggy_encounter.342.b:0 "Try to contain it"
-
- diggy_encounter.343.t:0 "Slimy Loot\n[EncounterOverlayBackground]"
- diggy_encounter.343.d:0 "[EncounterOverlay]The unfortunate soldiers that were tasked with retrieving the loot from within the Cube shuddered upon the thought of having to reach within the slimy mass out of their own volition. After some heavy encouraging — and promising them a greater share of spoils — one brave soul finally committed to the deed.\n\nHe covered his arm with as much cloth as possible, tying it tightly to him, and reached inside. Despite all precautions, he could still feel a faint sizzling but managed to pull some of the surface treasure out. The chests and weapons are still covered in the slime and ooze of the Cube, however, and he refuses to clean them on the basis that he has done enough already."
- diggy_encounter.343.a:0 "Disgusting"
-
- diggy_encounter.344.t:0 "Cubic Rampage\n[EncounterOverlayBackground]"
- diggy_encounter.344.d:0 "[EncounterOverlay]The promise of additional rewards for everyone trying to retrieve the loot has encouraged one brave soul to try and pull some loot out, which turned out to be a miserable failure. The Cube pulled the soldier into the gelatinous depths, floating around in its insides, desperately flailing for help. Angered, it starts oozing around, trying to devour more of our explorers, almost succeeding at one point, routing the rest."
- diggy_encounter.344.a:0 "Get Away!"
-
- diggy_encounter.345.t:0 "All Cubed Up\n[EncounterOverlayBackground]"
- diggy_encounter.345.d:0 "[EncounterOverlay]Through deception and trickery we managed to contain the Cube in a makeshift “pasture” from which it can't escape. Contained this way a debate sparks to live what we should do with the Cube. Some got tired of constantly saying "the Gelatinous Cube" and decided to give it a proud and imposing name: Larry I the Gelatinous, Lord of the Depths, Duke of Ooze, Grandmaster of all Cuboids."
- diggy_encounter.345.a:0 ""All glory to Larry I!""
-
- diggy_encounter.346.t:0 "Can't Cube This\n[EncounterOverlayBackground]"
- diggy_encounter.346.d:0 "[EncounterOverlay]We tried to get the Cube into some sort of confinement, a ruse which the Cube must have discovered at some point, spurring it to attack the expedition. Despite its slow speed, we couldn't stop it rolling and oozing over a few unfortunate men, covering them with its acidic gel and inflicting serious chemical burns. After its short-lived rampage, the monster scurried off into the dark. The horrifying wounds it caused are more than enough reason to leave it be."
- diggy_encounter.346.a:0 ""Get this gunk off of me!""
-
- diggy_encounter.350.t:0 "The Oilcap\n[EncounterOverlayBackground]"
- diggy_encounter.350.d:0 "[EncounterOverlay]The soldiers returning to camp from our most recent foraging trip bring with them a strange breed of mushrooms, one that has never been seen before by anyone in the camp. The cap has a strange oily shimmer to it, refracting the light of our lanterns and torches in strange patterns, like a puddle of oil.\n\nFor that reason, our head biologist has dubbed them "Oilcaps". They exude an alluring smell, which raises the cooks' interest as to whether they can be consumed safely or not..."
- diggy_encounter.350.a:0 "Let's find out!"
- diggy_encounter.350.b:0 "This seems like a terrible idea"
-
- diggy_encounter.351.t:0 "Bliss\n[EncounterOverlayBackground]"
- diggy_encounter.351.d:0 "[EncounterOverlay]The mushrooms don't taste that good, but their effect is undeniable: Our men feel elated, ecstatic even. The mushrooms must have contained some sort of psychoactive drug, at least from the looks of it. This has led to a far more enjoyable journey, but some of the soldiers are so busy spending time in their own world daydreaming that they straggle behind and don't pay much attention to what is actually going on with the expedition."
- diggy_encounter.351.a:0 "Is that a rainbow rothé?"
-
- diggy_encounter.352.t:0 "Overdose\n[EncounterOverlayBackground]"
- diggy_encounter.352.d:0 "[EncounterOverlay]The soldiers eating the mushrooms seem to have a great time, eating more and more in their increasingly ecstatic state. This invites others to join them in their revelry but just as a new group of mushroom-hungry men arrive, the first ones, who have eaten copious amounts of mushrooms by now, start coughing and their mouths begin to foam. They fall over with dull eyes, as if they have gone blind. This state of unconsciousness soon ends with death, the entire body slumped after an episode of intense twitching.\n\nThose that witnessed this threw the mushrooms away in disgust, but for some it was already too late. Those that survived the twitches and tremors are in an unstable state of mind, needing constant attention."
- diggy_encounter.352.a:0 "Stop you fools!"
-
- diggy_encounter.360.t:0 "Gelatinous Menace\n[EncounterOverlayBackground]"
- diggy_encounter.360.d:0 "[EncounterOverlay]Strange creatures, sentient, non-sentient and semi-sentient alike, roam the depths of the Serpentspine, looking for the few morsels of food the hard and unyielding rock offers. Some of these creatures have turned upon others in search of sustenance, but no other does so with an uncaring ambiguity than the giant slimes dwelling in the pits. They creep up on unexpecting creatures, encasing them in their slimy bodies. A few of these slimes have attacked, or to be more precise, just walked over a few of our explorers, suffocating them in their gooey bodies."
- diggy_encounter.360.a:0 "Cut them out!"
- diggy_encounter.360.b:0 "Stand back!"
-
- diggy_encounter.361.t:0 "Extermination\n[EncounterOverlayBackground]"
- diggy_encounter.361.d:0 "[EncounterOverlay]With sword and shield, axe and mace we shovelled the poor souls out of their miserable predicament. Once freed they took up their own weapons and descended upon the other slimes in a fit of rage, prompting the rest of our expedition to join in on the fray until no slime was left in one piece."
- diggy_encounter.361.a:0 "The acid damaged some of our weapons"
- diggy_encounter.361.b:0 "Finally free"
-
- diggy_encounter.362.t:0 "Slimed\n[EncounterOverlayBackground]"
- diggy_encounter.362.d:0 "[EncounterOverlay]In the frantic tries to free our fellow soldiers we irritated the slimes to the point where they shifted our allies in their bodies like some kind of shield, ultimately making them casualties in our attempt to recover them. Afterwards the slimes charged towards us, devouring more soldiers and striking fear into the expedition."
- diggy_encounter.362.a:0 "To the hells and back!"
-
- diggy_encounter.363.t:0 "A Strange Sensation\n[EncounterOverlayBackground]"
- diggy_encounter.363.d:0 "[EncounterOverlay]The slimes give off a weird smell and their bodies slosh with uncomforting sounds, but our men stand careful watch as we ready our assault. Just as we were to attack the slimes, trying to save our allies, the slimes spit them out again. Shocked gasps go through the group as the slime-covered soldiers cough and gasp for air. A healer is quickly fetched to look after them and he returns with a most peculiar report: The soldiers are not harmed in any way, indeed, they feel better than before, their weariness and other maladies cured, to the confusion of all involved."
- diggy_encounter.363.a:0 "Everyone! Get in these slimes!"
- diggy_encounter.363.b:0 "Perhaps we can exploit this later"
- diggy_encounter.363.tooltip:0 "Once the province is safe we can establish a hospital in the area and use these slimes for our benefit."
-
- diggy_encounter.364.t:0 "Acidic Menace\n[EncounterOverlayBackground]"
- diggy_encounter.364.d:0 "[EncounterOverlay]Our men stand watch as they witness the awful dissolution of their allies' bodies, petrified by the terrible prospect of being similarly undone. After some minutes the slimes spit out the meagre leftovers, bones picked clean that glint in the torch-light."
- diggy_encounter.364.a:0 "Run away!"
-
- diggy_encounter.370.t:0 "Orcish Supplies\n[EncounterOverlayBackground]"
- diggy_encounter.370.d:0 "[EncounterOverlay]We have been made acutely aware of the fact that we are not the only ones roaming the caverns by our scouts' newest discovery: Just ahead of us lies what seems to be an orcish supply camp, where they have stored food and rations for later use. Well, "stored" -- in typical orc fashion it is a big pile of random things."
- diggy_encounter.370.a:0 "Look for the food"
- diggy_encounter.370.b:0 "This stuff smells bad, look for anything of value"
-
- diggy_encounter.371.t:0 "Orcish Delicacies\n[EncounterOverlayBackground]"
- diggy_encounter.371.d:0 "[EncounterOverlay]Among the assortment of supplies our bravest men have managed to find some food, surprisingly well preserved, which they now deal out to the rest of the group. Next to cured meats and dried mushrooms it also features distinct orcish delicacies. Sharlogr, a strong alcoholic drink roughly translating to "Sun Water", is particularly liked among the explorers and soldiers."
- diggy_encounter.371.a:0 "Cheers!"
-
- diggy_encounter.372.t:0 "Empty Tables\n[EncounterOverlayBackground]"
- diggy_encounter.372.d:0 "[EncounterOverlay]With everything piled up it is hard to find anything in the supplies and at some point we just gave up and had to accept the fact that there was no food to be had in an orcish warehouse."
- diggy_encounter.372.a:0 "Unfortunate"
-
- diggy_encounter.373.t:0 "Meat\n[EncounterOverlayBackground]"
- diggy_encounter.373.d:0 "[EncounterOverlay]"Meat!" one of our soldiers shouts before descending into the pile, shovelling up more and more food. Our soldiers gorge themselves on this most welcome opportunity, appeasing even the most ravenous of our kin. We must thank our fellow orcs for providing such a feast for us!"
- diggy_encounter.373.a:0 "Dookan blesses us"
-
- diggy_encounter.374.t:0 "Shinies\n[EncounterOverlayBackground]"
- diggy_encounter.374.d:0 "[EncounterOverlay]During the search of the pile our men managed to find some loot, old dwarven jewellery and other valuable trinkets, as well as gems and gold. The scouts return to the camp, proudly displaying their newfound riches, only for it to be confiscated and added to our own pile."
- diggy_encounter.374.a:0 "Into the coffers with that!"
-
- diggy_encounter.375.t:0 "A Big Pile of Nothing\n[EncounterOverlayBackground]"
- diggy_encounter.375.d:0 "[EncounterOverlay]Despite the large amount of stuff on the pile, we could find absolutely nothing of interest, no food, no weapons, no loot, nothing. The frustrated scouts return to the expedition leader and give their report before they are sent out again to look further ahead, grumbling."
- diggy_encounter.375.a:0 "What a waste of time"
-
- diggy_encounter.380.t:0 "Goblin Ambush\n[EncounterOverlayBackground]"
- diggy_encounter.380.d:0 "[EncounterOverlay]Almost out of nowhere a gigantic army of goblins descend upon us, crawling out of every nook and cranny, every small tunnel and crevice around us, with spit-fletched teeth and crude, yet painful, weapons. They scream in anger, preparing for their attack, striking fear into the eyes and hearts of our explorers."
- diggy_encounter.380.a:0 "Death to the greenskins!"
- diggy_encounter.380.b:0 "Let's see if they want to join our tribe..."
-
- diggy_encounter.381.t:0 "A Decisive Strike\n[EncounterOverlayBackground]"
- diggy_encounter.381.d:0 "[EncounterOverlay]Quickly our soldiers scramble to the front and prepare for impact, shields and spears readied for the onslaught. As the goblins approach, they are met with grim resolve, metal striking metal, steel scraping on crude armour. We slay countless of their number, and the rest soon flee."
- diggy_encounter.381.a:0 "Loot the bodies"
-
- diggy_encounter.382.t:0 "Struck Decisively\n[EncounterOverlayBackground]"
- diggy_encounter.382.d:0 "[EncounterOverlay]The overwhelming masses of goblins quickly surrounded us and despite our best efforts flooded over our defences in one gigantic wave. In their eyes lies a grim lust for death and destruction, a primal urge to kill.\n\nAs our men scramble away, the torches go out and the light dims, only the faint glow of some bioluminescent mushrooms illuminating the slaughter. But just as suddenly as the goblins appeared they vanish again, drawn into some other part of the Serpentspine by their hunger for death."
- diggy_encounter.382.a:0 "Who can withstand such numbers and such reckless hate?"
-
- diggy_encounter.383.t:0 "A Great Clan for All\n[EncounterOverlayBackground]"
- diggy_encounter.383.d:0 "[EncounterOverlay]The goblin army has agreed to peaceful terms, as befitting such an advanced civilization as us. In the masterfully crafted treaty, they generously donate some supplies, while we offer them the safety of being a part of [Root.GetName]."
- diggy_encounter.383.a:0 "Onwards!"
-
- diggy_encounter.384.t:0 "Stubborn Goblins\n[EncounterOverlayBackground]"
- diggy_encounter.384.d:0 "[EncounterOverlay]Civilization is hard to come by down here, a fact made evident by the armies rage and anger over our proposal to share food and supplies. The tide of flashing teeth and gleaming eyes descended upon our expedition, stealing and killing what they can before huddling away into the dark again"
- diggy_encounter.384.a:0 "So uncivilized…"
-
- diggy_encounter.390.t:0 "Stream of Despair\n[EncounterOverlayBackground]"	
- diggy_encounter.390.d:0 "[EncounterOverlay]The unsteady nature and tectonic activity under the Serpentspine mountains has yielded grave results for our expedition. From one of the many openings to the side of the cavernway, where water had slowly trickled down in small drops, building impressive dripstones, came a low rumbling which heralded a deluge of brown brackish water filled with rocks and stones that pulverized upon hitting the opposite wall with the force the water had pushed them along. As this stream began to fill up the ground below us some of the expedition members grew uneasy with what might happen now, fearing that they might drown in this cave. There is no end yet insight, and no ascent away from the danger to be seen yet."
- diggy_encounter.390.a:0 "Push forward!"
- diggy_encounter.390.b:0 "Go back!"
- diggy_encounter.390.c:0 "Calm down, the odds of this cave fully flooding are low"
-
- diggy_encounter.391.t:0 "A Close Call\n[EncounterOverlayBackground]"
- diggy_encounter.391.d:0 "[EncounterOverlay] With a fast step, but still in formation, we traversed the cave while the water continued rising. Soon the black and brown deluge crept up our legs, filling shoes with small rocks, sand, and pebbles. Many soldiers now broke step, the difficult terrain making it hard to follow the others. Soon the water reached chest-height, which turned the uneasy into outright fear, with some panicking, since there was still no end to the hallway in sight. Finally, after thirty excruciating minutes of constant mortal fear we managed to find a path upwards. After leaving the water behind we had to find out that some stragglers did not manage to get out of the cave fast enough."
- diggy_encounter.391.a:0 "Better than everyone drowning"
-
- diggy_encounter.392.t:0 "Too Much Water\n[EncounterOverlayBackground]"
- diggy_encounter.392.d:0 "[EncounterOverlay]With the troops at ease the water slowly rose, but since this hallway seemed so big any fear abated. And when the water seemed to halt about at ankle-height everyone became cheerful again and continued onwards. Then, suddenly, more parts of the wall gave way to the water masses, flooding the cave faster and faster as more walls broke done. Then a loud crack from above announced the end: The ceiling broke open, burying some under the fallen rocks, and the rest under the subterranean lake that came crashing down. Some managed to find small pockets of air where they could hold out for some time, but soon the oxygen became scarce and dizziness approached, ultimately suffocating those who had not drowned."
- diggy_encounter.392.a:0 "AIR, I need… need air…"
-
- diggy_encounter.393.t:0 "The Flow of Time\n[EncounterOverlayBackground]"
- diggy_encounter.393.d:0 "[EncounterOverlay]After a short moment of consideration the expedition leader decided to turn around and go back to the last fork in the road a few days back. While it is the definitely safer choice it also cost us a considerable amount of time."
- diggy_encounter.393.a:0 "At least we're not dead"
-
-
- diggy_encounter.430.t:0 "Obsidian Warband\n[EncounterOverlayBackground]"
- diggy_encounter.430.d:0 "[EncounterOverlay]Drums beating, archaic dwarven language, sturdy armour, black-tipped spears: These are the signs of the Obsidian Dwarves, outcasts from Aul-Dwarov, heretics who have been exiled into the depths of the Serpentspine for their dangerous rune magic. Ever since they resurfaced some of them can be observed here and there in the Serpentspine, but not in such a large quantity. Before us are at least six legions of dwarves stampeding through the old caverns. This is not just another warband, this is an army!"
- diggy_encounter.430.a:0 "Let us see who is more of a force!"
- diggy_encounter.430.b:0 "They can't fight what they can't see! Hide!"
- diggy_encounter.430.c:0 "Attempt to return them to the main force."
-
- diggy_encounter.431.t:0 "Shattered Obsidian\n[EncounterOverlayBackground]"
- diggy_encounter.431.d:0 "[EncounterOverlay]After hours of combat, skirmishes, successes and defeats we have finally killed the last of the Obsidian Dwarves. Their corpses lie now piled high in the cave where our battle had taken place, most of their armour and weapons shattered. There is still a trace of their strange magic in the air, like a static tingling. Next to them lie our own losses, equal in size. Many weep upon seeing what we had to sacrifice, but we all know that there would have been no other way."
- diggy_encounter.431.a:0 "We can compensate the fallen's families with some of their loot."
-
- diggy_encounter.432.t:0 "Unbreakable Glass\n[EncounterOverlayBackground]"
- diggy_encounter.432.d:0 "[EncounterOverlay]Soon after we began our charge towards the legion we noticed our mistake. We had completely underestimated their numbers and their combat prowess. Their black spears and obsidian blades cut through our troops like a hot knife through butter. Without breaking formation, they fight back like a bulwark of pure hatred, like demons of the ancient world, without mercy or consideration. It was not long until our own troops faltered and broke formation, fleeing and retreating from the battle. After the threat had passed our soldiers returned from their hiding spots and the leader issued a head count to survey the immense losses."
- diggy_encounter.432.a:0 "Is there anyone left?"
-
- diggy_encounter.433.t:0 "The Coward's Way Out\n[EncounterOverlayBackground]"
- diggy_encounter.433.d:0 "[EncounterOverlay]It would be akin to madness to face a warband this size, which means there is only one solution: Get out of their way. Quickly the soldiers and explorers disperse into the surrounding crevices as the rhythmic tread of the Obsidian Dwarves approaches. All hold their breaths, cower behind the rocks as the warband passes without looking around, much to our fortune. Once the danger had left us behind, we emerged from the caves again, glad that we chose to hide."
- diggy_encounter.433.a:0 "Back on the path we go"
-
- diggy_encounter.434.t:0 "Cowards Never Prosper!\n[EncounterOverlayBackground]"
- diggy_encounter.434.d:0 "[EncounterOverlay]Despite our desperate tries to hide away the Obsidian Dwarves combed their surroundings and quickly found us, leaving combat the only choice we have but since our troops are now all over the place it will be almost impossible to organize a coordinated response…"
- diggy_encounter.434.a:0 "Ready the weapons!"
+ diggy_encounter.261.t:0 "°²º ±¦ ¬²¾¯ª\n[EncounterOverlayBackground]"
+ diggy_encounter.261.d:0 "[EncounterOverlay]       ¬ ª ¨ª¦®¿, ¦¢ ®ª ¶² °ª¡³¦¿ ²®¿ ° ¼²þ ²°, ¢¾²° ¢¥ ¼² ¯² ¡º® ¢º¶ª¸° © ¦®¥ ¦ °Œ¥ ±ª¡º²ª¾. ¯°¥ ¯°² ¬º² ±¦ ¬²¾¯ª, ° °ª¶¥ µ°°¥ ° ¡º® ¢©¢¸° ¢ ¼²² ¦°¿."
+ diggy_encounter.261.a:0 "Ï ¬°µ ¬°µ¢ ²¿ ¶²-²"
+
+ diggy_encounter.262.t:0 "‚®º ¬²ª\n[EncounterOverlayBackground]"
+ diggy_encounter.262.d:0 "[EncounterOverlay]       €º® ¢º¶ª¸° µ®ºþ ¯¢©®þ, °ª ¯°²¬ª, ° ¯µ¢² ª®ª ´¥¯°² ¦¥µ°°²ª ° ¬²¾. ƒ®¾ ° ©¦¿ °² °ª¶¥."
+ diggy_encounter.262.a:0 "Ì²-¨..."
+ diggy_encounter.262.b:0 "‰ ¬þ°þ ¯ ¶²-² ³¡ª® ¼²ª ¬¢"
+
+ diggy_encounter.263.t:0 "Ô¬º² ¢ ²°\n[EncounterOverlayBackground]"
+ diggy_encounter.263.d:0 "[EncounterOverlay]       «Ô½¦! Ô½¦! Ôª¯¢® ‚ª° ‹¡ªþµº ¬¢!», — ¢º¬ª¬°³® ¬³² ¼¬±¦ªµªª.\n\n       ° ¢ ¯¯ ¦® °Œž® ª¬¯ºþ ª¯¢®. Ùª ®¯°°º ¯¶ ±ª®°°º ¬ ²°. ˆ±²º ¡º®ª °¯¦®°° ²¡Œ°º ¢ ²°º ¬¬ ª ¬±¬ª µ°°²þ ª ³¨ª ¶¿¥ ±ª©¢¦²¢, ¡©¦®³Œ¬ª ª ±¶ª µ°°²ª. Ï±¶²®¾½¸ªþ ³®¢, ±¢¦¾¸ªþ ¢ž, ¶² ¯º ±¦±®¥®ª ©¦¿ °þ²ª."
+ diggy_encounter.263.a:0 "Ô ° ¢¶¯ ±ª¢ ¼²¯³ ®¢¬¶³!"
+
+ diggy_encounter.270.t:0 "‰¬²º¢½¸¾¾ ¯²¿\n[EncounterOverlayBackground]"
+ diggy_encounter.270.d:0 "[EncounterOverlay]       Ï ² ¢¯¾, ¬¬ ¼¬±¦ªµª¾ ±¦®¨² ª®¦¢²¿ ±¸º, ¥¦-² ¢ ¥®³¡ª° ²¿¯º ¡º® ®ºŒ° ¥®³Œª²®¿°ºþ ¥², ¶¿ª ²©¢³¬ª ©¦¢®ª¿ ¼¯ ± ©¯®. Ð©®¯º¢½¸ªþ¾ ¬¯°¿ ¢©¢¸²  ¢ž¯ ±ª¡®ª¨°ªª. ¥¯°ºþ ¢®³° ª ®¢ª° ¬¯°þ ±¯°¿Œ ¢®¦ © °ª¯ ²¬®®ª¿ ¥®³¡¬ ¢ ±¸ ª °±¢ª®¾ ±¾¯ ° °Œ³ ¼¬±¦ªµª½."
+ diggy_encounter.270.a:0 "€‚†Ù! ‹Ô†Ù ‚†!"
+ diggy_encounter.270.b:0 "‰¾¶¿²¿, þ¶ ¨!"
+
+ diggy_encounter.271.t:0 "® ³¬º¢Œª¿\n[EncounterOverlayBackground]"
+ diggy_encounter.271.d:0 "[EncounterOverlay]       ¬ ²®¿¬ ±®¦°ª ²©¢³¬ª ¬²¾¸þ¾ ¯²ª ²ª®ª, ª®¦¢²®ª ª ¬³²º ¯²®ª¿. ™¬±¦ªµª¾ ©¡°. ‰¦ ©¢³¬ª ¥° ° °¶® ¯¦®°° ¡ª²¿¾, ¬²-² °ž ²® ²¢ª¸þ, ¡©¡¨°°º ®¢ª°þ."
+ diggy_encounter.271.a:0 "Ï² ² ±°²ª,  ¬²º¯ª ±ª¦ª²¾ ¶ª²²¿¾"
+
+ diggy_encounter.272.t:0 "€®©°°°¾ ¯²¿\n[EncounterOverlayBackground]"
+ diggy_encounter.272.d:0 "[EncounterOverlay]        ¶²¿½, ¥¯º½¸ªþ ¢®³° ©¥®³Œ² ²¬ ¬²þ °Œþ ¼¬±¦ªµªª. ²¾¸¾¾ ¯²¿ ¾¢ª®¿ ²¬ ²¯ª²®¿°, ¶² ®ªŒ¿ °¯°¥ª ¯¥®ª ª©¡¨²¿ ¼²¥ ¥¯¥®°¥ ª¦. ¥®¾°³¢Œª¿ ¢¬³¥, ³¬¢¦ª²®¿ ¼¬±¦ªµªª °¶ª²® ¯°¨²¢ ±¥ª¡Œª ª ¸ž ¡®¿Œ °°º. ²²´."
+ diggy_encounter.272.a:0 "†¯°° ² ±¸º ¥¢ª®ª¿ ±²ª¢ °"
+
+ diggy_encounter.273.t:0 "‰¸º ª ®ª°º\n[EncounterOverlayBackground]"
+ diggy_encounter.273.d:0 "[EncounterOverlay]       ‰¸º ©¯ª°¥ ¡² ¦½² ¡® ¶¯ ¦²²¶° ¯² ¦®¾ ®ª° ª ±¶ª ¯®º ¦¬ ¥¦ ¡³Œ½¸ª¾ ¬¯°ª ° ¯¥³² ¦²¾°³²¿¾. ƒ®¾ ¼¬±¦ªµªª ° ¡º® ±¡®¯þ ±³²ª²¿¾ ²³¦, ¶²¡º ª©¡¨²¿ ¬²¾¸þ¾ ¯²ª. †®¦¢²®ª ¡º² ¾®ª¿ ± ¯°¨²¢³ ²¢²ªþ ª ¢º²³±¢ ª ¢ºŒ®ª °¢¦ª¯º¯ª ±® ®¢ª°º"
+ diggy_encounter.273.a:0 "ƒ® ¢ ©¯,  ° ¢ ²¯, ¬¬ ¢º ¥ ª±®¿©³²"
+
+ diggy_encounter.280.t:0 "µ½¸ ©\n[EncounterOverlayBackground]"
+ diggy_encounter.280.d:0 "[EncounterOverlay]       ‰®ª¢¾¿ ¢ ²³¬®þ ¡ª®½¯ª°µ°µªª ° ²° ±¸º ±²ª½²¾ ¶ª²º ±¬þ°º ¢¦º, ª ¥®¦¿ ®¢° ©¬®. Ï¬ ±¢º ®¦²º ±ª¡®ª©ª®ª¿ ¬ ¡¥³. Ï¬ ¡³¦½¬ª ¡º®ª ±±®°°º."
+ diggy_encounter.280.a:0 "‰±®°ª²¿ ¢¦°º ©±º"
+ diggy_encounter.280.b:0 "‰¦¨¦ª²! ²°¢ª²¿! º ° ©°¯, ¡©±° ®ª °!"
+
+ diggy_encounter.281.t:0 "¢¨°°º\n[EncounterOverlayBackground]"
+ diggy_encounter.281.d:0 "[EncounterOverlay]       ‰®¦°¾ ¢¦ ¡¢®¬ª¢² ¥® ª ¢¦°¢®¾² ±¦¢ª¥²¿¾, ¡°¨¾ ¬º² ² ®½¡±º²°º ¥®© ª ³Œþ"
+ diggy_encounter.281.a:0 "Ï¦ — ²¿ ¨ª©°¿"
+
+ diggy_encounter.282.t:0 "Ô¯²®¿°¾ ©¢¦¿\n[EncounterOverlayBackground]"
+ diggy_encounter.282.d:0 "[EncounterOverlay]       Ï¦ ®¦°¾ ª ¢¨¾ ª ®¦²º ž ¨¦° ±ª®ª. ¥¦ ©¬Œ®¾® ±¢ºþ, °ª¬² °ª¶¥ ° ©±¦©ª®. ¥¦ ±ª¦ª°ª®¾ ¢²þ °ª ±¥®¾°³®ª¿, ° ±®, ¬¥¦ ²²ªþ ª ¶²¢²ºþ ª©Œ®ª¿ ¬¢¢º¯ ¬Œ®¯ ª °ª ¢ ²®ª ±¥ª¡²¿ ª ²® ¢¬ ²®ª ²®¿ ¨ ®¦°º ª ¡©¨ª©°°°º ¬¬ ª ¢¦ ª ³¡ª¢Œ¾."
+ diggy_encounter.282.a:0 "‰¬®¾²ª¾ © ±¬®¾²ª¾¯ª!"
+
+ diggy_encounter.290.t:0 "®°ª¾ ¥ª¡¢... ¦?\n[EncounterOverlayBackground]"
+ diggy_encounter.290.d:0 "[EncounterOverlay]       ‚ª¡º ª ±¾² ¡º¶° ¾¢®°ª ¢ …¯ª°¯ ¡² ª °ª ¢°¾² ³¸²¢°°ºþ ¢¬®¦ ¢ µª° ¨ª²®þ ±¦©¯®ªþ, °²®¿¬, ¶² ³¸²¢³½² µ®º ³¬¢¦²¢ ª ª¢º  ³¬©°ª¯ ¢þ²¢ ©°º ¥ª¡¢ ¬ª ¯¨° °þ²ª ¢ ¥®³¡ª°. …ª¯, °ª ¦®¾ ¬¥ ° ¬², ¶² ¥ª¡º ²¬ ¨ ²¢°¾ ¶²¿ ¦®¾ ®½¡þ ¼¬±¦ªµªª ª®¦³½¸þ ²þ°º ²º ±¸, ³¶ª²º¢¾ ¥¯° ¬®ª¶²¢ ¥ª¡¢ ¬² ²¯ ¯¨° °þ²ª.\n\n       ‰¬®¿¬³ °¬®¿¬ ª®¦¢²®þ ¡ª®ª °¬²º ª© ¼²ª ¥ª¡¢ ¢ ®¥¬¦²³±°¯ ¯² ®³¶ª®¿ °¶² °¨ª¦°°. †© ²¯°²º ±¬©®¿ ¥³±± °©°¬¯µ¢,  ©¬ª¯ª ¥³¯°ª¦°º¯ª ¶²¯ª, ¢ Œª¬±®º Œ®¾±. ¥¦ °ª ±ª¡®ª©ª®ª¿, ²® ¶¢ª¦°, ¶² °ª ¦°ª ¨ª¢Œª¯ ¥ª¡¯ ¬ª ¯º ²®¿¬ ¶² ¡ª®ª..."
+ diggy_encounter.290.a:0 "€®¿Œ ¦º!"
+ diggy_encounter.290.b:0 "¨²¾ °ª ©¡¢°º ¡¾²!"
+
+ diggy_encounter.291.t:0 "¦, ° ¬¬þ µ°þ?\n[EncounterOverlayBackground]"
+ diggy_encounter.291.d:0 "[EncounterOverlay]       ¯°¥ ¡¦³¯¢ ¢©¯¨°º ±®¦²¢ª¾ °Œª ¡þµº ³°ª¶²¨ª®ª ¼²ª “‚ª¡°ª¬¢”, ²¾ ¬ª¬ª ª ¢©¥®º ³¨, ¬²º °ª ª©¦¢®ª, ¡º®ª ±¶²ª °¢º°ª¯º. ‰® ²¥, ¬¬ ®¦²º ¢°³®ª¿  ¦þ, °ª ¢ž ¡®¿Œ ª ¡®¿Œ ¨®®ª  ¦¾°°¯. ƒ¨ þ¶ ¬ª¬ª ±®¦³½² ª ¢ °..."
+ diggy_encounter.291.a:0 "× ° ¯¥³ ±¢ª²¿ ¢ ², ¶² ¯º ²¢ª®ª."
+
+ diggy_encounter.292.t:0 "…®º ¥ª¡º\n[EncounterOverlayBackground]"
+ diggy_encounter.292.d:0 "[EncounterOverlay]       «‚ª¡º», — ¬¬ ¥®ª² ¦° ª© ±¡ªþ, «¯¥³² °°²ª ©³Œª²®¿°ºþ ¼´´¬² ©¦¢¿½.»\n\n       ƒþ²¢ª²®¿°, ¦°¬ °ª¬² ° ±¦¥²¢ª® ®¦² ¬ ±¦²¾¸þ °±²ª. ‰ ¯ ²¥ ¬¬ ª© ²¯°²º ±¾¢®¾®¿ ¢ ¡®¿Œ ª ¡®¿Œ ¥ª¡¢, ®¦²º ±¦¢¥®ª¿ °±¦¬¯. Ô ¬³®¬¯ª ¯¨° ±¢ª²¿¾, ° ¯ ¬®ª¶²¢ ¢¥¢ — ±¦¢®¾½¸¾ ª®,  ¬²þ ±ª¦ª²¾ ¶ª²²¿¾. Ù, ¬² ±¬©º¢®ª¿, ¯º®°° ²¯¶®ª: ¥ª¡º, ²¿ ª ¾¦¢ª²º, ° ²¬¨ ¦¢®¿° ©®½¸ª."
+ diggy_encounter.292.a:0 "²!  ²¯!"
+
+ diggy_encounter.293.t:0 "ÛŒªþ ²½¬  ¥ª¡¯ª\n[EncounterOverlayBackground]"
+ diggy_encounter.293.d:0 "[EncounterOverlay]       ¯²¾ ° º²¿ ª ¥³¡¶²ºþ ¢ª¦ Œ®¾±¬ ¥ª¡¢ ° ¸³±¿ °ª ¡®¿Œ ±¦ª®ª ° ¡², ± ¬þ°þ ¯ ± ³²¢¨¦°ª½ ¥³±±º ®¦², ¢©¢¸½¸ª¾  ¡. °¥ª ª© °ª ±² °ª¶¥ ° ¯¥®ª  ¡þ ±¦®²¿, ¬¯ ¬¬ ®¥¬ ±¥®¦ª²¿ ¼²ª ²°°º ©¦°ª¾, ¶² °ª, ¢ ¢½ ¶¦¿, ¬©®¿, µ°ª®ª ± ¦²ª°²¢³. Ù¯ ° ¯°, ®¦²º, ¬¨²¾, ¥©¦ ¡® ¡¦º, ¬¥¦ ²®¬°³®ª¿  ¼²ª¯."
+ diggy_encounter.293.a:0 "¬¾ ²°°¾ ¢²¶..."
+
+ diggy_encounter.294.t:0 "‰®þ ±º²  ¥ª¡¯ª\n[EncounterOverlayBackground]"
+ diggy_encounter.294.d:0 "[EncounterOverlay]       ¥¦ °Œª ®½¦ª ±¦Œ®ª ¬ «¥ª¡°ª¬¯», ©¦°ª¾ ¢ ² ¬º®ª¿, ±¾¶¿ ª ³¡¥¾ ² ®¦². ¯²¾ ° ¢ ª ±±º²¬ª ³¡¦ª²¿ «¥ª¡°ª¬¢» ¢ ¡²°¯, °ª ¡º² ±¬ª°³®ª ±¸³, ª  ² ± ¯º ª °ª ©³ ° ¢ª¦®ª."
+ diggy_encounter.294.a:0 "º ®ªŒ¿ ²®ª ²²¿ ¦³©¿¾¯ª"
+
+ diggy_encounter.300.t:0 "²¢®°°ºþ ®¥¿\n[EncounterOverlayBackground]"
+ diggy_encounter.300.d:0 "[EncounterOverlay]       Ï ±®¦°ª ¦°ª ƒ¢¢, ¢ ¢¯¾ ²®²°¥ ³±¦¬ ¢®ª¬þ ª¯±ªª ¯°¥ª ¦¢´º ©±®ª¿ ¢ ¢ª ¢®¦°ª¾, ²¥¦ª¢Œª¿ ² ¢ ª ¢¾. ‚²¬ª ² ¦¢´¢ ±°¯°¥³ °¶®ª °¢ ¢º±®©²¿ ª© ©®¢ ª °¢®ª °¡®¿Œª ¢°±²º ± ¢þ ©¯® ±¦¬¢. ¦° ª© ²¬ª ¥³±± ±¦²® ±¦ °¯ª: ¬® 500 ¦¢´¢ ³¨ª¢½² © ¯®°¿¬þ ¦¢°þ, ±¾²°°þ ¢ ¥®³¡ª° ±¸º. ¯²¢ ª ¢ ²¶°ª °¬®¿¬ª ¶¢, ¯º ¦®¨°º Œª²¿, ¶²  °ª¯ª ¦®²¿. ƒ¢°¾ ±¥¨¦² °¯ ±³²¿, ²¬ ¶² ¯º ¦®¨°º ¬¬ª¯-² ¡©¯ ³¡²¿ ª ²½¦."
+ diggy_encounter.300.a:0 "‰¦®¨ª²¿ ª¯ °¢ºþ ¦¯"
+ diggy_encounter.300.b:0 "‹¡ª²¿ ª ±¬°¶ª²¿  °ª¯ª"
+
+ diggy_encounter.301.t:0 "ƒ¢°ª ±ª²¾©°ª¾\n[EncounterOverlayBackground]"
+ diggy_encounter.301.d:0 "[EncounterOverlay]       ²¢Œª¾ ¢ ¨ª¢º Œª®ª ±ª°¾²¿ °Œ ±¦®¨°ª  °¢¯ ¦¯ ª ²±¿ ®¦³½² © ²®¿°º¯ª ¶®°¯ª ¼¬±¦ªµªª. Ï©¯° °ª ±¦²¢ª®ª °¯ ¦²³± ¢ ¦¢°½ ª ±ª®¥½¸ª ©¯®ª ¦®¾ ±±®°°ª¾ ©±¢.  ¢ ¦®¿°þŒ¯ ²°³² ¶²¿½ °Œª ¢®¦°ªþ"
+ diggy_encounter.301.a:0 "²®ª¶°"
+ diggy_encounter.301.tooltip:0 "º ¯¨¯ ª±®¿©¢²¿ ³¸²¢³½¸³½ ¢ ¼²þ ±¢ª°µªª ª°´²³¬²³³, ¦°¬ ¢º¨ª¢Œª ²¡³½² ±¢°¶®¿°þ ¢²°¯ªª"
+
+ diggy_encounter.302.t:0 "²¬©\n[EncounterOverlayBackground]"
+ diggy_encounter.302.d:0 "[EncounterOverlay]       ‚®¢ ±®°ª¾, ¯®¦þ ª ¥³¡ºþ ¦¢´ ± ª¯°ª ‚³°¦ ‹±¾¯ºþ, ²¬©®, ®ª ¡º²¿ ²¶°º¯. ‰²º¯ ª ¦þ²¢°°º¯ «°²» ° ±ž¬ °Œª ±±º²¬ª ¥®¢°ª¾  ¥ ¦¢°þ. ° ³²¢¨¦², ¶² ³ °¥ ²¿ ²¥ªþ ±ª¬© ª© ¢þ ²¢¦º°ª ²¢²¿¾ ©¦¿ ª ¡¡²º¢²¿ ©¯®½, ª °ª¬² ª °ª¶² ° °³Œª² ¥ ¢°²ª."
+ diggy_encounter.302.a:0 "Ï ¬°µ ¬°µ¢ °ª ±±³²ª®ª ° ¶© ¦¢°½"
+
+ diggy_encounter.303.t:0 "¬°¶¯¾ ¡ª¦\n[EncounterOverlayBackground]"
+ diggy_encounter.303.d:0 "[EncounterOverlay]       ¬ ²®¿¬ °Œ ¥°µ ±¾¢ª®¾ ° ±¥ ¦¯ ¦¢´¢, ° ¯¥°¢°° ¡º® ²¬¢°. †© ¦¯¢ ª ±®þ ° °¥ ¢ºº±®ª ¦¢´º, ¶®°ª¢ ¥ © ¶ª²°°º ¬³°¦º. Ïª¦¾ ¼², ¦¨ ¦®¾ °, ¼² ¾¢®¾²¾ ³¨°º¯ ±¾¢®°ª ®±þ °°¢ª²ª. º ²¢²ª®ª ²¯ ¨, °¢ ¡ª¢Œª¿ ¢ ¡þ ±²ª¢ ¯²®¿°º ¢¥¢. Ù± ª ¯¶, ¸ª² ª ®³¬, ¡¶ª®°°º ¨ª©°ª, ±¢Œª  ¡ª ²°, ¡º®ª ©³®¿²²¯ °Œª ¡®¥ª °¯°ªþ, ° ²² ´¬², ¶² ¦¢´º — ³±¾¯º ª¦ª²º,  ¬²º¯ª °¢©¯¨° ¦¥¢ª²¿¾, ¦¬©º¢² ¼² ¸ž ©" #goblins and orcs get this from .300
+ diggy_encounter.303.a:0 "ª ¦ª° ¦¢´ ° ¢º¨ª¢²!"
+
+ diggy_encounter.304.t:0 "²²¬ª ²³±¢\n[EncounterOverlayBackground]"
+ diggy_encounter.304.d:0 "[EncounterOverlay]       Ï¢¢Œª¿ ¢ ¦¢°½, ¯º ©¥¯ª®ª °°ª¬¢, ±¨¦ ¶¯ °ª ±°¾®ª, ¶² ª ¨¦®. Ù± ª ®©¢ª ¬ ¥®³, ¬¢¿ ®¸² ±¢ ¯°ª¬®¿°¥ ¯, ©³¡º ¬Œ°º ¢ ¬°ºþ µ¢². ™²ª ¦¢´º ¦¢° ³²²ª®ª ±¢ ° ¼²ª ±¸º, ª ¼² ¡³¦²  °±¯ª°°ª¯ ¦®¾ °ª: …¯ª°ºþ Û¡² °¦ª²¾ ±¦ °¢º¯ ³¬¢¦²¢¯.\n\n       ‰® ²¥, ¬¬ ³®ž¥¾ °¬® ¡¾, ¯º ¯²®ª ±® ¡þ°ª. ª ¦°¥ ¦¢´ ° ²®¿, ²®¿¬ ¢¬³¥ ¢®¾½²¾ ª¬®¶°°º ª ª©³¦¢°°º ²³±º. Ï ¦¯ þ¶ ²ª, ±®¦°ª ±ª©°¬ª ¨ª©°ª ¯¦®°° ³¥½²: ¦ ° ±®ª², ©¨¨°°º ´¬®º, °©¬°¶°°¾ ¦¨¦. Ô¦ª ¼²ª ²°¬¢ ²¬¨ ²¿ ¡¥²²¢, ¬²º ¦¢´º ¬±ª®ª: ¦¥µ°°º ¬¯°ª ª ©®², °¡®¿Œþ ¬®¦, °¬±®°°ºþ ³¦°º¯ª ¡²¾¥¯ª."
+ diggy_encounter.304.a:0 " ²®¿¬ ¯³¨¶ª°º, ° ª ¨°¸ª°º  ¦²¿¯ª ²¨"
+
+ diggy_encounter.305.t:0 "Œª Ïº¨ª¢Œª\n[EncounterOverlayBackground]"
+ diggy_encounter.305.d:0 "[EncounterOverlay]       Ì² ³±³¬¯ ª© ¢ª¦³ ¢þ²¢ ¢º¨ª¢Œª ©¬®½¶²¾ ° ¢ ²¯, ¶² °ª ±² ±¾²®ª¿,  ¢ ²¯, ¶² ª¯ ³¦®¿ ¢º¨ª²¿, °¯²¾ ° °±¢¦±¦¡°º Œ°º ° ¢º¨ª¢°ª. ‰¼²¯³ °³¦ª¢ª²®¿°, ¶² ¼²² ¢°±² ²®ª¶®¾ ¡º ²¬þ ¨ ²þ¬²¿½. ¥¦ ¯º Œ²³¯¢®ª ¦¢°½, ¦¢´º ¢¢®ª¿ °³¨³, ¢³¨ž°°º ²±¯ª, ¬®ª°¬¯ª ª ¸ª²¯ª, ©³¡¾ °Œª ¢þ¬ ° ¬³¬ª, ³¡ª¢¾ ª ¡© ¡¥ ©¦³¯¿¾."
+ diggy_encounter.305.a:0 "ƒ¢´º °¢ ±¡¨¦½²..."
+
+ diggy_encounter.310.t:0 "‚¾¶¾ ¢°°\n[EncounterOverlayBackground]"
+ diggy_encounter.310.d:0 "[EncounterOverlay]       ‚®³¡¬ ¢ ³ª° ¡º®º ¢¯ž°, ²º ¦¢´ªþ¬ª ³¨°ª¾, ¬²º ³ª¢½² ±¸º …¯ª°¥ Û¡², ®¢° ©¢©¦º ° °¡ Û®°°, ©²ª®ª¿ ¢ ©¦, °¬±®ª¢¾ ±º®¿ ª ±º. ™²ª ³ª°º ª°¥¦ ¬º¢½² ª©º¬°°º ¬¢ª¸, ° ¶² ²¾² ¢ ¡ ¶©¢º¶þ°º ±°²ª, ²º ª ª©¢¶°º ¢¥¢. Ù¥¦, ¬ ³¦ª¢®°ª½ °Œþ ¼¬±¦ªµªª, ª®¦¢²®ª, ¡®¦¢¢Œª ¦°³ ª© ¼²ª ©¢®ª°, ° ¡°³¨ª®ª °ª ²¥, °ª ¦³¥¥, ¢¯² ¼²¥ °ª ¡°³¨ª®ª °¶² ±¨ ° ¡°½ ¦¢´¢.  ±®³ ª ²°, ¢º²®°°º ¢²®þ ±®ª²¬þ, ¯¨° °þ²ª ª©¡¨°ª¾ ¢®ª¬ª ¢¦±¦¢ ª ¬, ©¯º®¢²º ª©¡¨°ª¾ ¦¢° ³Œ¦Œª ¼±. Ï ³¥®³ ¼²ª ´¬ ²¬¨ °¦ª²¾ ³¬¢¦²¢ ± ¼¬±®³²µªª ¢°°º. °¥ª ®¦²º ¯¾µ¯ª ° ±ª°ª¯®ª ¢°°³, ±¼²¯³ ª¦¾ ±¡¢²¿ ¼² ¦²¢ ¬¨²¾ ±ª¢®¬²®¿°þ.\n\n       ¥¦ ¢¦ ²¶ž² ± ²³¡¯ ª °±®°¾² ¡þ°, ¯º ©¯¶¯, ¶² ² ° ª¦ª² °¯°¥ ±, ¶² ³¬©º¢² ° ², ¶² ¬¥¦-² ¼² ¡º® ¥¾¶¾ ¢°°, ±¦±®¨ª²®¿° ±ª²¯¾ ±¦©¯°þ ¬þ ¢¡®ª©ª ¬¬þ-² ¥²¯®¿°þ ¬²ª¢°²ª. Ï °¡®¿Œþ ¦°þ ±¸ ¯º °Œ®ª ¯°¨²¢ ¬®±°¢ ª º¶¥¢, ¬²º, ±-¢ª¦ª¯¯³, ¥³®ª³½² ²¯±²³³ ¢¦º."
+ diggy_encounter.310.a:0 "ƒ¢þ² ±±¡³¯ ¦®²¿ ¼² ¡® ³¦¡°º¯"
+ diggy_encounter.310.b:0 "Ï ¢ ¡, ±ªŒ® ¢¯¾ ®¡ª²¿¾"
+
+ diggy_encounter.311.t:0 "†¦®¿°¾ ²¯±²³\n[EncounterOverlayBackground]"
+ diggy_encounter.311.d:0 "[EncounterOverlay]       Ô²º ¬®±°º ±¦¦½²¾ °Œª¯ ª°¨°¯, ¥³®ª³½¸ª¯ ²¯±²³³ ¢¦º ¦ ² ±, ±¬ ° ° ²°² ±¦¦¾¸þ, ±ª¾²° ±¾ — ©¢¨ª¢½¸ ©®ª¸. °¥ª ³¨ ¥¾² ¨®°ª¯ ±¡¢²¿. ¦ª° ª°¨° ³¬©º¢² ° ¦³¥þ ¬®±°  °¦±ª¿½ «¦¢®°ª», ¬²ºþ, ±-¢ª¦ª¯¯³, ª±®¿©³²¾ ¦®¾ ¢¬®½¶°ª¾ ²³þ ¢¦º."
+ diggy_encounter.311.a:0 "Ï¬®½¶ª² ²³ª ¢¦º"
+ diggy_encounter.311.b:0 "Ù±¿ ¯º °¬°µ-² ¯¨¯ ®¡ª²¿¾"
+
+ diggy_encounter.312.t:0 "¡¨ª¥½¸ªþ\n[EncounterOverlayBackground]"
+ diggy_encounter.312.d:0 "[EncounterOverlay]       ¯²¾ ° ², ¶² °Œ ª°¨° ©¢ª® °, ¶² ¬®±° ²¥³®ª¢° ±¢ª®¿°, ±²¬ ¢¦º, ±²³±½¸ªþ ¢ ¡þ°, ¡º® ±¶²ª ¬ª±¾¸ª¯, ¢º¡º¢¾ ¡®¬ ± ¢ ²¸ª°º © ¥ ±¦®¯ª. ¶²°º¯ ®¦²¯, ¬²º ³¨ ¢Œ®ª ¢ ¡þ°, ±ªŒ®¿ °¯¦®°° ±¬ª°³²¿ ¥, ²¦®¢Œª¿ ²Œ°º¯ª ¨¥¯ª ª ²³¸ª¯ °¦¢ª¯ ¬ °Œª¯ ª°¨°¯"
+ diggy_encounter.312.a:0 "þ! , , þ!"
+
+ diggy_encounter.313.t:0 "Ð®¡®°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.313.d:0 "[EncounterOverlay]       €®¥¦¾ ¢¦ °³¨°þ ²¯±²³º ª ±²¬¯, ¯¾¥¬ ²¬½¸ª¯ ± ¡þ°³, °Œª ®½¦ª °¬°µ-² ¯¥³² ©¦²¿¾ ª ®¡ª²¿¾, ¶¥ °ª  °²±°ª¯ ¨¦®ª  ¯¯°² ±¢°¶®¿°¥ ²¬º²ª¾. Ð²³¸ ±¦¢¬³Œ°ª ²±¿ ¯º¢²¾ ¢¦þ, ª ¢¦ž°°º ³¦¥þ ¯ºŒµº, ©²ž¬Œª ² ¡¬°¶°þ ¦¿¡º, °¬°µ-² ¯¥³² ®¡ª²¿¾.\n\n       Ô ¢¯°¯ ¡°³¨ª¢²¾ ¸ž °¬®¿¬ ª¥³Œ¬, °¡®¿Œþ ´°²° ¢ µ°² ª ª¬³²¢°°ºþ ¦¨¦¿ ª© ²³¡ °¢³. ™² ¶²®ª¢ ¡º²ª ±¦®¨®¿ ¢½ °¶¿, ¬²³½ ±¦®¥² …¯ª°ºþ ¡², ±¬ ¢ ° ¢º±ª®ª ª©¾¦° ¢¦º. ™¬±¦ªµª¾ ©¦¨®¿ ¸ž ° °¬®¿¬ ¦°þ, ±±¡¢¢ ®¡®¾½¸³½ ¢¦³, ±¨¦ ¶¯ °¢ ²±¢ª²¿¾ ¢ ±³²¿."
+ diggy_encounter.313.a:0 "Ï¦³Œ¢®ž°°º, ¯º ±¦®¨¯ ±¥³¨²¿¾ ¢ ¥®³¡ª°º"
+
+ diggy_encounter.314.t:0 "Ô¯²®¿°º ±®\n[EncounterOverlayBackground]"
+ diggy_encounter.314.d:0 "[EncounterOverlay]       ¬±ª¢Œ¾ © ²®²ª¾ ¡© ª±®¿©¢°ª¾ ª ²°ª¶¬¥ ¡®³¨ª¢°ª¾ ¦¢®°ª ¡º® ®ªŒ¬¯ ¢®ª¬, ¶²¡º ¥ ¯¨° ¡º® ¦¨²¿. ‰ª ¯®þŒ¯ ²¬º²ªª ¬®±°¢ ¢¦ ¢ºº¢®¿ ª© ²°  ²¬þ ª®þ, ¶² ¢©®¿ ¢ ±®²¿ °¬²º ®¦², ¬²º ©²¯ ±®³¶ª®ª ±®¦³½¸ª ¨¥ª ² ¬ª±¾²¬. Œ ¼¬±¦ªµª¾ ¡º² ¢º¬¶ª® ª© ¢¦º, ²¦º ¡º® ±¢°."
+ diggy_encounter.314.a:0 "Ù°ª¶¬ ¡®³¨ª¢°ª ²ª² ³ª®ªþ"
+
+ diggy_encounter.320.t:0 "¶² ¢ ²¯°²\n[EncounterOverlayBackground]"
+ diggy_encounter.320.d:0 "[EncounterOverlay]       Ï ¡°° ²¦®ž°°º ¶²¾ …¯ª°¥ ¡² µª² ¨³²¬¾ ²ªŒª°, ¬²¾ ±°ª©º¢² ¬ª¦º ¥®³Œª²®¿°º¯ °¡º²ª¯. ¨¦ºþ ©¢³¬ Œ¥¢, ¥®¢ ª®ª ²°°º ±¦½¸ª ¬¯°þ ±¦¡° ¢©º¢³, ±¦³±¨¦½¸¯³ ¯®¶®ª¢º ±®¦¢²®þ, ¬²º ±¾¶³²¾ ¢ ²¯°². †©-© ³¦®ž°°²ª ¼²ª ¥ª°¢ ¡®¿Œª°²¢ ²ž¯°º ¡ª²²®þ °ª©¢²°º °ª ¦°¯³ ³¬¢¦²¢³, ¬² ¯¨° ¡º® ¡º ¢²°¢ª²¿ ª© ±Œ®º ¼±.\n\n       ª ¦ª° ª© ¼²ª ¯°²¢ ° ±ª¢®¬ ¢°ª¯°ª¾ ¼¬±¦ªµªª: ¢Œ°° ¡Œ³¯° ³¸²¢, ¶¿ž ©®ž°, ¢º¬ ª ¡©³¬ ²® ª©¦ž² ¦¢ ®ºŒ°ºþ Œ³¯, ¦¨ ¬¥¦ ° Œ¬² ± ±®³ ±¸º. Ï°©±°ºþ ½±ª© ©²¢ª® °°ª¬¢ ±¦°¾²¿ ²¢¥³ ª©-© ¼²þ °ª©¢²°þ ±°²ª, ª ¬¥¦ ³¸²¢ ±ª¡®ª©ª®¿, ° ª©¦® ©¢³¬ ¥¾¸¥ ±¦°ª²®¾, ¢®ª¢ ±¢¡º²°ºþ ² ³ ®¦²."
+ diggy_encounter.320.a:0 "‹¡þ² ¥, ±¬ ° ° ±ª¡®ª©ª®¿"
+ diggy_encounter.320.b:0 "®ª ° ¢©¢²¾, °¯ °³¨° ³¡ª²¿¾ ²½¦!"
+
+ diggy_encounter.321.t:0 "÷¬½¸¾ ³¥©\n[EncounterOverlayBackground]"
+ diggy_encounter.321.d:0 "[EncounterOverlay]       ¥¦ ®¦²º ±¡³¦ª®ª¿ ² °, °ª ±¦¥²¢ª®ª ³¨ª, ¶²¡º ³¬¢¦ª²®¿ ¼¬±¦ªµªª ±¦® ª¥°®  ²¯, ¬¬ °°²ª ³¦ ± ©¦°ª½: ¥ ²°°¾ ¶²¢°¥¾ ´¯, ° ª¯½¸¾ °ª¶¥, ¬¯ ¯®°¿¬ª ¡³¡¬¢ ¢¯² °¥, ©²¢®¾² °Œª ¼¬±¦ªµª°¢ ©¦³¯²¿¾, ¥¦ ¨ ¯¨² ¡º²¿ ®¡ ¯².\n\n       ˆª¦ ³¨¦²  ²ž ±¡ °±¦°ª¾: ³¦ª²¿  ¡®¿Œ¥ ²¾°ª¾, ¶²¡º ©¸ª²ª²¿ ¼¬±¦ªµª½, ©¾¦ª²¿ ž ª ° ¦²¿ þ ±ª¡®ª©ª²¿¾, ª®ª ±² ©¡²¿ ¥        ¥°°°º¯ª Œ¯ª, ¶²¡º ª©°ª¶²¨ª²¿."
+ diggy_encounter.321.a:0 "ˆ³¶°ª¬ª!"
+ diggy_encounter.321.b:0 "‰²!"
+ diggy_encounter.321.c:0 "¥ª!"
+
+ diggy_encounter.322.t:0 "‰°©ž°°ºþ\n[EncounterOverlayBackground]"
+ diggy_encounter.322.d:0 "[EncounterOverlay]       Œª ®³¶°ª¬ª ±ªµ®ª¢½²¾, ¯¦®°°º ¦¢ª¨°ª¾ ³¸²¢ ±©¢®¾½² ¦¢®¿° ®¥¬ ±±²¿ ¢ °¥. Œª ²®º ®²¾² ²¶° ¢ µ®¿, ±¨¾ ©¦°ª ¢ ±¦®¥¢² ²³®¢ª¸, ©²¢®¾¾ ¥ ±²º¬²¿¾  ¬²¬ª °¥ª. ¥¦ ° ³¦ª®¾  ©¯®½, ¬¨ ®±°³®, ¡°¨ª¢ ¦¥µ°°º ¬¯°ª ª ¡ª®®ª°²º ¢°³²ª. ¬®¿¬ ¦³ª¦¢ ³¦ª¢®¾½²¾ ²°°þ ¡ª² ¼²¥ ³¸²¢ ª Œ½² ¸ž ª©³¶ª²¿ ¥, ±ª¬¯°ª¢¾ ¦¥µ°°º ¬¯°ª, ±¨¦ ¶¯ ª¯ °±¯ª°½², ¶² ¢¾ ¦¡º¶ ¦®¨° ª¦²ª ¢ ¬©°³,  ° ¢ ¬¬³½-² ®ª¶°³½ ©°¶¬³"
+ diggy_encounter.322.a:0 "¶°¿ Œ"
+
+ diggy_encounter.323.t:0 "‰¦°ª²®¿\n[EncounterOverlayBackground]"
+ diggy_encounter.323.d:0 "[EncounterOverlay]       ‰¨¦ ¶¯ °¯ ³¦®¿ ¡©¢¦ª²¿ ³¸²¢, ° ¡º²¯³ ©®¨ª®¿: ° ¢©¢®¿ ±¾¯ ±¦ °¯ª, ©¦¢ ³¦°³½ ¢®°³ ± ¾¦¯, ° ²¢ª¢ ±® ¡¾ °ª¶¥, ¬¯ °¬®¿¬ª ¡®¶¬¢ ¦º¯."
+ diggy_encounter.323.a:0 "¬¾ ¨®²¿"
+
+ diggy_encounter.324.t:0 "‰©°°ºþ\n[EncounterOverlayBackground]"
+ diggy_encounter.324.d:0 "[EncounterOverlay]       ‰¢²°º ²¬ª ª ²²³±®°ª¾ ³¯®ª ²¢®¶¿ ³¸²¢ °²®¿¬, ¶² ° ° ¢©¢®¿, ¶² ±ª¢® ¬ Œª²®¿°þ ±¡¦. ¥¦ ° ³±® ° ©¯®½, ² ®±°³®, ¡°¨ª¢ ¯°¥ ± ¢°³²ª."
+ diggy_encounter.324.a:0 "¶¢²®¿°"
+
+ diggy_encounter.325.t:0 "÷¬ª¢°°ºþ\n[EncounterOverlayBackground]"
+ diggy_encounter.325.d:0 "[EncounterOverlay]       ÷¬¢® ¥°°°º Œ¢, ³¦ª¢Œªþ ¢ ³¸²¢, ¡º² ³°ª¶²¨ª® ¥ ¢©º¢¯ ° ¡©±°¯ ²¾°ªª ² °. ‰® ¢©º¢ °¯ ³¦®¿ °þ²ª µ°°º ¦¥µ°°º ¬¯°ª ¢ ²°¬ ²®, ©¡°°º ± ©¯®."
+ diggy_encounter.325.a:0 "™² ±®©° ©°²¿ ° ¡³¦³¸"
+
+ diggy_encounter.326.t:0 "‚°¦ª©°ºþ ´ª°®\n[EncounterOverlayBackground]"
+ diggy_encounter.326.d:0 "[EncounterOverlay]       ¯²¾ ° ¯¥ª¶¬ªþ ¡²®, ¬²¯³ ¯º ±¦¢¥®ª ³¸²¢,  ¯¨² ¡º²¿, ª ¡®¥¦¾ ¯³, ° ¡ª®¿ ° °, ©¢³¬ ¥ ¢©º¢²®¾ ²°¢ª®¾ ¢ ¥¯¶ ª ¥¯¶, ±¬ ° ¦²ª¥ ®¦² ¢ ¬¬¯-² ¢©¾¨°°¯ ²¾°ªª, ¢©¢¢Œª¿ ±¾¯ ±¦ °Œþ ¼¬±¦ªµªþ. ° ©¡® ®½¦þ, ¯¥¢ ª ª®¦¢²®þ ¢¬³¥ ª ³ ²°º, ±®°²¿½ ³°ª¶²¨ª¢ ¡¾ ±ª ¢©º¢."
+ diggy_encounter.326.a:0 " ‚Û!"
+
+ diggy_encounter.330.t:0 "‹¦³Œ½¸¾ ¯²¿\n[EncounterOverlayBackground]"
+ diggy_encounter.330.d:0 "[EncounterOverlay]       ‰©¶°º ¡®¬ ¥© ª°¥¦ ±°ª¬½² ¢ ³¥®º …¯ª°¥ ¡², ¡Œ³¯° ±¾ ¡© ±¯ ²®²ª¾¯ª. ™²ª ¥©º ¶² ±°º ª©-© °¦²²¬ ¬ª®¦ ¦®¾ ¡¦°º ±³²Œ²¢°°ª¬¢, ±³²Œ²¢³½¸ª ± ®¡ªª°²¯ ¦¢°ª ±¸. ¦ª° ª© ²¬ª ¥©¢º ±³©ºþ þ¶ ¬³²® °Œ³ ¼¬±¦ªµª½, ¢º©º¢¾ ³ ¯°¥ª ª®¦¢²®þ ª ¬³²¢ ¥®¢¬³¨°ª ² °¦²²¬ ¬ª®¦.\n\n        ±¬®¿¬³ ¥© ° ª¯² µ¢² ª ©±, ³ °Œª ª®¦¢²®þ °² ¢©¯¨°²ª ³©°²¿ ¡ ¼²¯, ±¬ ° ²°² ®ªŒ¬¯ ±©¦°. ‰¬®¿¬³ ±ª©°¬ª ³¬©º¢½² ° ², ¶² ±ª¶ª°þ ²³¸¥ ¦ª¬¯´² ¾¢®¾²¾ ¥©, ³¬¢¦ª²®½ ¼¬±¦ªµªª ±¦®¥²¾ ²ª ¢ª°² ±¦¦ ¬ ¼²¯³ ¢±³."
+ diggy_encounter.330.a:0 "Ïº¦¨ª ¼²"
+ diggy_encounter.330.b:0 "ƒ¢þ² °þ¦ž¯ ¦³¥þ ±³²¿"
+ diggy_encounter.330.c:0 "‰±¡³¯ ©¨¶¿ ¥"
+
+ diggy_encounter.331.t:0 "Ï©º¢ ¥©\n[EncounterOverlayBackground]"
+ diggy_encounter.331.d:0 "[EncounterOverlay]       Œª ª°¨°º ³²°¢ª®ª °¯°¥ ¢©º¢¶²¬ª ¢¦®¿ ±³²ª, ¢°ªµº ¢©º¢¶²¬ª, ¥²¢º ¬ ±¦º¢³. ™² Œ°ª ° ¢²¶² ±²ª¢®°ª¾, ª ¥®¥ ¼¬±¦ªµªª ¡±¬° ± ±¢¦³ ²³¬²³°þ µ®²°²ª ±¦."
+ diggy_encounter.331.a:0 "…¨ª¥þ² ´ª²ª®¿"
+ diggy_encounter.331.b:0 "™² ¢º¥®¾¦ª² ±°..."
+
+ diggy_encounter.332.t:0 "€©±°ºþ ±¦\n[EncounterOverlayBackground]"
+ diggy_encounter.332.d:0 "[EncounterOverlay]       †©-© ®¡ªª°²¡©°þ ±ª¦º …¯ª°¥ ¡² ¡º® °²³¦° °þ²ª ¦³¥þ ±³²¿ ¢¬³¥ ¼²þ ¬°¬²°þ ¶²ª ±¸, ¬²ºþ ¡®¥±®³¶° ¢º¢® ° ª©-© ¥© ° ¢¨ªþ ¢©¦³. ‰ ¬þ°þ ¯, °²®¿¬ ¢¨, °¬®¿¬ ¼² ¢©¯¨° ¢ ¥®³¡ª° ¥."
+ diggy_encounter.332.a:0 "…±ªŒª² ¼²"
+
+ diggy_encounter.333.t:0 "Ù³±ª¬\n[EncounterOverlayBackground]"
+ diggy_encounter.333.d:0 "[EncounterOverlay]       Ï ¢¯¾ °Œª ±ª¬¢ ¡¦°¥ ±³²ª ² ¥© ¯º °²¬°³®ª¿ ° ²³±ª¬, ¬²ºþ, ¬ ¶²¿½, ¬¨²¾, ©¬°¶ª¢²¾ º®º¯ ¬¯°¯, ¬²ºþ °¦ ²¬±²¿, ¶²¡º ±¦®¨ª²¿ ±³²¿, ª©-© ²³¸¥ °¨®°ª¾ ¢©¢¸²¿¾ ¢ ¥©¢³½ ¬¯³ ª ª¬²¿ ¦³¥þ ¢º¦ ²²³¦."
+ diggy_encounter.333.a:0 "ª¬ª ¢ ³¬ª"
+
+ diggy_encounter.334.t:0 "Ï©º¢ ±Œž® ³±Œ°\n[EncounterOverlayBackground]"
+ diggy_encounter.334.d:0 "[EncounterOverlay]       ¬©®¿, ¶² ¢©º¢ ±¡° ©¨¶¿ ¥©, ¢ ©³®¿²² ¶¥ ¢ ±¸³ ®º°³® °º¸°°ºþ ¬ª®¦¯ ¢©¦³, ¶² ±©¢®ª® °¢ ¦ºŒ²¿. Œª ª®¦¢²®ª °®¨¦½²¾ ¦³°¢°ª¯ ¢©¦³, ¦°¾¸ª¯¾ ©¦ª, ª ¦®½² °¬®¿¬ ¥®³¡¬ª ¢¦¢, ¶²¡º ®¡ª²¿¾, ±¨¦ ¶¯ ±¦®¨ª²¿ ±³²¿."
+ diggy_encounter.334.a:0 "Ô®¢°!"
+
+ diggy_encounter.335.t:0 "¡³Œ°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.335.d:0 "[EncounterOverlay]       ¥¦ ©¨¨ž°°ºþ ´ª²ª®¿ ±¦°ž° ¬ ¢©º¢¶²¬, ° ³¨ ¢º¦®¾² ¥©, ¢º©º¢¾ ¶¦³ °¡®¿Œª ¢©º¢¢, ¬²º °¬°²®ª³¯ ©¦ž²¾ ± ¢¯³ ¬ª¦³, ©²¢®¾¾ ±²®¬ ¡³Œª²¿¾ ° °, ³¡ª¢¾ ¯°¥ª ¶®°¢ ¼¬±¦ªµªª, ±¦²¢¨¦¾ ±¢²³ ¥®¥."
+ diggy_encounter.335.a:0 "”Ù¡ ®¦¢® ±ª®³Œ²¿¾ ¬ ¯°.”"
+
+ diggy_encounter.336.t:0 "‚©¢ ¯²¨¦°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.336.d:0 "[EncounterOverlay]       Ð¬±¬ª ±Œ®ª ¢®ª¬®±°, ³¡¢ ¯¾¥¬³½ ª ±¦¦½¸³½¾ ¬±¬ ±¦³  ±³²ª ¬ ¡® ¢¨¯³ ¢©¦³³. ¦°¬ ± ¯ ³¥®³¡®°ª¾ ±¦ ²°¢ª®¿ ¢ ¡® ª ¡® ±ª²þ,  °¡®¿Œª¯ª ¬°¢¬¯ª, ±³©º¿¬¯ª ª ²³¡¶¬¯ª ¢°³²ª ¬¯°þ, ³°ž°°º¯ª  ±®¸¦¬ª. ™² ²°°¾ ¥®¥ª¶¬¾ ¡°°²¿ ¬©®¿ ±¦¢²°ª¬¯ ¥©¦ ¡® ¬³±°¥ ±¦©¯°¥ ¥©¢¥ ©¢³, ¬º²¥ ¥®³¡¬ ¢ ±ª²¯ ¬¯°, ¬²ºþ, ±-¢ª¦ª¯¯³, ¡º® ©®¨° ©¦¿ ¦¢´¯ª ¢ ¡º®º ¢¯°. ™² °¯¦®°° ¢º©¢® ²¶¾°ª ¦ª ³¶²°ª¬¢ ±¦, ³¶ª²º¢¾ ²¸²°²¿ ±¡¥"
+ diggy_encounter.336.a:0 "†© ¥°¾ ¦ ¢ ±®º¯¾"
+
+ diggy_encounter.337.t:0 "²¨¦°ª ¦¥µ°°º ¬¯°þ\n[EncounterOverlayBackground]"
+ diggy_encounter.337.d:0 "[EncounterOverlay]       Ï ±ª¬ ¦³¥¥ ±³²ª ¡¦ ¥© ¯º °²¬°³®ª¿ ° ©¡Œ°°³½ Œ²³, ¥¦ ¢ ¸ž ¢®¾²¾ ² ¥° ©±º®ž°° ¡³¦¢°ª. ¦°¬ ¥®³¡¨ ¢ Œ², ±¨, ¡º® ©¡º² ²¾ ±²ª¾ ¦¥µ°°º ¬¯°þ, ®¨¸¾ ±¢½¦³ ¢ ²®¨¬ ª ¬©ª°, ¥²¢º ¬ ¢º¢©³. ¯ ²¥, ¬¨²¾, ¶² ¢ Œ² ¯¨² ¦³²¿ ®ž¥¬ªþ ¢²¬, ³¬©º¢¾ ° ², ¶² ¢ ¬°µ ²¿ ¢º¦. ¦°¬ ¯°¥ª ª© °Œª ª®¦¢²®þ ±®¨ª®ª ¥®© ° ¦¥µ°°º ¬¯°ª, ±º²¾¿ ±ª¬¯°ª²¿ ¶²-°ª¡³¦¿ ¦®¾ ¡¾."
+ diggy_encounter.337.a:0 "Ï ¦¥µ°°º ¬¯°ª °¦¾²¾ ¢ Œ¯², ¢º ±®³¶ª² ¢½ °¥¦³ ±©¨"
+
+ diggy_encounter.340.t:0 "„®²ª°¢ºþ ¬³¡\n[EncounterOverlayBackground]"
+ diggy_encounter.340.d:0 "[EncounterOverlay]       ‰¸º, ± ¬²º¯ ±³²Œ²¢³² ¼¬±¦ªµª¾, ¡º¶° ª©¡ª®³½² ±º®¿½, ¥ª¡¯ª ª ±¶ª¯ª ²°°º¯ª ¢¸¯ª, ¬²º ¯¨° °þ²ª ¥®³¡¬ ¢°³²ª …¯ª°¥ ¡². ¦°¬ ¢ ²¶°ª ±®¦°ª °¬®¿¬ª ¦°þ ±¸º ¡º®ª ±¦©ª²®¿° ¶ª²º¯ª,  ¡©³±¶° ¥®¦¬ª¯ ¬¯°¯. ™² °²¨ª® °¬²º °ª¡® ±º²°º ³¶²°ª¬¢ °Œþ ¼¬±¦ªµªª  ¢©¯¨°þ ±°²ª: ±¶®¿° ª©¢²°¯ Ô²³¦°ª²¯ ¬³¡, ¡©¯©¥®¯ ³¸²¢, ¦®°°¯ ª© ¶¸¥¾ ¥®¾ ¢ ´¯ ¬³¡, ¬² º¸² ± ±³²º¯ ¬ª¦¯, ¬¬ ¡®¿Œþ ¯³±¢¦, ±¢ª¢¾ ®½¡þ ¯³, ¬²ºþ ° ±¦¡ª² ¬°µ°²ª¢°°þ ¬ª®²þ.\n\n       † ¦þ²¢ª²®¿°, ¸ ¶© °¬®¿¬ ¶¢ °Œª ©¢¦¶ª¬ª ¡¸½²  ±®¢½¸ª ³°¦³¬ ª ¯¶ ¦®¿Œ ± ²±, ±¦¢Œ°°º ¢°³²ª ±¶²ª ±©¶°þ ²³¦°ª²þ ¯º ³¡. ¬®¿¬ ®¦², ¦²º ¢ ¡°½, ¬² °ª ¯¥®ª °þ²ª, ±ª¡®ª¨½²¾ ¬ ³¸²¢³ ¦®¾ ¦®¿°þŒ¥ ¯². °ª ±¾², ¬¬ ±²³±ª²¿ ¢ ¼²þ ª²³µªª, ±¦®¥¾ ³¬¢¦ª²®½ ¼¬±¦ªµªª ¦¢ ¢ª°²: ª©¡¢ª²¿¾ ² ³¡, ¨¶¿ ¥ ¦²®, ª®ª ±±º²²¿¾ ª©¢®¶¿ ¦¡º¶³ ª© ³¡ µ°þ ±¢¨¦°ª¾ ¬¢ª¸."
+ diggy_encounter.340.a:0 "Ô¨¶¿ ²¢¿"
+ diggy_encounter.340.b:0 "‰±º²þ²¿ ¢°³²¿ °¥¡®°°"
+
+ diggy_encounter.341.t:0 "„®²ª°¢ºþ ¬²\n[EncounterOverlayBackground]"
+ diggy_encounter.341.d:0 "[EncounterOverlay]       Ô®¦²º ±¦¨¥®ª ¬³¡, ª ¨®²ª°¢¾ ¯ °¯¦®°° ¢±®¯°ª®¿, ¬¬ ¡³¦² ¼² ¡º® ¯ ¦®¾ ²±¬ª,  ° ®ª©¿. ° ¥® ¾¬-ª°ª¯ ±®¯°¯  ©®ž°º¯ª ±¾²°¯ª, ±²°¾¾ °¯º®ª¯ ©®¢°ª ª ±º ¢ ¬²°²ª, ©²¢®¾¾ ®¦² ±²¿¾ ¡¥²¢¯ ² ±¨.\n\n       ¥¦ °ª ¢°³®ª¿, ² ³¡ °ª¶¥ ° ²®¿, ¬¯ °¬®¿¬ª ±¾²° ª®, ° ¬¢ª¸ ¡º® ³°ª¶²¨° °®¥ª¶°º¯ ¡©¯, ²¢ª¢ ±® ¡¾ °¬®¿¬ ±®¢®°°º ¬³¬¢ ¨®©°¥ ®¯."
+ diggy_encounter.341.a:0 "³ ¶² ¨"
+
+ diggy_encounter.342.t:0 "…¨¨°°ºþ ´¬®\n[EncounterOverlayBackground]"
+ diggy_encounter.342.d:0 "[EncounterOverlay]       Œª ®¦²º ±ª¡®ª©ª®ª¿ ¬ ³¡³  ©¨¨ž°°º¯ ´¬®¯, ° ±±º²¬ª ±¦¨¶¿ ¬³¡ ¬©®ª¿ ²¸²°º¯ª, ²¬ ¬¬ ° ±¶²ª ©³ ¨ ±¥®²ª® ´¬®, ¦±®°ª¢ ¬ ±¶¯³ ³ °¥ ¢°³²ª."
+ diggy_encounter.342.a:0 "‰±º²¬ ° ±º²¬, ± ¡¨²¿"
+ diggy_encounter.342.b:0 "‰²þ²¿ ¦¨²¿ ²¢¿"
+
+ diggy_encounter.343.t:0 "Ô¬®¿©¬¾ ¦¡º¶\n[EncounterOverlayBackground]"
+ diggy_encounter.343.d:0 "[EncounterOverlay]       ¶²°º ®¦²º, ¬²º¯ ¡º® ±³¶° ª©¢®¶¿ ¦¡º¶³ ª© ³¡, ¦¥°³®ª¿ ±ª ¯º®ª  ²¯, ¶² ª¯ ±ª¦ž²¾ ± ¡²¢°°þ ¢® ©®©²¿ ¢ ®ª©ª²³½ ¯³. ‰® ±ª¡¦°ªþ — ª ¡¸°ª¾ ª¯ ¡®¿Œþ ¦®ª ¦¡º¶ª — ¦ª° ¡µ, °¬°µ, Œª®¾.\n\n       ° °¬º® ³¬³ ¬¬ ¯¨° ¡®¿Œª¯ ¬®ª¶²¢¯ ²¬°ª, ²³¥ ±ª¢¾©¢ ž ¬ ¡, ª ³°³® ³¬³ ¢°³²¿. ¯²¾ ° ¢ ¯º ±¦²¨°²ª, ° ¢ž ¸ž ¶³¢²¢¢® ®¡ Œª±°ª, ° ³¯® ¢º²¸ª²¿ ¶²¿ ¬¢ª¸  ±¢°²ª. ¦°¬ ³°¦³¬ª ª ³¨ª ¢ž ¸ž ±¬º²º ®ª©¿½ ª ²ª°þ ³¡, ª ° ²¬©º¢²¾ ¶ª²ª²¿ ª ³²¢¨¦¾, ¶² ³¨ ¦²²¶° ¦®®."
+ diggy_encounter.343.a:0 "²¢²ª²®¿°"
+
+ diggy_encounter.344.t:0 "³¡ª¶¬ °ª²¢²¢\n[EncounterOverlayBackground]"
+ diggy_encounter.344.d:0 "[EncounterOverlay]       ¡¸°ª ¦±®°ª²®¿°º °¥¦ ¬¨¦¯³, ¬² ±±º²²¾ ¢°³²¿ ¦¡º¶³, ±¡³¦ª® ¦°¥ ¡µ ±±º²²¿¾ ¢º²¸ª²¿ ¦¡º¶³, ¶² ¡°³®¿ ±¢®¯. ³¡ ³²¾°³® ®¦² ¢ ²³¦°ª²º ¥®³¡ª°º, ª ²² ±®¢® ¢ ¥ ¢°³²°°²¾, ²¶¾°° ¢©º¢¾  ±¯¸ª. Ð©¹¾ž°°ºþ, ° °¶ª°² ±®©²¿¾ ¢¬³¥, ±º²¾¿ ±¥®²ª²¿ ¢ž ¡®¿Œ ª®¦¢²®þ, ¢ ¬¬þ-² ¯¯°² ±¶²ª ±³±¢¾, ³°ª¶²¨¾ ²®¿°º."
+ diggy_encounter.344.a:0 "€¨ª¯!"
+
+ diggy_encounter.345.t:0 "Ï ¢ ¬³¡\n[EncounterOverlayBackground]"
+ diggy_encounter.345.d:0 "[EncounterOverlay]       Ô ±¯¸¿½ ¡¯° ª ª²²ª °¯ ³¦®¿ ±¯²ª²¿ ³¡ ° ª¯±¢ª©ª¢°° «±²¡ª¸»,  ¬²¥ ° ° ¯¨² ¡¨²¿. Ù¬ª¯ ¡©¯, ©¥²¾ ¦ª¬³ª¾  ²¯, ¶² °¯ ®¦³² ¦®²¿  ¬³¡¯. ¬²º¯ °¦® ±²¾°° ±¢²¾²¿ «Ô²³¦°ª²ºþ ¬³¡», ª °ª Œª®ª ¦²¿ ¯³ ¥¦ ª ¢°³Œª²®¿° °©¢°ª: ˆª I Ô²³¦°ª²ºþ, ‰¢®ª²®¿ ¥®³¡ª°, ¥µ¥ †®, ¥°¦¯² ¢ ¬³¡ª¦¢."
+ diggy_encounter.345.a:0 "«ƒ ©¦¢²¢³² ˆª I!»"
+
+ diggy_encounter.346.t:0 " ¯¥³ ³¯²ª²¿ ¢ ¬³¡\n[EncounterOverlayBackground]"
+ diggy_encounter.346.d:0 "[EncounterOverlay]       º ±±º²®ª¿ ±¯²ª²¿ ³¡ ¢ ¢¥ ¦ ª©®¾² — ³®¢¬, ¬²³½ ³¡, ¦®¨° ¡º²¿, ¡°³¨ª® ¢ ¬¬þ-² ¯¯°², ±¡³¦ª¢ ¥ °±²¿ ° ¼¬±¦ªµª½. ¯²¾ ° ¥ ¯¦®°°³½ ¬²¿, ¯º ° ¯¥®ª ²°¢ª²¿ ¥, ° ±¬²ª®¾ ª ¬²ª® °¬®¿¬ª °¶²°º ¯³¨¶ª°, ±¬º¢ ª ¢ª¯ ¬ª®²°º¯ ¥®¯ ª °°¾ ¿ž©°º ª¯ª¶¬ª ¨¥ª. ‰® ¢¥ °¦®¥¥ °ª²¢²¢ ¯°² ³¯¶®¾ ¢ ²¯°²³. ‹¨°º °º, ¬²º ¼² °°®, — ¡® ¶¯ ¦²²¶°¾ ±ª¶ª° ²¢ª²¿ ¢ ¬¬ ²¿"
+ diggy_encounter.346.a:0 "«‹¡ª ² ¯°¾ ¼²³ ¦¾°¿!»"
+
+ diggy_encounter.350.t:0 "®¾°ºþ ¬®±¶¬\n[EncounterOverlayBackground]"
+ diggy_encounter.350.d:0 "[EncounterOverlay]       Ô®¦²º, ¢©¢¸½¸ª¾ ¢ ®¥¿ ª© °Œ¥ ±®¦°¥ ±¦ © ´³¨¯, ±ª°¾²  ¡þ ²°°³½ ±¦³ ¥ª¡¢, ¬²³½ °¿Œ °ª¬² ¢ ®¥ ° ¢ª¦®. ®±¶¬ ª¯² ²°° ¯®¾°ª² ¯µ°ª, ±®¯®¾¾ ¢² °Œª ´°þ ª ´¬®¢ ²°°º¯ª ³©¯ª, ¬¬ ®³¨ªµ ¯®.\n\n       ‰ ¼²þ ±ª¶ª° °Œ ¥®¢°ºþ ¡ª®¥ ¬²ª® ª «®¾°º¯ª ¬®±¶¬¯ª». °ª ª²¶½² ¡®©°ª²®¿°ºþ ©±, ¬²ºþ ¢º©º¢² ³ ±¢¢ ª°² ¬ ²¯³, ¯¨° ®ª ª ¡©±° ³±²¡®¾²¿ ¢ ±ª¸³ ª®ª °²..."
+ diggy_encounter.350.a:0 "ƒ¢þ² ¢º¾°ª¯!"
+ diggy_encounter.350.b:0 "™² ¬¨²¾ ³¨°þ ª¦þ"
+
+ diggy_encounter.351.t:0 "€®¨°²¢\n[EncounterOverlayBackground]"
+ diggy_encounter.351.d:0 "[EncounterOverlay]       ‚ª¡º ° ²¬ Œª ° ¢¬³, ° ª ¼´´¬² °±ª¯: °Œª ¯³¨¶ª°º ¶³¢²¢³½² ±ª±¦°¾² °²°ª, ¦¨ ¼¬²©. ƒ®¨° ¡º²¿, ¢ ¥ª¡ ¦¨®¾ ¬¬þ-² ±ª¬²ª¢°ºþ ±±², ± ¬þ°þ ¯, ³¦¾ ± ¢°Œ°¯³ ¢ª¦³. ™² ¦®® ±³²Œ²¢ª ¥©¦ ¡® ±ª¾²°º¯, ° °¬²º ®¦²º °²®¿¬ ©°¾²º ²¯, ¶² ±¢¦¾² ¢¯¾ ¢ ¢ž¯ ¡²¢°°¯ ¯ª, ¯¶²¾ °¾¢³, ¶² ²²½² ª ° ¡¸½² ¡¥ ¢°ª¯°ª¾ ° ², ¶² ° ¯¯ ¦® ±ª¦ª² ¢ ¼¬±¦ªµªª."
+ diggy_encounter.351.a:0 "™² ¦³¨°ºþ ²?"
+
+ diggy_encounter.352.t:0 "‰¦©ª¢¬\n[EncounterOverlayBackground]"
+ diggy_encounter.352.d:0 "[EncounterOverlay]       Ô®¦²º, ±¦½¸ª ¥ª¡º, ±¨, ±¬° ±¢¦¾² ¢¯¾, ¹¦¾ ¢ ¡®¿Œ ª ¡®¿Œ ¢ ¢ž¯ ¢ ¡® ¢²¨°°¯ ²¾°ªª. ™² ±ª¥®Œ² ¦³¥ª ±ª¦ª°ª²¿¾ ¬ ª ¢®¿½, ° ¬¬ ²®¿¬ ±ª¡º¢² °¢¾ ¥³±± ª©¥®¦¢Œª¾ ± ¥ª¡¯ ¯³¨¶ª°, ±¢º, ¬²º ¬ ¼²¯³ ¢¯°ª ³¨ ¹®ª ¡ª®¿° ¬®ª¶²¢ ¥ª¡¢, °¶ª°½² ¬Œ®¾²¿, ª ³ °ª ª© ² ª¦ž² ±°. °ª ±¦½²  ±²³¬°¢Œª¯ª ¥®©¯ª, ¬¬ ¡³¦² ®±®ª. ™² ²¾°ª ¡©°²®¿°²ª ¢¬ ©¬°¶ª¢²¾ ¯²¿½, ¢ ²® ¡¯¾¬² ±® ¼±ª©¦ ª°²°ª¢°º ±¦ž¥ª¢°ªþ.\n\n       Ù, ¬² ¡º® ¢ª¦²®¯ ¼²¥,  ²¢¸°ª¯ ¢º¡ª®ª ¥ª¡º, ° ¦®¾ °¬²º ¡º® ³¨ ®ªŒ¬¯ ±©¦°. Ù, ¬² ±¨ª® ³¦¥ª ª ²¯, °¦¾²¾ ¢ °²¡ª®¿°¯ ¦³Œ¢°¯ ²¾°ªª ª °³¨¦½²¾ ¢ ±²¾°°¯ ¢°ª¯°ªª."
+ diggy_encounter.352.a:0 "²°¢ª²¿, ¦³¬ª!"
+
+ diggy_encounter.360.t:0 "Ô²³¦°ª²¾ ³¥©\n[EncounterOverlayBackground]"
+ diggy_encounter.360.d:0 "[EncounterOverlay]       Ô²°°º ³¸²¢, ¬¬ ©³¯°º, ²¬ ª °©³¯°º ª ±®³©³¯°º, ¡¦¾² ± ¥®³¡ª°¯ …¯ª°¥ ¡² ¢ ±ª¬ ² °¯°¥ª ¬³¶¬¢ ±ª¸ª, ¬²º ±¦®¥² ²¢ž¦¾ ª °±¦²®ª¢¾ ¬®. ¬²º ª© ¼²ª ³¸²¢ °±¦½² ° ¦³¥ª ¢ ±ª¬ ±±ª²°ª¾, ° °ª¬² ¦³¥þ ° ¦®² ¼²¥  ¡©©®ª¶°þ ¦¢³¯º®°°²¿½, ¬¯ ¥ª¥°²¬ª ®ª©°¾¬¢, ¡ª²½¸ª ¢ ¾¯. °ª ±¦¬¦º¢½²¾ ¬ °¨ª¦°°º¯ ³¸²¢¯, ©¬®½¶¾ ª ¢ ¢ª ¬®¿©¬ª ²®. ¬®¿¬ ª© ¼²ª ®ª©°¾¬¢ °±®ª, ª®ª, ®ª ¡º²¿ ¡® ²¶°º¯, ±² ±Œ®ª ± °¬®¿¬ª¯ °Œª¯ ª®¦¢²®¾¯, ©¦³Œª¢ ª ¢ ¢ª ®ª±¬ª ²®."
+ diggy_encounter.360.a:0 "Ïº¨¿² ª!"
+ diggy_encounter.360.b:0 "²þ¦ª² °©¦!"
+
+ diggy_encounter.361.t:0 "†²¡®°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.361.d:0 "[EncounterOverlay]       Ô ¯¶¯ ª ¸ª²¯, ²±¯ ª ¡³®¢þ ¯º ¢º²¬ª¢®ª ¡¦°¾¥ ª© ¨®¬¥ ±®¨°ª¾. ¬©¢Œª¿ ° ¢¡¦, °ª ¢©¾®ª¿ © ¢ž ³¨ª ª ¢ ±ª²³± ¾²ª °¡ª®ª¿ ° ¦³¥ª ®ª©°¾¬¢, ±¡³¦ª¢ ²®¿°³½ ¶²¿ °Œþ ¼¬±¦ªµªª ±ª¦ª°ª²¿¾ ¬ ¦¬, ±¬ ² ®ª©°¾¬ ° ²®¿ °ª ¦°¥ µ®¥ ¬³¬."
+ diggy_encounter.361.a:0 "ª®² ±¢¦ª® ¶²¿ °Œ¥ ³¨ª¾"
+ diggy_encounter.361.b:0 "¬°µ-² ¢¡¦"
+
+ diggy_encounter.362.t:0 "Ô¬®¿©¬ªþ\n[EncounterOverlayBackground]"
+ diggy_encounter.362.d:0 "[EncounterOverlay]       Ï ²¶¾°°º ±±º²¬ ¢¡¦ª²¿ °Œª ¡²¿¢-®¦² ¯º ©©®ª®ª ®ª©°¾¬¢ ¦ ²¬þ ²±°ª, ¶² °ª ±¯²ª®ª ½©°ª¬¢ ¢ ²®, ¬¬ ¢¥ ¦ ¸ª², ¢ ¬°¶°¯ ¶ž² ¦®¢ ª ¨²¢¯ª ¢ ±±º²¬ ¢°³²¿ ª. ‰® ¼²¥ ®ª©°¾¬ª ¡ª®ª¿ ° °, ±¨ª¾ ¸ž ¡®¿Œ ®¦² ª ¢®¾¾ ² ¢ ¼¬±¦ªµª½."
+ diggy_encounter.362.a:0 "Ï ±ª±¦°½½ ª ¡²°!"
+
+ diggy_encounter.363.t:0 "Ô²°° ¸³¸°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.363.d:0 "[EncounterOverlay]       Ô®ª©°¾¬ª ª©¦½² ²°°ºþ ©±,  ª ²® ®½±½²  ³±¬ª¢½¸ª¯ª ©¢³¬¯ª, ° °Œª ®½¦ª ¢°ª¯²®¿° °¡®½¦½², ±¬ ¯º ¥²¢ª¯¾ ¬ °±¦°ª½. ¬ © ¢ ²² ¯¯°², ¬¥¦ ¯º ¦®¨°º ¡º®ª °±²¿ ° ®ª©°¾¬¢, ±º²¾¿ ±²ª ½©°ª¬¢, ®ª©°¾¬ª °¢ ¢º±®½°³®ª ª. ‰²¾ž°°º ¢©¦ª ±°¾²¾ ± ¥³±±, ¬¥¦ ±¬º²º ®ª©¿½ ®¦²º ¬Œ®¾½² ª ±º²½²¾ °¦ºŒ²¿¾. €º² ¢º©º¢½² µ®ª²®¾, ¶²¡º ° ±ª¯²® © °ª¯ª, ª ° ¢©¢¸²¾  ¢¿¯ °¡º¶°º¯ ²¶ž²¯: ®¦²º °ª¬ª¯ ¡©¯ ° ±²¦®ª, ¡® ²¥, °ª ¶³¢²¢³½² ¡¾ ®³¶Œ, ¶¯ °¿Œ, ª ³²®²¿ ª ¦³¥ª °¦³¥ª ª©®¶°º, ¬ ©¯Œ²®¿²¢³ ¢ ¢¢®¶ž°°º."
+ diggy_encounter.363.a:0 "Ï! …®©þ² ¢ ¼²³ ¨ª¨³!"
+ diggy_encounter.363.b:0 "Ï©¯¨°, ¯º ¯¨¯ ª±®¿©¢²¿ ¼² ±©¨"
+ diggy_encounter.363.tooltip:0 "¬ ²®¿¬ ±¢ª°µª¾ ²°² ¡©±°þ, ¯º ¯¨¯ °¢²¿ ¡®¿°ªµ³ ¢ ¼²¯ þ° ª ª±®¿©¢²¿ ¼²ª ®ª©°¾¬¢ ¢ °Œª ª°²."
+
+ diggy_encounter.364.t:0 "ª®²°¾ ³¥©\n[EncounterOverlayBackground]"
+ diggy_encounter.364.d:0 "[EncounterOverlay]       Œª ®½¦ª ²¾² ª °¡®½¦½² © ³¨°º¯ ©®¨°ª¯ ²® ¢ª ½©°ª¬¢, ¬¯°¢ ² ³¨°þ ±±¬²ª¢º ¡º²¿ ³°ª¶²¨°°º¯ª ±¦¡°º¯ ¡©¯. Ì© °¬®¿¬ ¯ª°³² ®ª©°¾¬ª ¢º±®¢º¢½² ¬³¦°º ²²¬ª, ¬²ª ¦¶ª² ¡¥®¦°°º, ¡®²¾² ¢ ¢² ´¬®¢."
+ diggy_encounter.364.a:0 "€¥ª²!"
+
+ diggy_encounter.370.t:0 "¶¿ª ±ª±º\n[EncounterOverlayBackground]"
+ diggy_encounter.370.d:0 "[EncounterOverlay]       º ² ©°®ª ²² ´¬², ¶² ¯º ° ¦ª°²¢°°º, ¬² ¡¦ª² ± ±¸¯, ¡®¥¦¾ °¢þŒ¯³ ²¬º²ª½ °Œª ©¢¦¶ª¬¢: ±¾¯ ±¦ °¯ª °¦ª²¾ ², ¶², ±-¢ª¦ª¯¯³, ¾¢®¾²¾ ®¥¯ °¡¨°ª¾ ¬¢, ¥¦ °ª °¾² ¦³ ª ±þ¬ª ° ±²¯. ª±®¿©³þ². ³, "°ª²¾" — ¢ ²ª±ª¶°þ ¦®¾ ¬¢ ¯° ¼² ¡®¿Œ¾ ¬³¶ ®³¶þ°º ¢¸þ."
+ diggy_encounter.370.a:0 "†¸ª² ¦³"
+ diggy_encounter.370.b:0 "™² ¦¾°¿ ±® ±°², ±ª¸ª² ¶²-°ª¡³¦¿ µ°°"
+
+ diggy_encounter.371.t:0 "¶¿ª ¦®ª¬²º\n[EncounterOverlayBackground]"
+ diggy_encounter.371.d:0 "[EncounterOverlay]       Ô¦ª ²ª¯°² ±ª±¢ ¯º¯ ¡º¯ ®½¦¾¯ ³¦®¿ °þ²ª °¯°¥ ¦º, ° ³¦ª¢®°ª Œ °ª¢Œþ¾, ¬²³½ °ª ²±¿ ©¦½² ²®¿°º¯ ¶®°¯ ¥³±±º. ¾¦³  ¢¾®°º¯ ¯¾¯ ª ³Œž°º¯ª ¥ª¡¯ª ©¦¿ ²¬¨ ±¦½² ¡º ¶¿ª ¦®ª¬²º. ÷®¥, ¬±¬ªþ ®¬¥®¿°ºþ °±ª²¬, ¶² ±ª¯° ±¢¦ª²¾ ¬¬ «Ô®°¶°¾ ¢¦», ¡°° °¢ª²¾ ª®¦¢²®¾¯ ª ®¦²¯"
+ diggy_encounter.371.a:0 "‹!"
+
+ diggy_encounter.372.t:0 "‰³²º ²®º\n[EncounterOverlayBackground]"
+ diggy_encounter.372.d:0 "[EncounterOverlay]       ¥¦ ¢ ¢®° ¢ ¬³¶³, ²³¦° °þ²ª ¶²-®ª¡ ª© ±ª±¢, ª ¢ ¬¬þ-² ¯¯°² ¯º ±² ¦®ª¿ ª ¡º®ª ¢º°³¨¦°º ¯ªª²¿¾  ²¯ ´¬²¯, ¶² ° ¬®¦ ¬¢ ° ¡º® ¦º"
+ diggy_encounter.372.a:0 "³¦¶"
+
+ diggy_encounter.373.t:0 "¾\n[EncounterOverlayBackground]"
+ diggy_encounter.373.d:0 "[EncounterOverlay]       «¾!» — ¬ª¶ª² ¦ª° ª© °Œª ®¦², ±¨¦ ¶¯ ±³²ª²¿¾ ¢ ¬³¶³, ©¥¡¾ ¢ ¡®¿Œ ª ¡®¿Œ ¦º. Œª ®¦²º  ³¦¢®¿²¢ª¯ ±®¿©³½²¾ ¯þ ¨®°°þ ¢©¯¨°²¿½, ³¡®¨¾ ¦¨ ¯º ±¨®ª¢º ª© °Œª ¦ª¶þ. º ¦®¨°º ±¡®¥¦ª²¿ °Œª ¡²¿¢-¬¢ © ², ¶² °ª ³²ª®ª °¯ ²¬þ ±ª!"
+ diggy_encounter.373.a:0 "ƒ³¬° ¡®¥®¢®¾² °"
+
+ diggy_encounter.374.t:0 "€®²¾Œ¬ª\n[EncounterOverlayBackground]"
+ diggy_encounter.374.d:0 "[EncounterOverlay]       Ï ¢¯¾ ¡º¬ ¬³¶ª °Œª¯ ®½¦¾¯ ³¦®¿ °þ²ª ¬-¬¬³½ ¦¡º¶³, ²ª°°º ³¬Œ°ª¾ ¦¢´¢ ª ¦³¥ª µ°°º ¡©¦®³Œ¬ª,  ²¬¨ ¦¥µ°°º ¬¯°ª ª ©®². Ð©¢¦¶ª¬ª ¢©¢¸½²¾ ¢ ®¥¿, ¥¦ ¦¯°²ª³¾ ¢ª °¢¡²ž°°º ¡¥²²¢, ²®¿¬ ¦®¾ ²¥, ¶²¡º ª ¬°´ª¬¢®ª ª ¦¡¢ª®ª ¬ °Œþ ¡²¢°°þ ¬³¶."
+ diggy_encounter.374.a:0 "™² ¢ ¬©°³!"
+
+ diggy_encounter.375.t:0 "€®¿Œ¾ ¬³¶ °ª¶¥\n[EncounterOverlayBackground]"
+ diggy_encounter.375.d:0 "[EncounterOverlay]       ¯²¾ ° ¡®¿Œ ¬®ª¶²¢ ¢¸þ ¢ ¬³¶, ¯º ° ¯¥®ª °þ²ª ¡®½²° °ª¶¥ ª°²°¥: °ª ¦º, °ª ³¨ª¾, °ª ¦¡º¶ª, °ª¶¥. Ð©¶¢°°º ©¢¦¶ª¬ª ¢©¢¸½²¾ ¬ ³¬¢¦ª²®½ ¼¬±¦ªµªª ª ¦½² ¢þ ²¶ž², ±¨¦ ¶¯ ª °¢ ²±¢®¾½² ¯²²¿ ¦®¿Œ, ¢¶."
+ diggy_encounter.375.a:0 "¬¾ ±³²¾ ²² ¢¯°ª"
+
+ diggy_encounter.380.t:0 "…¦ ¥¡®ª°¢\n[EncounterOverlayBackground]"
+ diggy_encounter.380.d:0 "[EncounterOverlay]       ‰¶²ª ª© °ª²¬³¦ ° ° ¡³Œª¢²¾ ¥ª¥°²¬¾ ¯ª¾ ¥¡®ª°¢, ¢º±®©½¸ª ª© ¬¨¦¥ ³¬¯°¥ ³¥®¬, ¬¨¦¥ ¯®°¿¬¥ ²³°°®¾ ª ¸®ª°º ¢¬³¥ °,  ²º¯ª ©³¡¯ª ª ¥³¡º¯, ° ¡®©°°°º¯ ³¨ª¯. °ª ¬ª¶² ¢ ¥°¢, ¥²¢¾¿ ¬ °±¦°ª½, ¢®¾¾ ² ¢ ¥®© ª ¦µ °Œª ª®¦¢²®þ."
+ diggy_encounter.380.a:0 "Ô¯²¿ ©®°¬¨ª¯!"
+ diggy_encounter.380.b:0 "ƒ¢þ² ±¯²ª¯, ©²¾² ®ª °ª ±ª¦ª°ª²¿¾ ¬ °Œ¯³ ²¾¦³..."
+
+ diggy_encounter.381.t:0 "ÐŒ½¸ªþ ³¦\n[EncounterOverlayBackground]"
+ diggy_encounter.381.d:0 "[EncounterOverlay]       Œª ®¦²º ¡º² ¢º¦¢ª¥½²¾ ¢±ž¦ ª ¥²¢¾²¾ ¬ ³¦³, ¸ª²º ª ¬±¿¾ ¥²¢º ¬ ²¬. ¥¦ ¥¡®ª°º ±ª¡®ª¨½²¾, ª ¢²¶½²  ¯¶°þ Œª¯²¿½, ¯²®® ³¦¾²¾  ¯²®®, ²®¿ ¬¨¸² ± ¥³¡þ ¡°. º ³¡ª¢¯ ¡¶ª®°° ¯°¨²¢ ª© °ª,  ²®¿°º ¢¬ ³¡¥½²."
+ diggy_encounter.381.a:0 "¡º¸ª² ²®"
+
+ diggy_encounter.382.t:0 "°ž° Œª²®¿°ºþ ³¦\n[EncounterOverlayBackground]"
+ diggy_encounter.382.d:0 "[EncounterOverlay]       ‰¦¢®¾½¸ª ¯º ¥¡®ª°¢ ¡º² ¬³¨ª®ª ° ª, °¯²¾ ° ¢ °Œª ³ª®ª¾, ©®²°³®ª °Œ³ ¡°³ ¦°þ ¥ª¥°²¬þ ¢®°þ. Ï ª ¥®© ²ª²¾ ¯¶°¾ ¨¨¦ ¯²ª ª ©³Œ°ª¾, ±¢¡º²° ²¯®°ª ³¡ª¢²¿.\n\n       ¥¦ °Œª ®½¦ª ³¡¥½², ´¬®º ¥°³², ª ¢² ²³¬°², ²®¿¬ ®¡ ¢¶°ª ¬¬ª-² ¡ª®½¯ª°µ°²°º ¥ª¡¢ ¢¸² ¡þ°½.  ²¬ ¨ ¢°©±°, ¬¬ ª ±¾¢ª®ª¿ ¥¡®ª°º, °ª °¢ ª¶©½², ³¢®¬¯º ¢ ¬¬³½-² ¦³¥³½ ¶²¿ …¯ª°¥ ¡² ¨¨¦þ ¯²ª."
+ diggy_encounter.382.a:0 "² ¯¨² ±²ª¢²¾²¿ ²¬þ ¶ª®°°²ª ª ²¬þ ¡©³¦°þ °°¢ª²ª?"
+
+ diggy_encounter.383.t:0 "²®ª¶°ºþ ¬®° ¦®¾ ¢\n[EncounterOverlayBackground]"
+ diggy_encounter.383.d:0 "[EncounterOverlay]       ¯ª¾ ¥¡®ª°¢ ¥®ª®¿ ° ¯ª°º ³®¢ª¾, ¬¬ ª ±¦¡² ²¬þ ©¢ª²þ µª¢ª®ª©µªª, ¬¬ ¯º. Ï ¯²¬ª ²¢®°°¯ ¦¥¢ °ª ¸¦ ¨²¢³½² °¬²º ±ª±º, ¢ ² ¢¯¾ ¬¬ ¯º ±¦®¥¯ ª¯ ¡©±°²¿, ¡³¦³¶ª ¶²¿½ ²¾¦ [Root.GetName]."
+ diggy_encounter.383.a:0 "Ï±ž¦!"
+
+ diggy_encounter.384.t:0 "‹±¾¯º ¥¡®ª°º\n[EncounterOverlayBackground]"
+ diggy_encounter.384.d:0 "[EncounterOverlay]       Ëª¢ª®ª©µª½ ©¦¿ ²³¦° °þ²ª, ª ¼²² ´¬² ²® ¶¢ª¦°º¯ ª©-© ¾²ª ¯ªþ ± ±¢¦³ °Œ¥ ±¦®¨°ª¾ ±¦®ª²¿¾ ¦þ ª ±ª±¯ª. Ï®° ¢¬½¸ª ©³¡¢ ª ¥¾¸ª ¥®© ¡³Œª®¿ ° °Œ³ ¼¬±¦ªµª½, ¢³¾ ª ³¡ª¢¾ ¢, ¶² ¯¨°, ±¨¦ ¶¯ °¢ ¬º²¿¾ ¢ ²¯°²."
+ diggy_encounter.384.a:0 "Ù¬ °µª¢ª®ª©¢°°..."
+
+ diggy_encounter.390.t:0 "‰²¬ ²¶¾°ª¾\n[EncounterOverlayBackground]"	
+ diggy_encounter.390.d:0 "[EncounterOverlay]       ³²þ¶ª¢¾ ±ª¦ ª ²¬²°ª¶¬¾ ¬²ª¢°²¿ ±¦ ¥¯ª …¯ª°¥ ¡² ±ª¢®ª ¬ ¿ž©°º¯ ©³®¿²²¯ ¦®¾ °Œþ ¼¬±¦ªµªª. †© ¦°¥ ª© ¯°¥¶ª®°°º ²¢²ªþ ¡¬³ ² ¢¦ ¢ ±¸³, ¬³¦ ¢¦ ¯¦®°° ²¬® ¯®°¿¬ª¯ª ¬±®¾¯ª, ¡©³¾ ¢±¶²®¾½¸ª ¬¯°°º º±ª, ¦°ž¾ °ª©¬ªþ ¥², ±¦¢¸¢Œªþ ±²¬ ¬ª¶°¢þ ®°¢²þ ¢¦º, °±®°°°þ ¬¯°¾¯ª, ¬²º º±®ª¿ ±ª ³¦  ±²ª¢±®¨°³½ ²°³  ª®þ,  ¬²þ ¢¦ ²®¬® ª ¢±ž¦. ¥¦ ¼²² ³¶þ °¶® ©±®°¾²¿ ©¯®½ ±¦ °¯ª, °¬²º ¶®°º ¼¬±¦ªµªª ©¡±¬ª®ª¿  ²¯, ¶² ¯¨² ±ª©þ²ª þ¶, ±¾¿, ¶² °ª ¯¥³² ³²°³²¿ ¢ ¼²þ ±¸. ‰©°ª½ ¸ž °² ¬°µ, ª ±¬ ° ¢ª¦° ±³²ª ª©¡¢®°ª¾ ² ±°²ª."
+ diggy_encounter.390.a:0 "‰¦¢ª¥¯¾ ¢±ž¦!"
+ diggy_encounter.390.b:0 "Ï©¢¸¯¾!"
+ diggy_encounter.390.c:0 "‹±¬þ²¿, ¢¾²°²¿ ±®°¥ ©²±®°ª¾ ¼²þ ±¸º °¢®ª¬"
+
+ diggy_encounter.391.t:0 "€®ª©¬ªþ ©¢\n[EncounterOverlayBackground]"
+ diggy_encounter.391.d:0 "[EncounterOverlay]       €º²º¯ Œ¥¯, ° ¢ž ¸ž ¢ ²½, ¯º ±¬®ª ±¸³, ¢ ² ¢¯¾ ¬¬ ¢¦ ±¦®¨® ±¦°ª¯²¿¾. Ï¬ ¶°-¬ª¶°¢ºþ ±²¬ ±±®© ¢¢ ± °¥¯, °±®°¾¾ ¡³¢¿ ¯®¬ª¯ª ¬¯°¾¯ª, ±¬¯ ª ¥®¿¬þ. °¥ª ®¦²º ²±¿ ¡ª®ª¿  Œ¥, ²¬ ¬¬ ª©-© ²³¦°±¦ª¯þ ¯²°²ª ¡º® ²³¦° ®¦¢²¿ © ²®¿°º¯ª. Ï¬ ¢¦ ¦²ª¥® ³¢°¾ ¥³¦ª, ¶² ¯°ª® ¡±¬þ²¢ ¢ ²¬¢°°ºþ ²  °¬²þ ¦®þ ±°ª¬ª, ±¬®¿¬³ ¬°µ ¬ª¦³ ±-±¨°¯³ ° ¡º® ¢ª¦°. ¬°µ, ±® ²ª¦µ²ª ¯³¶ª²®¿°º ¯ª°³² ±²¾°°¥ ¯²®¿°¥ ² °¯ ³¦®¿ °þ²ª ²±ª°¬³ °¢. Ïºþ¦¾ ª© ¢¦º, ¯º ¦®¨°º ¡º®ª ¡°³¨ª²¿, ¶² °¬²º¯ ²²¢Œª¯ ° ³¦®¿ ¦²²¶° ¡º² ¢º¡²¿¾ ª© ±¸º."
+ diggy_encounter.391.a:0 "ˆ³¶Œ ³¨ ²¬, ¶¯ ¢ ³²°³²"
+
+ diggy_encounter.392.t:0 "Ô®ªŒ¬¯ ¯°¥ ¢¦º\n[EncounterOverlayBackground]"
+ diggy_encounter.392.d:0 "[EncounterOverlay]       ¥¦ ¢þ¬ ³±¬ª®ª¿, ¢¦ ¯¦®°° ±¦°ª¯®¿, ° ±¬®¿¬³ ¼²² ¬ª¦ ¬©®¾ ²¬ª¯ ¡®¿Œª¯, ®½¡þ ² ³¯°¿Œª®¾. † ¬¥¦ ¢¦, ¬©®¿, ²°¢ª®¿ ±ª¯° ° ¢º² ®¦º¨¬, ¢ °¢ ±¢®®ª ª ±¦®¨ª®ª ±³²¿. …²¯, ¢°©±°, ¢ ¡®¿Œ ²° ³²³±ª® ¯² ¢¦, ©²±®¾¾ ±¸³ ¢ ¡º² ª ¡º² ± ¯ ²¥, ¬¬ ©³Œ®¿ ¢ ¡®¿Œ ²°. …²¯ ¥¯¬ªþ ²¬ ¢³ ¢©¢²ª®  ¬°µ: ±²®¬ ¡³Œª®¾, ±°ª¢ ¶²¿ ±¦ ³±¢Œª¯ª ¬¯°¾¯ª,  ²®¿° — ±¦ ¡³Œª¢Œª¯¾ ±¦©¯°º¯ ©¯. ¬²º¯ ³¦®¿ °þ²ª °¡®¿Œª ¬¯°º  ¢©¦³¯, ¥¦ °ª ¯¥®ª ±¦¨²¿¾ °¬² ¢¯¾, ° ¢¬ ¬ª®¦ ²® ° ¢²²¿, ª ±¦²³±ª® ¥®¢¬³¨°ª, ¢ ¬°¶°¯ ¶² ©¦³Œª¢Œ ², ¬² ° ³²°³®."
+ diggy_encounter.392.a:0 "Ï…ƒ‹Û, ¯° °³¨°... °³¨° ¢©¦³..."
+
+ diggy_encounter.393.t:0 "Ù¶°ª ¢¯°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.393.d:0 "[EncounterOverlay]       ‰® °¦®¥ª ©¦³¯ªþ ³¬¢¦ª²®¿ ¼¬±¦ªµªª Œª® ©¢°³²¿¾ ª ¢©¢²ª²¿¾ ¬ ±®¦°þ ©¢ª®¬ °¬®¿¬ ¦°þ °©¦. Û²¾ ¼² ±¦®ž°° ¡® ¡©±°ºþ ¢º¡, ° ²¬¨ ²ª® °¯ ©°¶ª²®¿°¥ ¢¯°ª"
+ diggy_encounter.393.a:0 "‰ ¬þ°þ ¯, ¯º ° ¯²¢º"
+
+
+ diggy_encounter.430.t:0 "¡ª¦ª°¢ºþ ²¾¦\n[EncounterOverlayBackground]"
+ diggy_encounter.430.d:0 "[EncounterOverlay]       €þ ¡¡°¢, ª¶°ºþ ¦¢´ªþ¬ªþ ¾©º¬, ±¶°º ¦±ª, ¬±¿¾  ¶ž°º¯ª °¬°¶°ª¬¯ª: ¼² ±ª©°¬ª ¡ª¦ª°¢º ¦¢´¢, ª©¥¢ ª© ³®-ƒ¢¢, ²ª¬¢, ¬²º ¡º®ª ®°º ¢ ¥®³¡ª°º …¯ª°¥ Û¡² © ª ±°³½ ³°ª¶¬³½ ¯¥ª½. Ô ² ± ¬¬ °ª ¢±®º®ª ° ±¢°²¿, °¬²º ª© °ª ¯¨° °¡®½¦²¿ ² ²³², ² ²¯ ¢ …¯ª°¯ ¡², ° ° ¢ ²¬¯ ¡®¿Œ¯ ¬®ª¶²¢. ‰¦ °¯ª ± ¯°¿Œþ ¯ Œ²¿ ®¥ª°¢ ¦¢´¢, ¢ ±°ª¬ °³¸ª¾ ± ²º¯ ±¸¯. ™² ° ±² ¸ž ¦ª° ¡¢þ ²¾¦, ¼² ¯ª¾!"
+ diggy_encounter.430.a:0 "ƒ¢þ² ±¯²ª¯, ³ ¬¥ ¡®¿Œ ª®º!"
+ diggy_encounter.430.b:0 "°ª ° ¯¥³² ¡²¿¾  ²¯, ¶¥ ° ¢ª¦¾²! ‰¾¶¿¾!"
+ diggy_encounter.430.c:0 "‰±º²þ²¿ ¢°³²¿ ª ¬ °¢°º¯ ª®¯"
+
+ diggy_encounter.431.t:0 "Ð©¡ª²ºþ ¡ª¦ª°\n[EncounterOverlayBackground]"
+ diggy_encounter.431.d:0 "[EncounterOverlay]       ‰® °¬®¿¬ª ¶¢ ¨°ªþ, ²º¶¬, ³±¢ ª ±¨°ªþ ¯º, °¬°µ, ³¡ª®ª ±®¦°¥ ª© ¡ª¦ª°¢º ¦¢´¢. † ²³±º ²±¿ ®¨² ¡®¿Œþ ¥³¦þ ¢ ±¸, ¥¦ ±ª©Œ® ¡ª²¢, ¡®¿Œ¾ ¶²¿ ª ¦±¢ ª ³¨ª¾ ©¡ª² ¢¦¡©¥ª. Ï ¢©¦³ ¢ž ¸ž ¢ª²² ®¦ ª ²°°þ ¯¥ªª, ±¨ªþ ° ±¬®º¢°ª ² ²²ª¶¬¥ ¼®¬²ª¶²¢. Ð¾¦¯ °Œª ¡²¢°°º ±²ª, ¢°º ± ©¯³. °¥ª ±®¶³², ¢ª¦¾, ¶¯ °¯ ±ªŒ®¿ ±¨²¢¢²¿, ° ¯º ¢ ©°¯, ¶² ¦³¥¥ ¢º¦ ° ¡º® ¡º."
+ diggy_encounter.431.a:0 "º ¯¨¯ ¬¯±°ª¢²¿ ¯¿¾¯ ±¥ª¡Œª ¶²¿½ ª ¦¡º¶ª"
+
+ diggy_encounter.432.t:0 "‹¦±¶° ²¬®\n[EncounterOverlayBackground]"
+ diggy_encounter.432.d:0 "[EncounterOverlay]       Ï¬ ±® ²¥, ¬¬ ¯º ²¬¢®ª ®¥ª°, ²®ª ©¯²°º Œª¡¬ª. º ±®°²¿½ °¦µ°ª®ª ª ¶ª®°°²¿ ª ¡¢³½ ¦¡®²¿. † ¶ž°º ¬±¿¾ ª ¡ª¦ª°¢º ¬®ª°¬ª ±¦¾² ¬¢©¿ °Œª ¾¦º, ¬¬ °¨ ± ¯®³.  °³Œ¾ ²¾, °ª ¦½² ²±, ¬¬ ±®² ¶ª²þ °°¢ª²ª, ±¦¡° ¦¯°¯ ¦¢°¥ ¯ª, ¡© ¨®²ª ª ±¸¦º. ‰Œ® ¢¯ °¯°¥ ¢¯°ª, ±¨¦ ¶¯ °Œª ¡²¢°°º ¢þ¬ ¦¥°³®ª ª °³Œª®ª ²þ, ±¾¿ ¡¥²¢¯ ª ²²³±¾  ±®¾ ¡¾. ‰® ²¥, ¬¬ ³¥© ¯ª°¢®, °Œª ®¦²º ¢°³®ª¿ ª© ¢ª ³¬º²ªþ, ª ¬¯°¦ª ±ª©¢ž® ±¦¶ž² ®½¦þ, ¶²¡º µ°ª²¿ ¥¯°º ±²ª."
+ diggy_encounter.432.a:0 "²-°ª¡³¦¿ ²®¾?"
+
+ diggy_encounter.433.t:0 "Ù³®ª¢ Œ°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.433.d:0 "[EncounterOverlay]       €º® ¡º ¦°ª ¡©³¯ª½ ²®¬°³²¿¾  ¡°¦þ ²¬¥ ©¯,  ¼² ©°¶ª², ¶² ²¿ ²®¿¬ ¦° Œ°ª: ³¡²¿¾  ª ±³²ª. Ô®¦²º ª ª®¦¢²®ª ¡º² ¦²¶ª¢½²¾ ± ¬³¨½¸ª¯ ¸®ª°¯, ¬¥¦ ±ª¡®ª¨²¾ ª²¯ª¶°¾ ±²³±¿ ¡ª¦ª°¢º ¦¢´¢. Ï ©²ª¢½² ¦º°ª, ±¾¶³²¾ © ¬¯°¾¯ª, ¬¥¦  ¬ °Œ¯³ ¶²¿½ ²¾¦ ±¦ª² ¯ª¯, ° ¥®¾¦º¢¾¿ ± ²°¯. ¬ ²®¿¬ ±°²¿ ²®¿ ±©¦ª, ¯º °¢ ¢ºŒ®ª ª© ±¸, ¦³¾¿, ¶² Œª®ª ±¾²²¿¾."
+ diggy_encounter.433.a:0 "Ï©¢¸¯¾ ° ±¨°ªþ ±³²¿"
+
+ diggy_encounter.434.t:0 "Ù³º °ª¬¥¦ ° ±³±¢½²!\n[EncounterOverlayBackground]"
+ diggy_encounter.434.d:0 "[EncounterOverlay]       ¯²¾ ° ²¶¾°°º ±±º²¬ª ±¾²²¿¾, ¡ª¦ª°¢º ¥°¯º ±¶®ª ¬²°²ª ª ¡º² °Œ®ª °, ²¢ª¢ ¦ª°²¢°°ºþ ¢º¡ — ¨²¿¾, ° ±¬®¿¬³ °Œª ¢þ¬ ²±¿ ±¢½¦³, ¥°ª©¢²¿ ¬¦ª°ª¢°°ºþ ²¢² ¡³¦² ±¬²ª¶¬ª °¢©¯¨°..."
+ diggy_encounter.434.a:0 "‰ª¥²¢ª²¿ ³¨ª!"
  
- diggy_encounter.435.t:0 "Rejoining the Main Force\n[EncounterOverlayBackground]"
- diggy_encounter.435.d:0 "[EncounterOverlay]After short and brisk negotiations the warband decided to accept our offer to join the main force again. They had been fruitlessly searching for a runestone from before the fall of Aul-Dwarov, but they couldn’t find anything. With their spirits already low they were happy to have finished their task and gladly return to our shared brethren."
- diggy_encounter.435.a:0 "Why would they have ever refused?"
+ diggy_encounter.435.t:0 "‰ª¦ª°ª²¿¾ ¬ °¢°º¯ ª®¯\n[EncounterOverlayBackground]"
+ diggy_encounter.435.d:0 "[EncounterOverlay]       ‰® ¬²¬ª ª ¨ª¢®ž°°º ±¥¢¢ ²¾¦ Œª® ±ª°¾²¿ °Œ ±¦®¨°ª °¢ ±ª¦ª°ª²¿¾ ¬ °¢°º¯ ª®¯. °ª ¡©³±Œ° ª¬®ª ³°°ºþ ¬¯°¿, °ª¢Œªþ¾ ¦ ±¦°ª¾ ³®-ƒ¢¢, ° ²¬ °ª¶¥ ª ° ¯¥®ª °þ²ª. ¯²¾ ° ², ¶² ª °²°ª ª ¡© ²¥ ¡º® ±¦¢®°°º¯, °ª ¡º®ª ¶²®ª¢º, ¶² ¢º±®°ª®ª ¢½ ©¦¶³ ª  ¦²¿½ ¢©¢¸½²¾ ¬ °Œª¯ ¡²¿¾¯."
+ diggy_encounter.435.a:0 "Ô ¶¥ ¡º ª¯ ¢¡¸ ²¬©º¢²¿¾?"
 
- diggy_encounter.436.t:0 "A Refusal!?\n[EncounterOverlayBackground]"
- diggy_encounter.436.d:0 "[EncounterOverlay]Negotiations were short and fruitless. The commanding officer quickly declined to rejoin the main force. “We are here not out of leisure, but out of necessity,” he told the expedition leader. “We search for ancient runestones, a task which is none of your concern.” Being so rudely brushed aside the expedition leader raised his voice about the futility of such a project, the dwarves of yore would have destroyed all of the obsidian runestones after the banishment. The negotiations then turned into a vivid argument, with both the expedition leader and commandant storming off to their own force."
- diggy_encounter.436.a:0 "To hell and back with those fools"
+ diggy_encounter.436.t:0 "²¬©!?\n[EncounterOverlayBackground]"
+ diggy_encounter.436.d:0 "[EncounterOverlay]       ‰¥¢º ¡º®ª ¬²¬ª¯ª ª ¡©©³®¿²²°º¯ª. ¯°¦ª ¡º² ²¬©®¾ ±ª¦ª°ª²¿¾ ¬ °¢°º¯ ª®¯. «º ©¦¿ ° ¦ª ©¢®¶°ªþ,  ± ¦®³, — ¬©® ° ³¬¢¦ª²®½ ¼¬±¦ªµªª. — º ª¸¯ ¦¢°ª ³°ª¶¬ª ¬¯°ª, ©¦¶, ¬²¾ ¢ ° ¬²¾». †©-© ¥³¡¥ ²¬©, ³¬¢¦ª²®¿ ¼¬±¦ªµªª ±¢ºª® ¥® ¢ ¡ª®ªª, ¶² ¦¢´º ¡º®º ¢¯ž° ³°ª¶²¨ª®ª ¡º ¢ ¡ª¦ª°¢º ³°ª¶¬ª ¬¯°ª ±® ª©¥°°ª¾. …²¯ ±¥¢º ±®ª ¢ ¨ª¢®ž°°ºþ ±, ª ³¬¢¦ª²®¿ ¼¬±¦ªµªª, ª ¬¯°¦°² ¡ª®ª¿ ¬ ¢ª¯ ¢þ¬¯."
+ diggy_encounter.436.a:0 "Ï ¦ ª ¡²°  ¼²ª¯ª ¦³¬¯ª"
 
- diggy_encounter.440.t:0 "Fungal Bloom\n[EncounterOverlayBackground]"
- diggy_encounter.440.d:0 "[EncounterOverlay]The faint trickle of water echoes through the caves, its soft reverberations caught by a gigantic fungal bloom, yellow and violet mould that has overgrown the caverns around us. The fungus glows faintly, a strangely soothing display of iridescence. As our first scouts enter the hall the fungus shudders, sending waves through the mycelial crops. Soft, faint spores drifted away from the fungus and into the surrounding air. The scouts quickly stepped back out of fear the fungus might be deadly. But as they made their retreat the bloom released more and more spores, triggering some kind of chain reaction that quickly started filling the entire cavern with the yellow glowing particles. As if that was not enough, some fungi started exuding a sickly green gas that mingled with the spores."
- diggy_encounter.440.a:0 "We can’t risk it. Leave at once!"
- diggy_encounter.440.b:0 "Wait, maybe these spores aren’t so bad "
- diggy_encounter.440.c:0 "We're not cavemen! We can make masks"
+ diggy_encounter.440.t:0 "‚ª¡¬¢ µ¢²°ª\n[EncounterOverlayBackground]"
+ diggy_encounter.440.d:0 "[EncounterOverlay]       Ô®¡ºþ ±²¬ ¢¦º ¼¯ ©°ª²¾ ± ±¸¯, ž ¯¾¥¬ª ²©¢³¬ª ³®¢®ª¢½²¾ ¥ª¥°²¬ª¯ ¥ª¡¬¢º¯ °®ž²¯, ¨ž®²þ ª ´ª®²¢þ ±®°¿½, ¬²þ ©®ª ±¸º ¢¬³¥. ‚ª¡ ®¡ ¢²ª²¾, ©¦¢¾ ²°° ³±¬ª¢½¸ª ±®ª¢º. ¥¦ °Œª ±¢º ©¢¦¶ª¬ª ¢¦¾² ¢ ©®, ¥ª¡ ¢©¦¥ª¢², ±º®¾ ¢®°º ± ¯ªµ®ª¾¯. ¾¥¬ª, ¦¢ ©®ª¶ª¯º ±º ²¦®¾®ª¿ ² ¥ª¡ ª ±±¦®ª ¢ ¢©¦³. Ð©¢¦¶ª¬ª ¡º² ²²³±ª®ª, ±¾¿, ¶² ¥ª¡ ¯¨² ¬©²¿¾ ¯²®¿°º¯.  ± ¯ ²¥, ¬¬ °ª ²²³±®ª, µ¢²¬ ¢º±³¬® ¢ ¡®¿Œ ª ¡®¿Œ ±, ¢º©º¢¾ ¢¥ ¦ µ±°³½ ¬µª½, ¬²¾ ¡º² °¶® ©±®°¾²¿ ¢½ ±¸³ ¨ž®²º¯ª ¢²¾¸ª¯ª¾ ¶²ªµ¯ª. ¬ ¡³¦² ¼²¥ ¡º® °¦²²¶°, °¬²º ¥ª¡º °¶®ª ¢º¦®¾²¿ ¡®©°°°-©®ž°ºþ ¥©, ¬²ºþ ¯Œª¢®¾  ±¯ª."
+ diggy_encounter.440.a:0 "º ° ¯¨¯ ª¬¢²¿. ‹¦ª¯ °¯¦®°°!"
+ diggy_encounter.440.b:0 "‰¦¨¦ª², ¯¨² ¡º²¿, ¼²ª ±º ° ²¬ ³¨ ª ±®ª"
+ diggy_encounter.440.c:0 "º ° ±¸°º ®½¦ª! º ¯¨¯ ¯²ª²¿ ¯¬ª"
 
- diggy_encounter.441.t:0 "A Close Encounter\n[EncounterOverlayBackground]"
- diggy_encounter.441.d:0 "[EncounterOverlay]The expedition quickly made its way through the chamber, still trying to avoid areas with more gas and spores. As they made their way through the hallway more and more fungi released their gas, the eruption triggered by the soldier’s footsteps. Some unlucky ones who had inhaled the gas succumbed to a strange wheezing cough as well as becoming strangely tired. Soon the strange cave was behind them, though, and those who had started coughing recovered in time."
- diggy_encounter.441.a:0 "Good thing we didn’t dwell there"
+ diggy_encounter.441.t:0 "€®ª©¬¾ ¢²¶\n[EncounterOverlayBackground]"
+ diggy_encounter.441.d:0 "[EncounterOverlay]       ™¬±¦ªµª¾ ¡º² ±Œ® ¶© ±¦º, ¢ ¸ ²¾¿ ª©¡¥²¿ ¡®²þ  ¡®¿Œª¯ ¬°µ°²µªþ ¥© ª ±. ‰ ¯ ²¥ ¬¬ °ª ±¡ª®ª¿ ± ¬ª¦³, ¢ ¡®¿Œ ª ¡®¿Œ ¥ª¡¢ ¢º¦®¾®ª ¥©, ¢º¦®°ª ¡º® ¢º©¢° Œ¥¯ª ®¦². ¬²º °³¦¶°ª¬ª, °¦ºŒ¢Œª¿ ¥©, ²¦®ª ² ²°°¥ ¢ª²¾¸¥ ¬Œ®¾,  ²¬¨ ² ²°°þ ³²®²ª. ¦°¬ ¢¬ ²°°¾ ±¸ ²®¿ ±©¦ª, ª ², ¬² °¶® ¬Œ®¾²¿, ¢¢¯¾ ±ªŒ®ª ¢ ¡¾."
+ diggy_encounter.441.a:0 "ÛŒ, ¶² ¯º ²¯ ° ¨ª®ª"
 
- diggy_encounter.442.t:0 "Engulfed by Gas\n[EncounterOverlayBackground]"
- diggy_encounter.442.d:0 "[EncounterOverlay]With every step more and more gas was released into the cave, filling the air with a green haze illuminated by torches and the luminous spores. Quickly people started coughing and falling over, some right into the mould triggering a gust of gas to be expelled to the point where the body couldn’t even be seen anymore. Then, engulfed in this green fog, strange sounds filled the cavern, an echoing rumbling that made many run straight to an exit."
- diggy_encounter.442.a:0 "We have to keep moving"
+ diggy_encounter.442.t:0 "¢¶° ¥©¯\n[EncounterOverlayBackground]"
+ diggy_encounter.442.d:0 "[EncounterOverlay]       Ô ¬¨¦º¯ Œ¥¯ ± ±¸ ¢º¦®¾®¿ ¢ ¡®¿Œ ª ¡®¿Œ ¥©, °±®°¾¾ ¢©¦³ ©®ž°þ ¦º¯¬þ, ±¦¢¶°°þ ´¬®¯ª ª ¢²¾¸ª¯ª¾ ±¯ª. ˆ½¦ª ¡º² °¶®ª ¬Œ®¾²¿ ª ±¦²¿, °¬²º ±¾¯ ¢ ±®°¿, ¢º©¢¢ ¢º¡ ¥© ¦ ²¬þ ²±°ª, ¶² ²® ¡®¿Œ °®¿©¾ ¡º® ¦¨ ©¥®¾¦²¿. …²¯, ¬³²°°º ¼²ª¯ ©®ž°º¯ ²³¯°¯, ±¸³ °±®°ª®ª ²°°º ©¢³¬ª, ¥³®¬ ¼, ©²¢ª¢Œ ¯°¥ª ±¡¨²¿ ±¾¯ ¬ ¢º¦³."
+ diggy_encounter.442.a:0 "º ¦®¨°º ±¦¢ª¥²¿¾"
 
- diggy_encounter.443.t:0 "Involuntary Sleep\n[EncounterOverlayBackground]"
- diggy_encounter.443.d:0 "[EncounterOverlay]Despite initial protests the expedition leader decided to wait out the gas, but soon something strange stirred unrest. Slowly people started coughing and then falling over, lying prone on the ground. A cleric immediately went up to them and tested for their pulse. With closed eyes he counted the beat but then got startled by a loud snore emanating from the fallen soldiers. This was grounds for much confusion. What are these spores and gas? And most importantly: Will they ever wake up?"
- diggy_encounter.443.a:0 "Only time will tell"
+ diggy_encounter.443.t:0 "¢®¿°ºþ °\n[EncounterOverlayBackground]"
+ diggy_encounter.443.d:0 "[EncounterOverlay]       ¯²¾ ° ±¢°¶®¿°º ±²²º, ³¬¢¦ª²®¿ ¼¬±¦ªµªª Œª® ±¨¦²¿ ¥©, ° ¢¬ ¶²-² ²°° ¢º©¢® ¢®°°ª¾. ‰²±°° ®½¦ª °¶®ª ¬Œ®¾²¿,  ©²¯ ±¦²¿ °ª¶¬¯ ° ©¯®½.  °ª¯ °¯¦®°° ±¦Œž® ¢¾¸°°®³¨ª²®¿ ª ±¸³±® ±³®¿. Ô ©¬º²º¯ª ¥®©¯ª ° ²¶ª²® ²¬², ° ©²¯ ¢©¦¥°³® ² ¥¯¬¥ ±, ª¦ª¢Œ¥ ² ±¢Œª ®¦². ™² ±®³¨ª® ±¢¦¯ ¦®¾ ¡®¿Œþ ±³²°ªµº. Ì² ¼² © ±º ª ¥©? † ¯ ¥®¢°: ±°³²¾ ®ª °ª ¬¥¦-°ª¡³¦¿?"
+ diggy_encounter.443.a:0 "Ù®¿¬ ¢¯¾ ±¬¨²"
 
- diggy_encounter.444.t:0 "A Long Rest\n[EncounterOverlayBackground]"
- diggy_encounter.444.d:0 "[EncounterOverlay]The fungi let out an insane amount of gas to the point it has become ridiculous. The first theories about how the fungi are maybe just cork stoppers for a large reservoir of gas below have taken hold. Soon, however, the first soldiers started to fall over, sparking some unrest. As ever more fell to the ground the medics did not know what to do, where to focus their attention when, almost unisono in a grand chorus, all started to snore. It was a cacophony of diverging cadences, a noise so encompassing that the echo itself seemed to shudder, multiplying the sound over and over again until it sounded like an earthquake rolling through the cavern."
- diggy_encounter.444.a:0 "How can they sleep through that noise?"
+ diggy_encounter.444.t:0 "ƒ®¥ªþ ²¦º\n[EncounterOverlayBackground]"
+ diggy_encounter.444.d:0 "[EncounterOverlay]       ‚ª¡º ¢º¦®¾½² ¥¯° ¬®ª¶²¢ ¥© ¦ ²¬þ ²±°ª, ¶² °³©°. ‰¾¢ª®ª¿ ±¢º ²ªª  ²¯, ¶² ¥ª¡º, ¢©¯¨°, ¾¢®¾½²¾ ±² ©¥®³Œ¬ª ª© ±¡¬ª ¦®¾ ¡®¿Œ¥ ©¢³ ¥© ¢°ª©³. ¦°¬ ¢¬ ±¢º ®¦²º °¶®ª ±¦²¿, ¢º©¢¢ ¡±¾¦¬ª. ‰ ¯ ²¥ ¬¬ ¢ ¡®¿Œ ®½¦þ ±¦® ° ©¯®½, ¯¦ª¬ª ° ©°®ª, ¶² ¦®²¿, ° ¶¯ ¦²¶ª²¿ ¢°ª¯°ª, ¬¥¦ ±¶²ª ¦°¢¯°°, ¥¯¬ª¯ ¯, ¢ °¶®ª ±²¿. ™² ¡º® ¬¬´°ª¾ ¦¾¸ª¾ ª²¯¢, Œ³¯ °²®¿¬ ¢¡¹¯®½¸ªþ, ¶² ¯ ¼, ¬©®¿, ¦¥®¿, ³¯°¨¾ ©¢³¬ °¢ ª °¢, ±¬ ° ° ²® ±¨ ° ©¯®²¾°ª, ±¬²º¢½¸¾ ± ±¸."
+ diggy_encounter.444.a:0 "¬ °ª ¯¥³² ±²¿ ±ª ²¬¯ Œ³¯?"
 
- diggy_encounter.445.t:0 "Functional Masks\n[EncounterOverlayBackground]"
- diggy_encounter.445.d:0 "[EncounterOverlay]With some cloth, strings, and water we have managed to create makeshift masks to cover our mouths and noses so that we can safely traverse the cave. Indeed, this plan seems to have worked since no one complained about smell, unease or anything similar. What a great success in medical and material sciences!"
- diggy_encounter.445.a:0 "Onwards!"
+ diggy_encounter.445.t:0 "Ð¡²½¸ª ¯¬ª\n[EncounterOverlayBackground]"
+ diggy_encounter.445.d:0 "[EncounterOverlay]       Ô ±¯¸¿½ ²¬°ª, ¢ž¢¬ ª ¢¦º °¯ ³¦®¿ ©¦²¿ ¯¦®¿°º ¯¬ª, ©¬º¢½¸ª ²º ª °º, ¶²¡º ¯º ¯¥®ª ¡©±° ±¦¢ª¥²¿¾ ± ±¸. ƒþ²¢ª²®¿°, ¼²² ±®°, ±¨, ¡²®, ±¬®¿¬³ °ª¬² ° ¨®¢®¾ ° ©±, ¡±¬þ²¢ ª®ª ¶²-®ª¡ ±¦¡°. ¬þ ¥¯°ºþ ³± ¢ ¯¦ªµª° ª ¯²ª®¢¦°ªª!"
+ diggy_encounter.445.a:0 "Ï±ž¦!"
 
- diggy_encounter.446.t:0 "The Masks Fail\n[EncounterOverlayBackground]"
- diggy_encounter.446.d:0 "[EncounterOverlay]Despite our masks made of cloth and string the gas managed to seep into our noses, making some soldiers fall over. While the medics were first alerted upon this, soon the fallen started snoring, indicating that this gas was some kind of soporific. Still, the supplies making the useless masks were spent…"
- diggy_encounter.446.a:0 "What a waste"
+ diggy_encounter.446.t:0 "¬ª ° ¡²½²\n[EncounterOverlayBackground]"
+ diggy_encounter.446.d:0 "[EncounterOverlay]       ¯²¾ ° ¯¬ª, ¦®°°º ª© ²¬°ª ª ¡¶ž¢¬ª, ¥© ³¯³¦ª®¾ ±¶ª²¿¾ ¢ °, ©²¢ª¢ °¬®¿¬ª ®¦² ³±²¿. Û²¾ ¯¦ª¬ª ¡º®ª ±¦³±¨¦°º ¡ ¼²¯, ¢¬ ³±¢Œªþ °¶® ±²¿, ¶² ³¬©º¢® ° ², ¶² ¼²² ¥© ¡º® ¢¥ ¦ °²¢°º¯. Ù¯ ° ¯°, ¦°º ¯²ª®º ¦®¾ ª©¥²¢®°ª¾ ¡±®©°º ¯¬ ¡º®ª ª©¦¢°º..."
+ diggy_encounter.446.a:0 "‰³²¾ ²² ¢¯°ª"
 
- diggy_encounter.450.t:0 "Rainbow Clouds\n[EncounterOverlayBackground]"
- diggy_encounter.450.d:0 "[EncounterOverlay]Lying heavy on the ground like a fog the trench in front of us is filled with a brightly coloured gas, violet and green, blue and yellow, a rainbow of opaque mists. Not trusting the serene colours, one of our scouts throws a stone into the clouds. As soon as the stone hit the rock below the gas detonated in a huge explosion of similarly many colours."
- diggy_encounter.450.a:0 "This bodes ill"
+ diggy_encounter.450.t:0 "Ð¦³¨°º ¡®¬\n[EncounterOverlayBackground]"
+ diggy_encounter.450.d:0 "[EncounterOverlay]       Ù¾¨® ²®½¸¾¾ ± ©¯®, ¬¬ ²³¯°, ²°Œ¾ ±¦ °¯ª ©±®°° ¾¬ ¬Œ°°º¯ ¥©¯, ´ª®²¢º¯ ª ©®ž°º¯, ª°ª¯ ª ¨ž®²º¯, ¦³¥þ °±©¶°º ²³¯°¢.  ¦¢¾¾ ¡©¯¾²¨°º¯ µ¢²¯, ¦ª° ª© °Œª ©¢¦¶ª¬¢ ¡² ¬¯°¿ ¢ ¡®¬. ¬ ²®¿¬ ¬¯°¿ ³¦ª®¾  ¬®³ ¢°ª©³, ¥© ¢©¢®¾ ¥¯°º¯ ¢©º¢¯ ²¬¥ ¨ ¯°¨²¢ µ¢²¢"
+ diggy_encounter.450.a:0 "™² ° ³®ª² °ª¶¥ Œ¥"
 
- diggy_encounter.451.t:0 "An Explosion or Two\n[EncounterOverlayBackground]"
- diggy_encounter.451.d:0 "[EncounterOverlay]Threading along between the many bubbles of gas the expedition tried their best not to enter any of the bubbles while there were many audible explosions further away in the trench. There was a chain reaction brewing somewhere in the dark, only illuminated by the sudden bright light of combusting gas. Some people started to lose their way, cut off by the gas. When they finally reached the other side, they could see how a rolling torrent of explosions made its way through the trench and across, leaving nothing in its wake."
- diggy_encounter.451.a:0 "How many explosions was that?"
+ diggy_encounter.451.t:0 "¦ª° ª®ª ¦¢ ¢©º¢\n[EncounterOverlayBackground]"
+ diggy_encounter.451.d:0 "[EncounterOverlay]       ‰¡ª¾¿ ¯¨¦³ ¯°¨²¢¯ ±³©º¿¬¢ ¥©, ¼¬±¦ªµª¾ ª© ¢ ª® ²®¿ ° ±±²¿ °ª ¢ ¦ª° ª© ±³©º¿¬¢, ¢ ² ¢¯¾ ¬¬ ¦®¿Œ ¢ ²°Œ ¡º® ®ºŒ° ¯°¥ ¢©º¢¢. ‚¦-² ¢ ²¯°² °©¢® µ±°¾ ¬µª¾, ¢¸¯¾ ¢°©±°º¯ ¾¬ª¯ ¢²¯ ¥¾¸¥ ¥©. ¬²º ®½¦ª °¶®ª ¡ª¢²¿¾  ±³²ª, ²©°°º ¥©¯. ¥¦ °ª, °¬°µ, ¦¡®ª¿ ¦ ¦³¥þ ²°º, ² ¯¥®ª ³¢ª¦²¿, ¬¬ ¬²¾¸ªþ¾ ±²¬ ¢©º¢¢ ±¡ª¢²¾ ¶© ²°Œ½ ª ±¬² ž, °ª¶¥ ° ²¢®¾¾ ±©¦ª ¡¾."
+ diggy_encounter.451.a:0 "Ô¬®¿¬ ¡º® ¢©º¢¢?"
 
- diggy_encounter.452.t:0 "That's a Lot of Damage\n[EncounterOverlayBackground]"
- diggy_encounter.452.d:0 "[EncounterOverlay]It took the expedition tremendous focus to navigate the trench, resulting in heavy losses from lost members, somewhere within the untraceable trench. As more gas slowly filled the caves a faint roaring of continuous explosions could be heard far away, announcing a terrible chain reaction that made its way towards the expedition. Fuelled by fear and desperation many more lost their way, never making it to the other side as the explosions rolled in, disintegrating anyone who was still amidst the gas."
- diggy_encounter.452.a:0 "Only so few left?"
+ diggy_encounter.452.t:0 "¥¯°ºþ ³°\n[EncounterOverlayBackground]"
+ diggy_encounter.452.d:0 "[EncounterOverlay       ]™¬±¦ªµªª ±²¡¢®¿ ¥¯°¾ ¬°µ°²µª¾ ³ª®ªþ, ¶²¡º ±þ²ª ± ²°Œ, ¶² ±ª¢® ¬ ¡®¿Œª¯ ±²¾¯ ¢ ¢ª¦ ±¥ª¡Œª ¶®°¢, ¬©¢Œª¾ ¥¦-² ¢ ±¦® ° ±®¨ª¢¯þ ²°Œª. ‰ ¯ ²¥ ¬¬ ¥© ¯¦®°° ©±®°¾® ±¸º, ¢¦®¬ ®ºŒ®¾ ®¡ºþ ¥³® °±º¢°º ¢©º¢¢, ¢©¢¸¢Œª  ²Œ°þ µ±°þ ¬µªª, °³¸þ¾ °¢²¶³ ¼¬±¦ªµªª. ‰¦¥°¾¯º ²¯ ª ²¶¾°ª¯, ¯°¥ª ¡ª®ª¿  ±³²ª, ²¬ ª ° ¦¡¢Œª¿ ¦ ¦³¥þ ²°º, ±¬®¿¬³ ¢©º¢º ¦¬²ª®ª¿ ¦ °ª, ³°ª¶²¨ª¢ ¢, ¬² ¸ž ²¢®¾ ¦ª ¥©."
+ diggy_encounter.452.a:0 "²®¿ ²¬ ¯®?"
 
- diggy_encounter.460.t:0 "Cobwebs?\n[EncounterOverlayBackground]"
- diggy_encounter.460.d:0 "[EncounterOverlay]In the tunnel ahead, a particularly bendy and tight passage through the underrock our soldiers came upon what at first seemed to be cobwebs. Thin white strands laced the walls and blocked the path forward. Upon some initial inspection the material turned out to be extremely easy to break. This made many reluctant to just walk through, waiting for the expedition leader’s assessment of the situation."
- diggy_encounter.460.a:0 "Let’s get some mages on this"
- diggy_encounter.460.b:0 "Sweep it away!"
+ diggy_encounter.460.t:0 "‰³²ª°?\n[EncounterOverlayBackground]"
+ diggy_encounter.460.d:0 "[EncounterOverlay]       Ï ²³°°® ¢±¦ª, ¡°° ª©¢ª®ª²¯ ª ³©¬¯ ±¦ ±¦ ¬®þ, °Œª ®¦²º °²¬°³®ª¿ ° ², ¶² °¶® ±¬©®¿ ±³²ª°þ. Ù°¬ª ¡®º °ª²ª ±®²®ª ²°º ª ±¥¨¦®ª ±³²¿ ¢±ž¦. ‰ª ±¢°¶®¿°¯ ¯² ¬©®¿, ¶² ¯²ª® ¶©¢º¶þ° ®¥¬ ®¯²¾. ™² ©²¢ª® ¯°¥ª °²° ±þ²ª ¯ª¯, ¨ª¦¾ µ°¬ª ª²³µªª ³¬¢¦ª²®¯ ¼¬±¦ªµªª."
+ diggy_encounter.460.a:0 "ƒ¢þ² ±¦¬®½¶ª¯ ¬ ¼²¯³ °¬®¿¬ ¯¥¢"
+ diggy_encounter.460.b:0 "‹°ª¶²¨¿²!"
 
- diggy_encounter.461.t:0 "Fire Resistant\n[EncounterOverlayBackground]"
- diggy_encounter.461.d:0 "[EncounterOverlay]The mages take a small sample of the cobwebs, putting them through some tests. After 15 minutes they came back with their results: The crystalline structure is fragile and brittle, but fire resistant. Its chemical composition is akin to other silicates, dominated by magnesium and oxygen. With those tests made, they consulted their books and came to the terrific conclusion that this material must be the phyllosilicate chrysotile, a mineral of the serpentine subgroup, better known as Asbestos. Walking through it would have had disastrous consequences for our soldiers that could disable them until the end of their life."
- diggy_encounter.461.a:0 "We'd have to pay compensation for years to come"
+ diggy_encounter.461.t:0 "¥°²þ¬¾\n[EncounterOverlayBackground]"
+ diggy_encounter.461.d:0 "[EncounterOverlay]       ¥ª ¡³² °¡®¿Œþ ¡©µ ±³²ª°º, ±¦¢¥¾ ª °¬²º¯ ²²¯. Ì© 15 ¯ª°³² °ª ¢°³®ª¿  ¢ª¯ª ©³®¿²²¯ª: ª²®®ª¶¬¾ ²³¬²³ ³±¬¾, ° ¥°³±°¾. ¥ ª¯ª¶¬ªþ ²¢ ¨  ¦³¥ª¯ª ª®ª¬²¯ª, ¢ ¬²¯ ±¡®¦½² ¯¥°ªþ ª ¬ª®¦. ‰¢¦¾ ¼²ª ²²º, °ª ¢ª®ª¿  ¬°ª¥¯ª ª ±ªŒ®ª ¬ ±²¾½¸¯³ ¢º¢¦³, ¶² ¼²ª¯ ¯²ª®¯ ¦®¨° ¡º²¿ ´ª®®ª®ª¬²°ºþ ª©²ª®, ¯ª°® ±¦¥³±±º ©¯¢ª¬¢, ¡® ª©¢²°ºþ ¬¬ ¡². ‰¨¦°ª ¶© ¼² ª¯® ¡º ¬²²´ª¶¬ª ±®¦²¢ª¾ ¦®¾ °Œª ®¦², ¬²º ¯¥®ª ¡º ¢º¡ª²¿ ª ª© ²¾ °¦®¥"
+ diggy_encounter.461.a:0 "¯ ±ªŒ®¿ ¡º ¢º±®¶ª¢²¿ ¬¯±°µª½ ¢ ²¶°ª ¯°¥ª ®²"
 
- diggy_encounter.462.t:0 "Unknown Material\n[EncounterOverlayBackground]"
- diggy_encounter.462.d:0 "[EncounterOverlay]After the mages were done with their study they reported their findings to the expedition leader. They concluded that the material exhibited some magical properties and given its marvellous fire resistance most of them were quickly agreeing with that assessment. The end of the report, however, said that they didn’t actually know what kind of material it is, just that it is magical and most likely harmless…"
- diggy_encounter.462.a:0 "The let’s continue finally"
+ diggy_encounter.462.t:0 "ª©¢²°ºþ ¯²ª®\n[EncounterOverlayBackground]"
+ diggy_encounter.462.d:0 "[EncounterOverlay]       ‰® ²¥, ¬¬ ¯¥ª ©¬°¶ª®ª ¢ž ª®¦¢°ª, °ª ¡¸ª®ª  °¦¬ ³¬¢¦ª²®½ ¼¬±¦ªµªª. °ª ±ªŒ®ª ¬ ¢º¢¦³, ¶² ¯²ª® ¡®¦² ¬¬ª¯ª-² ¯¥ª¶¬ª¯ª ¢þ²¢¯ª, ª, ³¶ª²º¢¾ ¥ ³¦ª¢ª²®¿°³½ ¥°²þ¬²¿, ¡®¿Œª°²¢ ª© °ª ¡º² ¥®ª®ª¿  ¼²þ µ°¬þ. ¦°¬ ¢ ¬°µ ²¶ž² ¥¢ª®¿, ¶² ° ¯¯ ¦® °ª ° ©°®ª, ¶² ¼² © ¯²ª®, ²®¿¬ ², ¶² ° ¢®Œ¡°ºþ ª, ¬ ¢¥, ¡©¢¦°ºþ..."
+ diggy_encounter.462.a:0 "ƒ¢þ², °¬°µ, ±¦®¨ª¯"
 
- diggy_encounter.463.t:0 "The Dry Cough\n[EncounterOverlayBackground]"
- diggy_encounter.463.d:0 "[EncounterOverlay]When the first soldiers started coughing no one suspected anything. Then, later, more and more soldiers were packed by fits of dry coughing and shortness of breath. The expedition had to take breaks more and more often. Some started complaining about how hard the recent days were, some had trouble swallowing. After a week of symptoms here and there the expedition leader called a meeting to discuss what to do. Since most people were still healthy and those that were coughing slowed the expedition down significantly it was decided to send the sick back home where they could receive a proper diagnosis and care."
- diggy_encounter.463.a:0 "Surely it won't worsen"
+ diggy_encounter.463.t:0 "Ô³þ ¬Œ®¿\n[EncounterOverlayBackground]"
+ diggy_encounter.463.d:0 "[EncounterOverlay]       ¥¦ ±¢º ®¦²º °¶®ª ¬Œ®¾²¿, °ª¬² °ª¶¥ ° ©±¦©ª®. …²¯, ¢ ¡®¿Œ ª ¡®¿Œ ®¦² ©¬Œ®ª¢®ª¿. ™¬±¦ªµªª ±ª¦ª®¿ ¢ ¶¸ ª ¶¸ ¦®²¿ ±º¢º. ¬²º °¶®ª ¨®¢²¿¾ ° ², ¬¬ª¯ª ²¾¨ž®º¯ª ¡º®ª ±®¦°ª ¦°ª, ³ °¬²º ¢©°ª¬®ª ±¡®¯º  ¥®²°ª¯. ‰® °¦®ª ±¾¢®°ª¾ ª¯±²¯¢ ² ²³², ² ²¯ ³¬¢¦ª²®¿ ¼¬±¦ªµªª ©¢® ¢¸°ª, ¶²¡º ¡³¦ª²¿, ¶² ¦®²¿. ‰¬®¿¬³ ¡®¿Œª°²¢ ®½¦þ ¢ ¸ž ¡º®ª ©¦¢º,  ², ¬² ¬Œ®¾®, ©°¶ª²®¿° ©¯¦®ª®ª ¦ ¼¬±¦ªµªª, ¡º® Œ° ²±¢ª²¿ ¡®¿°º ¦¯þ, ¥¦ °ª ¯¥®ª ¡º ±®³¶ª²¿ °¦®¨¸ ¡®¦¢°ª ª ³¦."
+ diggy_encounter.463.a:0 "°¶°, ³¨ ° ¡³¦²"
 
- diggy_encounter.464.t:0 "The Relentless Grind\n[EncounterOverlayBackground]"
- diggy_encounter.464.d:0 "[EncounterOverlay]Three days later everyone was coughing all of a sudden. Awful and disgusting coughs, trouble swallowing and hideous swelling on hands and arms. Exhaustion plagued the expedition, slowing it down tremendously. From one day to the other the entire party slowed to a grinding halt. Field medics and clerics were working full time to tend to the sick while still trying to figure out what had happened. After the first people died from what seemed to be asphyxiation the surgeon general decided enough was enough. If they don’t know what was going on then there could also be no help: Cut them open.\n\nThis proved to be a very controversial decision, but most acknowledged it had to be done. The medics disappeared into a tent with some corpses and began their work. Soon they had discovered what the problem was. The presumed cause of death was indeed asphyxiation, but it was induced by significant scarring of lung tissue through stiff white fibres lodged within."
- diggy_encounter.464.a:0 "Maybe those weren't cobwebs"
+ diggy_encounter.464.t:0 "€©¨®²°¾ ¡¿¡\n[EncounterOverlayBackground]"
+ diggy_encounter.464.d:0 "[EncounterOverlay]       Ùª ¦°¾ ±³²¾ ¢ ¢°©±° °¶®ª ¬Œ®¾²¿. ‹¨°ºþ ª ²¢²ª²®¿°ºþ ¬Œ®¿, ±¡®¯º  ¥®²°ª¯ ª ²¢²ª²®¿°º ²ž¬ª ° ¬ª²¾ ³¬. ‹²®²¿ ±®¦¢® ¼¬±¦ªµª½, ©°¶ª²®¿° ©¯¦®¾¾ ž ¦. †© ¦°¾ ¢ ¦°¿ ¢¾ ¢¶ª°¬ ©¯¦®¾®¿ ¦ ±®°þ ²°¢¬ª. ‰®¢º ¯¦ª¬ª ª ¢¾¸°°®³¨ª²®ª ¡²®ª ±®°ºþ ¦°¿, ³¨ª¢¾ © ¡®¿°º¯ª, ¢ ¸ž ±º²¾¿ ¢º¾°ª²¿, ¶² ±ª©Œ®. ‰® ²¥, ¬¬ ±¢º ®½¦ª ³¯®ª ² ³¦³Œ¿¾, ¥®¢°ºþ ª³¥ Œª®, ¶²  °ª ¢²ª². ®ª °ª ° ©°½², ¶² ±ª¦ª², ²¥¦ ²¨ °ª¶¯ °®¿©¾ ±¯¶¿: ¢¬º¢þ².\n\n™² ¬©®¿ ¶°¿ ±°º¯ Œ°ª¯, ° ¡®¿Œª°²¢ ±ª©°®, ¶² °¡¦ª¯ ¡º® ²¬ ¦®²¿. ¦ª¬ª ¬º®ª¿ ¢ ±®²¬  °¬®¿¬ª¯ª ²³±¯ª ª ±ª²³±ª®ª ¬ ¡². Ï¬ ¢º¾°ª®¿, ¢ ¶¯ ±¡®¯. ‰¦±®¥¯þ ±ª¶ª°þ ¯²ª ¦þ²¢ª²®¿° ¡º® ´ª¬ª¾, ° ° ¡º® ¢º©¢° ©°¶ª²®¿°º¯ ³¡µ¢°ª¯ ®ž¥¶°þ ²¬°ª ª©-© ©²¾¢Œª ¢°³²ª ¨²¬ª ¡®º ¢®¬°."
+ diggy_encounter.464.a:0 "Ï©¯¨°, ¼² ¡º® ° ±³²ª°"
 
- diggy_encounter.470.t:0 "Bug..bears?\n[EncounterOverlayBackground]"
- diggy_encounter.470.d:0 "[EncounterOverlay]Goblinoids are no uncommon sight in the Serpentspine with all the goblins and hobgoblins and such. But there are some rarer sights that are rather unexpected, such as bugbears, hulking, furry menaces which stand at the top of the goblinoid hierarchy. They enslave other goblins, bully hobgoblins, raid, plunder, feast, and lie. A band of such creatures, clad in crude armour and armed with spiked clubs and maces, has been on collision course with us for the past few hours, as our scouts report. Quickly the expedition leader assembles a small council to debate how to approach this threat. As further reports come in the situation becomes clearer, but also more dire: There is a surprising amount of them, and they have an entourage of goblins and hobgoblins as well."
- diggy_encounter.470.a:0 "That’s just more corpses! Charge!"
- diggy_encounter.470.b:0 "Let's make a show of force! Scare them off!"
- diggy_encounter.470.c:0 "We speak goblin. They speak goblin. It’s worth a shot."
+ diggy_encounter.470.t:0 "€¥..¡ªº?\n[EncounterOverlayBackground]"
+ diggy_encounter.470.d:0 "[EncounterOverlay]       ‚¡®ª°ª¦º — ° ¦¬²¿ ¢ …¯ª°¯ ¡²  ¢¯ª ¼²ª¯ª ¥¡®ª°¯ª, ¡¥¡®ª°¯ª ª ²¯³ ±¦¡°º¯.  ²¿ ª ¡® ¦¬ª ¢ª¦º, ¬²º ¦¢®¿° ¦¬ª¯ª, ²¬ª ¬¬ ¡¥¡ªº, °³¬®½¨ª ¯°²º, ¬²º ²¾² ° ¢Œª° ªªª ¥¡®ª°ª¦¢. °ª ±¡¸½² ¦³¥ª ¥¡®ª°¢, ©±³¥ª¢½² ¡¥¡®ª°¢, ¢Œ½² °¡¥ª, ¥¡¾², ±ª³½² ª ®¨². ¬ ¡¸½² ©¢¦¶ª¬ª, ¡°¦ ²¬ª ³¸²¢, ¦²º ¢ ¥³¡³½ ¡°½ ª ¢³¨ž°°º Œª±²º¯ª ¦³¡ª°¬¯ª ª ¡³®¢¯ª, °¦ª®¿ ¢ ± ¶¢ ± ±³²ª ®¦¢°ª¾ ² °. Ð³¬¢¦ª²®¿ ¼¬±¦ªµªª ¡º² ¡ª² °¡®¿Œþ ¢², ¶²¡º ¡³¦ª²¿, ¬¬ ±¦²³±ª²¿¾ ¬ ¼²þ ³¥©. ‰ ¯ ±²³±®°ª¾ ¦®¿°þŒª ¡¸°ªþ ª²³µª¾ ²°¢ª²¾ ¾°, ° ª ¡® ³¨°þ: ª ° ³¦ª¢®°ª ¯°¥, ª ³ °ª ²¬¨ ²¿ ¬³¨°ª ª© ¥¡®ª°¢ ª ¡¥¡®ª°¢."
+ diggy_encounter.470.a:0 "‰² ¸ž ¡®¿Œ ²³±¢! ²¬³¯!"
+ diggy_encounter.470.b:0 "ƒ¢þ² ±¦¯°²ª³¯ ª®³! ²±³¥°ª² ª!"
+ diggy_encounter.470.c:0 "º ¥¢ª¯ ° ¥¡®ª°¬¯. °ª ¥¢¾² ° ¥¡®ª°¬¯. Ô²ª² ±±¡¢²¿."
 
- diggy_encounter.471.t:0 "Pest Removal Services\n[EncounterOverlayBackground]"
- diggy_encounter.471.d:0 "[EncounterOverlay]The crude armour of the bugbears are no match for our axes and swords, which are forged with great care and attention. Our shields and plate resist their meagre strikes. While full of brute strength they lack the finesse needed to really pose a threat to us. As soon as their underlings notice how their masters are butchered they disperse and flee into the surrounding caves like the cowards they have always been. Soon the battlefield falls silent, the bugbears slain, fur clotted with blood, maces broken, armour shattered. A victory!"
- diggy_encounter.471.a:0 "I wonder if their fur sells for anything"
+ diggy_encounter.471.t:0 "‹®³¥ª ± ³¦®°ª½ ¢¦ª²®þ\n[EncounterOverlayBackground]"
+ diggy_encounter.471.d:0 "[EncounterOverlay]       ‚³¡º ¦±ª ¡¥¡ª¢ ° ª¦³² °ª ¢ ¬¬ ¢°°ª  °Œª¯ª ²±¯ª ª ¯¶¯ª, ¬²º ¢º¬¢°º  ¡®¿Œþ ²¸²®¿°²¿½ ª ¢°ª¯°ª¯. Œª ¸ª²º ª ¦±ª ¢º¦¨ª¢½² ®¡º ³¦º. ¯²¾ ° ², ¶² ³ °ª ¥³¡¾ ª®, ª¯ ° ¢²² ³²°¶°°²ª, °¡¦ª¯þ ¦®¾ ²¥, ¶²¡º ¦þ²¢ª²®¿° ±¦²¢®¾²¿ ¦®¾ ° ³¥©³. ¬ ²®¿¬ ±ª®³¥ ©¯¶², ¬¬ ³¡ª¢½² ª ©¾¢, °ª  ¡¥³² ¢ ¬³¨½¸ª ±¸º, ¬¬ ²³º, ¬²º¯ª ¢¥¦ ¡º®ª. Ï¬ ° ±® ¡¾ ¢µ¾²¾ ²ªŒª°, ¡¥¡ªº ³¡ª²º, ¯ ±±ª²° ¬¢¿½, ¡³®¢º ®¯°º, ¦±ª ©¡ª²º ¢¦¡©¥ª. ‰¡¦!"
+ diggy_encounter.471.a:0 "†°²°, ª ¯ ¯¨° ±¦²¿"
 
- diggy_encounter.472.t:0 "Savage Bugbears\n[EncounterOverlayBackground]"
- diggy_encounter.472.d:0 "[EncounterOverlay]The savage and primal strength of bugbears is nothing to be scoffed at, they wield their weapons with such overwhelming force that even our strongest shields splinter upon impact. Our screams mingle with their battle cries as the rest of their goblinoid underlings attack as well from the flanks, leaving us without proper formation. The bugbears charge into the ensuing chaos, their maces crushing bones and severing heads through pure, brute strength alone, a terrifying display of nature. As the few who are left from the skirmish hide in the caves, they see the goblins rifle through our fallen comrades’ pockets, nicking gold and other precious materials to present them to their furry overlords in a strange display of reverence. At last, they continue onwards, leaving the battlefield abandoned. "
- diggy_encounter.472.a:0 "They put the bear in Bugbear"
+ diggy_encounter.472.t:0 "ƒª¬ª ¡¥¡ªº\n[EncounterOverlayBackground]"
+ diggy_encounter.472.d:0 "[EncounterOverlay]       ¦ ¦ª¬þ ª ±¢¡º²°þ ª®þ ¡¥¡ª¢ °¶¥ °¯²¿¾, °ª ¢®¦½² ³¨ª¯  ²¬þ ±¦¢®¾½¸þ ª®þ, ¶² ¦¨ °Œª ¯º ±¶°º ¸ª²º ¬®º¢½²¾ ±ª ³¦. ª¬ª ¯Œª¢½²¾  ª ¡¢º¯ª ¬®ª¶¯ª, ±¬®¿¬³ ²®¿°º ±ª®³¨°ª¬ª ¥¡®ª°ª¦º ²¬³½²  ´®°¥¢, ³Œ °Œ ±²°ª. €¥¡ªº ²¬³½², ª ¡³®¢º ¦¡¾² ¬²ª ª ²³¡½² ¥®¢º ²®¿¬ ¡®¥¦¾ ¶ª²þ, ¥³¡þ ª® — ³¨½¸ ±¾¢®°ª ±ª¦º. ¥¦ ² °¯°¥ª, ¬² ²®¾ ¢ ¨ª¢º ±® ±²®¬ª, ±¾¶³²¾ ¢ ±¸, °ª ¢ª¦¾², ¬¬ ¥¡®ª°º ½²¾ ¢ ¬¯° °Œª ±¢Œª ²¢ª¸þ, ¢º²¬ª¢¾ ©®² ª ¦³¥ª ¦¥µ°°º ¯²ª®º, ¶²¡º ±±¦°²ª ª ¢ª¯ ¯°²º¯ ±¢®ª²®¾¯ ¢ ²°°¯ ±¾¢®°ªª ±¶²°ª¾. ¬°µ, °ª ±¦®¨½² ¦¢ª¥²¿¾ ¢±ž¦, ²¢®¾¾ ±® ¡¾ ©¡Œ°°º¯."
+ diggy_encounter.472.a:0 "°ª ±¯²ª®ª ¯¦¢¦¾ ¢ ¡¥¡ª"
 
- diggy_encounter.473.t:0 "Almost Too Easy\n[EncounterOverlayBackground]"
- diggy_encounter.473.d:0 "[EncounterOverlay]Our superior tactics and peerless discipline quickly scared the bugbears. As the first fell back from the horde their underlings retreated as well, causing a mass hysteria that resulted in a fleeing army. Still, this wasn’t just any uncoordinated flight, this was more of a retreat, which meant they knew where to retreat to. Let us follow them to wherever they wish to hide and maybe we can find some more loot there, or at least slaughter them for good."
- diggy_encounter.473.a:0 "They sure do seem to know their way around the terrain"
+ diggy_encounter.473.t:0 "Ô®ªŒ¬¯ ±²\n[EncounterOverlayBackground]"
+ diggy_encounter.473.d:0 "[EncounterOverlay]       Œ ±¢¦°¾ ²¬²ª¬ ª °¢°°°¾ ¦ªµª±®ª° ¡º² °±³¥®ª ¡¥¡ª¢. ¥¦ ±¢º ²²³±ª®ª ² ¦º, ª ±ª®³¨°ª¬ª ²¨ ²²³±ª®ª, ¢º©¢¢ ¯¢ ²²³±®°ª, ¬² ±ª¢® ¬ ¡¥²¢³ ¯ªª. Ù¯ ° ¯°, ¼² ¡º® ° ±² ¬¬-² °¥®¢°° ¡¥²¢, ¬ ²²³±®°ª,  ¼² ©°¶®, ¶² °ª ©°®ª, ¬³¦ ²²³±²¿. ƒ¢þ² ±®¦³¯ © °ª¯ª ²³¦, ¥¦ °ª ©²¾² ±¾²²¿¾, ª, ¯¨² ¡º²¿, °¯ ³¦²¾ °þ²ª ²¯ ¸ž ¬¬³½-°ª¡³¦¿ ¦¡º¶³ ª®ª, ± ¬þ°þ ¯, ±¡ª²¿ ª °¢¥¦."
+ diggy_encounter.473.a:0 "‰¨, °ª ¦þ²¢ª²®¿° Œ ª°²ª³½²¾ ° ¯²°²ª"
 
- diggy_encounter.474.t:0 "A Show of Strength\n[EncounterOverlayBackground]"
- diggy_encounter.474.d:0 "[EncounterOverlay]Falling back for a moment to regroup we prepared a powerful show of strength. By increasing our combat width, filling out the entire width of the cave, putting on grim faces and standing just slightly on our toes we managed to look like an impressive force, almost like a small army in its own right. This accomplished what we wanted. As soon as the bugbears turned the corner towards us, they froze in place. Insecure looks left and right; they were quickly routed and fled without a single drop of blood wasted."
- diggy_encounter.474.a:0 "As they should!"
+ diggy_encounter.474.t:0 "ƒ¯°²µª¾ ª®º\n[EncounterOverlayBackground]"
+ diggy_encounter.474.d:0 "[EncounterOverlay]       ²²³±ª¢ °°¦®¥, ¶²¡º ±¥³±±ª¢²¿¾, ±¦¥²¢ª®ª ¯¸°³½ ²¬³. ‹¢®ª¶ª¢ ¡¢³½ Œªª°³, ©±®°ª¢ ±¸³ ° ¢½ Œªª°³, ¦®¢ ¯¶°º ®ªµ ª ®¥¬ ±ª¢²¢ ° µº±¶¬ª, °¯ ³¦®¿ ¢º¥®¾¦²¿ ¢°³Œª²®¿°þ ª®þ, ±¶²ª ¬¬ ¯²¾²®¿°¾ ¯®°¿¬¾ ¯ª¾. º ¦¡ª®ª¿ °³¨°¥. ¬ ²®¿¬ ¡¥¡ªº ±¢°³®ª ª©-© ³¥® ¢ °Œ³ ²°³, °ª ©²º®ª. ³¢°°º ¢©¥®¾¦º ± ²°¯; °ª ¡º®ª ¡º² ©¥¯®°º ª ¡¨®ª, ° ±®ª¢ °ª ¦ª°þ ¬±®ª ¬¢ª ¢±³²³½."
+ diggy_encounter.474.a:0 "¬ ª ¦®¨° ¡º²¿!"
 
- diggy_encounter.475.t:0 "Unimpressed Bugbears\n[EncounterOverlayBackground]"
- diggy_encounter.475.d:0 "[EncounterOverlay]Our clever ruse to make us look like we were stronger in numbers than we actually were has not impressed the bugbears at all. They laughed and scoffed at us and began charging with far greater anger than expected, fuelled by contempt for us since we tried to deceive them, a mistake they took very personal."
- diggy_encounter.475.a:0 "Our only choice left is to fight"
+ diggy_encounter.475.t:0 " ¢±¶²®ž°°º ¡¥¡ªº\n[EncounterOverlayBackground]"
+ diggy_encounter.475.d:0 "[EncounterOverlay]       Œ ª²³¯°¾ ³®¢¬, ¶²¡º ©²¢ª²¿ ¢º¥®¾¦²¿ ²¬, ¡³¦² ¯º ¶ª®°° ª®¿°, ¶¯ ¡º®ª ° ¯¯ ¦®, ¢Œ°° ° ¢±¶²®ª® ¡¥¡ª¢. °ª ¯¾®ª¿ ª ª©¦¢®ª¿ °¦ °¯ª ª °¶®ª °±¦²¿  ¥©¦ ¡®¿Œª¯ ¥°¢¯, ¶¯ ¨ª¦®¿, ±¦²ž¥ª¢¯º ±©°ª¯ ¬ °¯, ±¬®¿¬³ ¯º ±º²®ª¿ ¡¯°³²¿ ª, Œª¡¬³, ¬²³½ °ª ¢±ª°¾®ª ¶°¿ ¡®ª©¬ ¬ ¦µ³."
+ diggy_encounter.475.a:0 "¦ª°²¢°°ºþ ¢º¡ — ¨²¿¾"
 
- diggy_encounter.476.t:0 "Bear-ing Responsibility\n[EncounterOverlayBackground]"
- diggy_encounter.476.d:0 "[EncounterOverlay]Sitting across a makeshift table that was really just a convenient boulder on the side of the hallway, our expedition leader and what seemed to be the biggest, furriest, loudest, and strongest bugbear began negotiations. Our leader laid out some options for a peaceful coexistence, which the bugbear considered, giving some input on his side. After a few minutes of intense back and forth the chief and the expedition leader came to an agreement. The bugbears would settle the surrounding vicinity, claiming it for us, and in exchange they would be mostly left alone and could keep their slaves. All in all, an agreeable result."
- diggy_encounter.476.a:0 "Do they know what taxes are?"
- diggy_encounter.476.tooltip:0 "Bugbears are strong, their tribe is sure to make good workers after we secure the area"
+ diggy_encounter.476.t:0 "Ï©¾²¿ ²¢²²¢°°²¿\n[EncounterOverlayBackground]"
+ diggy_encounter.476.d:0 "[EncounterOverlay]       Ôª¦¾ © ª¯±¢ª©ª¢°°º¯ ²®¯, ¬²ºþ ° ¯¯ ¦® ¡º® ±² ³¦¡°º¯ ¢®³°¯ ¡¬³ ² ±¦, ³¬¢¦ª²®¿ ¼¬±¦ªµªª ª ²², ¬² ¬©®¾ ¯º¯ ¡®¿Œª¯, ±³Œª²º¯, ¥¯¬ª¯ ª ª®¿°º¯ ±³¥®¯, °¶®ª ±¥¢º. Œ ®ª¦ ª©®¨ª® °¬®¿¬ ¢ª°²¢ ¯ª°¥ ³¸²¢¢°ª¾, ¬²º ¡¥¡ª ¯²®, ¢°¾ °¬²º ¬¬²ª¢º  ¢þ ²°º. ‰® °¬®¿¬ª ¯ª°³² °±¾¨°°º ±¥¢¢ ¢¨¦¿ ª ³¬¢¦ª²®¿ ¼¬±¦ªµªª ±ªŒ®ª ¬ ¥®Œ°ª½. €¥¡ªº ©®ª®ª ¡º ¬²°²ª, ±¦¹¾¢ª¢ ±¢ ° °ª ¦®¾ °,  ¢©¯° ª ¡º ¢ °¢°¯ ²¢ª®ª ¢ ±¬ ª °ª ¯¥®ª ¡º ²¢ª²¿ ¢ª ¡¢. Ï µ®¯, ±ª¾²°ºþ ©³®¿²²."
+ diggy_encounter.476.a:0 "…°½² ®ª °ª, ¶² ²¬ °®¥ª?"
+ diggy_encounter.476.tooltip:0 "€¥¡ªº ª®¿°º, ª© ª ±®¯°ª °¢°¾¬ ±®³¶²¾ Œª ¡²°ª¬ª ±® ²¥, ¬¬ ¯º ¡©±ª¯ ²ª²ª½."
 
- diggy_encounter.477.t:0 "Negotiations Fall Through\n[EncounterOverlayBackground]"
- diggy_encounter.477.d:0 "[EncounterOverlay]Despite our expedition leader’s natural charm and charisma the negotiations soon fell short as a fight between a scout and a bugbear broke out. What started as a standard disagreement soon escalated into a shout-out. Just before they had started fighting, we intervened and put an end to this. From then on the negotiations were cold and the bugbear chief reluctant. To no one's surprise he said now, but still left us with some meagre supplies as a sign of good faith before continuing onwards."
- diggy_encounter.477.a:0 "Oh well"
+ diggy_encounter.477.t:0 "‰¥¢º ±¢®ª¢½²¾\n[EncounterOverlayBackground]"
+ diggy_encounter.477.d:0 "[EncounterOverlay]       ¯²¾ ° ±ª¦° ¡¾°ª ª ª©¯³ ³¬¢¦ª²®¾ ¼¬±¦ªµªª, ±¥¢º ¢¬ ° ³¢°¶®ª¿ ³±¯, ±¬®¿¬³ ¢±º°³® ¦¬ ¯¨¦³ ©¢¦¶ª¬¯ ª ¡¥¡ª¯. Ù, ¶² °¶®¿ ¬¬ ¡º¶° ©°¥®ª, ¢¬ ±® ¢ ±±®¬³. ¬ © ±¦ ²¯, ¬¬ °ª °¶®ª ¦²¿¾, ¯º ¢¯Œ®ª¿ ª ±®¨ª®ª ¼²¯³ ¬°µ. Ô ² ± ±¥¢º ¡º®ª ®¦°º¯ª,  ¢¨¦¿ ¡¥¡ª¢ — ¯®¶®ª¢º¯. ª ¦®¾ ¬¥ ° ³¦ª¢ª²®¿°, ¶² ° ¬©® ¼² þ¶, ° ¢ ¨ ²¢ª® °¯ ¬-¬¬ª ¬³¦°º ±ª±º ¢ ©°¬ ¦¡þ ¢®ª, ±¨¦ ¶¯ ±¦®¨ª²¿ ±³²¿."
+ diggy_encounter.477.a:0 "³ ¶² ¨"
 
- diggy_encounter.478.t:0 "A Heroic Defence\n[EncounterOverlayBackground]"
- diggy_encounter.478.d:0 "[EncounterOverlay]Outmanned, outmanoeuvred, but not outfought! The bugbear onslaught was fierce and vicious but, in the end, they could not deal a serious blow to our forces. As we broke through their lines and even defeated the ambush, they had prepared just in case someone followed them, with ease. This opened the way into their den where they kept the numerous riches they had acquired over time, a hoard of gold and jewels, old dwarven artifacts, and strange remnants of past battles."
- diggy_encounter.478.a:0 "Take it all!"
+ diggy_encounter.478.t:0 "‚ª¶¬¾ ¡°\n[EncounterOverlayBackground]"
+ diggy_encounter.478.d:0 "[EncounterOverlay]       Ï ¯°¿Œª°²¢, ±ª²ª®, ° ° ±¡¦ª®! ²ª¬ ¡¥¡ª¢ ¡º® ¾²°º¯ ª ¨²¶ž°°º¯, °, ¢ ¬°µ ¬°µ¢, °ª ° ¯¥®ª °°²ª ¿ž©°¥ ³¦ ± °¯. ¥¦ ¯º ±¢®ª¿ ¶© ª ¾¦º ª ¦¨ ©¥¯ª®ª ©¦³, °ª ±¦¥²¢ª®ª¿ ° ®³¶þ, ®ª ¬²-² ±®¦³² © °ª¯ª. €º® ²¬º² ±³²¿ ¢ ª ®¥¢, ¥¦ °ª °ª®ª ¯°¥¶ª®°°º ¡¥²²¢, ±®³¶°°º ª¯ª © ¦®¥ ¢¯°ª, ©±º ©®² ª ¦¥µ°°º ¬¯°þ, ²º ²´¬²º ¦¢´¢ ª ²°°º ²°¬ª ±Œ®º ¨°ªþ."
+ diggy_encounter.478.a:0 "…¡ª¯ ¢ž!"
 
- diggy_encounter.479.t:0 "Ambushed From Above\n[EncounterOverlayBackground]"
- diggy_encounter.479.d:0 "[EncounterOverlay]Suddenly, as we turned around a corner, the bugbear force had vanished. The place where we had expected them to be was abandoned, devoid of anyone, or anything for that matter. Slowly we made our way into the hallway. Then suddenly the sound of a horn announced our doom: From above the surprisingly stealthy bugbears jumped on us, breaking our formation and slaughtering whoever they could get the rusty maces on. Cries and screams echoed through the halls, metal clanging as bones broke under the impact of the raw strength of the bugbears. In the end they left us lying, broken, like a discarded toy."
- diggy_encounter.479.a:0 "A terrible slaughter"
+ diggy_encounter.479.t:0 "‰±®ª ¢ ©¦³ ¢³\n[EncounterOverlayBackground]"
+ diggy_encounter.479.d:0 "[EncounterOverlay]       Ï°©±°, ¬¥¦ ¯º ©¢°³®ª © ³¥®, ª® ³¨½¸¾ ª® ª¶©®. ², ¥¦ ¯º ¨ª¦®ª ª ³¢ª¦²¿, ¡º® ±³², ¡© ¬¥-®ª¡ ª®ª ¶¥-®ª¡, ®ª ³¨ ° ² ±Œ®. º ¯¦®°° ±¡®ª¿ ¢ ±¦. …²¯ ¢°©±° ©¢³¬ ¥ ¢©¢²ª®  °Œþ ¥ª¡®ª: ¢³ ° ° ¡³Œª®ª¿ ¬º²°º ¡¥¡ªº, °³Œ¾ ²þ ª ³¡ª¢¾ ¢, ° ¬¥ ±±¦®ª¿ ¨¢º ¡³®¢º. ª¬ª ¼¯ ©°ª®ª¿ ± ©®¯, ®¾©¥ ¯²®®, ¬¥¦ ¬²ª ®¯®ª¿ ±¦ ¢©¦þ²¢ª¯ ¥³¡þ ª®º ¡¥¡ª¢. Ï ¬°µ ¬°µ¢ °ª ²¢ª®ª ° ®¨¸ª¯ª, ³°ª¶²¨°°º¯ª, ®¢° ¢º¡Œ°°³½ ª¥³Œ¬³."
+ diggy_encounter.479.a:0 "‹¨°¾ ¡þ°¾"
