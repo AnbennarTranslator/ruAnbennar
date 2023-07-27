@@ -1,7 +1,7 @@
 ﻿l_english:
   diggy.1.t:0 "Ù¢¦º°¾ [Root.GetName]"
   diggy.1.d:0 "       ‰® ¯°¥ª ®² ³ª®ªþ ¯º, °¬°µ, ©¬°¶ª®ª ²ª²®¿²¢ °¢º þ°¢ °Œþ ²¢¦º°ª. ™²² ª²¬²³°ºþ ª ª°¨°°ºþ ±¦¢ª¥ ²¬º¢² ±¦ °¯ª ¯°¨²¢ ¢©¯¨°²þ ¦®¾ Œª°ª¾ ¢ ¡³¦³¸¯."
-  diggy.1.a:0 "[Root.strikeTheEarth] ±©ª [Root.swearAtTheEarth] ©¯®½!"
+  diggy.1.a:0 "[Root.strikeTheEarth] ±©ª ¼²³ [Root.swearAtTheEarth] ©¯®½!"
 
   diggy.2.t:0 "Ù¡¢°ª¾ ²³¦"
   diggy.2.d:0 "       ‰¬®¿¬³ ²ª²®¿²¢ °Œþ ²¢¦º°ª ±¦®¨²¾, °®¿©¾ ° ¦³¯²¿, ¶² ¥ ¯¨° ¡º® ¡º ³¬ª²¿. Û²¾ ¼² ¯¨² ¡º²¿ ¦¢®¿° ¦¥²¾¸ª¯ ©°¾²ª¯, ®ª ¯º ¢º¦®ª¯ ¸ž ¡®¿Œ ³¢ °Œþ ²°º ° ³¦¢®²¢°ª ©®ª¶°º ²ª²®¿°º ²¡¢°ªþ, ¯º, °¯°°°, ¯¨¯ ©¢Œª²¿ ²ª²®¿²¢ °Œþ ²¢¦º°ª ¢ ¬¦° ¬²¬ª ¬ª!"
@@ -1080,47 +1080,47 @@
   cave_goblin_demand_desc:0 "†¯ °³¨° ©®² ª ²³±º ¦¢´¢!"
 
 
-  strikeTheEarth_1:0 "Greedily"
-  strikeTheEarth_2:0 "Enviously"
-  strikeTheEarth_3:0 "Lovingly"
-  strikeTheEarth_4:0 "Eagerly"
-  strikeTheEarth_5:0 "Avidly"
-  strikeTheEarth_6:0 "Impatiently"
-  strikeTheEarth_7:0 "Avariciously"
-  strikeTheEarth_8:0 "Brutally"
-  strikeTheEarth_9:0 "Voraciously"
-  strikeTheEarth_10:0 "Passionately"
-  strikeTheEarth_11:0 "Savagely"
-  strikeTheEarth_12:0 "Furiously"
-  strikeTheEarth_13:0 "Mightily"
-  strikeTheEarth_14:0 "Delicately"
-  strikeTheEarth_15:0 "Deliciously"
-  strikeTheEarth_16:0 "Gracefully"
-  strikeTheEarth_17:0 "Elegantly"
-  strikeTheEarth_18:0 "Gloriously"
-  strikeTheEarth_19:0 "Pleasingly"
-  strikeTheEarth_20:0 "Ostentasiously"
+  strikeTheEarth_1:0 "Ô ¨¦°²¿½"
+  strikeTheEarth_2:0 "Ô ©¢ª²¿½"
+  strikeTheEarth_3:0 "Ô ®½¡¢¿½"
+  strikeTheEarth_4:0 "Ô ¼°²³©ª©¯¯"
+  strikeTheEarth_5:0 "Ô ³¦¢®¿²¢ª¯"
+  strikeTheEarth_6:0 "Ô °²±°ª¯"
+  strikeTheEarth_7:0 "×©¢ª²®¿°"
+  strikeTheEarth_8:0 "„²¬"
+  strikeTheEarth_9:0 "‰¨®ª¢"
+  strikeTheEarth_10:0 "Ô²²°"
+  strikeTheEarth_11:0 "ƒª¬"
+  strikeTheEarth_12:0 "×²°"
+  strikeTheEarth_13:0 "¸°"
+  strikeTheEarth_14:0 "ƒ®ª¬²°"
+  strikeTheEarth_15:0 "Ô ¢¬³¯"
+  strikeTheEarth_16:0 "‚µª©°"
+  strikeTheEarth_17:0 "™®¥°²°"
+  strikeTheEarth_18:0 "Ï®ª¬®±°"
+  strikeTheEarth_19:0 "‰ª¾²°"
+  strikeTheEarth_20:0 "ƒ¯°²²ª¢°"
 
-  swearAtTheEarth_1:0 "fucking"
-  swearAtTheEarth_2:0 "beautiful"
-  swearAtTheEarth_3:0 "lecherous"
-  swearAtTheEarth_4:0 "salacious"
-  swearAtTheEarth_5:0 "sensual"
-  swearAtTheEarth_6:0 "carnal"
-  swearAtTheEarth_7:0 "earthly"
-  swearAtTheEarth_8:0 "voluptuous"
-  swearAtTheEarth_9:0 "fleshly"
-  swearAtTheEarth_10:0 "bawdy"
-  swearAtTheEarth_11:0 "obscene"
-  swearAtTheEarth_12:0 "erotic"
-  swearAtTheEarth_13:0 "lascivious"
-  swearAtTheEarth_14:0 "prurient"
-  swearAtTheEarth_15:0 "smutty"
-  swearAtTheEarth_16:0 "charming"
-  swearAtTheEarth_17:0 "cute"
-  swearAtTheEarth_18:0 "stunning"
-  swearAtTheEarth_19:0 "exquisite"
-  swearAtTheEarth_20:0 "seductive"
+  swearAtTheEarth_1:0 "¥ž¡°³½"
+  swearAtTheEarth_2:0 "¬ª¢³½"
+  swearAtTheEarth_3:0 "©¢²°³½"
+  swearAtTheEarth_4:0 "±ª¬°²°³½"
+  swearAtTheEarth_5:0 "¶³¢²¢°°³½"
+  swearAtTheEarth_6:0 "±®²¬³½"
+  swearAtTheEarth_7:0 "©¯°³½"
+  swearAtTheEarth_8:0 "®¦²²°³½"
+  swearAtTheEarth_9:0 "²®°³½"
+  swearAtTheEarth_10:0 "±³¡®ª¶°³½"
+  swearAtTheEarth_11:0 "°±ª²þ°³½"
+  swearAtTheEarth_12:0 "¼²ª¶°³½"
+  swearAtTheEarth_13:0 "¡®©°ª²®¿°³½"
+  swearAtTheEarth_14:0 "°¢¾©¶ª¢³½"
+  swearAtTheEarth_15:0 "¯©®ª¢³½"
+  swearAtTheEarth_16:0 "¶¢²®¿°³½"
+  swearAtTheEarth_17:0 "ª¯²ª¶°³½"
+  swearAtTheEarth_18:0 "±²¾½¸³½"
+  swearAtTheEarth_19:0 "ª©º¬°°³½"
+  swearAtTheEarth_20:0 "¡®¿²ª²®¿°³½"
   #Goblin Tide Disaster------------------------------------------------
   serpentspine_defender:0 "…¸ª²°ª¬ …¯ª°¥ ¡²"
   desc_serpentspine_defender:0 "™²² ±¢ª²®¿ ³±Œ° ²©ª® ˆ¢ª°³ ¥¡®ª°¢."
@@ -1790,18 +1790,18 @@
   #Formables
 
   diggy_spawnable.1.t:0 "™¬±¦ªµª¾ €¥° ²±¢®¾²¾ ¬ …¯ª°¯³ ¡²³"
-  diggy_spawnable.1.d:0 "€¥²ºþ ¥°¯ ± ª¯°ª €¥° ±¦® ¢ ¢ž ¯ª¬ ª¯³¸²¢, ¶²¡º ¡²¿ ¦²¢ ª ¦ª°¯ºŒ®°°ª¬¢ ¦®¾ ¥°ª©µªª ¼¬±¦ªµªª ¢ ƒ¢¢. ° °±¢®¾²¾ ¢ …¯ª°ºþ ¡², °¦¾¿ ©®ª²¿ ²¯ ¦°³ ª© ±²¾°°º ²¢¦º°¿."
+  diggy_spawnable.1.d:0 "       €¥²ºþ ¦¢´ ± ª¯°ª €¥° ±¦® ¢ ¢ž ¯ª¬ ª¯³¸²¢, ¶²¡º ¡²¿ ¦²¢ ª ¦ª°¯ºŒ®°°ª¬¢ ¦®¾ ¥°ª©µªª ¼¬±¦ªµªª ¢ ƒ¢¢. ° °±¢®¾²¾ ¢ …¯ª°ºþ ¡², °¦¾¿ ©®ª²¿ ²¯ ¦°³ ª© ±²¾°°º ²¢¦º°¿."
   diggy_spawnable.1.d2:0 "±¾¨ž°°²¿ ¯¨¦³ ¥¡®ª°¯ª ª ¦¢´¯ª ¢ ¢¦® Ù³°¥, ±¨, °¦¢° ¦²ª¥® ²¶¬ª ¬ª±°ª¾, ° ª°²°, ¶² ¢¯² ¨²¬þ ¬°´°²µªª ¥³±± ¦¢´¢ ±² Œª® ²¢ª²¿ ¢ª ¢®¦°ª¾. Ï ¥®¢  ¦¢´¯ ± ª¯°ª €¥° °ª ¦¢ª¨³²¾ ¢ …¯ª°ºþ ¡²  ¬¬þ-² ¯ªªþ ± ¢²°¢®°ª½."
   diggy_spawnable.1.a:0 "ƒ °±¢¾² ª ±¦¬ª!"
   diggy_spawnable.1.aa:0 "Ï ¦¡ºþ ±³²¿!"
   diggy_spawnable.1.b:0 "†¥²¿ © °ª"
   diggy_spawnable.2.t:0 "²®¿ ª´ª®¢þ ³¬ª °¶ª°² ©¢¦¬³ ƒ¢¢"
-  diggy_spawnable.2.d:0 "¥³¸²¢°°ºþ ¬²®¿ ª´ª®¢þ ³¬ª, ±ª¦¾¸ªþ ª© °Œª ©¯®¿, ¡¹¾¢ª®  °¢þ ¼¬±¦ªµªª ¦®¾ ©®°ª¾ ƒ¢¢."
+  diggy_spawnable.2.d:0 "       ¥³¸²¢°°ºþ ¬²®¿ ª´ª®¢þ ³¬ª, ±ª¦¾¸ªþ ª© °Œª ©¯®¿, ¡¹¾¢ª®  °¢þ ¼¬±¦ªµªª ¦®¾ ©®°ª¾ ƒ¢¢."
   diggy_spawnable.3.t:0 "²¾¦ °ª²®þ ¡ª¦ ²±¢®¾²¾ ° Ð¦ª°³"
-  diggy_spawnable.3.d:0 "‰¶®¿° ª©¢²°¾ ¬¯±°ª¾ °ž¯°ª¬¢ ¡® ¦²²¶° ¦²¢, ¶²¡º ²±¢ª²¿¾ ¢ µ°²®¿°³½ ¶²¿ …¯ª°¥ ¡² ª ©®ª²¿ ¢½ ±¦ª°³."
+  diggy_spawnable.3.d:0 "       ‰¶®¿° ª©¢²°¾ ¬¯±°ª¾ °ž¯°ª¬¢ ¡® ¦²²¶° ¦²¢, ¶²¡º ²±¢ª²¿¾ ¢ µ°²®¿°³½ ¶²¿ …¯ª°¥ ¡² ª ©®ª²¿ ¢½ ±¦ª°³."
   diggy_spawnable.4.t:0 "¯²ª²¢º ¦¢´º ²±¢®¾½²¾ ¢ ±³²¿"
-  diggy_spawnable.4.d:0 "¯²ª²¢º ¦¢´º ¢ ÷¦¨ ±´ª°°ª¢®ª ¯¡ªµª©°³½ ¼¬±¦ªµª½ ± ±©®°ª½ ¯°°¥ ¦¢.  ¨®°ª½, ¢² Û³®-©-¬©® ¡º®ª ©±²º ¢ ¢¯¾ ª ¡¥²¢, ª °ª ¦ª° ¥°¯ ° ¡º® ¦²²¶° ²©¢, ¶²¡º ° ©¡º²¿ ²¢ª²¿ ±²þ°³½ ¦¢¿ °©±²þ. †¯ ±ª¦ž²¾ ª¦²ª ¦®ª°°º¯ ±³²ž¯."
-  diggy_spawnable.4.d2:0 "¯²ª²¢º ¥°¯º ¢ ÷¦¨ ¡¨®ª ¬ ¯°°¯³ ¦¢³. ¬ ¼² ±ª©Œ® ±¦ ¡¦ª²®¿°º¯ ±ª¯²¯ °Œª ¢þ¬ — ©¥¦¬. ¶¢ª¦°, °¡¦ª¯ °®¦ª²¿ ¦ªµª±®ª°³!"
+  diggy_spawnable.4.d:0 "       ¯²ª²¢º ¦¢´º ¢ ÷¦¨ ±´ª°°ª¢®ª ¯¡ªµª©°³½ ¼¬±¦ªµª½ ± ±©®°ª½ ¯°°¥ ¦¢.  ¨®°ª½, ¢² Û³®-©-¬©® ¡º®ª ©±²º ¢ ¢¯¾ ª ¡¥²¢, ª °ª ¦ª° ¦¢´ ° ¡º® ¦²²¶° ²©¢, ¶²¡º ° ©¡º²¿ ²¢ª²¿ ±²þ°³½ ¦¢¿ °©±²þ. †¯ ±ª¦ž²¾ ª¦²ª ¦®ª°°º¯ ±³²ž¯."
+  diggy_spawnable.4.d2:0 "¯²ª²¢º ¦¢´º ¢ ÷¦¨ ¡¨®ª ¬ ¯°°¯³ ¦¢³. ¬ ¼² ±ª©Œ® ±¦ ¡¦ª²®¿°º¯ ±ª¯²¯ °Œª ¢þ¬ — ©¥¦¬. ¶¢ª¦°, °¡¦ª¯ °®¦ª²¿ ¦ªµª±®ª°³!"
   diggy_spawnable.4.a:0 "ƒ °±¢¾² ª ±¦¬ª!"
   diggy_spawnable.4.c:0 "‚®³±º ¦¢´º"
 
@@ -1814,7 +1814,7 @@
   I04_nation_title:0 "Ï©¦²¿ ®©¯-©-¦ª"
   I04_nation_desc:0 "®©¯-©-¦ª ¡º® ª©¢²° ¬¬ Ï² Ï®¦º¬ €°¢ ª ²¢¶® © ©¸ª²³ …¯ª°þ ¦®ª°º ª ¯®¦ª ² ¢°Œ°ª ³¥©. °ª ¡º®ª Œª¬ ª©¢²°º ¢ª¯ª þ°¦¨¯ª, ¡©¦ª¢Œª¯ª ¦®ª°³ ª ¥º …¯ª°¥ ¡² ° ¯¸°º ¡°, ¬²º ²¬¨ ª±®¿©¢®ª¿ ¦®¾ ¬¢¬ª ª ¯²°°¥ ³¨ª¾."
   I05_nation_title:0 "Ï©¦²¿ ª²¦³¯"
-  I05_nation_desc:0 "¦° ª© ¯º ª©¢²°º ²¢¦º°¿ ¦¢°¥ ƒ¢¢. ª²¦³¯, ²¬¨ ª©¢²°ºþ ¬¬ †²ª°°¾ ²¢¦º°¾, ¡º® ²©¬þ ª ¬³±°þŒª¯ ³¦°ª¬¯ ¦°¥ ª© ®³¶Œª ¯²®®¢ ¯ª: ¯ª´ª®."
+  I05_nation_desc:0 "¦° ª© ¯º ª©¢²°º ²¢¦º°¿ ¦¢°¥ ƒ¢¢. ª²¦³¯, ²¬¨ ª©¢²°ºþ ¬¬ †²ª°°¾ ²¢¦º°¾, ¡º® ²ž©¬þ ª ¬³±°þŒª¯ ³¦°ª¬¯ ¦°¥ ª© ®³¶Œª ¯²®®¢ ¯ª: ¯ª´ª®."
   I06_nation_title:0 "Ï©¦²¿ ™-²¢ª"
   I06_nation_desc:0 "™-²¢ª ¡º® ¦µ¯ ±¯ºŒ®°°¥ ƒ¢¢ (®ª ²¬ ©¦®°ª ª¯² ¯º®, ±¬®¿¬³ ¢ ²¢¦º°ª ¡º®ª ±¯ºŒ®°°º¯ª),  ²¬¨ ¢ ¢ª¦¢ ²°±² ª ²¢¢. ÷ ƒ¢¢ ª ¥ ¨®©°¾ ¦¥ ¦ª®ª¿ ¢ ™-²¢ª, ª ²½¦ ¨ ³¸²¢®¾®¿ ³±¢®°ª ¼²þ ²¿½."
   I07_nation_title:0 "Ï©¦²¿ ³¥¦ª"
@@ -1828,7 +1828,7 @@
   I11_nation_title:0 "Ï©¦²¿ ÷©²³°¦ª"
   I11_nation_desc:0 "†©¢²°ºþ ¬¬ ¯°º ¢², ÷©²³°¦ª ¬¥¦-² ¡º® ¬³±°º¯ ²¥¢º¯ ±²°ž¯ ¦¢°ª ®½¦þ ¯ª ª, ±¦±®¨ª²®¿°, ¬©® ¢®ª¾°ª ° ¯¯°³½ ª²¬²³³ ²°."
   I12_nation_title:0 "Ï©¦²¿ ®¥®¢"
-  I12_nation_desc:0 "®¥®¢ ¡º® ¦¯¯ ‰¢®ª²®þ c²¬®, ª, ±-¢ª¦ª¯¯³, ª¯°° °ª °³¶ª®ª °° ¶®¢¶²¢ ²¬®¦®ª½. ¡®¿²¢º ¥°¯º, ¨ª¢Œª ©¦¿, ®¢ª®ª¿ ¢ª¯ª ²ž¬®¯ª ª°¥ µ¢², ¬²º ª ± þ ¦°¿ °¾² °©¢°ª ®¥®¢¬¥ ²¬®."
+  I12_nation_desc:0 "®¥®¢ ¡º® ¦¯¯ ‰¢®ª²®þ c²¬®, ª, ±-¢ª¦ª¯¯³, ª¯°° °ª °³¶ª®ª °° ¶®¢¶²¢ ²¬®¦®ª½. ¡®¿²¢º ¦¢´º, ¨ª¢Œª ©¦¿, ®¢ª®ª¿ ¢ª¯ª ²ž¬®¯ª ª°¥ µ¢², ¬²º ª ± þ ¦°¿ °¾² °©¢°ª ®¥®¢¬¥ ²¬®."
   I13_nation_title:0 "Ï©¦²¿ Ï¬® Ô¬¯¦ª"
   I13_nation_desc:0 "ƒ¢°¾¾ ª ±Œ¾ ¯¯ ²¢¦º°¾, ¬²³½ ±¶²ª ±¥®²ª® ‚®³®¿, Ï¬® Ô¬¯¦ª ¬¥¦-² ¡º® ª©¢²° ¬¬ «‰²ª¢®°º ¢²» ª ©¸ª¸® ¦¢´¢ ² ¢®ª¾°ª¾ ´þ. Ï©¯¨°,  °¢º¯ ±¢ª²®¯ ° ¯¨² ¢°¢¿ ª±®°ª²¿ ¢þ ¦®¥?"
   I14_nation_title:0 "Ï©¦²¿ ‚ Ï©³¯¡¥"
@@ -1859,7 +1859,7 @@
   H79_nation_title:0 "Ï©¦ª²¿ ¢¦® °©¦"
   H79_nation_desc:0 "¢¦® °©¦, ª©¢²°ºþ ¬¬ ‰³Œ¶°¾ ²¢¦º°¾, ¡º® ¥®¢°º¯ ±ª©¢¦ª²®¯ ¥°²®¿°¥ ³¨ª¾ ª ±³Œ¬ ¢ ³®-ƒ¢¢, ©¦¢¾ ³¨ª ¯¢¥ ±¨°ª¾ ¸ž ¦ ²¥, ¬¬ ±¢ºþ ¶®¢¬ °³¶ª®¾ ¢®¦²¿ ¯¶¯. ¥ ¨ª²®ª ª©¢²°º ¬¬ ¾°²°º ¦¢´º ª©-© ¡®ª©²ª ¬ ¯°°¯³ ¦¢³, ° ° ¯¯ ¦® ¨®²¢²ºþ ²²°¬ ª¯ ±ª¦ž² , ª±®¿©³¯¾ ¢ ²¬¯ ³¨ªª. ³¨þ°º ©¢¦º ²¢¦º°ª ©²ª®ª, ° ®ªŒ¿ ¦ ² ±, ±¬ ª²ª°°ºþ ¯² ³¨ª¾ ° ±¡³¦ª² ª ¢°¢¿!"
   F47_nation_title:0 "Ï©¦ª²¿ Ï¬® ‚³®°"
-  F47_nation_desc:0 "Ï®¦°ª¾ Ï¬® ‚³®°, ¬¬ ª ¯ Ô¥¦ª, ¡º®ª ¦ª°²¢°°º¯ª ¦¢³¯¾ ³µ®¢Œª¯ª ±® ±¦ Ô¥¡°¦®¿¬¥ ½©, ¬¥¦ ƒ¨¬ª ©¢¢® Ô¥¦ª ¢ 1139 ¥¦³. ¯²¾ ° ¢º¨ª¢°ª ª ¥¯° ¡¥²²¢ Ï¬® ‚³®°, ¢ ª©®¾µªª ¥ ¨ª²®ª ²®ª ¯¦¢®¿°º¯ª ª ¬³¯±ª¢°°º¯ª. ¥ ¬°¶²®¿° ±¦°ª ° ²® °¨ª¦°°²¿½. Ù±¿ ²¢¦º°¾ ²¢ž¢° ¶ª²º¯ª ¦µ¯ ¥°¯¯ª. º ¢°ž¯ þ ¡º®³½ ®¢³ ª ¦¨ ¡®¿Œ. …®²¾ Ëª²¦®¿ °¢ ¢²°²!"
+  F47_nation_desc:0 "Ï®¦°ª¾ Ï¬® ‚³®°, ¬¬ ª ¯ Ô¥¦ª, ¡º®ª ¦ª°²¢°°º¯ª ¦¢³¯¾ ³µ®¢Œª¯ª ±® ±¦ Ô¥¡°¦®¿¬¥ ½©, ¬¥¦ ƒ¨¬ª ©¢¢® Ô¥¦ª ¢ 1139 ¥¦³. ¯²¾ ° ¢º¨ª¢°ª ª ¥¯° ¡¥²²¢ Ï¬® ‚³®°, ¢ ª©®¾µªª ¥ ¨ª²®ª ²®ª ¯¦¢®¿°º¯ª ª ¬³¯±ª¢°°º¯ª. ¥ ¬°¶²®¿° ±¦°ª ° ²® °¨ª¦°°²¿½. Ù±¿ ²¢¦º°¾ ²¢ž¢° ¶ª²º¯ª ¦µ¯ ¦¢´¯ª. º ¢°ž¯ þ ¡º®³½ ®¢³ ª ¦¨ ¡®¿Œ. …®²¾ Ëª²¦®¿ °¢ ¢²°²!"
   H78_nation_title:0 "Ï©¦ª²¿ Ô¥¦ª"
   H78_nation_desc:0 "†©¢²°ºþ ¬¬ ›¨°º ¢², Ô¥¦ª ²® ª©¢²° ±® ±¦°ª¾ ƒ¢¢ ª ¡º® ®ª¦¯ Ô¥¡°¦® (›¨°¥ ½©), ¬²ºþ °¬² ¢¯¾ ±¦¦¨ª¢® ²°ª²®¿°³½ ¡©±°²¿ ¢ Ô¦°¯ ƒ¢¢, ±¬ ° ¡º® ±³¸° ±® ©¢¢°ª¾ ¡®¿Œþ ¶²ª ²¢¦º°¿ ƒ¨¬ª ¢ 1139 ¥¦³. Ï©¯¨°, ª²ª°°ºþ °®¦°ª¬ Ô¥¡°¦® ¢²°² ª °¢ ¢°ž² ¡ Ô¥¦ª?"
   H77_nation_title:0 "Ï©¦ª²¿ ¢¦® ˆ¦³¯"
@@ -1896,7 +1896,7 @@
   DADV_ally_in_the_dark_desc:0 "‹¥©º ²¾²¾ © ¬¨¦º¯ ³¥®¯. Ïº²¾²¿ ¢ ¦ª°¶¬³ ±²ª¢ ¶³¦¢ª¸°º ±²¬¢ ²¿¯º ¡º® ¡º ±¶²ª ¯³¡ªþ²¢¯. ¨², ¯º °þ¦ž¯ ¦³©þ ¥¦-°ª¡³¦¿ ¢ ¼²ª ²³°°®¾?"
 
   DADV_gold_and_more_title:0 "…®² ª ° ²®¿¬"
-  DADV_gold_and_more_desc:0 "…®² — ¦ª° ª© ¯º ¢¨°º ¯²®®¢ ¢ ¡¸²¢. ¬±®°ª ¡¥²²¢ — µ®¿ ¡®¿Œª°²¢ ¥°¯¢. ¢°¾¬ ¯º ¯¨¯ ¢°¢¿ ²¬º²¿ °¬²º ª© ²º Œ²?"
+  DADV_gold_and_more_desc:0 "…®² — ¦ª° ª© ¯º ¢¨°º ¯²®®¢ ¢ ¡¸²¢. ¬±®°ª ¡¥²²¢ — µ®¿ ¡®¿Œª°²¢ ¦¢´¢. ¢°¾¬ ¯º ¯¨¯ ¢°¢¿ ²¬º²¿ °¬²º ª© ²º Œ²?"
   DADV_diamonds_rubies_title:0 "®¯©º, ³¡ª°º"
   DADV_diamonds_rubies_desc:0 "ƒ¥µ°°º ¬¯°ª ¦þ²¢ª²®¿° ±¨½² ¢¡¨°ª, ª ª ¦¡º¶ — ¢¨°ºþ Œ¥ ¬ ¢²°¢®°ª½ °Œ¥ ¡¸²¢ ¢ ¥®© ¡²¿¢."
   DADV_hidden_in_the_mountain_store_title:0 "Ô±¾²° ¢ ¥°¯ °ª®ª¸"
@@ -2061,7 +2061,7 @@
 
   diggy.119.daa:0 "       ƒ¢´º ¯®¦ª ¬±®ª ¥®³¡¬ ª ¡°³¨ª®ª ¯°¨²¢ ©²¾°°º ¡®²þ ²¢¦º°ª. Ô©¦°°º ¦®¾ ³±¢®°ª¾ ¥¯°þ ª¯±ªþ ³®-ƒ¢¢, ¼²ª ±²¾°°º ¡½¬²ª¶¬ª ¬¯±®¬º ¡º®ª ª±®¿©¢°º °Œª¯ ²³¸ª¯ ¥³¦²¢¯, ª ¦¯ª°ª²²º  ¢ ³¥®¬¢ ²®ª ¢ ¡®¿Œ ±ª¢®¬²¿¾ ¢ ²¢¦º°½.\n\n       ™² ±¦¨°ª ¦¢°þ ¦¨¢ ° ²®¿ °©¯¶°°º¯ ž °®°ª¯ — ¦¨ þ¶ ©®²þ ¯®² ¯®¦ª ©¢¢²¾ ¾¦¯  °Œª¯ª ¡²¢°°º¯ª ©°¯ž°¯ª. ‰¨, ¶² ²¢¦º°¾ °¶ª°² ¶ª²²¿ ¡¾ °µªþ,  ¶¯ °¯, ¢©¯¨°, ±ª¦ž²¾ ¯ªª²¿¾."
   diggy.119.dab:0 "       ƒ¢´º ¬¦³¯¢ ¬±®ª ¥®³¡¬ ª ²¬º®ª ¯°¨²¢ ©²¾°°º ¡®²þ ²¢¦º°ª. ™²ª ©²¾°°º ¬³©°ªµº, ©¦°°º ¦®¾ ²¥, ¶²¡º ª±®¿©¢²¿ ±ª¯³¸²¢ ±°ª©º¢½¸¥ ®¦, °¶®ª ±ª©¢¦ª²¿ ©¯º®¢²º ±ª©¢¦°ª¾ ª© ¬¢µ ª ²®ª.\n\n       ™² ±¦¨°ª ¦¢°þ ²¢¦º° ° ²®¿ °©¯¶°°º¯ ¥ °®°ª¯ — ¦¨ þ¶ °¬¢®¿°¾ ¬¦³¯¢, ³¬Œ°°¾ °¨ª°¬¯ª, ©¢¢²¾ ¾¦¯  °Œª¯ª ¡²¢°°º¯ª ©°¯ž°¯ª. ‰¨, ¶² ²¢¦º°¾ °¶ª°² ¶ª²²¿ ¡¾ °µªþ,  ¶¯ °¯, ¢©¯¨°, ±ª¦ž²¾ ¯ªª²¿¾."
-  diggy.119.dac:0 "       ƒ¢´º ƒ³-Ï¨²³° ¬±®ª ¥®³¡¬ ª ²¬º®ª ¯°¨²¢ ©²¾°°º ¡®²þ ²¢¦º°ª. ‚®¢¬³¨ª²®¿°º ±ª©¢¦°ª¾ ª© ²®ª ª ²¬®, ¼²ª ¦¢°ª ¡¢²ªª ¢°¢¿ ±ª¢®¬½² ¢² °¡ ¢ ¯º ¥®³¡¬ª °¦ Û®°°, ª ®½¡©°²®¿°º ¥°¯º ²¬½²¾ ¢ ª ©®º ¦®¾ °³¶°º ¦¡²¢.\n\n       ™² ±¦¨°ª ¦¢°þ ²¢¦º° ° ²®¿ °©¯¶°°º¯ ¥ °®°ª¯ — ¦¨ þ¶ ©¢©¦°¾ ¥ ƒ³-Ï¨²³° ©¢¢²¾ ¾¦¯  °Œª¯ª ¡²¢°°º¯ª ©°¯ž°¯ª. ‰¨, ¶² ²¢¦º°¾ °¶ª°² ¶ª²²¿ ¡¾ °µªþ,  ¶¯ °¯, ¢©¯¨°, ±ª¦ž²¾ ¯ªª²¿¾."
+  diggy.119.dac:0 "       ƒ¢´º ƒ³-Ï¨²³° ¬±®ª ¥®³¡¬ ª ²¬º®ª ¯°¨²¢ ©²¾°°º ¡®²þ ²¢¦º°ª. ‚®¢¬³¨ª²®¿°º ±ª©¢¦°ª¾ ª© ²®ª ª ²¬®, ¼²ª ¦¢°ª ¡¢²ªª ¢°¢¿ ±ª¢®¬½² ¢² °¡ ¢ ¯º ¥®³¡¬ª °¦ Û®°°, ª ®½¡©°²®¿°º ¦¢´º ²¬½²¾ ¢ ª ©®º ¦®¾ °³¶°º ¦¡²¢.\n\n       ™² ±¦¨°ª ¦¢°þ ²¢¦º° ° ²®¿ °©¯¶°°º¯ ¥ °®°ª¯ — ¦¨ þ¶ ©¢ž©¦°¾ ¥ ƒ³-Ï¨²³° ©¢¢²¾ ¾¦¯  °Œª¯ª ¡²¢°°º¯ª ©°¯ž°¯ª. ‰¨, ¶² ²¢¦º°¾ °¶ª°² ¶ª²²¿ ¡¾ °µªþ,  ¶¯ °¯, ¢©¯¨°, ±ª¦ž²¾ ¯ªª²¿¾."
   diggy.119.dad:0 "       ƒ¢´º ®©¯-©-¦ª ¬±®ª ¥®³¡¬ ª ²¬º®ª ¯°¨²¢ ©²¾°°º ¡®²þ ²¢¦º°ª. ¡¹¦ª°ž°°º ¬³©°ªµº ª ©¥°º ¦®¾ ¬², ¼²ª þ°º ±©¢®¾½² °¢ ±ª©¢¦ª²¿ ¢°¬¢°°³½ ²®¿.\n\n       ™² ±¦¨°ª ¦¢°þ ²¢¦º° ° ²®¿ °©¯¶°°º¯ ¥ °®°ª¯ — ¦¨ þ¶ ¥®³¡þ ²° ®©¯-©-ƒª ©¢¢²¾ ¾¦¯  °Œª¯ª ¡²¢°°º¯ª ©°¯ž°¯ª. ‰¨, ¶² ²¢¦º°¾ °¶ª°² ¶ª²²¿ ¡¾ °µªþ,  ¶¯ °¯, ¢©¯¨°, ±ª¦ž²¾ ¯ªª²¿¾."
   diggy.119.dae:0 "       ƒ¢´º ª²¦³¯ ¬±®ª ¥®³¡¬ ª ²¬º®ª ¯°¨²¢ ©²¾°°º ¡®²þ ²¢¦º°ª. ™²ª ¬³©°ªµº, ¦°¢¯°° ³±¬ª ª ¥ª¥°²¬ª, ±¦²¢®¾½² ª°²³¯°²º, °¡¦ª¯º ¦®¾ ¡¡²¬ª ¯ª´ª®, ª ±ª¢®¬½² ¯º ª¬³°º ª ¯¡ªµª©°º ¯²®®³¥¢.\n\n       ™² ±¦¨°ª ¦¢°þ ²¢¦º° ° ²®¿ °©¯¶°°º¯ ¥ °®°ª¯ — ¦¨ þ¶ ¡®-©®²þ ¸ª² ª²¦³¯ ©¢¢²¾ ¾¦¯  °Œª¯ª ¡²¢°°º¯ª ©°¯ž°¯ª. ‰¨, ¶² ²¢¦º°¾ °¶ª°² ¶ª²²¿ ¡¾ °µªþ,  ¶¯ °¯, ¢©¯¨°, ±ª¦ž²¾ ¯ªª²¿¾."
   diggy.119.daf:0 "       ƒ¢´º ™-²¢ª ¬±®ª ¥®³¡¬ ª ²¬º®ª ¯°¨²¢ ©²¾°°º ¡®²þ ²¢¦º°ª. ‰ ¯ ²¥, ¬¬ ¨ª¢®ª ¢®ª¬ª ¦± ª ¨®©°¦¨°º ©¢¦º, ²¥¢®¾ ª ²°±² ¢ ƒ¢¢ ¯¦®°°, ° ¢° ±°±¢®¾®ª¿ ¶© ¦¢°ªþ µ°².\n\n       ™² ±¦¨°ª ¦¢°þ ²¢¦º° ° ²®¿ °©¯¶°°º¯ ¥ °®°ª¯ — ¦¨ þ¶ Ï¶°¾ €¦ ™-²¢ª ©¢¢²¾ ¾¦¯  °Œª¯ª ¡²¢°°º¯ª ©°¯ž°¯ª. ‰¨, ¶² ²¢¦º°¾ °¶ª°² ¶ª²²¿ ¡¾ °µªþ,  ¶¯ °¯, ¢©¯¨°, ±ª¦ž²¾ ¯ªª²¿¾."
@@ -2253,18 +2253,18 @@
   reforge_dwarovkron_tooltip:0 "§Y--------------- ²°¨¦°ª ´¥¯°²¢ ---------------§!\n\n°:        [Root.DwarovkronCrown]\n¯²ª²:    [Root.DwarovkronAmethyst]\n®¯©:    [Root.DwarovkronDiamond]\nËª²ª°:       [Root.DwarovkronCitrine]\nÐ³¡ª°:          [Root.DwarovkronRuby]\n´ª²:          [Root.DwarovkronJade]\nÔ±´ª:    [Root.DwarovkronSapphire]\n¥²:         [Root.DwarovkronAgate]\n\n§Y¨¯ª² ¦®¾ ¡°¢®°ª¾§!"
 
   ask_asra_agate_title:0 "£icon_dig_deeper£ ‰²¡¢²¿ ¥²"
-  ask_asra_agate_desc:0 "º ±ª©°®ª ¡¾ ©¬°°º¯ª ¢®¦®¿µ¯ª ²¢¦º°ª ³¥¦ª, ²ª°¬þ ²¢¦º°ª °º° ±¢Œþ¾ ¢¦® º, ¢ ¬²þ ¬¥¦-² °ª®¾ ¥²¢ºþ ¯µ¢². ™²² ¦¥µ°°ºþ ¬¯°¿ þ¶ °¦ª²¾ ¢ ³¬ ±²¯¬¢ Ê¥°ª ¢ €°¬ º, °¯°°°, ¼² ¥°ª©µª¾ ²±¿ ©¶² ±¦²¿ °¯ ¥² º?"
+  ask_asra_agate_desc:0 "º ±ª©°®ª ¡¾ ©¬°°º¯ª ¢®¦®¿µ¯ª ²¢¦º°ª ³¥¦ª, ²ª°¬þ ²¢¦º°ª °º° ±¢Œþ¾ ¢¦® º, ¢ ¬²þ ¬¥¦-² °ª®¾ ¥²¢ºþ ¯µ¢². ™²² ¦¥µ°°ºþ ¬¯°¿ þ¶ °¦ª²¾ ¢ ³¬ ±²¯¬¢ Ê¥°ª ¢ €°¬ º ª, °¯°°°, ¼² ¥°ª©µª¾ ²±¿ ©¶² ±¦²¿ °¯ ²² ¯ºþ ¥² º?"
 
   dwarovkron_country_own:0 "§GÏ °Œª ³¬§!"
-  dwarovkron_country_crown:0 "§R ¢ ³¬ §Y[global_kron_crown.GetName]§!§!"
+  dwarovkron_country_crown:0 "§R Ï ³¬ §Y[global_kron_crown.GetName]§!§!"
   dwarovkron_east_serpentspine_crown:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_crown:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_crown:0 "§gª©¢²°§!"
-  dwarovkron_country_amethyst:0 "§R ¢ ³¬ §Y[global_kron_amethyst.GetName]§!§!"
+  dwarovkron_country_amethyst:0 "§R Ï ³¬ §Y[global_kron_amethyst.GetName]§!§!"
   dwarovkron_east_serpentspine_amethyst:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_amethyst:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_amethyst:0 "§gª©¢²°§!"
-  dwarovkron_country_diamond:0 "§R ¢ ³¬ §Y[global_kron_diamond.GetName]§!§!"
+  dwarovkron_country_diamond:0 "§R Ï ³¬ §Y[global_kron_diamond.GetName]§!§!"
   dwarovkron_east_serpentspine_diamond:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_diamond:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_diamond:0 "§gª©¢²°§!"
@@ -2272,19 +2272,19 @@
   dwarovkron_east_serpentspine_citrine:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_citrine:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_citrine:0 "§gª©¢²°§!"
-  dwarovkron_country_ruby:0 "§R ¢ ³¬ §Y[global_kron_ruby.GetName]§!§!"
+  dwarovkron_country_ruby:0 "§R Ï ³¬ §Y[global_kron_ruby.GetName]§!§!"
   dwarovkron_east_serpentspine_ruby:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_ruby:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_ruby:0 "§gª©¢²°§!"
-  dwarovkron_country_jade:0 "§R ¢ ³¬ §Y[global_kron_jade.GetName]§!§!"
+  dwarovkron_country_jade:0 "§R Ï ³¬ §Y[global_kron_jade.GetName]§!§!"
   dwarovkron_east_serpentspine_jade:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_jade:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_jade:0 "§gª©¢²°§!"
-  dwarovkron_country_sapphire:0 "§R ¢ ³¬ §Y[global_kron_sapphire.GetName]§!§!"
+  dwarovkron_country_sapphire:0 "§R Ï ³¬ §Y[global_kron_sapphire.GetName]§!§!"
   dwarovkron_east_serpentspine_sapphire:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_sapphire:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_sapphire:0 "§gª©¢²°§!"
-  dwarovkron_country_agate:0 "§R ¢ ³¬ §Y[global_kron_agate.GetName]§!§!"
+  dwarovkron_country_agate:0 "§R Ï ³¬ §Y[global_kron_agate.GetName]§!§!"
   dwarovkron_east_serpentspine_agate:0 "§D‚¦-² ¢ §Y¢²¶°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_west_serpentspine_agate:0 "§D‚¦-² ¢ §Y©±¦°¯ …¯ª°¯ ¡²§!§!"
   dwarovkron_unknown_agate:0 "§HÏ ¬©° ¡°¬ §!"
@@ -2438,8 +2438,8 @@
   blorc.4323.a:0 "Perhaps the [Root.Owner.Monarch.GetTitle] should visit, what might [Root.Owner.Monarch.GetSheHe] dream?"
 
   #Black Orc trophies
-  black_orc_trophies_decisions_title:0 "The Trophies of the Dwarovar"
-  black_orc_trophies_decisions_desc:0 "Just as the Dwarves made a prize of Dookan, so too shall we make prizes of their ancient homes in retribution. As these prestigious citadels mount, we can delve into their depths, strip the secrets within to turn upon those bearded rats. \n§Y-----------------------------------------------------------------§!\n[Root.black_orc_trophy_khugdihr_loc]\n[Root.black_orc_trophy_haraz_orldhum_loc]\n[Root.black_orc_trophy_amldihr_loc]\n[Root.black_orc_trophy_krakdhumvror_loc]\n[Root.black_orc_trophy_dur_vazhatun_loc]\n[Root.black_orc_trophy_orlazam_az_dihr_loc]\n[Root.black_orc_trophy_mithradhum_loc]\n[Root.black_orc_trophy_er_natvir_loc]\n[Root.black_orc_trophy_verkal_kozenad_loc]\n[Root.black_orc_trophy_hul_jorkad_loc]\n[Root.black_orc_trophy_orlghelovar_loc]\n[Root.black_orc_trophy_shazstundihr_loc]\n[Root.black_orc_trophy_arg_ordstun_loc]\n[Root.black_orc_trophy_verkal_skomdihr_loc]\n[Root.black_orc_trophy_ovdal_lodhum_loc]\n[Root.black_orc_trophy_gor_burad_loc]\n[Root.black_orc_trophy_gor_vazumbrog_loc]\n[Root.black_orc_trophy_hehodovar_loc]\n[Root.black_orc_trophy_seghdihr_loc]\n[Root.black_orc_trophy_verkal_gulan_loc]\n[Root.black_orc_trophy_gor_ozumbrog_loc]\n[Root.black_orc_trophy_ovdal_kanzad_loc]\n[Root.black_orc_trophy_grozumdihr_loc]\n[Root.black_orc_trophy_ovdal_az_an_loc]\n[Root.black_orc_trophy_hul_az_krakazol_loc]\n[Root.black_orc_trophy_tuwad_dhumankon_loc]\n[Root.black_orc_trophy_gronstunad_loc]\n[Root.black_orc_trophy_verkal_dromak_loc]"
+  black_orc_trophies_decisions_title:0 "Ù´ª ¦¢¢"
+  black_orc_trophies_decisions_desc:0 "‰¦¡° ²¯³, ¬¬ ¦¢´º ¢©¾®ª ¢ ¬¶²¢ ±ª© ƒ³¬°, ²¬ ª ¯º ¢ ²¯²¬³ ¢©¿¯¯ ¢ ¬¶²¢ ±ª© ª ¦¢°ª ¦¯. ‰ ¯ ¢©¢¦°ª¾ ¼²ª ±²ª¨°º µª²¦®þ ¯º ¯¨¯ ±°ª¬²¿ ¢ ª ¥®³¡ª°º, ¢º¢¦º¢²¿ ²þ°º, ¶²¡º ©²¯ ¡³Œª²¿¾ ° ¡¦²º ¬º.. \n§Y-----------------------------------------------------------------§!\n[Root.black_orc_trophy_khugdihr_loc]\n[Root.black_orc_trophy_haraz_orldhum_loc]\n[Root.black_orc_trophy_amldihr_loc]\n[Root.black_orc_trophy_krakdhumvror_loc]\n[Root.black_orc_trophy_dur_vazhatun_loc]\n[Root.black_orc_trophy_orlazam_az_dihr_loc]\n[Root.black_orc_trophy_mithradhum_loc]\n[Root.black_orc_trophy_er_natvir_loc]\n[Root.black_orc_trophy_verkal_kozenad_loc]\n[Root.black_orc_trophy_hul_jorkad_loc]\n[Root.black_orc_trophy_orlghelovar_loc]\n[Root.black_orc_trophy_shazstundihr_loc]\n[Root.black_orc_trophy_arg_ordstun_loc]\n[Root.black_orc_trophy_verkal_skomdihr_loc]\n[Root.black_orc_trophy_ovdal_lodhum_loc]\n[Root.black_orc_trophy_gor_burad_loc]\n[Root.black_orc_trophy_gor_vazumbrog_loc]\n[Root.black_orc_trophy_hehodovar_loc]\n[Root.black_orc_trophy_seghdihr_loc]\n[Root.black_orc_trophy_verkal_gulan_loc]\n[Root.black_orc_trophy_gor_ozumbrog_loc]\n[Root.black_orc_trophy_ovdal_kanzad_loc]\n[Root.black_orc_trophy_grozumdihr_loc]\n[Root.black_orc_trophy_ovdal_az_an_loc]\n[Root.black_orc_trophy_hul_az_krakazol_loc]\n[Root.black_orc_trophy_tuwad_dhumankon_loc]\n[Root.black_orc_trophy_gronstunad_loc]\n[Root.black_orc_trophy_verkal_dromak_loc]"
 
   black_orc_trophy_khugdihr_g:0 "§YKhugdihr§!               Loot Amount: §G+25.0%§!"
   black_orc_trophy_khugdihr_r:0 "§YKhugdihr§!               §gLoot Amount: +25.0%§!"
@@ -2560,8 +2560,8 @@
 
 
 
-  blorc.100.t:0 "Plunder Camp Construction"
-  blorc.100.d:0 "It is time for our orcs to build a new outpost on the grave of a million dwarves, allowing us to dig up their treasures and support our burgeoning military"
+  blorc.100.t:0 "Ô²ª²®¿²¢ ±®²¶°¥ ¥¦¬"
+  blorc.100.d:0 "       ²® ¢¯¾ ¦®¾ °Œª ¬¢ ±²ª²¿ °¢ºþ ´±² ° ¯¥ª® ¯ª®®ª° ¦¢´¢, ¶² ±©¢®ª² °¯ ¢º¬±º¢²¿ ª ¬¢ª¸ ª ±¦¦¨ª¢²¿ °Œ³ ²³¸³½ ¯ª½"
   blorc.100.a:0 "§T[blorc_plunder1.GetName]§!"
   blorc.100.b:0 "§T[blorc_plunder2.GetName]§!"
   blorc.100.c:0 "§T[blorc_plunder3.GetName]§!"
@@ -2572,7 +2572,7 @@
   blorc.100.i:0 "§T[blorc_plunder8.GetName]§!"
   blorc.100.j:0 "§T[blorc_plunder9.GetName]§!"
   blorc.100.k:0 "§T[blorc_plunder10.GetName]§!"
-  blorc.100.l:0 "Go Back"
+  blorc.100.l:0 "©¦"
 
 
   blorc.102.t:0 "Dwarven Agricultural System Found!"

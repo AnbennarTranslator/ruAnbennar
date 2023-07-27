@@ -45,6 +45,8 @@
  EST_estate_aistszurIM_CAP:0 "ª²©³º" #NoblesIM_CAP
  EST_estate_officerIM_CAP:0 "´ªµº" #NoblesIM_CAP
  EST_estate_patronatesIM_CAP:0 "‰¬¢ª²®ª" #NoblesIM_CAP
+ EST_estate_warriorsIM_CAP:0 "Ïª°º" #NoblesIM_CAP
+ EST_estate_imperial_nobilityIM_CAP:0 "†¯±¬ ¦¢¾°²¢" #NoblesIM_CAP
  
  EST_estate_churchIM_CAP:0 "Ô¢¾¸°°ª¬ª" #ChurchIM_CAP
  EST_estate_philosophersIM_CAP:0 "Êª®´º" #ChurchIM_CAP
@@ -101,6 +103,8 @@
  EST_estate_aistszurRD:0 "ª²©³¢" #NoblesRD
  EST_estate_officerRD:0 "´ªµ¢" #NoblesRD
  EST_estate_patronatesRD:0 "±¬¢ª²®þ" #NoblesRD
+ EST_estate_warriorsRD:0 "¢ª°¢" #NoblesRD
+ EST_estate_imperial_nobilityRD:0 "ª¯±¬¥ ¦¢¾°²¢" #NoblesRD
  
  EST_estate_churchRD:0 "¢¾¸°°ª¬¢" #ChurchRD
  EST_estate_skaldsRD:0 "¬®¿¦¢" #ChurchRD
@@ -160,6 +164,9 @@
  EST_estate_aistszurIM:0 "ª²©³º" #NoblesIM
  EST_estate_officerIM:0 "´ªµº" #NoblesIM
  EST_estate_patronatesIM:0 "±¬¢ª²®ª" #NoblesIM
+ EST_estate_warriorsIM:0 "¢ª°º" #NoblesIM
+ EST_estate_imperial_nobilityIM:0 "ª¯±¬ ¦¢¾°²¢" #NoblesIM
+ 
  
  EST_estate_churchIM:0 "¢¾¸°°ª¬ª" #ChurchIM
  EST_estate_skaldsIM:0 "¬®¿¦º" #ChurchIM
@@ -217,6 +224,8 @@
  EST_estate_aistszurDT:0 "ª²©³¯" #NoblesDT
  EST_estate_officerDT:0 "´ªµ¯" #NoblesDT
  EST_estate_patronatesDT:0 "±¬¢ª²®¾¯" #NoblesDT
+ EST_estate_warriorsDT:0 "¢ª°¯" #NoblesDT
+ EST_estate_imperial_nobilityDT:0 "ª¯±¬¯³ ¦¢¾°²¢³" #NoblesDT
  
  EST_estate_churchDT:0 "¢¾¸°°ª¬¯" #ChurchDT
  EST_estate_skaldsDT:0 "¬®¿¦¯" #ChurchDT
@@ -281,6 +290,8 @@
  EST_estate_klarTV:0 "¬®¯ª" #ChurchTV
  EST_estate_jongsoetaTV:0 "¶°³¼²¯ª" #ChurchTV
  EST_estate_balgarsmithsTV:0 "¡®¥¢º¯ª ¬³©°µ¯ª" #ChurchTV
+ EST_estate_warriorsTV:0 "¢ª°¯ª" #NoblesTV
+ EST_estate_imperial_nobilityTV:0 "ª¯±¬ª¯ ¦¢¾°²¢¯" #NoblesTV
  
  EST_monstrous_tribesTV:0 "¶³¦¢ª¸°º¯ª ±®¯°¯ª" #Monstrous_tribesTV
  
