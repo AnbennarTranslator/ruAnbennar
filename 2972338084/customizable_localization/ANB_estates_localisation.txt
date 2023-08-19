@@ -220,10 +220,22 @@ defined_text = {
     name = ArtificersRD
 	
 	text = {
-			localisation_key = EST_estate_artificersRD
-			has_estate = estate_artificers				
-			trigger = {
-
+		localisation_key = EST_estate_artificersRD						
+		trigger = {
+			has_estate = estate_artificers
+			NOT ={	
+				OR = {
+					was_tag = A99
+					tag = A99
+				}
+			}
+			NOT= {culture_group = eordan_ruinborn_elf}
+			NOT= {
+				OR = {
+					was_tag = Y20
+					tag = Y20
+				}				
+			}
 		}
 	}
 	text = {
@@ -884,10 +896,22 @@ defined_text = {
     name = ArtificersTV
 	
 	text = {
-			localisation_key = EST_estate_artificersTV
-			has_estate = estate_artificers				
-			trigger = {
-
+		localisation_key = EST_estate_artificersTV
+		trigger = {
+			has_estate = estate_artificers
+			NOT ={	
+				OR = {
+					was_tag = A99
+					tag = A99
+				}
+			}
+			NOT= {culture_group = eordan_ruinborn_elf}
+			NOT= {
+				OR = {
+					was_tag = Y20
+					tag = Y20
+				}				
+			}
 		}
 	}
 	text = {
@@ -1547,10 +1571,22 @@ defined_text = {
     name = ArtificersDT
 	
 	text = {
-			localisation_key = EST_estate_artificersDT
-			has_estate = estate_artificers				
-			trigger = {
-
+		localisation_key = EST_estate_artificersDT
+		trigger = {
+			has_estate = estate_artificers
+			NOT ={	
+				OR = {
+					was_tag = A99
+					tag = A99
+				}
+			}
+			NOT= {culture_group = eordan_ruinborn_elf}
+			NOT= {
+				OR = {
+					was_tag = Y20
+					tag = Y20
+				}				
+			}
 		}
 	}
 	text = {
@@ -2211,10 +2247,22 @@ defined_text = {
     name = ArtificersIM
 	
 	text = {
-			localisation_key = EST_estate_artificersIM
-			has_estate = estate_artificers				
-			trigger = {
-
+		localisation_key = EST_estate_artificersIM
+		trigger = {
+			has_estate = estate_artificers
+			NOT ={	
+				OR = {
+					was_tag = A99
+					tag = A99
+				}
+			}
+			NOT= {culture_group = eordan_ruinborn_elf}
+			NOT= {
+				OR = {
+					was_tag = Y20
+					tag = Y20
+				}				
+			}
 		}
 	}
 	text = {
@@ -2875,10 +2923,22 @@ defined_text = {
     name = ArtificersIM_CAP
 	
 	text = {
-			localisation_key = EST_estate_artificersIM_CAP
-			has_estate = estate_artificers				
-			trigger = {
-
+		localisation_key = EST_estate_artificersIM_CAP
+		trigger = {
+			has_estate = estate_artificers
+			NOT ={	
+				OR = {
+					was_tag = A99
+					tag = A99
+				}
+			}
+			NOT= {culture_group = eordan_ruinborn_elf}
+			NOT= {
+				OR = {
+					was_tag = Y20
+					tag = Y20
+				}				
+			}
 		}
 	}
 	text = {
