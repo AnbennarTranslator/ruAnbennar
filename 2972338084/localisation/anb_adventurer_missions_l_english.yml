@@ -35,7 +35,7 @@
    desc_adv_administration:0 "¥¦-² ¼² ±¢ª°µª¾ ¡º® ®ªŒ¿ Œ²¡-¬¢²ªþ ª¬²®þ ±ª¬®½¶°ªþ ¢ ¶³¨ª ©¯®¾. Ôþ¶ ¼² ±µ¢²½¸¾ ²®ªµ, ¡³° ©¢ª¢½¸¾¾ ¢ ²¥¢®."
    organized_adventurer_administration:0 "Op¥a°ª©o¢a°°a¾ ¦¯ª°ªc²paµª¾ ¢a°²½pªc²o¢"
    desc_organized_adventurer_administration:0 "Œ ±¦³¯²ª²®¿°²¿ ¢ ©¦°ªª µ°²®¿°¥ °®¥¢¥ ³±¢®°ª¾ ª ±µª®ª©ª¢°°¥ ¡½¬²ª¶¬¥ ¬±³ Œª® ¡®¿Œ³½ ¶²¿ ±¡®¯, ¢¾©°°º  ©¦°ª¯ °¢¥ °µª°®¿°¥ ¥³¦²¢."
-   adv_guild_integrated_tooltip:0 "§G™²o c¢e¦ž² °a °e² °e¦oc²a²¬ª a¦¯ª°ªc²pa²ª¢°oþ ¼´´e¬²ª¢°oc²ª, c¢¾©a°°ºe c o¡pa©o¢a°ªe¯ ¥oc³¦apc²¢a §Yˆª¥ A¢a°²½pªc²o¢§!.§!"
+   adv_guild_integrated_tooltip:0 "§G™²o c¢e¦ž² °a °e² °e¦oc²a²¬ª a¦¯ª°ªc²pa²ª¢°oþ ¼´´e¬²ª¢°oc²ª ² §Y®¦ª¾ ¢a°²½pªc²o¢§!, c¢¾©a°°ºe c o¡pa©o¢a°ªe¯ ¥oc³¦apc²¢a.§!"
 
    #If you can get [Root.getName] working here ideally this reads "Is tribal land of [Root.getName]" but I could not 
    #tribal_land_of_tt:0 "Is our §Ytribal land§!"
@@ -62,22 +62,22 @@
    ADV_forcelimit_title:0 "Ap¯ª¾ ¢a°²½pªc²o¢"
    ADV_forcelimit_desc:0 "Mº ©a¢ªcª¯ o² cpe¦°e¥o a¢a°²½pªc²a, ©ace®¾½¸e¥o ©e¯®½. Ha¯ °³¨°º ¥epoª, ¬o²opº¯ ¯º ¯o¨e¯ ¦o¢ep¾²¿, ¶²o¡º ²e ¡º®ª ¥o²o¢º ©a¸ª¸a²¿ °aŒª ¥pa°ªµº ª o²²ec°¾²¿ op¬o¢."
    ADV_2_prov_title:0 "‰ep¢ºþ Œa¥"
-   ADV_2_prov_desc:0 "Xo²¾ c¬ª²a°ª¾ ±o ™c¬a°³ ¦o cªx ±op ¡º®ª ¼´´e¬²ª¢°º, °a¯ ¦eþc²¢ª²e®¿°o °³¨°o o¡¹e¦ª°ª²¿ pa©®ª¶°ºe ´pa¬µªª A¢a°²½pªc²o¢ ª ocec²¿ °a ¡®ª©®e¨a¸ªx ©e¯®¾x, ¶²o¡º ³ °ac ¡º®a ±po¶°a¾, °e ¯ª¥pªp³½¸a¾ ¢®ac²¿."
+   ADV_2_prov_desc:0 "Xo²¾ c¬ª²a°ª¾ ±o ™c¬a°³ ¦o cªx ±op ¡º®ª ¼´´e¬²ª¢°º, °a¯ ¦eþc²¢ª²e®¿°o °³¨°o o¡¹e¦ª°ª²¿ pa©®ª¶°ºe ´pa¬µªª ¢a°²½pªc²o¢ ª ocec²¿ °a ¡®ª©®e¨a¸ªx ©e¯®¾x, ¶²o¡º ³ °ac ¡º®a ±po¶°a¾, °e ¯ª¥pªp³½¸a¾ ¢®ac²¿."
    ADV_3_prov_title:0 "÷ªpe Œa¥"
-   ADV_3_prov_desc:0 "‰ ¯ ²¥, ¬¬ ¯º ±¦®¨¯ ©¢²º¢²¿ °¢º ²ª²ªª ¢ ™¬°°, ¢ ¡®¿Œ ª ¡®¿Œ ±ª¦ª°¾½²¾ ¬ ±©¦³ °¡¨°ª¾ °Œþ ¬¯±°ªª, ±¦®¥¾ ²¢º ª ³®³¥ª, ² ²°ª¬¢, ±¦½¸ª ¯¾, ¦ Œ®½, ±¦½¸ª ¢ ²®. ™²ª ®½¦ª, °©¢ªª¯ ² ²¥, ±ª®ª ®ª °ª ª© °° ¢ ±ª¬ ®³¶Œþ ¨ª©°ª ª®ª ¾¢®¾½²¾ ¡º¢Œª¯ª ¡¨°µ¯ª ª© ™¬°°ªª, ¢°³¢Œª¯ª¾ ¦¯þ, ¡© ¯°°ª¾, ²¢®¾½² °¢³ °Œª ³ª®ªþ ©¦¿. °ª ±¦ °Œþ ©¸ª²þ, ª ¯º ¦®¨°º ²°ª²¿¾ ¬ °ª¯ ²¬, ¬¬ ²° ¦®¨° ²°ª²¿¾ ¬ ¢ª¯ ¥¨¦°¯.."
+   ADV_3_prov_desc:0 "‰ ¯ ²¥, ¬¬ ¯º ±¦®¨¯ ©¢²º¢²¿ °¢º ²ª²ªª ¢ ™¬°°, ¢ ¡®¿Œ ª ¡®¿Œ ±ª¦ª°¾½²¾ ¬ ±©¦³ °¡¨°ª¾ °Œþ ¬¯±°ªª, ±¦®¥¾ ²¢º ª ³®³¥ª, ² ²°ª¬¢, ±¦½¸ª ¯¾, ¦ Œ®½, ±¦½¸ª ¢ž ²®. ™²ª ®½¦ª, °©¢ªª¯ ² ²¥, ±ª®ª ®ª °ª ª© °° ¢ ±ª¬ ®³¶Œþ ¨ª©°ª ª®ª ¾¢®¾½²¾ ¡º¢Œª¯ª ¡¨°µ¯ª ª© ™¬°°, ¢°³¢Œª¯ª¾ ¦¯þ, ¡© ¯°°ª¾, ²¢®¾½² °¢³ °Œª ³ª®ªþ ©¦¿. °ª ±¦ °Œþ ©¸ª²þ, ª ¯º ¦®¨°º ²°ª²¿¾ ¬ °ª¯ ²¬, ¬¬ ²° ¦®¨° ²°ª²¿¾ ¬ ¢ª¯ ¥¨¦°¯."
    ADV_capital_region_title:0 "ƒo¯"
    ADV_capital_region_desc:0 "Xo²¾ °e ¢ce ¯º po¦o¯ ª© o¦°o¥o ª ²o¥o ¨e ¯ec²a, ¢ ™c¬a°e ¬a¨¦ºþ ª© °ac °aŒë® c¢oþ °o¢ºþ ¦o¯. ‰o¼²o¯³ °a¯ a¡co®½²°o °eo¡xo¦ª¯o o¡e©o±acª²¿ ²eppª²opª½ ¢o¬p³¥ °aŒeþ c²o®ªµº, co©¦a²¿ ¯ªp, ¬o²opºþ c¯o¨e² ±pª¢®e¶¿ °a °aŒª ©e¯®ª ¬a¬ c²apºx, ²a¬ ª °o¢ºx ¼c¬a°µe¢."
    ADV_build_frenzy_title:0 "Bocc²a°o¢®e°ªe ce®e°ªþ"
    ADV_build_frenzy_desc:0 "Xo²¾ o²¢oe¢a°ªe ©e¯®ª ³ op¬o¢ ¾¢®¾e²c¾ °aŒeþ ¥®a¢°oþ µe®¿½, °a¯ ¢ce e¸e °³¨°o ¢occ²a°o¢ª²¿ c²apºe ce®e°ª¾ ª co©¦a²¿ pa¡o²a½¸³½ ª°´pac²p³¬²³p³. ‰opa ªc±o®¿©o¢a²¿ ±³c²ºpª c ±o®¿©oþ!"
    ADV_guild_integration_title:0 "Op¥a°ª©o¢a²¿ °a®o¥o¢³½"
-   ADV_guild_integration_desc:0 "‰o ¯epe ²o¥o ¬a¬ °aŒa ©e¯®¾ c²a°o¢ª²c¾ ¢ce ¡o®ee ª ¡o®ee pa©¢ª²oþ, a °aŒª ¦epe¢°ª ¢occ²a°a¢®ª¢a½²c¾, ±pªŒ®o ¢pe¯¾ ³c²a°o¢ª²¿ op¥a°ª©o¢a°°³½ cªc²e¯³ °a®o¥oo¡®o¨e°ª¾. €®a¥o¦ap¾ ¼²o¯³ ¯º ¯o¨e¯ ³¢e®ª¶ª²¿ c¢oª ¦oxo¦º, a ²a¬¨e co¦ep¨a²¿ ¬op±³c o±º²°ºx ¡½po¬pa²o¢, ¥o²o¢ºx ¢¢ec²ª ¢°o¢¿ ©a¢oe¢a°°ºe ©e¯®ª ¢ °aŒ³ a¦¯ª°ªc²paµª½. "
+   ADV_guild_integration_desc:0 "‰o ¯epe ²o¥o ¬a¬ °aŒa ©e¯®¾ c²a°o¢ª²c¾ ¢cž ¡o®ee ª ¡o®ee pa©¢ª²oþ, a °aŒª ¦epe¢°ª ¢occ²a°a¢®ª¢a½²c¾, ±pªŒ®o ¢pe¯¾ ³c²a°o¢ª²¿ op¥a°ª©o¢a°°³½ cªc²e¯³ °a®o¥oo¡®o¨e°ª¾. €®a¥o¦ap¾ ¼²o¯³ ¯º ¯o¨e¯ ³¢e®ª¶ª²¿ c¢oª ¦oxo¦º, a ²a¬¨e co¦ep¨a²¿ ¬op±³c o±º²°ºx ¡½po¬pa²o¢, ¥o²o¢ºx ¢¢ec²ª ¢°o¢¿ ©a¢oe¢a°°ºe ©e¯®ª ¢ °aŒ³ a¦¯ª°ªc²paµª½. "
    
    ADV_prestigious_adventurer_title:0 "C®a¢°ºe ±pª¬®½¶e°ª¾"
    ADV_prestigious_adventurer_desc:0 "Œ ³± ¢ ™¬°° ©²¢ª® ¦³¥ª ¢°²½ª²¢ ¥¢ª²¿  °, , ¬¬ ¯º ©°¯, ¦®¾ ¢°²½ª²¢ ¢¨° ° ², ¬² ¢º,  ², ¶¥ ¢º ¦²ª¥®ª."
    ADV_war_ork_title:0 "…e®ë°a¾ ¯ec²¿"
    ADV_war_ork_desc:0 "Mº °ª¬o¥¦a °e ±poc²ª¯ op¬o¢ ©a ²o, ¶²o o°ª c¦e®a®ª. ‰pªŒ®o ¢pe¯¾ °a°ec²ª o²¢e²°ºþ ³¦ap ª o²¢oe¢a²¿ ™c¬a° ³ ©e®e°o¬o¨ªx ª®ª ³¯epe²¿ c ¶ec²¿½!"
    ADV_standing_army_title:0 "‰²¾°°¾ ¯ª¾"
-   ADV_standing_army_desc:0 "Co ¢pe¯e° …®ž°þ ®¢ª°º ¶¿¾ ³¥© °¢ª® °¦ ™¬°¯. ‹ °ac ¢ce¥¦a ¦o®¨°a ¡º²¿ cª®¿°a¾ ap¯ª¾, ¥o²o¢a¾ ¦a²¿ o²±op."
+   ADV_standing_army_desc:0 "Co ¢pe¯ž° …®ž°þ ®¢ª°º ¶¿¾ ³¥© °¢ª® °¦ ™¬°¯. ‹ °ac ¢ce¥¦a ¦o®¨°a ¡º²¿ cª®¿°a¾ ap¯ª¾, ¥o²o¢a¾ ¦a²¿ o²±op."
    ADV_one_colon_title:0 "H³¨°o ¡o®¿Œe ©e¯e®¿"
    ADV_one_colon_desc:0 "Te±ep¿, ¬o¥¦a ¯º o¡ec±e¶e°º, ³ °ac ec²¿ pec³pcº, ¬o²opºe ±o¯o¥³² ¦a®¿°eþŒe¯³ pacŒªpe°ª½, a ±o²o¬ A¢a°²½pªc²o¢, ¬a¨¦ºþ ¦e°¿ ±pªe©¨a½¸ªx ¢ °aŒ³ c²o®ªµ³, °e ±pe¬pa¸ae²c¾. Mº ¥o²o¢º."
    
@@ -86,4 +86,4 @@
    ADV_ally_cooperation_title:0 "B©aª¯o±o¯o¸¿"
    ADV_ally_cooperation_desc:0 "Pa©°ºe ±po¡®e¯º ²pe¡³½² pa©°o¥o ±o¦xo¦a, pa©°ºe pec³pcº ²pe¡³½² pa©°ºx pa¡o¶ªx. Ta¬ ±o¶e¯³ ¡º °e ±o¯o¶¿ °aŒª¯ coce¦¾¯ ¢ ªx ±po¡®e¯ax, ¶²o¡º o°ª ¢©a¯e° ±o¯o¥®ª °a¯ ¢ °aŒªx."
    ADV_organize_capital_title:0 "‹p¡a°ª©aµª¾ [Root.Capital.GetCapitalName]"
-   ADV_organize_capital_desc:0 "C²o®ªµa - ¼²o ®ªµo ¥oc³¦apc²¢a, ¬o²opo¥o o°a ¢o©¥®a¢®¾e². To¶°o ²a¬ ¨e, ¬a¬ ˆope°²e°e ±o¬a©º¢ae² ¬paco²³ ˆopa°a, °aŒa c²o®ªµa ¦o®¨°a ±o¬a©a²¿ ±poµ¢e²a°ªe, ¬o²opoe ¬ ¬o²opo¯³ ¯º ±pªŒ®ª. † ±o¼²o¯³ ¢a¨°o, ¶²o¡º o°a ¡º®a ¡o®¿Œª¯, ¶e¯ ±poc²o ¬a¬oe-²o ce®e°ªe, °a¯ °³¨°o, ¶²o¡º ¼²o ¡º® °ac²o¾¸ªþ ¥opo¦!"
+   ADV_organize_capital_desc:0 "C²o®ªµa — ¼²o ®ªµo ¥oc³¦apc²¢a, ¬o²opo¥o o°a ¢o©¥®a¢®¾e². To¶°o ²a¬ ¨e, ¬a¬ ˆope°²þ°e ±o¬a©º¢ae² ¬paco²³ ˆ°², °aŒa c²o®ªµa ¦o®¨°a ±o¬a©a²¿ ±poµ¢e²a°ªe, ¬o²opoe ¬ ¬o²opo¯³ ¯º ±pªŒ®ª. † ±o¼²o¯³ ¢a¨°o, ¶²o¡º o°a ¡º®a ¡o®¿Œª¯, ¶e¯ ±poc²o ¬a¬oe-²o ce®e°ªe, °a¯ °³¨°o, ¶²o¡º ¼²o ¡º® °ac²o¾¸ªþ ¥opo¦!"

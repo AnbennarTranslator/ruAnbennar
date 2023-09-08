@@ -1,0 +1,2731 @@
+﻿l_english:
+ HARI_IM:1 "ª" #GetTitleIM 
+ GREAT_HARI_IM:1 "¢®ª¬ªþ ª" #GetTitleIM 
+ HARIN_IM:1 "ª°" #GetTitleIM 
+ GREAT_HARIN_IM:1 "¢®ª¬¾ ª°" #GetTitleIM 
+ DUKE_CROSSGUARD_IM:1 "¬°¾©¿-©a¸ª²°ª¬" #GetTitleIM 
+ KING_CROSSGUARD_IM:1 "¬opo®¿-©a¸ª²°ª¬" #GetTitleIM 
+ EMPEROR_CROSSGUARD_IM:1 "ª¯±epa²op-©a¸ª²°ª¬" #GetTitleIM 
+ DUCHESS_CROSSGUARD_IM:1 "¬°¾¥ª°¾-©a¸ª²°ªµa" #GetTitleIM 
+ QUEEN_CROSSGUARD_IM:1 "¬opo®e¢a-©a¸ª²°ªµa" #GetTitleIM 
+ EMPRESS_CROSSGUARD_IM:1 "ª¯±epa²pªµa-©a¸ª²°ªµa" #GetTitleIM 
+ SANCTIFIED_KING_IM:1 "¢¾²oþ ¬opo®¿" #GetTitleIM 
+ SANCTIFIED_EMPEROR_IM:1 "¢¾²oþ ª¯±epa²op" #GetTitleIM 
+ SANCTIFIED_QUEEN_IM:1 "¢¾²a¾ ¬opo®e¢a" #GetTitleIM 
+ SANCTIFIED_EMPRESS_IM:1 "¢¾²a¾ ª¯±epa²pªµa" #GetTitleIM 
+ PHOENIX_EMPEROR_IM:1 "ª¯±² ´°ª¬" #GetTitleIM 
+ PHOENIX_EMPRESS_IM:1 "ª¯±²ªµ ´°ª¬" #GetTitleIM 
+ COMMANDER_IM:1 "¬o¯a°¦ªp" #GetTitleIM 
+ HERALD_IM:1 "¢ec²°ª¬" #GetTitleIM 
+ DIVINE_HERALD_IM:1 "¡o¨ec²¢e°°ºþ ¢ec²°ª¬" #GetTitleIM 
+ COMMANDER_fem_IM:1 "¬o¯a°¦ªpŒ" #GetTitleIM 
+ HERALD_fem_IM:1 "¢ec²°ªµ" #GetTitleIM 
+ DIVINE_HERALD_fem_IM:1 "¡o¨ec²¢e°°¾ ¢ec²°ªµ" #GetTitleIM 
+ SORCERER_KING_IM:1 "¬®¿-¬®¦³°" #GetTitleIM 
+ SORCERER_QUEEN_IM:1 "¬®¢-¬®¦³°¿¾" #GetTitleIM 
+ BLACK_ACOLYTE_IM:1 "¶ž°ºþ ¬®ª²" #GetTitleIM 
+ BLACK_ACOLYTE_fem_IM:1 "¶ž°¾ ¬®ª²" #GetTitleIM 
+ GRAY_DUKE_IM:1 "epºþ ¬°¾©¿" #GetTitleIM 
+ GRAY_KING_IM:1 "epºþ ¬opo®¿" #GetTitleIM 
+ GRAY_EMPEROR_IM:1 "epºþ ª¯±epa²op" #GetTitleIM 
+ GRAY_DUCHESS_IM:1 "epa¾ ¬°¾¥ª°¾" #GetTitleIM 
+ GRAY_QUEEN_IM:1 "epa¾ ¬opo®e¢a" #GetTitleIM 
+ GRAY_EMPRESS_IM:1 "epa¾ ª¯±epa²pªµa" #GetTitleIM 
+ MAGISTER_IM:1 "¯¥ª²" #GetTitleIM 
+ MAGISTRIX_IM:1 "¯¥ª²" #GetTitleIM 
+ KNIGHT_CAPTAIN_IM:1 "ºµap¿-¬a±ª²a°" #GetTitleIM 
+ KNIGHT_CAPTAIN_fem_IM:1 "ºµap¿-¬a±ª²a°Œ" #GetTitleIM 
+ LORD_CRIER_IM:1 "®op¦ ¥®aŒa²aþ" #GetTitleIM 
+ LADY_CRIER_IM:1 "®¦ª ¥®aŒa²aþ" #GetTitleIM 
+ PACK_LORD_IM:1 "±o¢e®ª²e®¿ ²aª" #GetTitleIM 
+ CORSAIR_KING_IM:1 "¬opo®¿ ¬opcapo¢" #GetTitleIM 
+ SEA_SCOURGE_IM:1 "¥po©a ¯opeþ" #GetTitleIM 
+ PACK_MISTRESS_IM:1 "±o¢e®ª²e®¿°ªµa ²aª" #GetTitleIM 
+ CORSAIR_QUEEN_IM:1 "¬®¢ ¬opcapo¢" #GetTitleIM 
+ TLUUKT_KING_IM:1 "¬®³°¬®" #GetTitleIM 
+ TLUUKT_EMPEROR_IM:1 "¬³°¬®" #GetTitleIM 
+ TLUUKT_QUEEN_IM:1 "¬®³°¬®ª" #GetTitleIM 
+ TLUUKT_EMPRESS_IM:1 "¬³°¬®ª" #GetTitleIM 
+ JARL_IM:1 "¾®" #GetTitleIM 
+ KONUNGR_IM:1 "¬°³°¥" #GetTitleIM 
+ OZTRKONUNGR_IM:1 "©²o¬o°³°¥" #GetTitleIM 
+ DROTTNING_IM:1 "¦po²²°ª°¥" #GetTitleIM 
+ OZTRDROTTNING_IM:1 "©¦po²²°ª°¥" #GetTitleIM 
+ MASTER_SKALD_PRIEST_IM:1 "¢e®ª¬ªþ ¬a®¿¦-¨peµ" #GetTitleIM 
+ MASTER_SKALD_PRIESTESS_IM:1 "¢e®ª¬a¾ ¬a®¿¦-¨pªµa" #GetTitleIM 
+ EXALTED_COMPANION_IM:1 "¢o©¢ºŒe°°ºþ ±³²°ª¬" #GetTitleIM 
+ ARD_DRADH_IM:1 "p¦ ¦pa¦" #GetTitleIM 
+ ARD_BANNDRADH_IM:1 "p¦ ¡a°°¦pa¦" #GetTitleIM 
+ SHADOW_MALE_IM:1 "²e°e¢oþ ±pª°µ" #GetTitleIM 
+ SHADOW_FEMALE_IM:1 "²e°e¢a¾ ±pª°µecca" #GetTitleIM 
+ CRYSTAL_QUEEN_IM:1 "¬pªc²a®¿°a¾ ¬opo®e¢a" #GetTitleIM 
+ CRYSTAL_EMPRESS_IM:1 "¬pªc²a®¿°a¾ ª¯±epa²pªµa" #GetTitleIM 
+ OBSIDIAN_MALE_IM:1 "¢º¡pa°°ºþ ³°oþ"
+ OBSIDIAN_FEMALE_IM:1 "¢º¡pa°°¾ ³°oþ"
+ OBSIDIAN_INVASION_MALE_IM:1 "³°°ºþ ¢²°ª¬"
+ OBSIDIAN_INVASION_FEMALE_IM:1 "³°°¾ ¢²°ªµ"
+ COUNCILLOR_IM:1 "¬o°c³®" #GetTitleIM 
+ FIRST_COUNCILLOR_IM:1 "±¢ºþ ¬°³®" #GetTitleIM 
+ HIGH_COUNCILLOR_IM:1 "¢¢°ºþ ¬°³®" #GetTitleIM 
+ MARSHAL_IM:1 "¯Œ®" #GetTitleIM 
+ GRAND_MARSHAL_IM:1 "¥°¦-¯Œ®" #GetTitleIM 
+ GANG_LEADER_IM:1 "®ª¦ep ¡a°¦º" #GetTitleIM 
+ GREY_EMINENCE_IM:1 "ºþ ¬¦ª°®" #GetTitleIM 
+ MENGURKHA_IM:1 "¯e°¥³p¬a" #GetTitleIM 
+ MENGARKHA_IM:1 "¯e°¥ap¬a" #GetTitleIM 
+ BAOZH_IM:1 "¡¨" #GetTitleIM 
+ BAOZHA_IM:1 "¡¨" #GetTitleIM 
+ BIIGH_BAOZH_IM:1 "¡ªª¥ ¡¨" #GetTitleIM 
+ BIIGH_BAOZHA_IM:1 "¡ªª¥ ¡¨" #GetTitleIM 
+ OJKAGMA_IM:1 "þ¬¥¯" #GetTitleIM 
+ MENGURM_IM:1 "¯°¥³'¯" #GetTitleIM 
+ MENGURKHA_IM:1 "¯e°¥³p¬a" #GetTitleIM 
+ OJKODIRD_IM:1 "þ¬¦ª¦" #GetTitleIM 
+ MENGURMA_IM:1 "¯°¥³'¯" #GetTitleIM 
+ MENGARKHA_IM:1 "¯e°¥ap¬a" #GetTitleIM 
+ GHALRDON_IM:1 "¥®'¦°" #GetTitleIM 
+ GHALRDAL_IM:1 "¥®'¦®" #GetTitleIM 
+ BATTLEKING_IM:1 "¬opo®¿ ¢ª²®¿" #GetTitleIM 
+ BOYACSAR_IM:1 "¡¾¬" #GetTitleIM 
+ BATTLEQUEEN_IM:1 "¬opo®e¢a ¢ª²®¿°ªµ" #GetTitleIM 
+ BOYACSARA_IM:1 "¡¾¬" #GetTitleIM 
+ VALADR_IM:1 "¢®¦" #GetTitleIM 
+ VIZVALADR_IM:1 "¢ª©¢®¦" #GetTitleIM 
+ VALATKA_IM:1 "¢®²¬" #GetTitleIM 
+ VIZVALATKA_IM:1 "¢ª©¢®²¬" #GetTitleIM 
+ VYRISAR_IM:1 "¢ºª" #GetTitleIM 
+ VYRISETA_IM:1 "¢ºª²" #GetTitleIM 
+ VITSAR_IM:1 "¢ª²" #GetTitleIM 
+ YRIDAM_IM:1 "ªª¦¯" #GetTitleIM 
+ BARON_IM:1 "¡°" #GetTitleIM 
+ BARONESS_IM:1 "¡°" #GetTitleIM 
+ VENERATOR_IM:1 "¢°²" #GetTitleIM 
+ VENERATOR_HIGH_IM:1 "¢¢°ºþ ¢°²" #GetTitleIM 
+ RASHENBIR_IM:1 "Œ°¡ª" #GetTitleIM 
+ HWALBAEJ_IM:1 "¢®¡þ" #GetTitleIM 
+ KAJAENG_IM:1 "¬¦¨°" #GetTitleIM 
+ DAKAJAENG_IM:1 "¦¬¦¨°" #GetTitleIM 
+ HWALEI_IM:1 "¢®þ" #GetTitleIM 
+ KUSHAEN_IM:1 "¬³Œ°" #GetTitleIM 
+ DAKUSHAEN_IM:1 "¦¬³Œ°" #GetTitleIM 
+ ZHU_IM:1 "¶¨³" #GetTitleIM 
+ TONGZHE_IM:1 "²°¶¨¼" #GetTitleIM 
+ DIANGDI_IM:1 "¦ª°¥¦ª" #GetTitleIM 
+ SHUN_IM:1 "Œ³°¿" #GetTitleIM 
+ NUWANG_IM:1 "°³¢°¥" #GetTitleIM 
+ HANGHO_IM:1 "°¥" #GetTitleIM 
+ MANSAROM_IM:1 "¯°¯" #GetTitleIM 
+ MONGOR_IM:1 "¯°¥" #GetTitleIM 
+ TAMONGOR_IM:1 "²¯°¥" #GetTitleIM 
+ RENDA_IM:1 "°¦" #GetTitleIM 
+ JOLDO_IM:1 "¦¨®¦" #GetTitleIM 
+ TAJOLDO_IM:1 "²¦¨®¦" #GetTitleIM 
+ HIGH_LORD_IM:1 "¢¢°ºþ ®¦" #GetTitleIM 
+ GREAT_LORD_IM:1 "¢®ª¬ªþ ®¦" #GetTitleIM 
+ HIGH_LADY_IM:1 "¢¢°¾ ®¦ª" #GetTitleIM 
+ GREAT_LADY_IM:1 "¢®ª¬¾ ®¦ª" #GetTitleIM 
+ HIGH_CONVOCATIONARY_IM:1 "¢ºŒªþ ©º¢" #GetTitleIM 
+ GREAT_CONVOCATIONARY_IM:1 "¢®ª¬ªþ ©º¢" #GetTitleIM 
+ SUPREME_CONVOCATIONARY_IM:1 "¢¢°ºþ ©º¢" #GetTitleIM 
+ MYKX_PR_CHIEF_ADMIRAL_IM:1 "²Œªþ ¦¯ª®" #GetTitleIM 
+ MYKX_PR_GRAND_ADMIRAL_IM:1 "¥°¦-¦¯ª®" #GetTitleIM 
+ MYKX_PR_SCOURGE_MAN_IM:1 "±®²¿²µ" #GetTitleIM 
+ MYKX_PR_SCOURGE_WOMAN_IM:1 "±®²¿¯²¿" #GetTitleIM 
+ LORD_MAYOR_IM:1 "®op¦-¯¼p" #GetTitleIM 
+ GRAND_MAYOR_IM:1 "¢e®ª¬ªþ ¯¼p" #GetTitleIM 
+ IRON_KING_IM:1 "¨®©°ºþ ¬®¿" #GetTitleIM 
+ IRON_QUEEN_IM:1 "¨®©°¾ ¬®¢" #GetTitleIM 
+ GRAND_PRINCE_IM:1 "¢e®ª¬ªþ ¬°¾©¿" #GetTitleIM 
+ GRAND_PRINCESS_IM:1 "¢e®ª¬¾ ¬°¾¥ª°¾" #GetTitleIM 
+ OLDKING_IM:1 "²ºþ ¬®¿" #GetTitleIM 
+ OLDQUEEN_IM:1 "²¾ ¬®¢" #GetTitleIM 
+ ELDER_IM:1 "¦¢°ªþ" #GetTitleIM 
+ HIGH_ELDER_IM:1 "¢¢°ºþ ¦¢°ªþ" #GetTitleIM 
+ PARAMOUNT_ELDER_IM:1 "±¢²±°°ºþ ¦¢°ªþ" #GetTitleIM 
+ AMBER_KING_IM:1 "¾°²°ºþ ¬®¿" #GetTitleIM 
+ AMBER_QUEEN_IM:1 "¾°²°¾ ¬®¢" #GetTitleIM 
+ BRIGHT_KING_IM:1 "¾¬ªþ ¬®¿" #GetTitleIM 
+ BRIGHT_QUEEN_IM:1 "¾¬¾ ¬®¢" #GetTitleIM 
+ FLAME_CUSTODIAN_IM:1 "°ª²®¿" #GetTitleIM 
+ FIRELORD_IM:1 "±¢®ª²®¿ ¥°¾" #GetTitleIM 
+ FIRELADY_IM:1 "±¢®ª²®¿°ªµ ¥°¾" #GetTitleIM 
+ CRIMSON_REVEREND_IM:1 "¡¥¢ºþ ±±¦¡°ºþ" #GetTitleIM 
+ CRIMSON_REVEREND_fem_IM:1 "¡¥¢¾ ±±¦¡°¾" #GetTitleIM 
+ SKY_CAPTAIN_IM:1 "°¡°ºþ ¬±ª²°" #GetTitleIM 
+ GRAND_SKY_CAPTAIN_IM:1 "¢®ª¬ªþ °¡°ºþ ¬±ª²°" #GetTitleIM 
+ DRAGON_PRINCE_IM:1 "±ª°µ ¦¬°¢" #GetTitleIM 
+ DRAGON_KING_IM:1 "¬®¿ ¦¬°¢" #GetTitleIM 
+ DRAGON_EMPEROR_IM:1 "ª¯±² ¦¬°¢" #GetTitleIM 
+ DRAGON_PRINCESS_IM:1 "±ª°µ ¦¬°¢" #GetTitleIM 
+ DRAGON_QUEEN_IM:1 "¬®¢ ¦¬°¢" #GetTitleIM 
+ DRAGON_EMPRESS_IM:1 "ª¯±²ªµ ¦¬°¢" #GetTitleIM 
+ LIANGZHU_IM:1 "®ª°¶¨³" #GetTitleIM 
+ KEGLORD_IM:1 "¬¥®¦" #GetTitleIM 
+ HIGH_KEGLORD_IM:1 "¢¢°ºþ ¬¥®¦" #GetTitleIM 
+ KEGQUEEN_IM:1 "¬¥®¢" #GetTitleIM 
+ HIGH_KEGQUEEN_IM:1 "¢¢°¾ ¬¥®¢" #GetTitleIM 
+ LESSER_KING_IM:1 "¯°¿Œªþ ¬®¿" #GetTitleIM 
+ KING_OF_KINGS_IM:1 "¬®¿ ¬®þ" #GetTitleIM 
+ LESSER_QUEEN_IM:1 "¯°¿Œ¾ ¬®¢" #GetTitleIM 
+ QUEEN_OF_QUEENS_IM:1 "¬®¢ ¬®¢" #GetTitleIM 
+ FIRST_STEWARD_IM:1 "±¢ºþ ³±¢®¾½¸ªþ" #GetTitleIM 
+ HIGH_STEWARD_IM:1 "¢¢°ºþ ³±¢®¾½¸ªþ" #GetTitleIM 
+ FIRST_STEWARD_fem_IM:1 "±¢¾ ³±¢®¾½¸¾" #GetTitleIM 
+ HIGH_STEWARD_fem_IM:1 "¢¢°¾ ³±¢®¾½¸¾" #GetTitleIM 
+ 
+ HIGH_RECTOR_IM:1 "¢¢°ºþ ¬²" #GetTitleIM 
+ FIRST_MASTER_IM:1 "±¢ºþ ¯²" #GetTitleIM 
+ RIGHTEOUS_MASTER_IM:1 "±¢¦°ºþ ¯²" #GetTitleIM 
+ SUPREME_MASTER_IM:1 "¢¢°ºþ ¯²" #GetTitleIM 
+ MARQUIS_IM:1 "¯¬ª©" #GetTitleIM 
+ GRAND_MARQUIS_IM:1 "¢®ª¬ªþ ¯¬ª©" #GetTitleIM 
+ MARQUISA_IM:1 "¯¬ª©" #GetTitleIM 
+ GRAND_MARQUISA_IM:1 "¢®ª¬¾ ¯¬ª©" #GetTitleIM 
+ LUMINARY_IM:1 "¢²ª®" #GetTitleIM 
+ FIRST_HIERARCH_IM:1 "±¢ª" #GetTitleIM 
+ GENERAL_GOV_IM:1 "¥°®" #GetTitleIM 
+ LOT_DEKKHANG_IM:1 "®² ¦¬¬°¥" #GetTitleIM 
+ GOVERNOR_GENERAL_IM:1 "¥°®-¥³¡°²" #GetTitleIM 
+ CHANCELLOR_IM:1 "¬°µ®" #GetTitleIM 
+ SUPREME_CHANCELLOR_IM:1 "¢¢°ºþ ¬°µ®" #GetTitleIM 
+ WITCH_KING_IM:1 "¬opo®¿-¶apo¦eþ" #GetTitleIM 
+ WITCH_EMPEROR_IM:1 "ª¯±epa²op-¶apo¦eþ" #GetTitleIM 
+ WITCH_QUEEN_IM:1 "¬®¢-¶¦þ¬" #GetTitleIM 
+ WITCH_EMPRESS_IM:1 "ª¯±²ªµ-¶¦þ¬" #GetTitleIM 
+ KYLAKAS_IM:1 "¬ª®a¬ac" #GetTitleIM 
+ DEGA_KYLAKAS_IM:1 "¦e¥a ¬ª®a¬ac" #GetTitleIM 
+ WIZARD_KING_IM:1 "¬opo®¿-¢®Œ¡°ª¬" #GetTitleIM 
+ WIZARD_QUEEN_IM:1 "¬opo®e¢a-¢®Œ¡°ªµ" #GetTitleIM 
+ SKALD_PRIEST_IM:1 "¬®¿¦-¨µ" #GetTitleIM 
+ SKALD_PRIESTESS_IM:1 "¬®¿¦-¨ªµ" #GetTitleIM 
+ RECLAIMER_IM:1 "²¢¢²®¿" #GetTitleIM 
+ RECLAIMER_fem_IM:1 "²¢¢²®¿°ªµ" #GetTitleIM 
+ VICEROY_IM:1 "¢ªµ-¬®¿" #GetTitleIM 
+ VICERINE_IM:1 "¢ªµ-¬®¢" #GetTitleIM 
+ ESBAGG_IM:1 "¼c¡a¥¥" #GetTitleIM 
+ SGARRT_IM:1 "¥app²" #GetTitleIM 
+ DECANN_IM:1 "¦e¬a°°" #GetTitleIM 
+ ESBAGG_fem_IM:1 "¼c¡a¥¥" #GetTitleIM 
+ SGARRT_fem_IM:1 "¥app²" #GetTitleIM 
+ DECANN_fem_IM:1 "¦e¬a°°" #GetTitleIM 
+ CLANBOSS_IM:1 "¬®°¡" #GetTitleIM 
+ OVERBOSS_IM:1 "°¦¡" #GetTitleIM 
+ SUPREME_BOSS_IM:1 "¢¢°ºþ ¡" #GetTitleIM 
+ CLANBOSSESS_IM:1 "¬®°¡" #GetTitleIM 
+ OVERBOSSESS_IM:1 "°¦¡" #GetTitleIM 
+ SUPREME_BOSSESS_IM:1 "¢¢°ºþ ¡" #GetTitleIM 
+ CAPTAIN_IM:1 "¬±ª²°" #GetTitleIM 
+ CAPTAIN_fem_IM:1 "¬±ª²°" #GetTitleIM 
+ PETTY_KING_IM:1 "¯®¬ªþ ¬opo®¿" #GetTitleIM 
+ PETTY_QUEEN_IM:1 "¯®¬¾ ¬®¢" #GetTitleIM 
+ GRAND_MAGISTER_IM:1 "¢®ª¬ªþ ¯¥ª²" #GetTitleIM 
+ FIRST_MAGISTER_IM:1 "±¢ºþ ¯¥ª²" #GetTitleIM 
+ HIGH_MAGE_IM:1 "¢¢°ºþ ¯¥" #GetTitleIM 
+ ARCHMAGE_IM:1 "ª¯¥" #GetTitleIM 
+ PRINCE_ELECTOR_IM:1 "¬°¾©¿-¢º¡¸ª¬" #GetTitleIM 
+ PRINCESS_ELECTOR_IM:1 "¬°¾¥ª°¾-¢º¡¸ª¬" #GetTitleIM 
+ GRAND_ELECTRESS_IM:1 "¢®ª¬ªþ ¢º¡¸ª¬" #GetTitleIM 
+ LORD_ELECTOR_IM:1 "®¦-¢º¡¸ª¬" #GetTitleIM 
+ HIGH_KING_IM:1 "¢¢°ºþ ¬®¿" #GetTitleIM 
+ HIGH_QUEEN_IM:1 "¢¢°¾ ¬®¢" #GetTitleIM 
+ DUKE_ELECTOR_IM:1 "¥µ¥-¢º¡¸ª¬" #GetTitleIM 
+ GRAND_ELECTOR_IM:1 "¢®ª¬ªþ ¢º¡¸ª¬" #GetTitleIM 
+ DUCHESS_ELECTOR_IM:1 "¥µ¥ª°¾-¢º¡¸ª¬" #GetTitleIM 
+ PRIEST_ELECTOR_IM:1 "¨µ-¢º¡¸ª¬" #GetTitleIM 
+ IMPERIAL_GRANDMASTER_IM:1 "ª¯±epc¬ªþ ¥°¦¯²" #GetTitleIM 
+ IMPERIAL_GRANDMISTRESS_IM:1 "ª¯±epc¬ªþ ¥°¦¯²" #GetTitleIM 
+ MARCHER_LORD_IM:1 "®¦ ±¥°ª¶¿¾" #GetTitleIM 
+ MOOR_KING_IM:1 "¡®²°ºþ ¬®¿" #GetTitleIM 
+ MOOR_EMPEROR_IM:1 "¡®²°¾ ¬®¢" #GetTitleIM 
+ MOOR_QUEEN_IM:1 "¡®²°ºþ ª¯±²" #GetTitleIM 
+ MOOR_EMPRESS_IM:1 "¡®²°¾ ª¯±²ªµ" #GetTitleIM 
+ AKAL_IM:1 "¬®" #GetTitleIM 
+ AKALUNAKAL_IM:1 "¬®³°¬®" #GetTitleIM 
+ AKALI_IM:1 "¬®ª" #GetTitleIM 
+ AKALUNAKALI_IM:1 "¬®³°¬®ª" #GetTitleIM 
+ MARAS_IM:1 "¯Œ" #GetTitleIM 
+ GRAND_MARAS_IM:1 "¢®ª¬ªþ ¯Œ" #GetTitleIM 
+ GREAT_MARAS_IM:1 "¢¢°ºþ ¯Œ" #GetTitleIM 
+ KASHRA_IM:1 "¬Œ" #GetTitleIM 
+ AKAL_KASHRA_IM:1 "¬® ¬Œ" #GetTitleIM 
+ ISIAK_SURAKEL_IM:1 "ªŒª¬ Ô³¬®¾" #GetTitleIM 
+ PACK_LORD_IM:1 "±o¢e®ª²e®¿ ²aª" #GetTitleIM 
+ PACK_MISTRESS_IM:1 "±o¢e®ª²e®¿°ªµa ²aª" #GetTitleIM 
+ SONAD_IM:1 "o°a¦" #GetTitleIM 
+ FALT_IM:1 "´a®¿²" #GetTitleIM 
+ ARD_FALT_IM:1 "p¦-´a®¿²" #GetTitleIM 
+ SURCAG_IM:1 "³p¬a¥" #GetTitleIM 
+ BANRAG_IM:1 "¡a°pa¥" #GetTitleIM 
+ ARD_BANRAG_IM:1 "p¦-¡a°pa¥" #GetTitleIM 
+ COMHAIR_IM:1 "¬o¯xþp" #GetTitleIM 
+ LABRAR_IM:1 "®a¡pap" #GetTitleIM 
+ CANSUDD_IM:1 "¬a°c³¦¦" #GetTitleIM 
+ PROVOST_IM:1 "±¬²" #GetTitleIM 
+ ARCH_PROVOST_IM:1 "ª±¬²" #GetTitleIM 
+ IMPERIAL_PROVOST_IM:1 "ª¯±¬ªþ ª±¬²" #GetTitleIM 
+ GRANDMASTER_IM:1 "¥°¦¯²" #GetTitleIM 
+ FIRST_ORACLE_MALE_IM:1 "¢¢°ºþ ¢¥³" #GetTitleIM 
+ FIRST_ORACLE_FEMALE_IM:1 "¢¢°¾ ¢¥³" #GetTitleIM 
+ SENAPTI_IM:1 "°±²ª" #GetTitleIM 
+ PRABHI_IM:1 "±¡ª" #GetTitleIM 
+ GRAND_VIZIER_IM:1 "¢®ª¬ªþ ¢ª©ª¿"
+ CAEHN_IM:1 "¬¼°" #GetTitleIM 
+ GREAT_CAEHN_IM:1 "¥²ª¥ ¬¼°" #GetTitleIM 
+ CAEHTEN_IM:1 "¬a¼²e°" #GetTitleIM 
+ GREAT_CAEHTEN_IM:1 "¥²ª¥ ¬a¼²e°" #GetTitleIM 
+ IZHUUN_IM:1 "ª¨³³°" #GetTitleIM 
+ KAASHEG_IM:1 "¬Œ¥" #GetTitleIM 
+ GREAT_KAASHEG_IM:1 "¢®ª¬ªþ ¬Œ¥" #GetTitleIM 
+ KHUSHAI_IM:1 "³Œþ" #GetTitleIM 
+ KUSHENG_IM:1 "¬³Œ¼°" #GetTitleIM 
+ GREAT_KUSHENG_IM:1 "¢®ª¬¾ ¬³Œ¼°" #GetTitleIM 
+ HWALBAEJ_IM:1 "¢®¡þ" #GetTitleIM 
+ JAENG_IM:1 "¶¨¼°" #GetTitleIM 
+ DAEJAENG_IM:1 "¦¼¶¨¼°" #GetTitleIM 
+ HWALEI_IM:1 "¢®þ" #GetTitleIM 
+ WAENBU_IM:1 "¢¼°¡³" #GetTitleIM 
+ DAEWAENBU_IM:1 "¦¼¢¼°¡³" #GetTitleIM 
+ FIRST_MARSHAL_IM:1 "±¢ºþ ¯Œ®" #GetTitleIM 
+ GRAND_MARSHAL_IM:1 "¥°¦-¯Œ®" #GetTitleIM 
+ VRYDAL_IM:1 "¢ª¦®" #GetTitleIM 
+ VYRISAR_IM:1 "¢ºª" #GetTitleIM 
+ VRYDALVA_IM:1 "¢ª¦®¢" #GetTitleIM 
+ VYRISETA_IM:1 "¢ºª²" #GetTitleIM 
+ VYLEDAR_IM:1 "¢º®¦" #GetTitleIM 
+ VYLYENDAR_IM:1 "¢º®¿°¦" #GetTitleIM 
+ VYLEDAM_IM:1 "¢º®¦¯" #GetTitleIM 
+ VYLYENDAM_IM:1 "¢º®¿°¦¯" #GetTitleIM 
+ DHAVANA_IM:1 "¦¢°" #GetTitleIM 
+ ARYACAN_IM:1 "¿¾¬°" #GetTitleIM 
+ CAMRAYACAN_IM:1 "¬¯þ¬°" #GetTitleIM 
+ ELAVI_IM:1 "¼®¢ª" #GetTitleIM 
+ ARACI_IM:1 "ª" #GetTitleIM 
+ CAMRAYANI_IM:1 "¬¯¾°ª" #GetTitleIM 
+ YODHAN_IM:1 "þ¦°" #GetTitleIM 
+ RAYODHAN_IM:1 "þ¦°" #GetTitleIM 
+ CAKRAYODHANTI_IM:1 "¬¬þ¦°²ª" #GetTitleIM 
+ YODHENGASU_IM:1 "þ¦°¥³" #GetTitleIM 
+ RAYODANI_IM:1 "þ¦°ª" #GetTitleIM 
+ CAKRAMAHISI_IM:1 "¬¬¯ªª" #GetTitleIM 
+ DANNUKA_IM:1 "¦°°³¬" #GetTitleIM 
+ ADHIPAYAV_IM:1 "¦ª±¾¢" #GetTitleIM 
+ ADHIVAMRATT_IM:1 "¦ª¢¯²²" #GetTitleIM 
+ VENITA_IM:1 "¢°ª²" #GetTitleIM 
+ ADHIPAYAVNI_IM:1 "¦ª±¾¢°ª" #GetTitleIM 
+ ADHIVAMRAHANI_IM:1 "¦ª¢¯°ª" #GetTitleIM 
+ VRAKKA_IM:1 "¢¬¬" #GetTitleIM 
+ POVRAKKA_IM:1 "±¢¬¬" #GetTitleIM 
+ RASVRAPAKKA_IM:1 "¢±¬¬" #GetTitleIM 
+ VRAKKANI_IM:1 "¢¬¬°ª" #GetTitleIM 
+ POVRAKKANI_IM:1 "±¢¬¬°ª" #GetTitleIM 
+ RASVRAPAKKANI_IM:1 "¢±¬¬°ª" #GetTitleIM 
+ DHEKKA_IM:1 "¦¬¬" #GetTitleIM 
+ AMARYARU_IM:1 "¯¿¾³" #GetTitleIM 
+ AMARAWOR_IM:1 "¯¢" #GetTitleIM 
+ ESTRI_IM:1 "¼²ª" #GetTitleIM 
+ AMARYARNI_IM:1 "¯¿¾°ª" #GetTitleIM 
+ AMARAWORNI_IM:1 "¯¢°ª" #GetTitleIM 
+ DOOKANIST_SHAMAN_MALE_IM:1 "²¡²°" #GetTitleIM 
+ DOOKANIST_SHAMAN_FEMALE_IM:1 "²¡²°" #GetTitleIM 
+ GOLDSCALE_SAGE_MALE_IM:1 "©®²þ ¯³¦µ" #GetTitleIM 
+ GOLDSCALE_SAGE_FEMALE_IM:1 "©®²þ ¯³¦µ" #GetTitleIM 
+ MATRIARCH_IM:1 "¯²ª" #GetTitleIM 
+ HIGH_MATRIARCH_IM:1 "¢¢°ºþ ¯²ª" #GetTitleIM 
+ PUNGIPEA_IM:1 "±³°¥ª±" #GetTitleIM 
+ QASHLAIKIM_IM:1 "¬Œ®¬ª¯" #GetTitleIM
+ KHOIDARG_IM:1 "þ¦¥" #GetTitleIM
+ FIRST_COMMANDER_IM:1 "±¢ºþ ¬¯°¦³½¸ªþ" #GetTitleIM
+ DAKOCRACY_DUKE_IM:1 "¯¥-®¦" #GetTitleIM
+ DAKOCRACY_KING_IM:1 "¢¢®Œ¡°ª¬" #GetTitleIM
+ DAKOCRACY_EMPEROR_IM:1 "¢¢°ºþ ª¯±²" #GetTitleIM
+ DIARCH_IM:1 "¦ª" #GetTitleIM
+ GRAND_DIARCH_IM:1 "¢®ª¬ªþ ¦ª" #GetTitleIM
+
+ #°®¦°ª¬ª
+ HOLY_CHOSEN_IM:1 "¢¾²oþ ª©¡pa°°ª¬" #GetTitleHeirIM
+ PHOENIX_PRINCE_IM:1 "±ª°µ-´°ª¬" #GetTitleHeirIM
+ PHOENIX_PRINCESS_IM:1 "±ª°µ-´°ª¬" #GetTitleHeirIM
+ GRAY_LORD_IM:1 "epºþ ®op¦" #GetTitleHeirIM
+ GRAY_PRINCE_IM:1 "epºþ ±pª°µ" #GetTitleHeirIM
+ GRAY_LADY_IM:1 "epa¾ ®e¦ª" #GetTitleHeirIM
+ GRAY_PRINCESS_IM:1 "epa¾ ±pª°µecca" #GetTitleHeirIM
+ KARAKHUR_IM:1 "¬¬³" #GetTitleHeirIM
+ KARADURZK_IM:1 "¬¦³©¬" #GetTitleHeirIM
+ SER_HEIR_IM:1 "" #GetTitleHeirIM
+ YELLER_APPARENT_IM:1 "¢±¾¸ªþ ¶¢ª¦µ" #GetTitleHeirIM
+ TLUUKT_PRINCE_IM:1 "¯¨" #GetTitleHeirIM
+ TLUUKT_PRINCESS_IM:1 "¯¨ª" #GetTitleHeirIM
+ JARLSSON_IM:1 "¾p®cco°" #GetTitleHeirIM
+ KONUNGSSON_IM:1 "¬o°³°¥cco°" #GetTitleHeirIM
+ OZTRKONUNGSSON_IM:1 "©²p¬o°³°¥cco°" #GetTitleHeirIM
+ JARLSDOTTIR_IM:1 "¾p®c¦o²²ªp" #GetTitleHeirIM
+ KONUNGSDOTTIR_IM:1 "¬o°°³°¥c¦o²²ªp" #GetTitleHeirIM
+ OZTRKONUNGSDOTTIR_IM:1 "©²¬o°°³°¥c¦o²²ªp" #GetTitleHeirIM
+ PRANT_IM:1 "±pa°²" #GetTitleHeirIM
+ SHADOW_HEIR_IM:1 "½°ºþ ¥±¦ª°" #GetTitleHeirIM
+ SHADOW_HEIRESS_IM:1 "½°a¾ ¥±¨" #GetTitleHeirIM
+ BATTLEPRINCE_IM:1 "±pª°µ ¢ª²®¿" #GetTitleHeirIM
+ BATTLEPRINCESS_IM:1 "±pª°µecca ¢ª²®¿°ªµ" #GetTitleHeirIM
+ RASHOKUDEI_IM:1 "Œ¬³¦þ" #GetTitleHeirIM
+ BOJAEJ_IM:1 "¡¦¨þ" #GetTitleHeirIM
+ KHUNZHE_IM:1 "³°¿µ©" #GetTitleHeirIM
+ DAKHUNZE_IM:1 "¦³°¿µ©" #GetTitleHeirIM
+ BOJEI_IM:1 "¡¦¨¼þ" #GetTitleHeirIM
+ GONJE_IM:1 "¥°¿µ©" #GetTitleHeirIM
+ DAGONJE_IM:1 "¦¥°¿µ©" #GetTitleHeirIM
+ XANSHEN_IM:1 "¾°¿Œ°¿" #GetTitleHeirIM
+ TONZHI_IM:1 "²°¶¨ª" #GetTitleHeirIM
+ DATONZHI_IM:1 "¦²°¶¨ª" #GetTitleHeirIM
+ DANSHEN_IM:1 "¦°¿Œ°¿" #GetTitleHeirIM
+ GONZHI_IM:1 "¥°¿¶¨ª" #GetTitleHeirIM
+ DAGONZHI_IM:1 "¦¥°¶¿¨ª" #GetTitleHeirIM
+ AROMO_IM:1 "¯" #GetTitleHeirIM
+ TOJIS_IM:1 "²¦©ª" #GetTitleHeirIM
+ RENDA_IM:1 "°¦" #GetTitleHeirIM
+ RONTOS_IM:1 "°²" #GetTitleHeirIM
+ PRINCE_APPARENT_IM:1 "¾¢°ºþ ±pª°µ" #GetTitleHeirIM
+ PRINCESS_APPARENT_IM:1 "¾¢°¾ ±pª°µecca" #GetTitleHeirIM
+ HEIR_APPARENT_IM:1 "¾¢°ºþ °ac®e¦°ª¬" #GetTitleHeirIM
+ DRAGON_LORD_IM:1 "¦¬°ªþ ®¦" #GetTitleHeirIM
+ DRAGON_PRINCE_IM:1 "¦¬°ªþ ±ª°µ" #GetTitleHeirIM
+ DRAGON_LADY_IM:1 "¦¬°¿¾ ®¦ª" #GetTitleHeirIM
+ DRAGON_PRINCESS_IM:1 "¦¬°¿¾ ±ª°µ" #GetTitleHeirIM
+ 
+ CHOSEN_DISCIPLE_IM:1 "ª©¡°°ºþ ³¶°ª¬" #GetTitleHeirIM
+ ASCENDANT_MASTER_IM:1 "¢¦¾¸ªþ ¯²" #GetTitleHeirIM
+ MARSAR_IM:1 "¯Œ" #GetTitleHeirIM
+ MARSARI_IM:1 "¯Œª" #GetTitleHeirIM
+ OGHAR_IM:1 "¥ap" #GetTitleHeirIM
+ BANOGHAR_IM:1 "¡a°o¥ap" #GetTitleHeirIM
+ IZHUUNAAZUN_IM:1 "ª¨³³°©³°" #GetTitleHeirIM
+ KHUSHAAZUN_IM:1 "³Œ©³°" #GetTitleHeirIM
+ BOJAENG_IM:1 "¡¦¨°" #GetTitleHeirIM
+ NOPOJAENG_IM:1 "°±¦¨°" #GetTitleHeirIM
+ BOJAENBU_IM:1 "¡¦¨¼°¡³" #GetTitleHeirIM
+ NOPAENBU_IM:1 "°±¼°¡³" #GetTitleHeirIM
+ TALDHAVANA_IM:1 "²®¦¢°" #GetTitleHeirIM
+ AVALIRIKAN_IM:1 "¢®ªª¬°" #GetTitleHeirIM
+ TALNIDHAVANA_IM:1 "²®°ª¦¢°" #GetTitleHeirIM
+ AVALIKUMARI_IM:1 "¢®ª¬³¯ª" #GetTitleHeirIM
+ YODHANNAGUR_IM:1 "þ¦°°¥³" #GetTitleHeirIM
+ RAYODHANNAGUR_IM:1 "þ¦°°¥³" #GetTitleHeirIM
+ CAKRAYODHANTINAGUR_IM:1 "¶¬þ¦°²ª°¥³" #GetTitleHeirIM
+ YODHANNAGULU_IM:1 "þ¦°°¥³®³" #GetTitleHeirIM
+ RAYODHANNAGULU_IM:1 "þ¦°°¥³®³" #GetTitleHeirIM
+ CAKRAYODHANTINAGULU_IM:1 "¶¬þ¦°²ª°¥³®³" #GetTitleHeirIM
+ DANNUKPATRUY_IM:1 "¦°°³¬±²³þ" #GetTitleHeirIM
+ ADHIPPATRUY_IM:1 "¦ª±±²³þ" #GetTitleHeirIM
+ ADHIVAMPATRUY_IM:1 "¦ª¢¯±²³þ" #GetTitleHeirIM
+ DANNUKPATRI_IM:1 "¦°°³¬±²ª" #GetTitleHeirIM
+ ADHIPPATRI_IM:1 "¦ª±±²ª" #GetTitleHeirIM
+ ADHIVAMPATRI_IM:1 "¦ª¢¯±²ª" #GetTitleHeirIM
+ DHEKKAMARUI_IM:1 "¦¬¬¯³þ" #GetTitleHeirIM
+ AMARAVARA_IM:1 "¯¢" #GetTitleHeirIM
+ AMARAVARAJU_IM:1 "¯¢¦¨³" #GetTitleHeirIM
+ DHEKKAMARUTY_IM:1 "¦¬¬¯³²ª" #GetTitleHeirIM
+ AMARASURA_IM:1 "¯³" #GetTitleHeirIM
+ AMARASURUNI_IM:1 "¯³³°ª" #GetTitleHeirIM
+ CONRI_BINH_IM:1 "¬°ª ¡ª°¿" #GetTitleHeirIM
+ CONGI_BINH_IM:1 "¬°¥ª ¡ª°¿" #GetTitleHeirIM
+ 
+ #¬°²º
+ AKAL_CONSORT_IM:1 "¬®-¬°²" #GetTitleConsortIM
+ AKALI_CONSORT_IM:1 "¬®ª-¬°²" #GetTitleConsortIM
+ TELJARL_IM:1 "²e®¹¾p®" #GetTitleConsortIM
+ GREVINNA_IM:1 "¥pe¢ª°°a" #GetTitleConsortIM
+ GRAND_CONSORT_IM:1 "¥pa°¦-¬o°cop²" #GetTitleConsortIM
+ 
+ FIRST_NOBLE_HUSBAND_IM:1 "±ep¢ºþ ¡®a¥opo¦°ºþ ¯³¨" #GetTitleConsortIM
+ FIRST_ROYAL_HUSBAND_IM:1 "±ep¢ºþ ¬opo®e¢c¬ªþ ¯³¨" #GetTitleConsortIM
+ FIRST_SUPREME_HUSBAND_IM:1 "±ep¢ºþ ¢epxo¢°ºþ ¯³¨" #GetTitleConsortIM
+ FIRST_NOBLE_WIFE_IM:1 "±ep¢a¾ ¡®a¥opo¦°a¾ ¨e°a" #GetTitleConsortIM
+ FIRST_ROYAL_WIFE_IM:1 "±ep¢a¾ ¬opo®e¢c¬a¾ ¨e°a" #GetTitleConsortIM
+ FIRST_SUPREME_WIFE_IM:1 "±ep¢a¾ ¢epxo¢°a¾ ¨e°a" #GetTitleConsortIM
+ DUKAD_CARD_IM:1 "¦³¬a¦-¬ap¦" #GetTitleConsortIM
+ RIGAK_CARD_IM:1 "ª¥a¬-¬ap¦" #GetTitleConsortIM
+ ARDRIGAK_CARD_IM:1 "p¦pª¥a¬-¬ap¦" #GetTitleConsortIM
+ SURCAG_CARD_IM:1 "³p¬a¥-¬ap¦" #GetTitleConsortIM
+ BANRAG_CARD_IM:1 "¡a°pa¥-¬ap¦" #GetTitleConsortIM
+ ARDBANRAG_CARD_IM:1 "p¦¡a°pa¥-¬ap¦" #GetTitleConsortIM
+ HENGASU_IM:1 "þ¦°¥³" #GetTitleConsortIM
+ DANI_IM:1 "¦°ª" #GetTitleConsortIM
+ MAHISI_IM:1 "¯ªª" #GetTitleConsortIM
+ NGI_HONG_IM:1 "°¥ª °" #GetTitleConsortIM
+ NGI_VO_IM:1 "°¥ª ¢" #GetTitleConsortIM
+ 
+ #Ð¦ª²®¿°ºþ ±¦¨
+ HARI_RD:1 "ª" #GetTitleRD 
+ GREAT_HARI_RD:1 "¢®ª¬¥ ª" #GetTitleRD 
+ HARIN_RD:1 "ª°" #GetTitleRD 
+ GREAT_HARIN_RD:1 "¢®ª¬þ ª°" #GetTitleRD 
+ DUKE_CROSSGUARD_RD:1 "¬°¾©¾-©a¸ª²°ª¬" #GetTitleRD 
+ KING_CROSSGUARD_RD:1 "¬opo®¾-©a¸ª²°ª¬" #GetTitleRD 
+ EMPEROR_CROSSGUARD_RD:1 "ª¯±epa²op-©a¸ª²°ª¬" #GetTitleRD 
+ DUCHESS_CROSSGUARD_RD:1 "¬°¾¥ª°ª-©a¸ª²°ªµº" #GetTitleRD 
+ QUEEN_CROSSGUARD_RD:1 "¬opo®e¢º-©a¸ª²°ªµº" #GetTitleRD 
+ EMPRESS_CROSSGUARD_RD:1 "ª¯±epa²pªµº-©a¸ª²°ªµº" #GetTitleRD 
+ SANCTIFIED_KING_RD:1 "¢¾²o¥ ¬opo®¾" #GetTitleRD 
+ SANCTIFIED_EMPEROR_RD:1 "¢¾²o¥ ª¯±epa²op" #GetTitleRD 
+ SANCTIFIED_QUEEN_RD:1 "¢¾²þ ¬opo®e¢º" #GetTitleRD 
+ SANCTIFIED_EMPRESS_RD:1 "¢¾²þ ª¯±epa²pªµº" #GetTitleRD 
+ PHOENIX_EMPEROR_RD:1 "ª¯±² ´°ª¬" #GetTitleRD 
+ PHOENIX_EMPRESS_RD:1 "ª¯±²ªµº ´°ª¬" #GetTitleRD 
+ COMMANDER_RD:1 "¬o¯a°¦ªp" #GetTitleRD 
+ HERALD_RD:1 "¢ec²°ª¬" #GetTitleRD 
+ DIVINE_HERALD_RD:1 "¡o¨ec²¢e°°¥ ¢ec²°ª¬" #GetTitleRD 
+ COMMANDER_fem_RD:1 "¬o¯a°¦ªpŒª" #GetTitleRD 
+ HERALD_fem_RD:1 "¢ec²°ªµº" #GetTitleRD 
+ DIVINE_HERALD_fem_RD:1 "¡o¨ec²¢e°°þ ¢ec²°ªµº" #GetTitleRD 
+ SORCERER_KING_RD:1 "¬®¾-¬®¦³°" #GetTitleRD 
+ SORCERER_QUEEN_RD:1 "¬®¢º-¬®¦³°¿ª" #GetTitleRD 
+ BLACK_ACOLYTE_RD:1 "¶ž°¥ ¬®ª²" #GetTitleRD 
+ BLACK_ACOLYTE_fem_RD:1 "¶ž°þ ¬®ª²º" #GetTitleRD 
+ GRAY_DUKE_RD:1 "ep¥ ¬°¾©¾" #GetTitleRD 
+ GRAY_KING_RD:1 "ep¥ ¬opo®¾" #GetTitleRD 
+ GRAY_EMPEROR_RD:1 "ep¥ ª¯±epa²op" #GetTitleRD 
+ GRAY_DUCHESS_RD:1 "epþ ¬°¾¥ª°ª" #GetTitleRD 
+ GRAY_QUEEN_RD:1 "epþ ¬opo®e¢º" #GetTitleRD 
+ GRAY_EMPRESS_RD:1 "epþ ª¯±epa²pªµº" #GetTitleRD 
+ MAGISTER_RD:1 "¯¥ª²" #GetTitleRD 
+ MAGISTRIX_RD:1 "¯¥ª²" #GetTitleRD 
+ KNIGHT_CAPTAIN_RD:1 "ºµap¾-¬a±ª²a°" #GetTitleRD 
+ KNIGHT_CAPTAIN_fem_RD:1 "ºµap¾-¬a±ª²a°Œª" #GetTitleRD 
+ LORD_CRIER_RD:1 "®op¦ ¥®aŒa²a¾" #GetTitleRD 
+ LADY_CRIER_RD:1 "®¦ª ¥®aŒa²a¾" #GetTitleRD 
+ PACK_LORD_RD:1 "±o¢e®ª²e®¾ ²aª" #GetTitleRD 
+ CORSAIR_KING_RD:1 "¬opo®¾ ¬opcapo¢" #GetTitleRD 
+ SEA_SCOURGE_RD:1 "¥po©º ¯opeþ" #GetTitleRD 
+ PACK_MISTRESS_RD:1 "±o¢e®ª²e®¿°ªµº ²aª" #GetTitleRD 
+ CORSAIR_QUEEN_RD:1 "¬®¢º ¬opcapo¢" #GetTitleRD 
+ TLUUKT_KING_RD:1 "¬®³°¬®" #GetTitleRD 
+ TLUUKT_EMPEROR_RD:1 "¬³°¬®" #GetTitleRD 
+ TLUUKT_QUEEN_RD:1 "¬®³°¬®ª" #GetTitleRD 
+ TLUUKT_EMPRESS_RD:1 "¬³°¬®ª" #GetTitleRD 
+ JARL_RD:1 "¾®" #GetTitleRD 
+ KONUNGR_RD:1 "¬°³°¥" #GetTitleRD 
+ OZTRKONUNGR_RD:1 "©²o¬o°³°¥" #GetTitleRD 
+ DROTTNING_RD:1 "¦po²²°ª°¥" #GetTitleRD 
+ OZTRDROTTNING_RD:1 "©¦po²²°ª°¥" #GetTitleRD 
+ MASTER_SKALD_PRIEST_RD:1 "¢e®ª¬¥ ¬a®¿¦-¨peµ" #GetTitleRD 
+ MASTER_SKALD_PRIESTESS_RD:1 "¢e®ª¬þ ¬a®¿¦-¨pªµº" #GetTitleRD 
+ EXALTED_COMPANION_RD:1 "¢o©¢ºŒe°°ºþ ±³²°ª¬" #GetTitleRD 
+ ARD_DRADH_RD:1 "p¦ ¦pa¦" #GetTitleRD 
+ ARD_BANNDRADH_RD:1 "p¦ ¡a°°¦pa¦" #GetTitleRD 
+ SHADOW_MALE_RD:1 "²e°e¢o¥ ±pª°µ" #GetTitleRD 
+ SHADOW_FEMALE_RD:1 "²e°e¢þ ±pª°µeccº" #GetTitleRD 
+ CRYSTAL_QUEEN_RD:1 "¬pªc²a®¿°þ ¬opo®e¢º" #GetTitleRD 
+ CRYSTAL_EMPRESS_RD:1 "¬pªc²a®¿°þ ª¯±epa²pªµº" #GetTitleRD 
+ OBSIDIAN_MALE_RD:1 "¢º¡pa°°¥ ³°oþ" #GetTitleRD 
+ OBSIDIAN_FEMALE_RD:1 "¢º¡pa°°þ ³°oþ" #GetTitleRD 
+ OBSIDIAN_INVASION_MALE_RD:1 "³°°¥ ¢²°ª¬" #GetTitleRD 
+ OBSIDIAN_INVASION_FEMALE_RD:1 "³°°þ ¢²°ªµº" #GetTitleRD 
+ COUNCILLOR_RD:1 "¬o°c³®" #GetTitleRD 
+ FIRST_COUNCILLOR_RD:1 "±¢¥ ¬°³®" #GetTitleRD 
+ HIGH_COUNCILLOR_RD:1 "¢¢°¥ ¬°³®" #GetTitleRD 
+ MARSHAL_RD:1 "¯Œ®" #GetTitleRD 
+ GRAND_MARSHAL_RD:1 "¥°¦-¯Œ®" #GetTitleRD 
+ GANG_LEADER_RD:1 "®ª¦ep ¡a°¦º" #GetTitleRD 
+ GREY_EMINENCE_RD:1 "¥ ¬¦ª°®" #GetTitleRD 
+ MENGURKHA_RD:1 "¯e°¥³p¬ª" #GetTitleRD 
+ MENGARKHA_RD:1 "¯e°¥ap¬ª" #GetTitleRD 
+ BAOZH_RD:1 "¡¨" #GetTitleRD 
+ BAOZHA_RD:1 "¡¨ª" #GetTitleRD 
+ BIIGH_BAOZH_RD:1 "¡ªª¥ ¡¨" #GetTitleRD 
+ BIIGH_BAOZHA_RD:1 "¡ªª¥ ¡¨ª" #GetTitleRD 
+ OJKAGMA_RD:1 "þ¬¥¯" #GetTitleRD 
+ MENGURM_RD:1 "¯°¥³'¯" #GetTitleRD 
+ MENGURKHA_RD:1 "¯e°¥³p¬a" #GetTitleRD 
+ OJKODIRD_RD:1 "þ¬¦ª¦" #GetTitleRD 
+ MENGURMA_RD:1 "¯°¥³'¯" #GetTitleRD 
+ MENGARKHA_RD:1 "¯e°¥ap¬ª" #GetTitleRD 
+ GHALRDON_RD:1 "¥®'¦°" #GetTitleRD 
+ GHALRDAL_RD:1 "¥®'¦®" #GetTitleRD 
+ BATTLEKING_RD:1 "¬opo®¾ ¢ª²®¾" #GetTitleRD 
+ BOYACSAR_RD:1 "¡¾¬" #GetTitleRD 
+ BATTLEQUEEN_RD:1 "¬opo®e¢º ¢ª²®¿°ªµº" #GetTitleRD 
+ BOYACSARA_RD:1 "¡¾¬º" #GetTitleRD 
+ VALADR_RD:1 "¢®¦" #GetTitleRD 
+ VIZVALADR_RD:1 "¢ª©¢®¦" #GetTitleRD 
+ VALATKA_RD:1 "¢®²¬ª" #GetTitleRD 
+ VIZVALATKA_RD:1 "¢ª©¢®²¬ª" #GetTitleRD 
+ VYRISAR_RD:1 "¢ºª" #GetTitleRD 
+ VYRISETA_RD:1 "¢ºª²º" #GetTitleRD 
+ VITSAR_RD:1 "¢ª²" #GetTitleRD 
+ YRIDAM_RD:1 "ªª¦¯" #GetTitleRD 
+ BARON_RD:1 "¡°" #GetTitleRD 
+ BARONESS_RD:1 "¡°º" #GetTitleRD 
+ VENERATOR_RD:1 "¢°²" #GetTitleRD 
+ VENERATOR_HIGH_RD:1 "¢¢°¥ ¢°²" #GetTitleRD 
+ RASHENBIR_RD:1 "Œ°¡ª" #GetTitleRD 
+ HWALBAEJ_RD:1 "¢®¡¾" #GetTitleRD 
+ KAJAENG_RD:1 "¬¦¨°" #GetTitleRD 
+ DAKAJAENG_RD:1 "¦¬¦¨°" #GetTitleRD 
+ HWALEI_RD:1 "¢®¾" #GetTitleRD 
+ KUSHAEN_RD:1 "¬³Œ°" #GetTitleRD 
+ DAKUSHAEN_RD:1 "¦¬³Œ°" #GetTitleRD 
+ ZHU_RD:1 "¶¨³" #GetTitleRD 
+ TONGZHE_RD:1 "²°¶¨¼" #GetTitleRD 
+ DIANGDI_RD:1 "¦ª°¥¦ª" #GetTitleRD 
+ SHUN_RD:1 "Œ³°¿" #GetTitleRD 
+ NUWANG_RD:1 "°³¢°¥" #GetTitleRD 
+ HANGHO_RD:1 "°¥" #GetTitleRD 
+ MANSAROM_RD:1 "¯°¯" #GetTitleRD 
+ MONGOR_RD:1 "¯°¥" #GetTitleRD 
+ TAMONGOR_RD:1 "²¯°¥" #GetTitleRD 
+ RENDA_RD:1 "°¦º" #GetTitleRD 
+ JOLDO_RD:1 "¦¨®¦" #GetTitleRD 
+ TAJOLDO_RD:1 "²¦¨®¦" #GetTitleRD 
+ HIGH_LORD_RD:1 "¢¢°¥ ®¦" #GetTitleRD 
+ GREAT_LORD_RD:1 "¢®ª¬¥ ®¦" #GetTitleRD 
+ HIGH_LADY_RD:1 "¢¢°þ ®¦ª" #GetTitleRD 
+ GREAT_LADY_RD:1 "¢®ª¬þ ®¦ª" #GetTitleRD 
+ HIGH_CONVOCATIONARY_RD:1 "¢ºŒ¥ ©º¢" #GetTitleRD 
+ GREAT_CONVOCATIONARY_RD:1 "¢®ª¬¥ ©º¢" #GetTitleRD 
+ SUPREME_CONVOCATIONARY_RD:1 "¢¢°¥ ©º¢" #GetTitleRD 
+ MYKX_PR_CHIEF_ADMIRAL_RD:1 "²Œ¥ ¦¯ª®" #GetTitleRD 
+ MYKX_PR_GRAND_ADMIRAL_RD:1 "¥°¦-¦¯ª®" #GetTitleRD 
+ MYKX_PR_SCOURGE_MAN_RD:1 "±®²¿²µ" #GetTitleRD 
+ MYKX_PR_SCOURGE_WOMAN_RD:1 "±®²¿¯²¿ª" #GetTitleRD 
+ LORD_MAYOR_RD:1 "®op¦-¯¼p" #GetTitleRD 
+ GRAND_MAYOR_RD:1 "¢e®ª¬¥ ¯¼p" #GetTitleRD 
+ IRON_KING_RD:1 "¨®©°¥ ¬®¾" #GetTitleRD 
+ IRON_QUEEN_RD:1 "¨®©°þ ¬®¢º" #GetTitleRD 
+ GRAND_PRINCE_RD:1 "¢e®ª¬¥ ¬°¾©¾" #GetTitleRD 
+ GRAND_PRINCESS_RD:1 "¢e®ª¬þ ¬°¾¥ª°ª" #GetTitleRD 
+ OLDKING_RD:1 "²¥ ¬®¾" #GetTitleRD 
+ OLDQUEEN_RD:1 "²þ ¬®¢º" #GetTitleRD 
+ ELDER_RD:1 "¦¢°¥" #GetTitleRD 
+ HIGH_ELDER_RD:1 "¢¢°¥ ¦¢°¥" #GetTitleRD 
+ PARAMOUNT_ELDER_RD:1 "±¢²±°°¥ ¦¢°¥" #GetTitleRD 
+ AMBER_KING_RD:1 "¾°²°¥ ¬®¾" #GetTitleRD 
+ AMBER_QUEEN_RD:1 "¾°²°þ ¬®¢º" #GetTitleRD 
+ BRIGHT_KING_RD:1 "¾¬¥ ¬®¾" #GetTitleRD 
+ BRIGHT_QUEEN_RD:1 "¾¬þ ¬®¢º" #GetTitleRD 
+ FLAME_CUSTODIAN_RD:1 "°ª²®¾" #GetTitleRD 
+ FIRELORD_RD:1 "±¢®ª²®¾ ¥°¾" #GetTitleRD 
+ FIRELADY_RD:1 "±¢®ª²®¿°ªµº ¥°¾" #GetTitleRD 
+ CRIMSON_REVEREND_RD:1 "¡¥¢¥ ±±¦¡°¥" #GetTitleRD 
+ CRIMSON_REVEREND_fem_RD:1 "¡¥¢þ ±±¦¡°þ" #GetTitleRD 
+ SKY_CAPTAIN_RD:1 "°¡°¥ ¬±ª²°" #GetTitleRD 
+ GRAND_SKY_CAPTAIN_RD:1 "¢®ª¬¥ °¡°¥ ¬±ª²°" #GetTitleRD 
+ DRAGON_PRINCE_RD:1 "±ª°µ ¦¬°¢" #GetTitleRD 
+ DRAGON_KING_RD:1 "¬®¾ ¦¬°¢" #GetTitleRD 
+ DRAGON_EMPEROR_RD:1 "ª¯±² ¦¬°¢" #GetTitleRD 
+ DRAGON_PRINCESS_RD:1 "±ª°µº ¦¬°¢" #GetTitleRD 
+ DRAGON_QUEEN_RD:1 "¬®¢º ¦¬°¢" #GetTitleRD 
+ DRAGON_EMPRESS_RD:1 "ª¯±²ªµº ¦¬°¢" #GetTitleRD 
+ LIANGZHU_RD:1 "®ª°¶¨³" #GetTitleRD 
+ KEGLORD_RD:1 "¬¥®¦" #GetTitleRD 
+ HIGH_KEGLORD_RD:1 "¢¢°¥ ¬¥®¦" #GetTitleRD 
+ KEGQUEEN_RD:1 "¬¥®¢º" #GetTitleRD 
+ HIGH_KEGQUEEN_RD:1 "¢¢°þ ¬¥®¢º" #GetTitleRD 
+ LESSER_KING_RD:1 "¯°¿Œ¥ ¬®¾" #GetTitleRD 
+ KING_OF_KINGS_RD:1 "¬®¾ ¬®þ" #GetTitleRD 
+ LESSER_QUEEN_RD:1 "¯°¿Œþ ¬®¢º" #GetTitleRD 
+ QUEEN_OF_QUEENS_RD:1 "¬®¢º ¬®¢" #GetTitleRD 
+ FIRST_STEWARD_RD:1 "±¢¥ ³±¢®¾½¸¥" #GetTitleRD 
+ HIGH_STEWARD_RD:1 "¢¢°¥ ³±¢®¾½¸¥" #GetTitleRD 
+ FIRST_STEWARD_fem_RD:1 "±¢þ ³±¢®¾½¸þ" #GetTitleRD 
+ HIGH_STEWARD_fem_RD:1 "¢¢°þ ³±¢®¾½¸þ" #GetTitleRD 
+ 
+ HIGH_RECTOR_RD:1 "¢¢°¥ ¬²" #GetTitleRD 
+ FIRST_MASTER_RD:1 "±¢¥ ¯²" #GetTitleRD 
+ RIGHTEOUS_MASTER_RD:1 "±¢¦°¥ ¯²" #GetTitleRD 
+ SUPREME_MASTER_RD:1 "¢¢°¥ ¯²" #GetTitleRD 
+ MARQUIS_RD:1 "¯¬ª©" #GetTitleRD 
+ GRAND_MARQUIS_RD:1 "¢®ª¬¥ ¯¬ª©" #GetTitleRD 
+ MARQUISA_RD:1 "¯¬ª©º" #GetTitleRD 
+ GRAND_MARQUISA_RD:1 "¢®ª¬þ ¯¬ª©º" #GetTitleRD 
+ LUMINARY_RD:1 "¢²ª®" #GetTitleRD 
+ FIRST_HIERARCH_IM:1 "±¢ª" #GetTitleRD 
+ GENERAL_GOV_RD:1 "¥°®" #GetTitleRD 
+ LOT_DEKKHANG_RD:1 "®² ¦¬¬°¥" #GetTitleRD 
+ GOVERNOR_GENERAL_RD:1 "¥°®-¥³¡°²" #GetTitleRD 
+ CHANCELLOR_RD:1 "¬°µ®" #GetTitleRD 
+ SUPREME_CHANCELLOR_RD:1 "¢¢°¥ ¬°µ®" #GetTitleRD 
+ WITCH_KING_RD:1 "¬opo®¾-¶apo¦e¾" #GetTitleRD 
+ WITCH_EMPEROR_RD:1 "ª¯±epa²op-¶apo¦e¾" #GetTitleRD 
+ WITCH_QUEEN_RD:1 "¬®¢º-¶¦þ¬ª" #GetTitleRD 
+ WITCH_EMPRESS_RD:1 "ª¯±²ªµº-¶¦þ¬ª" #GetTitleRD 
+ KYLAKAS_RD:1 "¬ª®a¬ac" #GetTitleRD 
+ DEGA_KYLAKAS_RD:1 "¦e¥a ¬ª®a¬ac" #GetTitleRD 
+ WIZARD_KING_RD:1 "¬opo®¾-¢®Œ¡°ª¬" #GetTitleRD 
+ WIZARD_QUEEN_RD:1 "¬opo®e¢º-¢®Œ¡°ªµº" #GetTitleRD 
+ SKALD_PRIEST_RD:1 "¬®¿¦-¨µ" #GetTitleRD 
+ SKALD_PRIESTESS_RD:1 "¬®¿¦-¨ªµº" #GetTitleRD 
+ RECLAIMER_RD:1 "²¢¢²®¾" #GetTitleRD 
+ RECLAIMER_fem_RD:1 "²¢¢²®¿°ªµº" #GetTitleRD 
+ VICEROY_RD:1 "¢ªµ-¬®¾" #GetTitleRD 
+ VICERINE_RD:1 "¢ªµ-¬®¢º" #GetTitleRD 
+ ESBAGG_RD:1 "¼c¡a¥¥" #GetTitleRD 
+ SGARRT_RD:1 "¥app²" #GetTitleRD 
+ DECANN_RD:1 "¦e¬a°°" #GetTitleRD 
+ ESBAGG_fem_RD:1 "¼c¡a¥¥ª" #GetTitleRD 
+ SGARRT_fem_RD:1 "¥app²ª" #GetTitleRD 
+ DECANN_fem_RD:1 "¦e¬a°°º" #GetTitleRD 
+ CLANBOSS_RD:1 "¬®°¡" #GetTitleRD 
+ OVERBOSS_RD:1 "°¦¡" #GetTitleRD 
+ SUPREME_BOSS_RD:1 "¢¢°¥ ¡" #GetTitleRD 
+ CLANBOSSESS_RD:1 "¬®°¡" #GetTitleRD 
+ OVERBOSSESS_RD:1 "°¦¡" #GetTitleRD 
+ SUPREME_BOSSESS_RD:1 "¢¢°¥ ¡" #GetTitleRD 
+ CAPTAIN_RD:1 "¬±ª²°" #GetTitleRD 
+ CAPTAIN_fem_RD:1 "¬±ª²°" #GetTitleRD 
+ PETTY_KING_RD:1 "¯®¬¥ ¬opo®¾" #GetTitleRD 
+ PETTY_QUEEN_RD:1 "¯®¬þ ¬®¢º" #GetTitleRD 
+ GRAND_MAGISTER_RD:1 "¢®ª¬¥ ¯¥ª²" #GetTitleRD 
+ FIRST_MAGISTER_RD:1 "±¢¥ ¯¥ª²" #GetTitleRD 
+ HIGH_MAGE_RD:1 "¢¢°¥ ¯¥" #GetTitleRD 
+ ARCHMAGE_RD:1 "ª¯¥" #GetTitleRD 
+ PRINCE_ELECTOR_RD:1 "¬°¾©¾-¢º¡¸ª¬" #GetTitleRD 
+ PRINCESS_ELECTOR_RD:1 "¬°¾¥ª°ª-¢º¡¸ª¬" #GetTitleRD 
+ GRAND_ELECTRESS_RD:1 "¢®ª¬¥ ¢º¡¸ª¬" #GetTitleRD 
+ LORD_ELECTOR_RD:1 "®¦-¢º¡¸ª¬" #GetTitleRD 
+ HIGH_KING_RD:1 "¢¢°¥ ¬®¾" #GetTitleRD 
+ HIGH_QUEEN_RD:1 "¢¢°þ ¬®¢º" #GetTitleRD 
+ DUKE_ELECTOR_RD:1 "¥µ¥-¢º¡¸ª¬" #GetTitleRD 
+ GRAND_ELECTOR_RD:1 "¢®ª¬¥ ¢º¡¸ª¬" #GetTitleRD 
+ DUCHESS_ELECTOR_RD:1 "¥µ¥ª°ª-¢º¡¸ª¬" #GetTitleRD 
+ PRIEST_ELECTOR_RD:1 "¨µ-¢º¡¸ª¬" #GetTitleRD 
+ IMPERIAL_GRANDMASTER_RD:1 "ª¯±epc¬¥ ¥°¦¯²" #GetTitleRD 
+ IMPERIAL_GRANDMISTRESS_RD:1 "ª¯±epc¬¥ ¥°¦¯²" #GetTitleRD 
+ MARCHER_LORD_RD:1 "®¦ ±¥°ª¶¿¾" #GetTitleRD 
+ MOOR_KING_RD:1 "¡®²°¥ ¬®¾" #GetTitleRD 
+ MOOR_EMPEROR_RD:1 "¡®²°þ ¬®¢º" #GetTitleRD 
+ MOOR_QUEEN_RD:1 "¡®²°¥ ª¯±²" #GetTitleRD 
+ MOOR_EMPRESS_RD:1 "¡®²°þ ª¯±²ªµº" #GetTitleRD 
+ AKAL_RD:1 "¬®" #GetTitleRD 
+ AKALUNAKAL_RD:1 "¬®³°¬®" #GetTitleRD 
+ AKALI_RD:1 "¬®ª" #GetTitleRD 
+ AKALUNAKALI_RD:1 "¬®³°¬®ª" #GetTitleRD 
+ MARAS_RD:1 "¯Œ" #GetTitleRD 
+ GRAND_MARAS_RD:1 "¢®ª¬¥ ¯Œ" #GetTitleRD 
+ GREAT_MARAS_RD:1 "¢¢°¥ ¯Œ" #GetTitleRD 
+ KASHRA_RD:1 "¬Œº" #GetTitleRD 
+ AKAL_KASHRA_RD:1 "¬® ¬Œº" #GetTitleRD 
+ ISIAK_SURAKEL_RD:1 "ªŒª¬ Ô³¬®¾" #GetTitleRD 
+ PACK_LORD_RD:1 "±o¢e®ª²e®¾ ²aª" #GetTitleRD 
+ PACK_MISTRESS_RD:1 "±o¢e®ª²e®¿°ªµº ²aª" #GetTitleRD 
+ SONAD_RD:1 "o°a¦" #GetTitleRD 
+ FALT_RD:1 "´a®¿²" #GetTitleRD 
+ ARD_FALT_RD:1 "p¦-´a®¿²" #GetTitleRD 
+ SURCAG_RD:1 "³p¬a¥" #GetTitleRD 
+ BANRAG_RD:1 "¡a°pa¥" #GetTitleRD 
+ ARD_BANRAG_RD:1 "p¦-¡a°pa¥" #GetTitleRD 
+ COMHAIR_RD:1 "¬o¯xþp" #GetTitleRD 
+ LABRAR_RD:1 "®a¡pap" #GetTitleRD 
+ CANSUDD_RD:1 "¬a°c³¦¦" #GetTitleRD 
+ PROVOST_RD:1 "±¬²" #GetTitleRD 
+ ARCH_PROVOST_RD:1 "ª±¬²" #GetTitleRD 
+ IMPERIAL_PROVOST_RD:1 "ª¯±¬¥ ª±¬²" #GetTitleRD 
+ GRANDMASTER_RD:1 "¥°¦¯²" #GetTitleRD 
+ FIRST_ORACLE_MALE_RD:1 "¢¢°¥ ¢¥³" #GetTitleRD 
+ FIRST_ORACLE_FEMALE_RD:1 "¢¢°þ ¢¥³º" #GetTitleRD 
+ SENAPTI_RD:1 "°±²ª" #GetTitleRD 
+ PRABHI_RD:1 "±¡ª" #GetTitleRD 
+ GRAND_VIZIER_RD:1 "¢®ª¬¥ ¢ª©ª¾"
+ CAEHN_RD:1 "¬¼°" #GetTitleRD 
+ GREAT_CAEHN_RD:1 "¥²ª¥ ¬¼°" #GetTitleRD 
+ CAEHTEN_RD:1 "¬a¼²e°" #GetTitleRD 
+ GREAT_CAEHTEN_RD:1 "¥²ª¥ ¬a¼²e°" #GetTitleRD 
+ IZHUUN_RD:1 "ª¨³³°" #GetTitleRD 
+ KAASHEG_RD:1 "¬Œ¥" #GetTitleRD 
+ GREAT_KAASHEG_RD:1 "¢®ª¬¥ ¬Œ¥" #GetTitleRD 
+ KHUSHAI_RD:1 "³Œ¾" #GetTitleRD 
+ KUSHENG_RD:1 "¬³Œ¼°º" #GetTitleRD 
+ GREAT_KUSHENG_RD:1 "¢®ª¬þ ¬³Œ¼°º" #GetTitleRD 
+ HWALBAEJ_RD:1 "¢®¡¾" #GetTitleRD 
+ JAENG_RD:1 "¶¨¼°" #GetTitleRD 
+ DAEJAENG_RD:1 "¦¼¶¨¼°" #GetTitleRD 
+ HWALEI_RD:1 "¢®þ" #GetTitleRD 
+ WAENBU_RD:1 "¢¼°¡³" #GetTitleRD 
+ DAEWAENBU_RD:1 "¦¼¢¼°¡³" #GetTitleRD 
+ FIRST_MARSHAL_RD:1 "±¢¥ ¯Œ®" #GetTitleRD 
+ GRAND_MARSHAL_RD:1 "¥°¦-¯Œ®" #GetTitleRD 
+ VRYDAL_RD:1 "¢ª¦®" #GetTitleRD 
+ VYRISAR_RD:1 "¢ºª" #GetTitleRD 
+ VRYDALVA_RD:1 "¢ª¦®¢º" #GetTitleRD 
+ VYRISETA_RD:1 "¢ºª²º" #GetTitleRD 
+ VYLEDAR_RD:1 "¢º®¦" #GetTitleRD 
+ VYLYENDAR_RD:1 "¢º®¿°¦" #GetTitleRD 
+ VYLEDAM_RD:1 "¢º®¦¯" #GetTitleRD 
+ VYLYENDAM_RD:1 "¢º®¿°¦¯" #GetTitleRD 
+ DHAVANA_RD:1 "¦¢°º" #GetTitleRD 
+ ARYACAN_RD:1 "¿¾¬°" #GetTitleRD 
+ CAMRAYACAN_RD:1 "¬¯þ¬°" #GetTitleRD 
+ ELAVI_RD:1 "¼®¢ª" #GetTitleRD 
+ ARACI_RD:1 "ª" #GetTitleRD 
+ CAMRAYANI_RD:1 "¬¯¾°ª" #GetTitleRD 
+ YODHAN_RD:1 "þ¦°" #GetTitleRD 
+ RAYODHAN_RD:1 "þ¦°" #GetTitleRD 
+ CAKRAYODHANTI_RD:1 "¬¬þ¦°²ª" #GetTitleRD 
+ YODHENGASU_RD:1 "þ¦°¥º" #GetTitleRD 
+ RAYODANI_RD:1 "þ¦°ª" #GetTitleRD 
+ CAKRAMAHISI_RD:1 "¬¬¯ªª" #GetTitleRD 
+ DANNUKA_RD:1 "¦°°³¬ª" #GetTitleRD 
+ ADHIPAYAV_RD:1 "¦ª±¾¢" #GetTitleRD 
+ ADHIVAMRATT_RD:1 "¦ª¢¯²²" #GetTitleRD 
+ VENITA_RD:1 "¢°ª²º" #GetTitleRD 
+ ADHIPAYAVNI_RD:1 "¦ª±¾¢°ª" #GetTitleRD 
+ ADHIVAMRAHANI_RD:1 "¦ª¢¯°ª" #GetTitleRD 
+ VRAKKA_RD:1 "¢¬¬ª" #GetTitleRD 
+ POVRAKKA_RD:1 "±¢¬¬ª" #GetTitleRD 
+ RASVRAPAKKA_RD:1 "¢±¬¬ª" #GetTitleRD 
+ VRAKKANI_RD:1 "¢¬¬°ª" #GetTitleRD 
+ POVRAKKANI_RD:1 "±¢¬¬°ª" #GetTitleRD 
+ RASVRAPAKKANI_RD:1 "¢±¬¬°ª" #GetTitleRD 
+ DHEKKA_RD:1 "¦¬¬ª" #GetTitleRD 
+ AMARYARU_RD:1 "¯¿¾º" #GetTitleRD 
+ AMARAWOR_RD:1 "¯¢" #GetTitleRD 
+ ESTRI_RD:1 "¼²ª" #GetTitleRD 
+ AMARYARNI_RD:1 "¯¿¾°ª" #GetTitleRD 
+ AMARAWORNI_RD:1 "¯¢°ª" #GetTitleRD 
+ DOOKANIST_SHAMAN_MALE_RD:1 "²¡²°" #GetTitleRD 
+ DOOKANIST_SHAMAN_FEMALE_RD:1 "²¡²°" #GetTitleRD 
+ GOLDSCALE_SAGE_MALE_RD:1 "©®²¥ ¯³¦µ" #GetTitleRD 
+ GOLDSCALE_SAGE_FEMALE_RD:1 "©®²¥ ¯³¦µ" #GetTitleRD 
+ MATRIARCH_RD:1 "¯²ª" #GetTitleRD 
+ HIGH_MATRIARCH_RD:1 "¢¢°¥ ¯²ª" #GetTitleRD 
+ PUNGIPEA_RD:1 "±³°¥ª±" #GetTitleRD 
+ QASHLAIKIM_RD:1 "¬Œ®¬ª¯" #GetTitleRD
+ KHOIDARG_RD:1 "þ¦¥" #GetTitleRD
+ FIRST_COMMANDER_RD:1 "±¢¥ ¬¯°¦³½¸¥" #GetTitleRD
+ DAKOCRACY_DUKE_RD:1 "¯¥-®¦" #GetTitleRD
+ DAKOCRACY_KING_RD:1 "¢¢®Œ¡°ª¬" #GetTitleRD
+ DAKOCRACY_EMPEROR_RD:1 "¢¢°¥ ª¯±²" #GetTitleRD
+ DIARCH_RD:1 "¦ª" #GetTitleRD
+ GRAND_DIARCH_RD:1 "¢®ª¬¥ ¦ª" #GetTitleRD
+
+ #°®¦°ª¬ª
+ HOLY_CHOSEN_RD:1 "¢¾²o¥ ª©¡pa°°ª¬" #GetTitleHeirRD
+ PHOENIX_PRINCE_RD:1 "±ª°µ-´°ª¬" #GetTitleHeirRD
+ PHOENIX_PRINCESS_RD:1 "±ª°µº-´°ª¬" #GetTitleHeirRD
+ GRAY_LORD_RD:1 "ep¥ ®op¦" #GetTitleHeirRD
+ GRAY_PRINCE_RD:1 "ep¥ ±pª°µ" #GetTitleHeirRD
+ GRAY_LADY_RD:1 "epþ ®e¦ª" #GetTitleHeirRD
+ GRAY_PRINCESS_RD:1 "epþ ±pª°µeccº" #GetTitleHeirRD
+ KARAKHUR_RD:1 "¬¬³" #GetTitleHeirRD
+ KARADURZK_RD:1 "¬¦³©¬" #GetTitleHeirRD
+ SER_HEIR_RD:1 "" #GetTitleHeirRD
+ YELLER_APPARENT_RD:1 "¢±¾¸¥ ¶¢ª¦µ" #GetTitleHeirRD
+ TLUUKT_PRINCE_RD:1 "¯¨" #GetTitleHeirRD
+ TLUUKT_PRINCESS_RD:1 "¯¨ª" #GetTitleHeirRD
+ JARLSSON_RD:1 "¾p®cco°" #GetTitleHeirRD
+ KONUNGSSON_RD:1 "¬o°³°¥cco°" #GetTitleHeirRD
+ OZTRKONUNGSSON_RD:1 "©²p¬o°³°¥cco°" #GetTitleHeirRD
+ JARLSDOTTIR_RD:1 "¾p®c¦o²²ªpº" #GetTitleHeirRD
+ KONUNGSDOTTIR_RD:1 "¬o°°³°¥c¦o²²ªpº" #GetTitleHeirRD
+ OZTRKONUNGSDOTTIR_RD:1 "©²¬o°°³°¥c¦o²²ªpº" #GetTitleHeirRD
+ PRANT_RD:1 "±pa°²" #GetTitleHeirRD
+ SHADOW_HEIR_RD:1 "½°¥ ¥±¦ª°" #GetTitleHeirRD
+ SHADOW_HEIRESS_RD:1 "½°þ ¥±¨ª" #GetTitleHeirRD
+ BATTLEPRINCE_RD:1 "±pª°µ ¢ª²®¾" #GetTitleHeirRD
+ BATTLEPRINCESS_RD:1 "±pª°µeccº ¢ª²®¿°ªµº" #GetTitleHeirRD
+ RASHOKUDEI_RD:1 "Œ¬³¦¾" #GetTitleHeirRD
+ BOJAEJ_RD:1 "¡¦¨¾" #GetTitleHeirRD
+ KHUNZHE_RD:1 "³°¿µ©" #GetTitleHeirRD
+ DAKHUNZE_RD:1 "¦³°¿µ©" #GetTitleHeirRD
+ BOJEI_RD:1 "¡¦¨¼¾" #GetTitleHeirRD
+ GONJE_RD:1 "¥°¿µ©" #GetTitleHeirRD
+ DAGONJE_RD:1 "¦¥°¿µ©" #GetTitleHeirRD
+ XANSHEN_RD:1 "¾°¿Œ°¾" #GetTitleHeirRD
+ TONZHI_RD:1 "²°¶¨ª" #GetTitleHeirRD
+ DATONZHI_RD:1 "¦²°¶¨ª" #GetTitleHeirRD
+ DANSHEN_RD:1 "¦°¿Œ°¾" #GetTitleHeirRD
+ GONZHI_RD:1 "¥°¿¶¨ª" #GetTitleHeirRD
+ DAGONZHI_RD:1 "¦¥°¶¿¨ª" #GetTitleHeirRD
+ AROMO_RD:1 "¯º" #GetTitleHeirRD
+ TOJIS_RD:1 "²¦©ª" #GetTitleHeirRD
+ RENDA_RD:1 "°¦º" #GetTitleHeirRD
+ RONTOS_RD:1 "°²" #GetTitleHeirRD
+ PRINCE_APPARENT_RD:1 "¾¢°¥ ±pª°µ" #GetTitleHeirRD
+ PRINCESS_APPARENT_RD:1 "¾¢°þ ±pª°µeccº" #GetTitleHeirRD
+ HEIR_APPARENT_RD:1 "¾¢°¥ °ac®e¦°ª¬" #GetTitleHeirRD
+ DRAGON_LORD_RD:1 "¦¬°¿¥ ®¦" #GetTitleHeirRD
+ DRAGON_PRINCE_RD:1 "¦¬°¿¥ ±ª°µ" #GetTitleHeirRD
+ DRAGON_LADY_RD:1 "¦¬°¿þ ®¦ª" #GetTitleHeirRD
+ DRAGON_PRINCESS_RD:1 "¦¬°¿þ ±ª°µº" #GetTitleHeirRD
+ 
+ CHOSEN_DISCIPLE_RD:1 "ª©¡°°¥ ³¶°ª¬" #GetTitleHeirRD
+ ASCENDANT_MASTER_RD:1 "¢¦¾¸¥ ¯²" #GetTitleHeirRD
+ MARSAR_RD:1 "¯Œ" #GetTitleHeirRD
+ MARSARI_RD:1 "¯Œª" #GetTitleHeirRD
+ OGHAR_RD:1 "¥ap" #GetTitleHeirRD
+ BANOGHAR_RD:1 "¡a°o¥ap" #GetTitleHeirRD
+ IZHUUNAAZUN_RD:1 "ª¨³³°©³°" #GetTitleHeirRD
+ KHUSHAAZUN_RD:1 "³Œ©³°" #GetTitleHeirRD
+ BOJAENG_RD:1 "¡¦¨°" #GetTitleHeirRD
+ NOPOJAENG_RD:1 "°±¦¨°" #GetTitleHeirRD
+ BOJAENBU_RD:1 "¡¦¨¼°¡³" #GetTitleHeirRD
+ NOPAENBU_RD:1 "°±¼°¡³" #GetTitleHeirRD
+ TALDHAVANA_RD:1 "²®¦¢°º" #GetTitleHeirRD
+ AVALIRIKAN_RD:1 "¢®ªª¬°" #GetTitleHeirRD
+ TALNIDHAVANA_RD:1 "²®°ª¦¢°º" #GetTitleHeirRD
+ AVALIKUMARI_RD:1 "¢®ª¬³¯ª" #GetTitleHeirRD
+ YODHANNAGUR_RD:1 "þ¦°°¥³" #GetTitleHeirRD
+ RAYODHANNAGUR_RD:1 "þ¦°°¥³" #GetTitleHeirRD
+ CAKRAYODHANTINAGUR_RD:1 "¶¬þ¦°²ª°¥³" #GetTitleHeirRD
+ YODHANNAGULU_RD:1 "þ¦°°¥³®º" #GetTitleHeirRD
+ RAYODHANNAGULU_RD:1 "þ¦°°¥³®º" #GetTitleHeirRD
+ CAKRAYODHANTINAGULU_RD:1 "¶¬þ¦°²ª°¥³®º" #GetTitleHeirRD
+ DANNUKPATRUY_RD:1 "¦°°³¬±²³¾" #GetTitleHeirRD
+ ADHIPPATRUY_RD:1 "¦ª±±²³¾" #GetTitleHeirRD
+ ADHIVAMPATRUY_RD:1 "¦ª¢¯±²³¾" #GetTitleHeirRD
+ DANNUKPATRI_RD:1 "¦°°³¬±²ª" #GetTitleHeirRD
+ ADHIPPATRI_RD:1 "¦ª±±²ª" #GetTitleHeirRD
+ ADHIVAMPATRI_RD:1 "¦ª¢¯±²ª" #GetTitleHeirRD
+ DHEKKAMARUI_RD:1 "¦¬¬¯³¾" #GetTitleHeirRD
+ AMARAVARA_RD:1 "¯¢º" #GetTitleHeirRD
+ AMARAVARAJU_RD:1 "¯¢¦¨ª" #GetTitleHeirRD
+ DHEKKAMARUTY_RD:1 "¦¬¬¯³²ª" #GetTitleHeirRD
+ AMARASURA_RD:1 "¯³º" #GetTitleHeirRD
+ AMARASURUNI_RD:1 "¯³³°ª" #GetTitleHeirRD
+ CONRI_BINH_RD:1 "¬°ª ¡ª°¾" #GetTitleHeirRD
+ CONGI_BINH_RD:1 "¬°¥ª ¡ª°¾" #GetTitleHeirRD
+ 
+ #¬°²º
+ AKAL_CONSORT_RD:1 "¬®-¬°²" #GetTitleConsortRD
+ AKALI_CONSORT_RD:1 "¬®ª-¬°²" #GetTitleConsortRD
+ TELJARL_RD:1 "²e®¹¾p®" #GetTitleConsortRD
+ GREVINNA_RD:1 "¥pe¢ª°°º" #GetTitleConsortRD
+ GRAND_CONSORT_RD:1 "¥pa°¦-¬o°cop²" #GetTitleConsortRD
+ 
+ FIRST_NOBLE_HUSBAND_RD:1 "±ep¢¥ ¡®a¥opo¦°¥ ¯³¨" #GetTitleConsortRD
+ FIRST_ROYAL_HUSBAND_RD:1 "±ep¢¥ ¬opo®e¢c¬¥ ¯³¨" #GetTitleConsortRD
+ FIRST_SUPREME_HUSBAND_RD:1 "±ep¢¥ ¢epxo¢°¥ ¯³¨" #GetTitleConsortRD
+ FIRST_NOBLE_WIFE_RD:1 "±ep¢þ ¡®a¥opo¦°þ ¨e°º" #GetTitleConsortRD
+ FIRST_ROYAL_WIFE_RD:1 "±ep¢þ ¬opo®e¢c¬þ ¨e°º" #GetTitleConsortRD
+ FIRST_SUPREME_WIFE_RD:1 "±ep¢þ ¢epxo¢°þ ¨e°º" #GetTitleConsortRD
+ DUKAD_CARD_RD:1 "¦³¬a¦-¬ap¦" #GetTitleConsortRD
+ RIGAK_CARD_RD:1 "ª¥a¬-¬ap¦" #GetTitleConsortRD
+ ARDRIGAK_CARD_RD:1 "p¦pª¥a¬-¬ap¦" #GetTitleConsortRD
+ SURCAG_CARD_RD:1 "³p¬a¥-¬ap¦" #GetTitleConsortRD
+ BANRAG_CARD_RD:1 "¡a°pa¥-¬ap¦" #GetTitleConsortRD
+ ARDBANRAG_CARD_RD:1 "p¦¡a°pa¥-¬ap¦" #GetTitleConsortRD
+ HENGASU_RD:1 "þ¦°¥º" #GetTitleConsortRD
+ DANI_RD:1 "¦°ª" #GetTitleConsortRD
+ MAHISI_RD:1 "¯ªª" #GetTitleConsortRD
+ NGI_HONG_RD:1 "°¥ª °" #GetTitleConsortRD
+ NGI_VO_RD:1 "°¥ª ¢" #GetTitleConsortRD
+ 
+ #ƒ²®¿°ºþ ±¦¨
+ HARI_DT:1 "ª" #GetTitleDT 
+ GREAT_HARI_DT:1 "¢®ª¬¯³ ª" #GetTitleDT 
+ HARIN_DT:1 "ª°" #GetTitleDT 
+ GREAT_HARIN_DT:1 "¢®ª¬þ ª°" #GetTitleDT 
+ DUKE_CROSSGUARD_DT:1 "¬°¾©½-©a¸ª²°ª¬³" #GetTitleDT 
+ KING_CROSSGUARD_DT:1 "¬opo®½-©a¸ª²°ª¬³" #GetTitleDT 
+ EMPEROR_CROSSGUARD_DT:1 "ª¯±epa²op³-©a¸ª²°ª¬³" #GetTitleDT 
+ DUCHESS_CROSSGUARD_DT:1 "¬°¾¥ª°-©a¸ª²°ªµ" #GetTitleDT 
+ QUEEN_CROSSGUARD_DT:1 "¬opo®e¢³-©a¸ª²°ªµ" #GetTitleDT 
+ EMPRESS_CROSSGUARD_DT:1 "ª¯±epa²pªµ-©a¸ª²°ªµ" #GetTitleDT 
+ SANCTIFIED_KING_DT:1 "¢¾²o¯³ ¬opo®½" #GetTitleDT 
+ SANCTIFIED_EMPEROR_DT:1 "¢¾²o¯³ ª¯±epa²op³" #GetTitleDT 
+ SANCTIFIED_QUEEN_DT:1 "¢¾²þ ¬opo®e¢" #GetTitleDT 
+ SANCTIFIED_EMPRESS_DT:1 "¢¾²þ ª¯±epa²pªµ" #GetTitleDT 
+ PHOENIX_EMPEROR_DT:1 "ª¯±²³ ´°ª¬" #GetTitleDT 
+ PHOENIX_EMPRESS_DT:1 "ª¯±²ªµ ´°ª¬" #GetTitleDT 
+ COMMANDER_DT:1 "¬o¯a°¦ªp³" #GetTitleDT 
+ HERALD_DT:1 "¢ec²°ª¬³" #GetTitleDT 
+ DIVINE_HERALD_DT:1 "¡o¨ec²¢e°°¯³ ¢ec²°ª¬³" #GetTitleDT 
+ COMMANDER_fem_DT:1 "¬o¯a°¦ªpŒ" #GetTitleDT 
+ HERALD_fem_DT:1 "¢ec²°ªµ" #GetTitleDT 
+ DIVINE_HERALD_fem_DT:1 "¡o¨ec²¢e°°þ ¢ec²°ªµ" #GetTitleDT 
+ SORCERER_KING_DT:1 "¬®½-¬®¦³°³" #GetTitleDT 
+ SORCERER_QUEEN_DT:1 "¬®¢-¬®¦³°¿" #GetTitleDT 
+ BLACK_ACOLYTE_DT:1 "¶ž°¯³ ¬®ª²³" #GetTitleDT 
+ BLACK_ACOLYTE_fem_DT:1 "¶ž°þ ¬®ª²" #GetTitleDT 
+ GRAY_DUKE_DT:1 "ep¯³ ¬°¾©½" #GetTitleDT 
+ GRAY_KING_DT:1 "ep¯³ ¬opo®½" #GetTitleDT 
+ GRAY_EMPEROR_DT:1 "ep¯³ ª¯±epa²op³" #GetTitleDT 
+ GRAY_DUCHESS_DT:1 "epþ ¬°¾¥ª°" #GetTitleDT 
+ GRAY_QUEEN_DT:1 "epþ ¬opo®e¢" #GetTitleDT 
+ GRAY_EMPRESS_DT:1 "epþ ª¯±epa²pªµ" #GetTitleDT 
+ MAGISTER_DT:1 "¯¥ª²³" #GetTitleDT 
+ MAGISTRIX_DT:1 "¯¥ª²³" #GetTitleDT 
+ KNIGHT_CAPTAIN_DT:1 "ºµap½-¬a±ª²a°³" #GetTitleDT 
+ KNIGHT_CAPTAIN_fem_DT:1 "ºµap½-¬a±ª²a°Œ" #GetTitleDT 
+ LORD_CRIER_DT:1 "®op¦³ ¥®aŒa²a½" #GetTitleDT 
+ LADY_CRIER_DT:1 "®¦ª ¥®aŒa²aþ" #GetTitleDT 
+ PACK_LORD_DT:1 "±o¢e®ª²e®½ ²aª" #GetTitleDT 
+ CORSAIR_KING_DT:1 "¬opo®½ ¬opcapo¢" #GetTitleDT 
+ SEA_SCOURGE_DT:1 "¥po© ¯opeþ" #GetTitleDT 
+ PACK_MISTRESS_DT:1 "±o¢e®ª²e®¿°ªµ ²aª" #GetTitleDT 
+ CORSAIR_QUEEN_DT:1 "¬®¢ ¬opcapo¢" #GetTitleDT 
+ TLUUKT_KING_DT:1 "¬®³°¬®³" #GetTitleDT 
+ TLUUKT_EMPEROR_DT:1 "¬³°¬®³" #GetTitleDT 
+ TLUUKT_QUEEN_DT:1 "¬®³°¬®ª" #GetTitleDT 
+ TLUUKT_EMPRESS_DT:1 "¬³°¬®ª" #GetTitleDT 
+ JARL_DT:1 "¾®³" #GetTitleDT 
+ KONUNGR_DT:1 "¬°³°¥³" #GetTitleDT 
+ OZTRKONUNGR_DT:1 "©²o¬o°³°¥³" #GetTitleDT 
+ DROTTNING_DT:1 "¦po²²°ª°¥" #GetTitleDT 
+ OZTRDROTTNING_DT:1 "©¦po²²°ª°¥" #GetTitleDT 
+ MASTER_SKALD_PRIEST_DT:1 "¢e®ª¬¯³ ¬a®¿¦³-¨peµ³" #GetTitleDT 
+ MASTER_SKALD_PRIESTESS_DT:1 "¢e®ª¬þ ¬a®¿¦-¨pªµ" #GetTitleDT 
+ EXALTED_COMPANION_DT:1 "¢o©¢ºŒe°°¯³ ±³²°ª¬³" #GetTitleDT 
+ ARD_DRADH_DT:1 "p¦ ¦pa¦³" #GetTitleDT 
+ ARD_BANNDRADH_DT:1 "p¦ ¡a°°¦pa¦³" #GetTitleDT 
+ SHADOW_MALE_DT:1 "²e°e¢o¯³ ±pª°µ³" #GetTitleDT 
+ SHADOW_FEMALE_DT:1 "²e°e¢þ ±pª°µecc" #GetTitleDT 
+ CRYSTAL_QUEEN_DT:1 "¬pªc²a®¿°þ ¬opo®e¢" #GetTitleDT 
+ CRYSTAL_EMPRESS_DT:1 "¬pªc²a®¿°þ ª¯±epa²pªµ" #GetTitleDT 
+ OBSIDIAN_MALE_DT:1 "¢º¡pa°°¯³ ³°oþ" #GetTitleDT 
+ OBSIDIAN_FEMALE_DT:1 "¢º¡pa°°þ ³°oþ" #GetTitleDT 
+ OBSIDIAN_INVASION_MALE_DT:1 "³°°¯³ ¢²°ª¬³" #GetTitleDT 
+ OBSIDIAN_INVASION_FEMALE_DT:1 "³°°þ ¢²°ªµ" #GetTitleDT 
+ COUNCILLOR_DT:1 "¬o°c³®³" #GetTitleDT 
+ FIRST_COUNCILLOR_DT:1 "±¢¯³ ¬°³®³" #GetTitleDT 
+ HIGH_COUNCILLOR_DT:1 "¢¢°¯³ ¬°³®³" #GetTitleDT 
+ MARSHAL_DT:1 "¯Œ®³" #GetTitleDT 
+ GRAND_MARSHAL_DT:1 "¥°¦-¯Œ®³" #GetTitleDT 
+ GANG_LEADER_DT:1 "®ª¦ep³ ¡a°¦º" #GetTitleDT 
+ GREY_EMINENCE_DT:1 "¯³ ¬¦ª°®³" #GetTitleDT 
+ MENGURKHA_DT:1 "¯e°¥³p¬" #GetTitleDT 
+ MENGARKHA_DT:1 "¯e°¥ap¬" #GetTitleDT 
+ BAOZH_DT:1 "¡¨³" #GetTitleDT 
+ BAOZHA_DT:1 "¡¨" #GetTitleDT 
+ BIIGH_BAOZH_DT:1 "¡ªª¥ ¡¨³" #GetTitleDT 
+ BIIGH_BAOZHA_DT:1 "¡ªª¥ ¡¨" #GetTitleDT 
+ OJKAGMA_DT:1 "þ¬¥¯" #GetTitleDT 
+ MENGURM_DT:1 "¯°¥³'¯³" #GetTitleDT 
+ MENGURKHA_DT:1 "¯e°¥³p¬" #GetTitleDT 
+ OJKODIRD_DT:1 "þ¬¦ª¦³" #GetTitleDT 
+ MENGURMA_DT:1 "¯°¥³'¯" #GetTitleDT 
+ MENGARKHA_DT:1 "¯e°¥ap¬" #GetTitleDT 
+ GHALRDON_DT:1 "¥®'¦°³" #GetTitleDT 
+ GHALRDAL_DT:1 "¥®'¦®" #GetTitleDT 
+ BATTLEKING_DT:1 "¬opo®½ ¢ª²®½" #GetTitleDT 
+ BOYACSAR_DT:1 "¡¾¬³" #GetTitleDT 
+ BATTLEQUEEN_DT:1 "¬opo®e¢ ¢ª²®¿°ªµ" #GetTitleDT 
+ BOYACSARA_DT:1 "¡¾¬" #GetTitleDT 
+ VALADR_DT:1 "¢®¦³" #GetTitleDT 
+ VIZVALADR_DT:1 "¢ª©¢®¦³" #GetTitleDT 
+ VALATKA_DT:1 "¢®²¬" #GetTitleDT 
+ VIZVALATKA_DT:1 "¢ª©¢®²¬" #GetTitleDT 
+ VYRISAR_DT:1 "¢ºª³" #GetTitleDT 
+ VYRISETA_DT:1 "¢ºª²" #GetTitleDT 
+ VITSAR_DT:1 "¢ª²³" #GetTitleDT 
+ YRIDAM_DT:1 "ªª¦¯³" #GetTitleDT 
+ BARON_DT:1 "¡°³" #GetTitleDT 
+ BARONESS_DT:1 "¡°" #GetTitleDT 
+ VENERATOR_DT:1 "¢°²³" #GetTitleDT 
+ VENERATOR_HIGH_DT:1 "¢¢°¯³ ¢°²³" #GetTitleDT 
+ RASHENBIR_DT:1 "Œ°¡ª³" #GetTitleDT 
+ HWALBAEJ_DT:1 "¢®¡½" #GetTitleDT 
+ KAJAENG_DT:1 "¬¦¨°³" #GetTitleDT 
+ DAKAJAENG_DT:1 "¦¬¦¨°" #GetTitleDT 
+ HWALEI_DT:1 "¢®½" #GetTitleDT 
+ KUSHAEN_DT:1 "¬³Œ°³" #GetTitleDT 
+ DAKUSHAEN_DT:1 "¦¬³Œ°³" #GetTitleDT 
+ ZHU_DT:1 "¶¨³" #GetTitleDT 
+ TONGZHE_DT:1 "²°¶¨¼" #GetTitleDT 
+ DIANGDI_DT:1 "¦ª°¥¦ª" #GetTitleDT 
+ SHUN_DT:1 "Œ³°½" #GetTitleDT 
+ NUWANG_DT:1 "°³¢°¥³" #GetTitleDT 
+ HANGHO_DT:1 "°¥" #GetTitleDT 
+ MANSAROM_DT:1 "¯°¯³" #GetTitleDT 
+ MONGOR_DT:1 "¯°¥³" #GetTitleDT 
+ TAMONGOR_DT:1 "²¯°¥³" #GetTitleDT 
+ RENDA_DT:1 "°¦" #GetTitleDT 
+ JOLDO_DT:1 "¦¨®¦" #GetTitleDT 
+ TAJOLDO_DT:1 "²¦¨®¦" #GetTitleDT 
+ HIGH_LORD_DT:1 "¢¢°¯³ ®¦³" #GetTitleDT 
+ GREAT_LORD_DT:1 "¢®ª¬¯³ ®¦³" #GetTitleDT 
+ HIGH_LADY_DT:1 "¢¢°þ ®¦ª" #GetTitleDT 
+ GREAT_LADY_DT:1 "¢®ª¬þ ®¦ª" #GetTitleDT 
+ HIGH_CONVOCATIONARY_DT:1 "¢ºŒ¯³ ©º¢³" #GetTitleDT 
+ GREAT_CONVOCATIONARY_DT:1 "¢®ª¬¯³ ©º¢³" #GetTitleDT 
+ SUPREME_CONVOCATIONARY_DT:1 "¢¢°¯³ ©º¢³" #GetTitleDT 
+ MYKX_PR_CHIEF_ADMIRAL_DT:1 "²Œ¯³ ¦¯ª®³" #GetTitleDT 
+ MYKX_PR_GRAND_ADMIRAL_DT:1 "¥°¦-¦¯ª®³" #GetTitleDT 
+ MYKX_PR_SCOURGE_MAN_DT:1 "±®²¿²µ³" #GetTitleDT 
+ MYKX_PR_SCOURGE_WOMAN_DT:1 "±®²¿¯²ª" #GetTitleDT 
+ LORD_MAYOR_DT:1 "®op¦-¯¼p³" #GetTitleDT 
+ GRAND_MAYOR_DT:1 "¢e®ª¬¯³ ¯¼p³" #GetTitleDT 
+ IRON_KING_DT:1 "¨®©°¯³ ¬®½" #GetTitleDT 
+ IRON_QUEEN_DT:1 "¨®©°þ ¬®¢" #GetTitleDT 
+ GRAND_PRINCE_DT:1 "¢e®ª¬¯³ ¬°¾©½" #GetTitleDT 
+ GRAND_PRINCESS_DT:1 "¢e®ª¬þ ¬°¾¥ª°" #GetTitleDT 
+ OLDKING_DT:1 "²¯³ ¬®½" #GetTitleDT 
+ OLDQUEEN_DT:1 "²þ ¬®¢" #GetTitleDT 
+ ELDER_DT:1 "¦¢°¯³" #GetTitleDT 
+ HIGH_ELDER_DT:1 "¢¢°¯³ ¦¢°¯³" #GetTitleDT 
+ PARAMOUNT_ELDER_DT:1 "±¢²±°°¯³ ¦¢°¯³" #GetTitleDT 
+ AMBER_KING_DT:1 "¾°²°¯³ ¬®½" #GetTitleDT 
+ AMBER_QUEEN_DT:1 "¾°²°þ ¬®¢" #GetTitleDT 
+ BRIGHT_KING_DT:1 "¾¬¯³ ¬®½" #GetTitleDT 
+ BRIGHT_QUEEN_DT:1 "¾¬þ ¬®¢" #GetTitleDT 
+ FLAME_CUSTODIAN_DT:1 "°ª²®½" #GetTitleDT 
+ FIRELORD_DT:1 "±¢®ª²®½ ¥°¾" #GetTitleDT 
+ FIRELADY_DT:1 "±¢®ª²®¿°ªµ ¥°¾" #GetTitleDT 
+ CRIMSON_REVEREND_DT:1 "¡¥¢¯³ ±±¦¡°¯³" #GetTitleDT 
+ CRIMSON_REVEREND_fem_DT:1 "¡¥¢þ ±±¦¡°þ" #GetTitleDT 
+ SKY_CAPTAIN_DT:1 "°¡°¯³ ¬±ª²°³" #GetTitleDT 
+ GRAND_SKY_CAPTAIN_DT:1 "¢®ª¬¯³ °¡°¯³ ¬±ª²°³" #GetTitleDT 
+ DRAGON_PRINCE_DT:1 "±ª°µ³ ¦¬°¢" #GetTitleDT 
+ DRAGON_KING_DT:1 "¬®½ ¦¬°¢" #GetTitleDT 
+ DRAGON_EMPEROR_DT:1 "ª¯±²³ ¦¬°¢" #GetTitleDT 
+ DRAGON_PRINCESS_DT:1 "±ª°µ ¦¬°¢" #GetTitleDT 
+ DRAGON_QUEEN_DT:1 "¬®¢ ¦¬°¢" #GetTitleDT 
+ DRAGON_EMPRESS_DT:1 "ª¯±²ªµ ¦¬°¢" #GetTitleDT 
+ LIANGZHU_DT:1 "®ª°¶¨³" #GetTitleDT 
+ KEGLORD_DT:1 "¬¥®¦³" #GetTitleDT 
+ HIGH_KEGLORD_DT:1 "¢¢°¯³ ¬¥®¦³" #GetTitleDT 
+ KEGQUEEN_DT:1 "¬¥®¢" #GetTitleDT 
+ HIGH_KEGQUEEN_DT:1 "¢¢°þ ¬¥®¢" #GetTitleDT 
+ LESSER_KING_DT:1 "¯°¿Œ¯³ ¬®½" #GetTitleDT 
+ KING_OF_KINGS_DT:1 "¬®½ ¬®þ" #GetTitleDT 
+ LESSER_QUEEN_DT:1 "¯°¿Œþ ¬®¢" #GetTitleDT 
+ QUEEN_OF_QUEENS_DT:1 "¬®¢ ¬®¢" #GetTitleDT 
+ FIRST_STEWARD_DT:1 "±¢¯³ ³±¢®¾½¸¯³" #GetTitleDT 
+ HIGH_STEWARD_DT:1 "¢¢°¯³ ³±¢®¾½¸¯³" #GetTitleDT 
+ FIRST_STEWARD_fem_DT:1 "±¢þ ³±¢®¾½¸þ" #GetTitleDT 
+ HIGH_STEWARD_fem_DT:1 "¢¢°þ ³±¢®¾½¸þ" #GetTitleDT 
+ 
+ HIGH_RECTOR_DT:1 "¢¢°¯³ ¬²³" #GetTitleDT 
+ FIRST_MASTER_DT:1 "±¢¯³ ¯²³" #GetTitleDT 
+ RIGHTEOUS_MASTER_DT:1 "±¢¦°¯³ ¯²³" #GetTitleDT 
+ SUPREME_MASTER_DT:1 "¢¢°¯³ ¯²³" #GetTitleDT 
+ MARQUIS_DT:1 "¯¬ª©³" #GetTitleDT 
+ GRAND_MARQUIS_DT:1 "¢®ª¬¯³ ¯¬ª©³" #GetTitleDT 
+ MARQUISA_DT:1 "¯¬ª©" #GetTitleDT 
+ GRAND_MARQUISA_DT:1 "¢®ª¬þ ¯¬ª©" #GetTitleDT 
+ LUMINARY_DT:1 "¢²ª®³" #GetTitleDT 
+ FIRST_HIERARCH_IM:1 "±¢ª³" #GetTitleDT 
+ GENERAL_GOV_DT:1 "¥°®³" #GetTitleDT 
+ LOT_DEKKHANG_DT:1 "®² ¦¬¬°¥³" #GetTitleDT 
+ GOVERNOR_GENERAL_DT:1 "¥°®-¥³¡°²³" #GetTitleDT 
+ CHANCELLOR_DT:1 "¬°µ®³" #GetTitleDT 
+ SUPREME_CHANCELLOR_DT:1 "¢¢°¯³ ¬°µ®³" #GetTitleDT 
+ WITCH_KING_DT:1 "¬opo®½-¶apo¦e½" #GetTitleDT 
+ WITCH_EMPEROR_DT:1 "ª¯±epa²op³-¶apo¦e½" #GetTitleDT 
+ WITCH_QUEEN_DT:1 "¬®¢-¶¦þ¬" #GetTitleDT 
+ WITCH_EMPRESS_DT:1 "ª¯±²ªµ-¶¦þ¬" #GetTitleDT 
+ KYLAKAS_DT:1 "¬ª®a¬ac³" #GetTitleDT 
+ DEGA_KYLAKAS_DT:1 "¦e¥a ¬ª®a¬ac³" #GetTitleDT 
+ WIZARD_KING_DT:1 "¬opo®½-¢®Œ¡°ª¬³" #GetTitleDT 
+ WIZARD_QUEEN_DT:1 "¬opo®e¢-¢®Œ¡°ªµ" #GetTitleDT 
+ SKALD_PRIEST_DT:1 "¬®¿¦-¨µ³" #GetTitleDT 
+ SKALD_PRIESTESS_DT:1 "¬®¿¦-¨ªµ" #GetTitleDT 
+ RECLAIMER_DT:1 "²¢¢²®½" #GetTitleDT 
+ RECLAIMER_fem_DT:1 "²¢¢²®¿°ªµ" #GetTitleDT 
+ VICEROY_DT:1 "¢ªµ-¬®½" #GetTitleDT 
+ VICERINE_DT:1 "¢ªµ-¬®¢" #GetTitleDT 
+ ESBAGG_DT:1 "¼c¡a¥¥³" #GetTitleDT 
+ SGARRT_DT:1 "¥app²³" #GetTitleDT 
+ DECANN_DT:1 "¦e¬a°°³" #GetTitleDT 
+ ESBAGG_fem_DT:1 "¼c¡a¥¥" #GetTitleDT 
+ SGARRT_fem_DT:1 "¥app²" #GetTitleDT 
+ DECANN_fem_DT:1 "¦e¬a°°" #GetTitleDT 
+ CLANBOSS_DT:1 "¬®°¡³" #GetTitleDT 
+ OVERBOSS_DT:1 "°¦¡³" #GetTitleDT 
+ SUPREME_BOSS_DT:1 "¢¢°¯³ ¡³" #GetTitleDT 
+ CLANBOSSESS_DT:1 "¬®°¡³" #GetTitleDT 
+ OVERBOSSESS_DT:1 "°¦¡³" #GetTitleDT 
+ SUPREME_BOSSESS_DT:1 "¢¢°¯³ ¡³" #GetTitleDT 
+ CAPTAIN_DT:1 "¬±ª²°³" #GetTitleDT 
+ CAPTAIN_fem_DT:1 "¬±ª²°³" #GetTitleDT 
+ PETTY_KING_DT:1 "¯®¬¯³ ¬opo®½" #GetTitleDT 
+ PETTY_QUEEN_DT:1 "¯®¬þ ¬®¢" #GetTitleDT 
+ GRAND_MAGISTER_DT:1 "¢®ª¬¯³ ¯¥ª²³" #GetTitleDT 
+ FIRST_MAGISTER_DT:1 "±¢¯³ ¯¥ª²³" #GetTitleDT 
+ HIGH_MAGE_DT:1 "¢¢°¯³ ¯¥³" #GetTitleDT 
+ ARCHMAGE_DT:1 "ª¯¥³" #GetTitleDT 
+ PRINCE_ELECTOR_DT:1 "¬°¾©½-¢º¡¸ª¬³" #GetTitleDT 
+ PRINCESS_ELECTOR_DT:1 "¬°¾¥ª°-¢º¡¸ª¬³" #GetTitleDT 
+ GRAND_ELECTRESS_DT:1 "¢®ª¬¯³ ¢º¡¸ª¬³" #GetTitleDT 
+ LORD_ELECTOR_DT:1 "®¦³-¢º¡¸ª¬³" #GetTitleDT 
+ HIGH_KING_DT:1 "¢¢°¯³ ¬®½" #GetTitleDT 
+ HIGH_QUEEN_DT:1 "¢¢°þ ¬®¢" #GetTitleDT 
+ DUKE_ELECTOR_DT:1 "¥µ¥³-¢º¡¸ª¬³" #GetTitleDT 
+ GRAND_ELECTOR_DT:1 "¢®ª¬¯³ ¢º¡¸ª¬³" #GetTitleDT 
+ DUCHESS_ELECTOR_DT:1 "¥µ¥ª°-¢º¡¸ª¬³" #GetTitleDT 
+ PRIEST_ELECTOR_DT:1 "¨µ³-¢º¡¸ª¬³" #GetTitleDT 
+ IMPERIAL_GRANDMASTER_DT:1 "ª¯±epc¬¯³ ¥°¦¯²³" #GetTitleDT 
+ IMPERIAL_GRANDMISTRESS_DT:1 "ª¯±epc¬¯³ ¥°¦¯²³" #GetTitleDT 
+ MARCHER_LORD_DT:1 "®¦³ ±¥°ª¶¿¾" #GetTitleDT 
+ MOOR_KING_DT:1 "¡®²°¯³ ¬®½" #GetTitleDT 
+ MOOR_EMPEROR_DT:1 "¡®²°þ ¬®¢" #GetTitleDT 
+ MOOR_QUEEN_DT:1 "¡®²°¯³ ª¯±²³" #GetTitleDT 
+ MOOR_EMPRESS_DT:1 "¡®²°þ ª¯±²ªµ" #GetTitleDT 
+ AKAL_DT:1 "¬®³" #GetTitleDT 
+ AKALUNAKAL_DT:1 "¬®³°¬®³" #GetTitleDT 
+ AKALI_DT:1 "¬®ª" #GetTitleDT 
+ AKALUNAKALI_DT:1 "¬®³°¬®ª" #GetTitleDT 
+ MARAS_DT:1 "¯Œ³" #GetTitleDT 
+ GRAND_MARAS_DT:1 "¢®ª¬¯³ ¯Œ³" #GetTitleDT 
+ GREAT_MARAS_DT:1 "¢¢°¯³ ¯Œ³" #GetTitleDT 
+ KASHRA_DT:1 "¬Œ" #GetTitleDT 
+ AKAL_KASHRA_DT:1 "¬® ¬Œ" #GetTitleDT 
+ ISIAK_SURAKEL_DT:1 "ªŒª¬³ Ô³¬®¾" #GetTitleDT 
+ PACK_LORD_DT:1 "±o¢e®ª²e®½ ²aª" #GetTitleDT 
+ PACK_MISTRESS_DT:1 "±o¢e®ª²e®¿°ªµ ²aª" #GetTitleDT 
+ SONAD_DT:1 "o°a¦³" #GetTitleDT 
+ FALT_DT:1 "´a®¿²³" #GetTitleDT 
+ ARD_FALT_DT:1 "p¦-´a®¿²³" #GetTitleDT 
+ SURCAG_DT:1 "³p¬a¥³" #GetTitleDT 
+ BANRAG_DT:1 "¡a°pa¥³" #GetTitleDT 
+ ARD_BANRAG_DT:1 "p¦-¡a°pa¥³" #GetTitleDT 
+ COMHAIR_DT:1 "¬o¯xþp³" #GetTitleDT 
+ LABRAR_DT:1 "®a¡pap³" #GetTitleDT 
+ CANSUDD_DT:1 "¬a°c³¦¦³" #GetTitleDT 
+ PROVOST_DT:1 "±¬²³" #GetTitleDT 
+ ARCH_PROVOST_DT:1 "ª±¬²³" #GetTitleDT 
+ IMPERIAL_PROVOST_DT:1 "ª¯±¬¯³ ª±¬²³" #GetTitleDT 
+ GRANDMASTER_DT:1 "¥°¦¯²³" #GetTitleDT 
+ FIRST_ORACLE_MALE_DT:1 "¢¢°¯³ ¢¥³³" #GetTitleDT 
+ FIRST_ORACLE_FEMALE_DT:1 "¢¢°þ ¢¥³" #GetTitleDT 
+ SENAPTI_DT:1 "°±²ª" #GetTitleDT 
+ PRABHI_DT:1 "±¡ª" #GetTitleDT 
+ GRAND_VIZIER_DT:1 "¢®ª¬¯³ ¢ª©ª½"
+ CAEHN_DT:1 "¬¼°³" #GetTitleDT 
+ GREAT_CAEHN_DT:1 "¥²ª¥ ¬¼°³" #GetTitleDT 
+ CAEHTEN_DT:1 "¬a¼²e°³" #GetTitleDT 
+ GREAT_CAEHTEN_DT:1 "¥²ª¥ ¬a¼²e°³" #GetTitleDT 
+ IZHUUN_DT:1 "ª¨³³°³" #GetTitleDT 
+ KAASHEG_DT:1 "¬Œ¥³" #GetTitleDT 
+ GREAT_KAASHEG_DT:1 "¢®ª¬¯³ ¬Œ¥³" #GetTitleDT 
+ KHUSHAI_DT:1 "³Œ½" #GetTitleDT 
+ KUSHENG_DT:1 "¬³Œ¼°" #GetTitleDT 
+ GREAT_KUSHENG_DT:1 "¢®ª¬þ ¬³Œ¼°" #GetTitleDT 
+ HWALBAEJ_DT:1 "¢®¡½" #GetTitleDT 
+ JAENG_DT:1 "¶¨¼°³" #GetTitleDT 
+ DAEJAENG_DT:1 "¦¼¶¨¼°³" #GetTitleDT 
+ HWALEI_DT:1 "¢®" #GetTitleDT 
+ WAENBU_DT:1 "¢¼°¡³" #GetTitleDT 
+ DAEWAENBU_DT:1 "¦¼¢¼°¡³" #GetTitleDT 
+ FIRST_MARSHAL_DT:1 "±¢¯³ ¯Œ®³" #GetTitleDT 
+ GRAND_MARSHAL_DT:1 "¥°¦-¯Œ®³" #GetTitleDT 
+ VRYDAL_DT:1 "¢ª¦®³" #GetTitleDT 
+ VYRISAR_DT:1 "¢ºª³" #GetTitleDT 
+ VRYDALVA_DT:1 "¢ª¦®¢" #GetTitleDT 
+ VYRISETA_DT:1 "¢ºª²" #GetTitleDT 
+ VYLEDAR_DT:1 "¢º®¦³" #GetTitleDT 
+ VYLYENDAR_DT:1 "¢º®¿°¦³" #GetTitleDT 
+ VYLEDAM_DT:1 "¢º®¦¯" #GetTitleDT 
+ VYLYENDAM_DT:1 "¢º®¿°¦¯" #GetTitleDT 
+ DHAVANA_DT:1 "¦¢°" #GetTitleDT 
+ ARYACAN_DT:1 "¿¾¬°³" #GetTitleDT 
+ CAMRAYACAN_DT:1 "¬¯þ¬°³" #GetTitleDT 
+ ELAVI_DT:1 "¼®¢ª" #GetTitleDT 
+ ARACI_DT:1 "ª" #GetTitleDT 
+ CAMRAYANI_DT:1 "¬¯¾°ª" #GetTitleDT 
+ YODHAN_DT:1 "þ¦°³" #GetTitleDT 
+ RAYODHAN_DT:1 "þ¦°³" #GetTitleDT 
+ CAKRAYODHANTI_DT:1 "¬¬þ¦°²ª" #GetTitleDT 
+ YODHENGASU_DT:1 "þ¦°¥³" #GetTitleDT 
+ RAYODANI_DT:1 "þ¦°ª" #GetTitleDT 
+ CAKRAMAHISI_DT:1 "¬¬¯ªª" #GetTitleDT 
+ DANNUKA_DT:1 "¦°°³¬" #GetTitleDT 
+ ADHIPAYAV_DT:1 "¦ª±¾¢³" #GetTitleDT 
+ ADHIVAMRATT_DT:1 "¦ª¢¯²²³" #GetTitleDT 
+ VENITA_DT:1 "¢°ª²" #GetTitleDT 
+ ADHIPAYAVNI_DT:1 "¦ª±¾¢°ª" #GetTitleDT 
+ ADHIVAMRAHANI_DT:1 "¦ª¢¯°ª" #GetTitleDT 
+ VRAKKA_DT:1 "¢¬¬" #GetTitleDT 
+ POVRAKKA_DT:1 "±¢¬¬" #GetTitleDT 
+ RASVRAPAKKA_DT:1 "¢±¬¬" #GetTitleDT 
+ VRAKKANI_DT:1 "¢¬¬°ª" #GetTitleDT 
+ POVRAKKANI_DT:1 "±¢¬¬°ª" #GetTitleDT 
+ RASVRAPAKKANI_DT:1 "¢±¬¬°ª" #GetTitleDT 
+ DHEKKA_DT:1 "¦¬¬" #GetTitleDT 
+ AMARYARU_DT:1 "¯¿¾³" #GetTitleDT 
+ AMARAWOR_DT:1 "¯¢³" #GetTitleDT 
+ ESTRI_DT:1 "¼²ª" #GetTitleDT 
+ AMARYARNI_DT:1 "¯¿¾°ª" #GetTitleDT 
+ AMARAWORNI_DT:1 "¯¢°ª" #GetTitleDT 
+ DOOKANIST_SHAMAN_MALE_DT:1 "²¡²°³" #GetTitleDT 
+ DOOKANIST_SHAMAN_FEMALE_DT:1 "²¡²°" #GetTitleDT 
+ GOLDSCALE_SAGE_MALE_DT:1 "©®²¯³ ¯³¦µ³" #GetTitleDT 
+ GOLDSCALE_SAGE_FEMALE_DT:1 "©®²¯³ ¯³¦µ³" #GetTitleDT 
+ MATRIARCH_DT:1 "¯²ª³" #GetTitleDT 
+ HIGH_MATRIARCH_DT:1 "¢¢°¯³ ¯²ª³" #GetTitleDT 
+ PUNGIPEA_DT:1 "±³°¥ª±" #GetTitleDT 
+ QASHLAIKIM_DT:1 "¬Œ®¬ª¯³" #GetTitleDT
+ KHOIDARG_DT:1 "þ¦¥³" #GetTitleDT
+ FIRST_COMMANDER_DT:1 "±¢¯³ ¬¯°¦³½¸¯³" #GetTitleDT
+ DAKOCRACY_DUKE_DT:1 "¯¥-®¦³" #GetTitleDT
+ DAKOCRACY_KING_DT:1 "¢¢®Œ¡°ª¬³" #GetTitleDT
+ DAKOCRACY_EMPEROR_DT:1 "¢¢°¯³ ª¯±²³" #GetTitleDT
+ DIARCH_DT:1 "¦ª³" #GetTitleDT
+ GRAND_DIARCH_DT:1 "¢®ª¬¯³ ¦ª³" #GetTitleDT
+
+ #°®¦°ª¬ª
+ HOLY_CHOSEN_DT:1 "¢¾²o¯³ ª©¡pa°°ª¬³" #GetTitleHeirDT
+ PHOENIX_PRINCE_DT:1 "±ª°µ³-´°ª¬³" #GetTitleHeirDT
+ PHOENIX_PRINCESS_DT:1 "±ª°µ-´°ª¬³" #GetTitleHeirDT
+ GRAY_LORD_DT:1 "ep¯³ ®op¦³" #GetTitleHeirDT
+ GRAY_PRINCE_DT:1 "ep¯³ ±pª°µ³" #GetTitleHeirDT
+ GRAY_LADY_DT:1 "epþ ®e¦ª" #GetTitleHeirDT
+ GRAY_PRINCESS_DT:1 "epþ ±pª°µecca" #GetTitleHeirDT
+ KARAKHUR_DT:1 "¬¬³³" #GetTitleHeirDT
+ KARADURZK_DT:1 "¬¦³©¬" #GetTitleHeirDT
+ SER_HEIR_DT:1 "³" #GetTitleHeirDT
+ YELLER_APPARENT_DT:1 "¢±¾¸¯³ ¶¢ª¦µ³" #GetTitleHeirDT
+ TLUUKT_PRINCE_DT:1 "¯¨³" #GetTitleHeirDT
+ TLUUKT_PRINCESS_DT:1 "¯¨ª" #GetTitleHeirDT
+ JARLSSON_DT:1 "¾p®cco°³" #GetTitleHeirDT
+ KONUNGSSON_DT:1 "¬o°³°¥cco°³" #GetTitleHeirDT
+ OZTRKONUNGSSON_DT:1 "©²p¬o°³°¥cco°³" #GetTitleHeirDT
+ JARLSDOTTIR_DT:1 "¾p®c¦o²²" #GetTitleHeirDT
+ KONUNGSDOTTIR_DT:1 "¬o°°³°¥c¦o²²" #GetTitleHeirDT
+ OZTRKONUNGSDOTTIR_DT:1 "©²¬o°°³°¥c¦o²²" #GetTitleHeirDT
+ PRANT_DT:1 "±pa°²³" #GetTitleHeirDT
+ SHADOW_HEIR_DT:1 "½°¯³ ¥±¦ª°³" #GetTitleHeirDT
+ SHADOW_HEIRESS_DT:1 "½°þ ¥±¨" #GetTitleHeirDT
+ BATTLEPRINCE_DT:1 "±pª°µ³ ¢ª²®½" #GetTitleHeirDT
+ BATTLEPRINCESS_DT:1 "±pª°µecc ¢ª²®¿°ªµ" #GetTitleHeirDT
+ RASHOKUDEI_DT:1 "Œ¬³¦½" #GetTitleHeirDT
+ BOJAEJ_DT:1 "¡¦¨½" #GetTitleHeirDT
+ KHUNZHE_DT:1 "³°¿µ©" #GetTitleHeirDT
+ DAKHUNZE_DT:1 "¦³°¿µ©" #GetTitleHeirDT
+ BOJEI_DT:1 "¡¦¨¼½" #GetTitleHeirDT
+ GONJE_DT:1 "¥°¿µ©" #GetTitleHeirDT
+ DAGONJE_DT:1 "¦¥°¿µ©" #GetTitleHeirDT
+ XANSHEN_DT:1 "¾°¿Œ°½" #GetTitleHeirDT
+ TONZHI_DT:1 "²°¶¨ª" #GetTitleHeirDT
+ DATONZHI_DT:1 "¦²°¶¨ª" #GetTitleHeirDT
+ DANSHEN_DT:1 "¦°¿Œ°½" #GetTitleHeirDT
+ GONZHI_DT:1 "¥°¿¶¨ª" #GetTitleHeirDT
+ DAGONZHI_DT:1 "¦¥°¶¿¨ª" #GetTitleHeirDT
+ AROMO_DT:1 "¯³" #GetTitleHeirDT
+ TOJIS_DT:1 "²¦©ª³" #GetTitleHeirDT
+ RENDA_DT:1 "°¦" #GetTitleHeirDT
+ RONTOS_DT:1 "°²" #GetTitleHeirDT
+ PRINCE_APPARENT_DT:1 "¾¢°¯³ ±pª°µ³" #GetTitleHeirDT
+ PRINCESS_APPARENT_DT:1 "¾¢°þ ±pª°µecc" #GetTitleHeirDT
+ HEIR_APPARENT_DT:1 "¾¢°¯³ °ac®e¦°ª¬³" #GetTitleHeirDT
+ DRAGON_LORD_DT:1 "¦¬°¿¯³ ®¦³" #GetTitleHeirDT
+ DRAGON_PRINCE_DT:1 "¦¬°¿¯³ ±ª°µ³" #GetTitleHeirDT
+ DRAGON_LADY_DT:1 "¦¬°¿þ ®¦ª" #GetTitleHeirDT
+ DRAGON_PRINCESS_DT:1 "¦¬°¿þ ±ª°µ" #GetTitleHeirDT
+ 
+ CHOSEN_DISCIPLE_DT:1 "ª©¡°°¯³ ³¶°ª¬³" #GetTitleHeirDT
+ ASCENDANT_MASTER_DT:1 "¢¦¾¸¯³ ¯²³" #GetTitleHeirDT
+ MARSAR_DT:1 "¯Œ³" #GetTitleHeirDT
+ MARSARI_DT:1 "¯Œª" #GetTitleHeirDT
+ OGHAR_DT:1 "¥ap³" #GetTitleHeirDT
+ BANOGHAR_DT:1 "¡a°o¥ap³" #GetTitleHeirDT
+ IZHUUNAAZUN_DT:1 "ª¨³³°©³°³" #GetTitleHeirDT
+ KHUSHAAZUN_DT:1 "³Œ©³°³" #GetTitleHeirDT
+ BOJAENG_DT:1 "¡¦¨°³" #GetTitleHeirDT
+ NOPOJAENG_DT:1 "°±¦¨°³" #GetTitleHeirDT
+ BOJAENBU_DT:1 "¡¦¨¼°¡³" #GetTitleHeirDT
+ NOPAENBU_DT:1 "°±¼°¡³" #GetTitleHeirDT
+ TALDHAVANA_DT:1 "²®¦¢°" #GetTitleHeirDT
+ AVALIRIKAN_DT:1 "¢®ªª¬°³" #GetTitleHeirDT
+ TALNIDHAVANA_DT:1 "²®°ª¦¢°" #GetTitleHeirDT
+ AVALIKUMARI_DT:1 "¢®ª¬³¯ª" #GetTitleHeirDT
+ YODHANNAGUR_DT:1 "þ¦°°¥³³" #GetTitleHeirDT
+ RAYODHANNAGUR_DT:1 "þ¦°°¥³³" #GetTitleHeirDT
+ CAKRAYODHANTINAGUR_DT:1 "¶¬þ¦°²ª°¥³³" #GetTitleHeirDT
+ YODHANNAGULU_DT:1 "þ¦°°¥³®³" #GetTitleHeirDT
+ RAYODHANNAGULU_DT:1 "þ¦°°¥³®³" #GetTitleHeirDT
+ CAKRAYODHANTINAGULU_DT:1 "¶¬þ¦°²ª°¥³®³" #GetTitleHeirDT
+ DANNUKPATRUY_DT:1 "¦°°³¬±²³½" #GetTitleHeirDT
+ ADHIPPATRUY_DT:1 "¦ª±±²³½" #GetTitleHeirDT
+ ADHIVAMPATRUY_DT:1 "¦ª¢¯±²³½" #GetTitleHeirDT
+ DANNUKPATRI_DT:1 "¦°°³¬±²ª" #GetTitleHeirDT
+ ADHIPPATRI_DT:1 "¦ª±±²ª" #GetTitleHeirDT
+ ADHIVAMPATRI_DT:1 "¦ª¢¯±²ª" #GetTitleHeirDT
+ DHEKKAMARUI_DT:1 "¦¬¬¯³½" #GetTitleHeirDT
+ AMARAVARA_DT:1 "¯¢" #GetTitleHeirDT
+ AMARAVARAJU_DT:1 "¯¢¦¨³" #GetTitleHeirDT
+ DHEKKAMARUTY_DT:1 "¦¬¬¯³²ª" #GetTitleHeirDT
+ AMARASURA_DT:1 "¯³" #GetTitleHeirDT
+ AMARASURUNI_DT:1 "¯³³°ª" #GetTitleHeirDT
+ CONRI_BINH_DT:1 "¬°ª ¡ª°½" #GetTitleHeirDT
+ CONGI_BINH_DT:1 "¬°¥ª ¡ª°" #GetTitleHeirDT
+ 
+ #¬°²º
+ AKAL_CONSORT_DT:1 "¬®³-¬°²³" #GetTitleConsortDT
+ AKALI_CONSORT_DT:1 "¬®ª-¬°²³" #GetTitleConsortDT
+ TELJARL_DT:1 "²e®¹¾p®³" #GetTitleConsortDT
+ GREVINNA_DT:1 "¥pe¢ª°°¬" #GetTitleConsortDT
+ GRAND_CONSORT_DT:1 "¥pa°¦-¬o°cop²³" #GetTitleConsortDT
+ 
+ FIRST_NOBLE_HUSBAND_DT:1 "±ep¢¯³ ¡®a¥opo¦°¯³ ¯³¨³" #GetTitleConsortDT
+ FIRST_ROYAL_HUSBAND_DT:1 "±ep¢¯³ ¬opo®e¢c¬¯³ ¯³¨³" #GetTitleConsortDT
+ FIRST_SUPREME_HUSBAND_DT:1 "±ep¢¯³ ¢epxo¢°¯³ ¯³¨³" #GetTitleConsortDT
+ FIRST_NOBLE_WIFE_DT:1 "±ep¢þ ¡®a¥opo¦°þ ¨e°" #GetTitleConsortDT
+ FIRST_ROYAL_WIFE_DT:1 "±ep¢þ ¬opo®e¢c¬þ ¨e°" #GetTitleConsortDT
+ FIRST_SUPREME_WIFE_DT:1 "±ep¢þ ¢epxo¢°þ ¨e°" #GetTitleConsortDT
+ DUKAD_CARD_DT:1 "¦³¬a¦-¬ap¦³" #GetTitleConsortDT
+ RIGAK_CARD_DT:1 "ª¥a¬-¬ap¦³" #GetTitleConsortDT
+ ARDRIGAK_CARD_DT:1 "p¦pª¥a¬-¬ap¦³" #GetTitleConsortDT
+ SURCAG_CARD_DT:1 "³p¬a¥-¬ap¦" #GetTitleConsortDT
+ BANRAG_CARD_DT:1 "¡a°pa¥-¬ap¦" #GetTitleConsortDT
+ ARDBANRAG_CARD_DT:1 "p¦¡a°pa¥-¬ap¦" #GetTitleConsortDT
+ HENGASU_DT:1 "þ¦°¥³" #GetTitleConsortDT
+ DANI_DT:1 "¦°ª" #GetTitleConsortDT
+ MAHISI_DT:1 "¯ªª" #GetTitleConsortDT
+ NGI_HONG_DT:1 "°¥ª °³" #GetTitleConsortDT
+ NGI_VO_DT:1 "°¥ª ¢" #GetTitleConsortDT
+ 
+ #Ïª°ª²®¿°ºþ ±¦¨
+ HARI_VN:1 "ª" #GetTitleVN 
+ GREAT_HARI_VN:1 "¢®ª¬¥ ª" #GetTitleVN 
+ HARIN_VN:1 "ª°³" #GetTitleVN 
+ GREAT_HARIN_VN:1 "¢®ª¬³½ ª°" #GetTitleVN 
+ DUKE_CROSSGUARD_VN:1 "¬°¾©¾-©a¸ª²°ª¬" #GetTitleVN 
+ KING_CROSSGUARD_VN:1 "¬opo®¾-©a¸ª²°ª¬" #GetTitleVN 
+ EMPEROR_CROSSGUARD_VN:1 "ª¯±epa²op-©a¸ª²°ª¬" #GetTitleVN 
+ DUCHESS_CROSSGUARD_VN:1 "¬°¾¥ª°½-©a¸ª²°ªµ³" #GetTitleVN 
+ QUEEN_CROSSGUARD_VN:1 "¬opo®e¢³-©a¸ª²°ªµ³" #GetTitleVN 
+ EMPRESS_CROSSGUARD_VN:1 "ª¯±epa²pªµ³-©a¸ª²°ªµ³" #GetTitleVN 
+ SANCTIFIED_KING_VN:1 "¢¾²o¥ ¬opo®¾" #GetTitleVN 
+ SANCTIFIED_EMPEROR_VN:1 "¢¾²o¥ ª¯±epa²op" #GetTitleVN 
+ SANCTIFIED_QUEEN_VN:1 "¢¾²³½ ¬opo®e¢³" #GetTitleVN 
+ SANCTIFIED_EMPRESS_VN:1 "¢¾²³½ ª¯±epa²pªµ³" #GetTitleVN 
+ PHOENIX_EMPEROR_VN:1 "ª¯±² ´°ª¬" #GetTitleVN 
+ PHOENIX_EMPRESS_VN:1 "ª¯±²ªµ³ ´°ª¬" #GetTitleVN 
+ COMMANDER_VN:1 "¬o¯a°¦ªp" #GetTitleVN 
+ HERALD_VN:1 "¢ec²°ª¬" #GetTitleVN 
+ DIVINE_HERALD_VN:1 "¡o¨ec²¢e°°¥ ¢ec²°ª¬" #GetTitleVN 
+ COMMANDER_fem_VN:1 "¬o¯a°¦ªpŒ³" #GetTitleVN 
+ HERALD_fem_VN:1 "¢ec²°ªµ³" #GetTitleVN 
+ DIVINE_HERALD_fem_VN:1 "¡o¨ec²¢e°°³½ ¢ec²°ªµ³" #GetTitleVN 
+ SORCERER_KING_VN:1 "¬®¾-¬®¦³°" #GetTitleVN 
+ SORCERER_QUEEN_VN:1 "¬®¢³-¬®¦³°¿½" #GetTitleVN 
+ BLACK_ACOLYTE_VN:1 "¶ž°¥ ¬®ª²" #GetTitleVN 
+ BLACK_ACOLYTE_fem_VN:1 "¶ž°³½ ¬®ª²" #GetTitleVN 
+ GRAY_DUKE_VN:1 "ep¥ ¬°¾©¾" #GetTitleVN 
+ GRAY_KING_VN:1 "ep¥ ¬opo®¾" #GetTitleVN 
+ GRAY_EMPEROR_VN:1 "ep¥ ª¯±epa²op" #GetTitleVN 
+ GRAY_DUCHESS_VN:1 "ep³½ ¬°¾¥ª°½" #GetTitleVN 
+ GRAY_QUEEN_VN:1 "ep³½ ¬opo®e¢³" #GetTitleVN 
+ GRAY_EMPRESS_VN:1 "ep³½ ª¯±epa²pªµ³" #GetTitleVN 
+ MAGISTER_VN:1 "¯¥ª²" #GetTitleVN 
+ MAGISTRIX_VN:1 "¯¥ª²" #GetTitleVN 
+ KNIGHT_CAPTAIN_VN:1 "ºµap¾-¬a±ª²a°" #GetTitleVN 
+ KNIGHT_CAPTAIN_fem_VN:1 "ºµap¾-¬a±ª²a°Œ³" #GetTitleVN 
+ LORD_CRIER_VN:1 "®op¦ ¥®aŒa²a¾" #GetTitleVN 
+ LADY_CRIER_VN:1 "®¦ª ¥®aŒa²a¾" #GetTitleVN 
+ PACK_LORD_VN:1 "±o¢e®ª²e®¾ ²aª" #GetTitleVN 
+ CORSAIR_KING_VN:1 "¬opo®¾ ¬opcapo¢" #GetTitleVN 
+ SEA_SCOURGE_VN:1 "¥po©³ ¯opeþ" #GetTitleVN 
+ PACK_MISTRESS_VN:1 "±o¢e®ª²e®¿°ªµ³ ²aª" #GetTitleVN 
+ CORSAIR_QUEEN_VN:1 "¬®¢³ ¬opcapo¢" #GetTitleVN 
+ TLUUKT_KING_VN:1 "¬®³°¬®" #GetTitleVN 
+ TLUUKT_EMPEROR_VN:1 "¬³°¬®" #GetTitleVN 
+ TLUUKT_QUEEN_VN:1 "¬®³°¬®ª" #GetTitleVN 
+ TLUUKT_EMPRESS_VN:1 "¬³°¬®ª" #GetTitleVN 
+ JARL_VN:1 "¾®" #GetTitleVN 
+ KONUNGR_VN:1 "¬°³°¥" #GetTitleVN 
+ OZTRKONUNGR_VN:1 "©²o¬o°³°¥" #GetTitleVN 
+ DROTTNING_VN:1 "¦po²²°ª°¥" #GetTitleVN 
+ OZTRDROTTNING_VN:1 "©¦po²²°ª°¥" #GetTitleVN 
+ MASTER_SKALD_PRIEST_VN:1 "¢e®ª¬¥ ¬a®¿¦-¨peµ" #GetTitleVN 
+ MASTER_SKALD_PRIESTESS_VN:1 "¢e®ª¬³½ ¬a®¿¦-¨pªµ³" #GetTitleVN 
+ EXALTED_COMPANION_VN:1 "¢o©¢ºŒe°°¥ ±³²°ª¬" #GetTitleVN 
+ ARD_DRADH_VN:1 "p¦ ¦pa¦" #GetTitleVN 
+ ARD_BANNDRADH_VN:1 "p¦ ¡a°°¦pa¦" #GetTitleVN 
+ SHADOW_MALE_VN:1 "²e°e¢o¥ ±pª°µ" #GetTitleVN 
+ SHADOW_FEMALE_VN:1 "²e°e¢³½ ±pª°µecc³" #GetTitleVN 
+ CRYSTAL_QUEEN_VN:1 "¬pªc²a®¿°³½ ¬opo®e¢³" #GetTitleVN 
+ CRYSTAL_EMPRESS_VN:1 "¬pªc²a®¿°³½ ª¯±epa²pªµ³" #GetTitleVN 
+ OBSIDIAN_MALE_VN:1 "¢º¡pa°°¥ ³°oþ" #GetTitleVN 
+ OBSIDIAN_FEMALE_VN:1 "¢º¡pa°°³½ ³°oþ" #GetTitleVN 
+ OBSIDIAN_INVASION_MALE_VN:1 "³°°¥ ¢²°ª¬" #GetTitleVN 
+ OBSIDIAN_INVASION_FEMALE_VN:1 "³°°³½ ¢²°ªµ³" #GetTitleVN 
+ COUNCILLOR_VN:1 "¬o°c³®" #GetTitleVN 
+ FIRST_COUNCILLOR_VN:1 "±¢¥ ¬°³®" #GetTitleVN 
+ HIGH_COUNCILLOR_VN:1 "¢¢°¥ ¬°³®" #GetTitleVN 
+ MARSHAL_VN:1 "¯Œ®" #GetTitleVN 
+ GRAND_MARSHAL_VN:1 "¥°¦-¯Œ®" #GetTitleVN 
+ GANG_LEADER_VN:1 "®ª¦ep ¡a°¦º" #GetTitleVN 
+ GREY_EMINENCE_VN:1 "¥ ¬¦ª°®" #GetTitleVN 
+ MENGURKHA_VN:1 "¯e°¥³p¬ª" #GetTitleVN 
+ MENGARKHA_VN:1 "¯e°¥ap¬³" #GetTitleVN 
+ BAOZH_VN:1 "¡¨" #GetTitleVN 
+ BAOZHA_VN:1 "¡¨³" #GetTitleVN 
+ BIIGH_BAOZH_VN:1 "¡ªª¥ ¡¨" #GetTitleVN 
+ BIIGH_BAOZHA_VN:1 "¡ªª¥ ¡¨³" #GetTitleVN 
+ OJKAGMA_VN:1 "þ¬¥¯" #GetTitleVN 
+ MENGURM_VN:1 "¯°¥³'¯" #GetTitleVN 
+ MENGURKHA_VN:1 "¯e°¥³p¬a" #GetTitleVN 
+ OJKODIRD_VN:1 "þ¬¦ª¦³" #GetTitleVN 
+ MENGURMA_VN:1 "¯°¥³'¯" #GetTitleVN 
+ MENGARKHA_VN:1 "¯e°¥ap¬³" #GetTitleVN 
+ GHALRDON_VN:1 "¥®'¦°" #GetTitleVN 
+ GHALRDAL_VN:1 "¥®'¦®" #GetTitleVN 
+ BATTLEKING_VN:1 "¬opo®¾ ¢ª²®¾" #GetTitleVN 
+ BOYACSAR_VN:1 "¡¾¬" #GetTitleVN 
+ BATTLEQUEEN_VN:1 "¬opo®e¢³ ¢ª²®¿°ªµ³" #GetTitleVN 
+ BOYACSARA_VN:1 "¡¾¬³" #GetTitleVN 
+ VALADR_VN:1 "¢®¦" #GetTitleVN 
+ VIZVALADR_VN:1 "¢ª©¢®¦" #GetTitleVN 
+ VALATKA_VN:1 "¢®²¬³" #GetTitleVN 
+ VIZVALATKA_VN:1 "¢ª©¢®²¬³" #GetTitleVN 
+ VYRISAR_VN:1 "¢ºª" #GetTitleVN 
+ VYRISETA_VN:1 "¢ºª²º" #GetTitleVN 
+ VITSAR_VN:1 "¢ª²" #GetTitleVN 
+ YRIDAM_VN:1 "ªª¦¯" #GetTitleVN 
+ BARON_VN:1 "¡°" #GetTitleVN 
+ BARONESS_VN:1 "¡°³" #GetTitleVN 
+ VENERATOR_VN:1 "¢°²" #GetTitleVN 
+ VENERATOR_HIGH_VN:1 "¢¢°¥ ¢°²" #GetTitleVN 
+ RASHENBIR_VN:1 "Œ°¡ª" #GetTitleVN 
+ HWALBAEJ_VN:1 "¢®¡¾" #GetTitleVN 
+ KAJAENG_VN:1 "¬¦¨°" #GetTitleVN 
+ DAKAJAENG_VN:1 "¦¬¦¨°" #GetTitleVN 
+ HWALEI_VN:1 "¢®¾" #GetTitleVN 
+ KUSHAEN_VN:1 "¬³Œ°" #GetTitleVN 
+ DAKUSHAEN_VN:1 "¦¬³Œ°" #GetTitleVN 
+ ZHU_VN:1 "¶¨³" #GetTitleVN 
+ TONGZHE_VN:1 "²°¶¨¼" #GetTitleVN 
+ DIANGDI_VN:1 "¦ª°¥¦ª" #GetTitleVN 
+ SHUN_VN:1 "Œ³°¿" #GetTitleVN 
+ NUWANG_VN:1 "°³¢°¥" #GetTitleVN 
+ HANGHO_VN:1 "°¥" #GetTitleVN 
+ MANSAROM_VN:1 "¯°¯" #GetTitleVN 
+ MONGOR_VN:1 "¯°¥" #GetTitleVN 
+ TAMONGOR_VN:1 "²¯°¥" #GetTitleVN 
+ RENDA_VN:1 "°¦³" #GetTitleVN 
+ JOLDO_VN:1 "¦¨®¦" #GetTitleVN 
+ TAJOLDO_VN:1 "²¦¨®¦" #GetTitleVN 
+ HIGH_LORD_VN:1 "¢¢°¥ ®¦" #GetTitleVN 
+ GREAT_LORD_VN:1 "¢®ª¬¥ ®¦" #GetTitleVN 
+ HIGH_LADY_VN:1 "¢¢°³½ ®¦ª" #GetTitleVN 
+ GREAT_LADY_VN:1 "¢®ª¬³½ ®¦ª" #GetTitleVN 
+ HIGH_CONVOCATIONARY_VN:1 "¢ºŒªþ ©º¢" #GetTitleVN 
+ GREAT_CONVOCATIONARY_VN:1 "¢®ª¬ªþ ©º¢" #GetTitleVN 
+ SUPREME_CONVOCATIONARY_VN:1 "¢¢°ºþ ©º¢" #GetTitleVN 
+ MYKX_PR_CHIEF_ADMIRAL_VN:1 "²Œ¥ ¦¯ª®" #GetTitleVN 
+ MYKX_PR_GRAND_ADMIRAL_VN:1 "¥°¦-¦¯ª®" #GetTitleVN 
+ MYKX_PR_SCOURGE_MAN_VN:1 "±®²¿²µ" #GetTitleVN 
+ MYKX_PR_SCOURGE_WOMAN_VN:1 "±®²¿¯²¿" #GetTitleVN 
+ LORD_MAYOR_VN:1 "®op¦-¯¼p" #GetTitleVN 
+ GRAND_MAYOR_VN:1 "¢e®ª¬¥ ¯¼p" #GetTitleVN 
+ IRON_KING_VN:1 "¨®©°¥ ¬®¾" #GetTitleVN 
+ IRON_QUEEN_VN:1 "¨®©°³½ ¬®¢³" #GetTitleVN 
+ GRAND_PRINCE_VN:1 "¢e®ª¬¥ ¬°¾©¾" #GetTitleVN 
+ GRAND_PRINCESS_VN:1 "¢e®ª¬³½ ¬°¾¥ª°½" #GetTitleVN 
+ OLDKING_VN:1 "²¥ ¬®¾" #GetTitleVN 
+ OLDQUEEN_VN:1 "²³½ ¬®¢³" #GetTitleVN 
+ ELDER_VN:1 "¦¢°¥" #GetTitleVN 
+ HIGH_ELDER_VN:1 "¢¢°¥ ¦¢°¥" #GetTitleVN 
+ PARAMOUNT_ELDER_VN:1 "±¢²±°°¥ ¦¢°¥" #GetTitleVN 
+ AMBER_KING_VN:1 "¾°²°¥ ¬®¾" #GetTitleVN 
+ AMBER_QUEEN_VN:1 "¾°²°³½ ¬®¢³" #GetTitleVN 
+ BRIGHT_KING_VN:1 "¾¬¥ ¬®¾" #GetTitleVN 
+ BRIGHT_QUEEN_VN:1 "¾¬³½ ¬®¢³" #GetTitleVN 
+ FLAME_CUSTODIAN_VN:1 "°ª²®¾" #GetTitleVN 
+ FIRELORD_VN:1 "±¢®ª²®¾ ¥°¾" #GetTitleVN 
+ FIRELADY_VN:1 "±¢®ª²®¿°ªµ³ ¥°¾" #GetTitleVN 
+ CRIMSON_REVEREND_VN:1 "¡¥¢¥ ±±¦¡°¥" #GetTitleVN 
+ CRIMSON_REVEREND_fem_VN:1 "¡¥¢³½ ±±¦¡°³½" #GetTitleVN 
+ SKY_CAPTAIN_VN:1 "°¡°¥ ¬±ª²°" #GetTitleVN 
+ GRAND_SKY_CAPTAIN_VN:1 "¢®ª¬¥ °¡°¥ ¬±ª²°" #GetTitleVN 
+ DRAGON_PRINCE_VN:1 "±ª°µ ¦¬°¢" #GetTitleVN 
+ DRAGON_KING_VN:1 "¬®¾ ¦¬°¢" #GetTitleVN 
+ DRAGON_EMPEROR_VN:1 "ª¯±² ¦¬°¢" #GetTitleVN 
+ DRAGON_PRINCESS_VN:1 "±ª°µ³ ¦¬°¢" #GetTitleVN 
+ DRAGON_QUEEN_VN:1 "¬®¢³ ¦¬°¢" #GetTitleVN 
+ DRAGON_EMPRESS_VN:1 "ª¯±²ªµ³ ¦¬°¢" #GetTitleVN 
+ LIANGZHU_VN:1 "®ª°¶¨³" #GetTitleVN 
+ KEGLORD_VN:1 "¬¥®¦" #GetTitleVN 
+ HIGH_KEGLORD_VN:1 "¢¢°¥ ¬¥®¦" #GetTitleVN 
+ KEGQUEEN_VN:1 "¬¥®¢³" #GetTitleVN 
+ HIGH_KEGQUEEN_VN:1 "¢¢°³½ ¬¥®¢³" #GetTitleVN 
+ LESSER_KING_VN:1 "¯°¿Œ¥ ¬®¾" #GetTitleVN 
+ KING_OF_KINGS_VN:1 "¬®¾ ¬®þ" #GetTitleVN 
+ LESSER_QUEEN_VN:1 "¯°¿Œ³½ ¬®¢³" #GetTitleVN 
+ QUEEN_OF_QUEENS_VN:1 "¬®¢³ ¬®¢" #GetTitleVN 
+ FIRST_STEWARD_VN:1 "±¢¥ ³±¢®¾½¸¥" #GetTitleVN 
+ HIGH_STEWARD_VN:1 "¢¢°¥ ³±¢®¾½¸¥" #GetTitleVN 
+ FIRST_STEWARD_fem_VN:1 "±¢³½ ³±¢®¾½¸³½" #GetTitleVN 
+ HIGH_STEWARD_fem_VN:1 "¢¢°³½ ³±¢®¾½¸³½" #GetTitleVN 
+ 
+ HIGH_RECTOR_VN:1 "¢¢°¥ ¬²" #GetTitleVN 
+ FIRST_MASTER_VN:1 "±¢¥ ¯²" #GetTitleVN 
+ RIGHTEOUS_MASTER_VN:1 "±¢¦°¥ ¯²" #GetTitleVN 
+ SUPREME_MASTER_VN:1 "¢¢°¥ ¯²" #GetTitleVN 
+ MARQUIS_VN:1 "¯¬ª©" #GetTitleVN 
+ GRAND_MARQUIS_VN:1 "¢®ª¬¥ ¯¬ª©" #GetTitleVN 
+ MARQUISA_VN:1 "¯¬ª©³" #GetTitleVN 
+ GRAND_MARQUISA_VN:1 "¢®ª¬³½ ¯¬ª©³" #GetTitleVN 
+ LUMINARY_VN:1 "¢²ª®" #GetTitleVN 
+ FIRST_HIERARCH_IM:1 "±¢ª" #GetTitleVN 
+ GENERAL_GOV_VN:1 "¥°®" #GetTitleVN 
+ LOT_DEKKHANG_VN:1 "®² ¦¬¬°¥" #GetTitleVN 
+ GOVERNOR_GENERAL_VN:1 "¥°®-¥³¡°²" #GetTitleVN 
+ CHANCELLOR_VN:1 "¬°µ®" #GetTitleVN 
+ SUPREME_CHANCELLOR_VN:1 "¢¢°¥ ¬°µ®" #GetTitleVN 
+ WITCH_KING_VN:1 "¬opo®¾-¶apo¦e¾" #GetTitleVN 
+ WITCH_EMPEROR_VN:1 "ª¯±epa²op-¶apo¦e¾" #GetTitleVN 
+ WITCH_QUEEN_VN:1 "¬®¢³-¶¦þ¬³" #GetTitleVN 
+ WITCH_EMPRESS_VN:1 "ª¯±²ªµ³-¶¦þ¬³" #GetTitleVN 
+ KYLAKAS_VN:1 "¬ª®a¬ac" #GetTitleVN 
+ DEGA_KYLAKAS_VN:1 "¦e¥a ¬ª®a¬ac" #GetTitleVN 
+ WIZARD_KING_VN:1 "¬opo®¾-¢®Œ¡°ª¬" #GetTitleVN 
+ WIZARD_QUEEN_VN:1 "¬opo®e¢³-¢®Œ¡°ªµº" #GetTitleVN 
+ SKALD_PRIEST_VN:1 "¬®¿¦-¨µ" #GetTitleVN 
+ SKALD_PRIESTESS_VN:1 "¬®¿¦-¨ªµ³" #GetTitleVN 
+ RECLAIMER_VN:1 "²¢¢²®¾" #GetTitleVN 
+ RECLAIMER_fem_VN:1 "²¢¢²®¿°ªµ³" #GetTitleVN 
+ VICEROY_VN:1 "¢ªµ-¬®¾" #GetTitleVN 
+ VICERINE_VN:1 "¢ªµ-¬®¢³" #GetTitleVN 
+ ESBAGG_VN:1 "¼c¡a¥¥" #GetTitleVN 
+ SGARRT_VN:1 "¥app²" #GetTitleVN 
+ DECANN_VN:1 "¦e¬a°°" #GetTitleVN 
+ ESBAGG_fem_VN:1 "¼c¡a¥¥ª" #GetTitleVN 
+ SGARRT_fem_VN:1 "¥app²ª" #GetTitleVN 
+ DECANN_fem_VN:1 "¦e¬a°°º" #GetTitleVN 
+ CLANBOSS_VN:1 "¬®°¡" #GetTitleVN 
+ OVERBOSS_VN:1 "°¦¡" #GetTitleVN 
+ SUPREME_BOSS_VN:1 "¢¢°¥ ¡" #GetTitleVN 
+ CLANBOSSESS_VN:1 "¬®°¡" #GetTitleVN 
+ OVERBOSSESS_VN:1 "°¦¡" #GetTitleVN 
+ SUPREME_BOSSESS_VN:1 "¢¢°¥ ¡" #GetTitleVN 
+ CAPTAIN_VN:1 "¬±ª²°" #GetTitleVN 
+ CAPTAIN_fem_VN:1 "¬±ª²°" #GetTitleVN 
+ PETTY_KING_VN:1 "¯®¬¥ ¬opo®¾" #GetTitleVN 
+ PETTY_QUEEN_VN:1 "¯®¬³½ ¬®¢³" #GetTitleVN 
+ GRAND_MAGISTER_VN:1 "¢®ª¬¥ ¯¥ª²" #GetTitleVN 
+ FIRST_MAGISTER_VN:1 "±¢¥ ¯¥ª²" #GetTitleVN 
+ HIGH_MAGE_VN:1 "¢¢°¥ ¯¥" #GetTitleVN 
+ ARCHMAGE_VN:1 "ª¯¥" #GetTitleVN 
+ PRINCE_ELECTOR_VN:1 "¬°¾©¾-¢º¡¸ª¬" #GetTitleVN 
+ PRINCESS_ELECTOR_VN:1 "¬°¾¥ª°½-¢º¡¸ª¬" #GetTitleVN 
+ GRAND_ELECTRESS_VN:1 "¢®ª¬¥ ¢º¡¸ª¬" #GetTitleVN 
+ LORD_ELECTOR_VN:1 "®¦-¢º¡¸ª¬" #GetTitleVN 
+ HIGH_KING_VN:1 "¢¢°¥ ¬®¾" #GetTitleVN 
+ HIGH_QUEEN_VN:1 "¢¢°³½ ¬®¢³" #GetTitleVN 
+ DUKE_ELECTOR_VN:1 "¥µ¥-¢º¡¸ª¬" #GetTitleVN 
+ GRAND_ELECTOR_VN:1 "¢®ª¬¥ ¢º¡¸ª¬" #GetTitleVN 
+ DUCHESS_ELECTOR_VN:1 "¥µ¥ª°½-¢º¡¸ª¬" #GetTitleVN 
+ PRIEST_ELECTOR_VN:1 "¨µ-¢º¡¸ª¬" #GetTitleVN 
+ IMPERIAL_GRANDMASTER_VN:1 "ª¯±epc¬¥ ¥°¦¯²" #GetTitleVN 
+ IMPERIAL_GRANDMISTRESS_VN:1 "ª¯±epc¬¥ ¥°¦¯²" #GetTitleVN 
+ MARCHER_LORD_VN:1 "®¦ ±¥°ª¶¿¾" #GetTitleVN 
+ MOOR_KING_VN:1 "¡®²°¥ ¬®¾" #GetTitleVN 
+ MOOR_EMPEROR_VN:1 "¡®²°³½ ¬®¢³" #GetTitleVN 
+ MOOR_QUEEN_VN:1 "¡®²°¥ ª¯±²" #GetTitleVN 
+ MOOR_EMPRESS_VN:1 "¡®²°³½ ª¯±²ªµ³" #GetTitleVN 
+ AKAL_VN:1 "¬®" #GetTitleVN 
+ AKALUNAKAL_VN:1 "¬®³°¬®" #GetTitleVN 
+ AKALI_VN:1 "¬®ª" #GetTitleVN 
+ AKALUNAKALI_VN:1 "¬®³°¬®ª" #GetTitleVN 
+ MARAS_VN:1 "¯Œ" #GetTitleVN 
+ GRAND_MARAS_VN:1 "¢®ª¬¥ ¯Œ" #GetTitleVN 
+ GREAT_MARAS_VN:1 "¢¢°¥ ¯Œ" #GetTitleVN 
+ KASHRA_VN:1 "¬Œ" #GetTitleVN 
+ AKAL_KASHRA_VN:1 "¬® ¬Œ" #GetTitleVN 
+ ISIAK_SURAKEL_VN:1 "ªŒª¬ Ô³¬®¾" #GetTitleVN 
+ PACK_LORD_VN:1 "±o¢e®ª²e®¾ ²aª" #GetTitleVN 
+ PACK_MISTRESS_VN:1 "±o¢e®ª²e®¿°ªµ³ ²aª" #GetTitleVN 
+ SONAD_VN:1 "o°a¦" #GetTitleVN 
+ FALT_VN:1 "´a®¿²" #GetTitleVN 
+ ARD_FALT_VN:1 "p¦-´a®¿²" #GetTitleVN 
+ SURCAG_VN:1 "³p¬a¥" #GetTitleVN 
+ BANRAG_VN:1 "¡a°pa¥" #GetTitleVN 
+ ARD_BANRAG_VN:1 "p¦-¡a°pa¥" #GetTitleVN 
+ COMHAIR_VN:1 "¬o¯xþp" #GetTitleVN 
+ LABRAR_VN:1 "®a¡pap" #GetTitleVN 
+ CANSUDD_VN:1 "¬a°c³¦¦" #GetTitleVN 
+ PROVOST_VN:1 "±¬²" #GetTitleVN 
+ ARCH_PROVOST_VN:1 "ª±¬²" #GetTitleVN 
+ IMPERIAL_PROVOST_VN:1 "ª¯±¬¥ ª±¬²" #GetTitleVN 
+ GRANDMASTER_VN:1 "¥°¦¯²" #GetTitleVN 
+ FIRST_ORACLE_MALE_VN:1 "¢¢°¥ ¢¥³" #GetTitleVN 
+ FIRST_ORACLE_FEMALE_VN:1 "¢¢°³½ ¢¥³³" #GetTitleVN 
+ SENAPTI_VN:1 "°±²ª" #GetTitleVN 
+ PRABHI_VN:1 "±¡ª" #GetTitleVN 
+ GRAND_VIZIER_VN:1 "¢®ª¬¥ ¢ª©ª¾"
+ CAEHN_VN:1 "¬¼°" #GetTitleVN 
+ GREAT_CAEHN_VN:1 "¥²ª¥ ¬¼°" #GetTitleVN 
+ CAEHTEN_VN:1 "¬a¼²e°" #GetTitleVN 
+ GREAT_CAEHTEN_VN:1 "¥²ª¥ ¬a¼²e°" #GetTitleVN 
+ IZHUUN_VN:1 "ª¨³³°" #GetTitleVN 
+ KAASHEG_VN:1 "¬Œ¥" #GetTitleVN 
+ GREAT_KAASHEG_VN:1 "¢®ª¬¥ ¬Œ¥" #GetTitleVN 
+ KHUSHAI_VN:1 "³Œ¾" #GetTitleVN 
+ KUSHENG_VN:1 "¬³Œ¼°º" #GetTitleVN 
+ GREAT_KUSHENG_VN:1 "¢®ª¬³½ ¬³Œ¼°³" #GetTitleVN 
+ HWALBAEJ_VN:1 "¢®¡¾" #GetTitleVN 
+ JAENG_VN:1 "¶¨¼°" #GetTitleVN 
+ DAEJAENG_VN:1 "¦¼¶¨¼°" #GetTitleVN 
+ HWALEI_VN:1 "¢®þ" #GetTitleVN 
+ WAENBU_VN:1 "¢¼°¡³" #GetTitleVN 
+ DAEWAENBU_VN:1 "¦¼¢¼°¡³" #GetTitleVN 
+ FIRST_MARSHAL_VN:1 "±¢¥ ¯Œ®" #GetTitleVN 
+ GRAND_MARSHAL_VN:1 "¥°¦-¯Œ®" #GetTitleVN 
+ VRYDAL_VN:1 "¢ª¦®" #GetTitleVN 
+ VYRISAR_VN:1 "¢ºª" #GetTitleVN 
+ VRYDALVA_VN:1 "¢ª¦®¢³" #GetTitleVN 
+ VYRISETA_VN:1 "¢ºª²³" #GetTitleVN 
+ VYLEDAR_VN:1 "¢º®¦" #GetTitleVN 
+ VYLYENDAR_VN:1 "¢º®¿°¦" #GetTitleVN 
+ VYLEDAM_VN:1 "¢º®¦¯" #GetTitleVN 
+ VYLYENDAM_VN:1 "¢º®¿°¦¯" #GetTitleVN 
+ DHAVANA_VN:1 "¦¢°³" #GetTitleVN 
+ ARYACAN_VN:1 "¿¾¬°" #GetTitleVN 
+ CAMRAYACAN_VN:1 "¬¯þ¬°" #GetTitleVN 
+ ELAVI_VN:1 "¼®¢ª" #GetTitleVN 
+ ARACI_VN:1 "ª" #GetTitleVN 
+ CAMRAYANI_VN:1 "¬¯¾°ª" #GetTitleVN 
+ YODHAN_VN:1 "þ¦°" #GetTitleVN 
+ RAYODHAN_VN:1 "þ¦°" #GetTitleVN 
+ CAKRAYODHANTI_VN:1 "¬¬þ¦°²ª" #GetTitleVN 
+ YODHENGASU_VN:1 "þ¦°¥º" #GetTitleVN 
+ RAYODANI_VN:1 "þ¦°ª" #GetTitleVN 
+ CAKRAMAHISI_VN:1 "¬¬¯ªª" #GetTitleVN 
+ DANNUKA_VN:1 "¦°°³¬ª" #GetTitleVN 
+ ADHIPAYAV_VN:1 "¦ª±¾¢³" #GetTitleVN 
+ ADHIVAMRATT_VN:1 "¦ª¢¯²²" #GetTitleVN 
+ VENITA_VN:1 "¢°ª²³" #GetTitleVN 
+ ADHIPAYAVNI_VN:1 "¦ª±¾¢°ª" #GetTitleVN 
+ ADHIVAMRAHANI_VN:1 "¦ª¢¯°ª" #GetTitleVN 
+ VRAKKA_VN:1 "¢¬¬³" #GetTitleVN 
+ POVRAKKA_VN:1 "±¢¬¬³" #GetTitleVN 
+ RASVRAPAKKA_VN:1 "¢±¬¬³" #GetTitleVN 
+ VRAKKANI_VN:1 "¢¬¬°ª" #GetTitleVN 
+ POVRAKKANI_VN:1 "±¢¬¬°ª" #GetTitleVN 
+ RASVRAPAKKANI_VN:1 "¢±¬¬°ª" #GetTitleVN 
+ DHEKKA_VN:1 "¦¬¬ª" #GetTitleVN 
+ AMARYARU_VN:1 "¯¿¾º" #GetTitleVN 
+ AMARAWOR_VN:1 "¯¢" #GetTitleVN 
+ ESTRI_VN:1 "¼²ª" #GetTitleVN 
+ AMARYARNI_VN:1 "¯¿¾°ª" #GetTitleVN 
+ AMARAWORNI_VN:1 "¯¢°ª" #GetTitleVN 
+ DOOKANIST_SHAMAN_MALE_VN:1 "²¡²°" #GetTitleVN 
+ DOOKANIST_SHAMAN_FEMALE_VN:1 "²¡²°" #GetTitleVN 
+ GOLDSCALE_SAGE_MALE_VN:1 "©®²¥ ¯³¦µ" #GetTitleVN 
+ GOLDSCALE_SAGE_FEMALE_VN:1 "©®²¥ ¯³¦µ" #GetTitleVN 
+ MATRIARCH_VN:1 "¯²ª" #GetTitleVN 
+ HIGH_MATRIARCH_VN:1 "¢¢°¥ ¯²ª" #GetTitleVN 
+ PUNGIPEA_VN:1 "±³°¥ª±" #GetTitleVN 
+ QASHLAIKIM_VN:1 "¬Œ®¬ª¯" #GetTitleVN
+ KHOIDARG_VN:1 "þ¦¥" #GetTitleVN
+ FIRST_COMMANDER_VN:1 "±¢¥ ¬¯°¦³½¸¥" #GetTitleVN
+ DAKOCRACY_DUKE_VN:1 "¯¥-®¦" #GetTitleVN
+ DAKOCRACY_KING_VN:1 "¢¢®Œ¡°ª¬" #GetTitleVN
+ DAKOCRACY_EMPEROR_VN:1 "¢¢°¥ ª¯±²" #GetTitleVN
+ DIARCH_VN:1 "¦ª" #GetTitleVN
+ GRAND_DIARCH_VN:1 "¢®ª¬¥ ¦ª" #GetTitleVN
+
+ #°®¦°ª¬ª
+ HOLY_CHOSEN_VN:1 "¢¾²o¥ ª©¡pa°°ª¬" #GetTitleHeirVN
+ PHOENIX_PRINCE_VN:1 "±ª°µ-´°ª¬" #GetTitleHeirVN
+ PHOENIX_PRINCESS_VN:1 "±ª°µ³-´°ª¬" #GetTitleHeirVN
+ GRAY_LORD_VN:1 "ep¥ ®op¦" #GetTitleHeirVN
+ GRAY_PRINCE_VN:1 "ep¥ ±pª°µ" #GetTitleHeirVN
+ GRAY_LADY_VN:1 "ep³½ ®e¦ª" #GetTitleHeirVN
+ GRAY_PRINCESS_VN:1 "ep³½ ±pª°µecc³" #GetTitleHeirVN
+ KARAKHUR_VN:1 "¬¬³" #GetTitleHeirVN
+ KARADURZK_VN:1 "¬¦³©¬" #GetTitleHeirVN
+ SER_HEIR_VN:1 "" #GetTitleHeirVN
+ YELLER_APPARENT_VN:1 "¢±¾¸¥ ¶¢ª¦µ" #GetTitleHeirVN
+ TLUUKT_PRINCE_VN:1 "¯¨" #GetTitleHeirVN
+ TLUUKT_PRINCESS_VN:1 "¯¨ª" #GetTitleHeirVN
+ JARLSSON_VN:1 "¾p®cco°" #GetTitleHeirVN
+ KONUNGSSON_VN:1 "¬o°³°¥cco°" #GetTitleHeirVN
+ OZTRKONUNGSSON_VN:1 "©²p¬o°³°¥cco°" #GetTitleHeirVN
+ JARLSDOTTIR_VN:1 "¾p®c¦o²²ªp" #GetTitleHeirVN
+ KONUNGSDOTTIR_VN:1 "¬o°°³°¥c¦o²²ªp" #GetTitleHeirVN
+ OZTRKONUNGSDOTTIR_VN:1 "©²¬o°°³°¥c¦o²²ªp" #GetTitleHeirVN
+ PRANT_VN:1 "±pa°²" #GetTitleHeirVN
+ SHADOW_HEIR_VN:1 "½°¥ ¥±¦ª°" #GetTitleHeirVN
+ SHADOW_HEIRESS_VN:1 "½°³½ ¥±¨³" #GetTitleHeirVN
+ BATTLEPRINCE_VN:1 "±pª°µ ¢ª²®¾" #GetTitleHeirVN
+ BATTLEPRINCESS_VN:1 "±pª°µecc³ ¢ª²®¿°ªµ³" #GetTitleHeirVN
+ RASHOKUDEI_VN:1 "Œ¬³¦¾" #GetTitleHeirVN
+ BOJAEJ_VN:1 "¡¦¨¾" #GetTitleHeirVN
+ KHUNZHE_VN:1 "³°¿µ©" #GetTitleHeirVN
+ DAKHUNZE_VN:1 "¦³°¿µ©" #GetTitleHeirVN
+ BOJEI_VN:1 "¡¦¨¼¾" #GetTitleHeirVN
+ GONJE_VN:1 "¥°¿µ©" #GetTitleHeirVN
+ DAGONJE_VN:1 "¦¥°¿µ©" #GetTitleHeirVN
+ XANSHEN_VN:1 "¾°¿Œ°¾" #GetTitleHeirVN
+ TONZHI_VN:1 "²°¶¨ª" #GetTitleHeirVN
+ DATONZHI_VN:1 "¦²°¶¨ª" #GetTitleHeirVN
+ DANSHEN_VN:1 "¦°¿Œ°¾" #GetTitleHeirVN
+ GONZHI_VN:1 "¥°¿¶¨ª" #GetTitleHeirVN
+ DAGONZHI_VN:1 "¦¥°¶¿¨ª" #GetTitleHeirVN
+ AROMO_VN:1 "¯º" #GetTitleHeirVN
+ TOJIS_VN:1 "²¦©ª" #GetTitleHeirVN
+ RENDA_VN:1 "°¦º" #GetTitleHeirVN
+ RONTOS_VN:1 "°²" #GetTitleHeirVN
+ PRINCE_APPARENT_VN:1 "¾¢°¥ ±pª°µ" #GetTitleHeirVN
+ PRINCESS_APPARENT_VN:1 "¾¢°³½ ±pª°µecc³" #GetTitleHeirVN
+ HEIR_APPARENT_VN:1 "¾¢°¥ °ac®e¦°ª¬" #GetTitleHeirVN
+ DRAGON_LORD_VN:1 "¦¬°¿¥ ®¦" #GetTitleHeirVN
+ DRAGON_PRINCE_VN:1 "¦¬°¿¥ ±ª°µ" #GetTitleHeirVN
+ DRAGON_LADY_VN:1 "¦¬°¿½ ®¦ª" #GetTitleHeirVN
+ DRAGON_PRINCESS_VN:1 "¦¬°¿½ ±ª°µº" #GetTitleHeirVN
+ 
+ CHOSEN_DISCIPLE_VN:1 "ª©¡°°¥ ³¶°ª¬" #GetTitleHeirVN
+ ASCENDANT_MASTER_VN:1 "¢¦¾¸¥ ¯²" #GetTitleHeirVN
+ MARSAR_VN:1 "¯Œ" #GetTitleHeirVN
+ MARSARI_VN:1 "¯Œª" #GetTitleHeirVN
+ OGHAR_VN:1 "¥ap" #GetTitleHeirVN
+ BANOGHAR_VN:1 "¡a°o¥ap" #GetTitleHeirVN
+ IZHUUNAAZUN_VN:1 "ª¨³³°©³°" #GetTitleHeirVN
+ KHUSHAAZUN_VN:1 "³Œ©³°" #GetTitleHeirVN
+ BOJAENG_VN:1 "¡¦¨°" #GetTitleHeirVN
+ NOPOJAENG_VN:1 "°±¦¨°" #GetTitleHeirVN
+ BOJAENBU_VN:1 "¡¦¨¼°¡³" #GetTitleHeirVN
+ NOPAENBU_VN:1 "°±¼°¡³" #GetTitleHeirVN
+ TALDHAVANA_VN:1 "²®¦¢°³" #GetTitleHeirVN
+ AVALIRIKAN_VN:1 "¢®ªª¬°" #GetTitleHeirVN
+ TALNIDHAVANA_VN:1 "²®°ª¦¢°º" #GetTitleHeirVN
+ AVALIKUMARI_VN:1 "¢®ª¬³¯ª" #GetTitleHeirVN
+ YODHANNAGUR_VN:1 "þ¦°°¥³" #GetTitleHeirVN
+ RAYODHANNAGUR_VN:1 "þ¦°°¥³" #GetTitleHeirVN
+ CAKRAYODHANTINAGUR_VN:1 "¶¬þ¦°²ª°¥³" #GetTitleHeirVN
+ YODHANNAGULU_VN:1 "þ¦°°¥³®º" #GetTitleHeirVN
+ RAYODHANNAGULU_VN:1 "þ¦°°¥³®º" #GetTitleHeirVN
+ CAKRAYODHANTINAGULU_VN:1 "¶¬þ¦°²ª°¥³®º" #GetTitleHeirVN
+ DANNUKPATRUY_VN:1 "¦°°³¬±²³¾" #GetTitleHeirVN
+ ADHIPPATRUY_VN:1 "¦ª±±²³¾" #GetTitleHeirVN
+ ADHIVAMPATRUY_VN:1 "¦ª¢¯±²³¾" #GetTitleHeirVN
+ DANNUKPATRI_VN:1 "¦°°³¬±²ª" #GetTitleHeirVN
+ ADHIPPATRI_VN:1 "¦ª±±²ª" #GetTitleHeirVN
+ ADHIVAMPATRI_VN:1 "¦ª¢¯±²ª" #GetTitleHeirVN
+ DHEKKAMARUI_VN:1 "¦¬¬¯³¾" #GetTitleHeirVN
+ AMARAVARA_VN:1 "¯¢º" #GetTitleHeirVN
+ AMARAVARAJU_VN:1 "¯¢¦¨ª" #GetTitleHeirVN
+ DHEKKAMARUTY_VN:1 "¦¬¬¯³²ª" #GetTitleHeirVN
+ AMARASURA_VN:1 "¯³³" #GetTitleHeirVN
+ AMARASURUNI_VN:1 "¯³³°ª" #GetTitleHeirVN
+ CONRI_BINH_VN:1 "¬°ª ¡ª°¾" #GetTitleHeirVN
+ CONGI_BINH_VN:1 "¬°¥ª ¡ª°¾" #GetTitleHeirVN
+ 
+ #¬°²º
+ AKAL_CONSORT_VN:1 "¬®-¬°²" #GetTitleConsortVN
+ AKALI_CONSORT_VN:1 "¬®ª-¬°²" #GetTitleConsortVN
+ TELJARL_VN:1 "²e®¹¾p®" #GetTitleConsortVN
+ GREVINNA_VN:1 "¥pe¢ª°°³" #GetTitleConsortVN
+ GRAND_CONSORT_VN:1 "¥pa°¦-¬o°cop²" #GetTitleConsortVN
+ 
+ FIRST_NOBLE_HUSBAND_VN:1 "±ep¢¥ ¡®a¥opo¦°¥ ¯³¨" #GetTitleConsortVN
+ FIRST_ROYAL_HUSBAND_VN:1 "±ep¢¥ ¬opo®e¢c¬¥ ¯³¨" #GetTitleConsortVN
+ FIRST_SUPREME_HUSBAND_VN:1 "±ep¢¥ ¢epxo¢°¥ ¯³¨" #GetTitleConsortVN
+ FIRST_NOBLE_WIFE_VN:1 "±ep¢³½ ¡®a¥opo¦°³½ ¨e°³" #GetTitleConsortVN
+ FIRST_ROYAL_WIFE_VN:1 "±ep¢³½ ¬opo®e¢c¬³½ ¨e°³" #GetTitleConsortVN
+ FIRST_SUPREME_WIFE_VN:1 "±ep¢³½ ¢epxo¢°³½ ¨e°³" #GetTitleConsortVN
+ DUKAD_CARD_VN:1 "¦³¬a¦-¬ap¦" #GetTitleConsortVN
+ RIGAK_CARD_VN:1 "ª¥a¬-¬ap¦" #GetTitleConsortVN
+ ARDRIGAK_CARD_VN:1 "p¦pª¥a¬-¬ap¦" #GetTitleConsortVN
+ SURCAG_CARD_VN:1 "³p¬a¥-¬ap¦" #GetTitleConsortVN
+ BANRAG_CARD_VN:1 "¡a°pa¥-¬ap¦" #GetTitleConsortVN
+ ARDBANRAG_CARD_VN:1 "p¦¡a°pa¥-¬ap¦" #GetTitleConsortVN
+ HENGASU_VN:1 "þ¦°¥³" #GetTitleConsortVN
+ DANI_VN:1 "¦°ª" #GetTitleConsortVN
+ MAHISI_VN:1 "¯ªª" #GetTitleConsortVN
+ NGI_HONG_VN:1 "°¥ª °" #GetTitleConsortVN
+ NGI_VO_VN:1 "°¥ª ¢" #GetTitleConsortVN 
+ 
+ #Ù¢ª²®¿°ºþ ±¦¨
+ HARI_TV:1 "ª" #GetTitleTV 
+ GREAT_HARI_TV:1 "¢®ª¬ª¯ ª" #GetTitleTV 
+ HARIN_TV:1 "ª°" #GetTitleTV 
+ GREAT_HARIN_TV:1 "¢®ª¬þ ª°" #GetTitleTV 
+ DUKE_CROSSGUARD_TV:1 "¬°¾©¯-©a¸ª²°ª¬¯" #GetTitleTV 
+ KING_CROSSGUARD_TV:1 "¬opo®ž¯-©a¸ª²°ª¬¯" #GetTitleTV 
+ EMPEROR_CROSSGUARD_TV:1 "ª¯±epa²op¯-©a¸ª²°ª¬¯" #GetTitleTV 
+ DUCHESS_CROSSGUARD_TV:1 "¬°¾¥ª°þ-©a¸ª²°ªµþ" #GetTitleTV 
+ QUEEN_CROSSGUARD_TV:1 "¬opo®e¢þ-©a¸ª²°ªµþ" #GetTitleTV 
+ EMPRESS_CROSSGUARD_TV:1 "ª¯±epa²pªµþ-©a¸ª²°ªµþ" #GetTitleTV 
+ SANCTIFIED_KING_TV:1 "¢¾²º¯ ¬opo®ž¯" #GetTitleTV 
+ SANCTIFIED_EMPEROR_TV:1 "¢¾²º¯ ª¯±epa²op¯" #GetTitleTV 
+ SANCTIFIED_QUEEN_TV:1 "¢¾²þ ¬opo®e¢þ" #GetTitleTV 
+ SANCTIFIED_EMPRESS_TV:1 "¢¾²þ ª¯±²ªµþ" #GetTitleTV 
+ PHOENIX_EMPEROR_TV:1 "ª¯±²¯ ´°ª¬" #GetTitleTV 
+ PHOENIX_EMPRESS_TV:1 "ª¯±²ªµþ ´°ª¬" #GetTitleTV 
+ COMMANDER_TV:1 "¬o¯a°¦ªp¯" #GetTitleTV 
+ HERALD_TV:1 "¢ec²°ª¬¯" #GetTitleTV 
+ DIVINE_HERALD_TV:1 "¡o¨ec²¢e°°º¯ ¢ec²°ª¬¯" #GetTitleTV 
+ COMMANDER_fem_TV:1 "¬o¯a°¦ªpŒþ" #GetTitleTV 
+ HERALD_fem_TV:1 "¢ec²°ªµþ" #GetTitleTV 
+ DIVINE_HERALD_fem_TV:1 "¡o¨ec²¢e°°þ ¢ec²°ªµþ" #GetTitleTV 
+ SORCERER_KING_TV:1 "¬®ž¯-¬®¦³°¯" #GetTitleTV 
+ SORCERER_QUEEN_TV:1 "¬®¢þ-¬®¦³°¿þ" #GetTitleTV 
+ BLACK_ACOLYTE_TV:1 "¶ž°º¯ ¬®ª²¯" #GetTitleTV 
+ BLACK_ACOLYTE_fem_TV:1 "¶ž°þ ¬®ª²" #GetTitleTV 
+ GRAY_DUKE_TV:1 "epº¯ ¬°¾©¯" #GetTitleTV 
+ GRAY_KING_TV:1 "epº¯ ¬opo®ž¯" #GetTitleTV 
+ GRAY_EMPEROR_TV:1 "epº¯ ª¯±epa²op¯" #GetTitleTV 
+ GRAY_DUCHESS_TV:1 "epþ ¬°¾¥ª°þ" #GetTitleTV 
+ GRAY_QUEEN_TV:1 "epþ ¬opo®e¢þ" #GetTitleTV 
+ GRAY_EMPRESS_TV:1 "epþ ª¯±epa²pªµþ" #GetTitleTV 
+ MAGISTER_TV:1 "¯¥ª²¯" #GetTitleTV 
+ MAGISTRIX_TV:1 "¯¥ª²¯" #GetTitleTV 
+ KNIGHT_CAPTAIN_TV:1 "ºµap¯-¬a±ª²a°¯" #GetTitleTV 
+ KNIGHT_CAPTAIN_fem_TV:1 "ºµap¯-¬a±ª²a°Œþ" #GetTitleTV 
+ LORD_CRIER_TV:1 "®op¦¯ ¥®aŒa²a¯" #GetTitleTV 
+ LADY_CRIER_TV:1 "®¦ª ¥®aŒa²a¯" #GetTitleTV 
+ PACK_LORD_TV:1 "±o¢e®ª²e®¯ ²aª" #GetTitleTV 
+ CORSAIR_KING_TV:1 "¬opo®ž¯ ¬opcapo¢" #GetTitleTV 
+ SEA_SCOURGE_TV:1 "¥po©þ ¯opeþ" #GetTitleTV 
+ PACK_MISTRESS_TV:1 "±o¢e®ª²e®¿°ªµþ ²aª" #GetTitleTV 
+ CORSAIR_QUEEN_TV:1 "¬®¢þ ¬opcapo¢" #GetTitleTV 
+ TLUUKT_KING_TV:1 "¬®³°¬®¯" #GetTitleTV 
+ TLUUKT_EMPEROR_TV:1 "¬³°¬®¯" #GetTitleTV 
+ TLUUKT_QUEEN_TV:1 "¬®³°¬®ª" #GetTitleTV 
+ TLUUKT_EMPRESS_TV:1 "¬³°¬®ª" #GetTitleTV 
+ JARL_TV:1 "¾®¯" #GetTitleTV 
+ KONUNGR_TV:1 "¬°³°¥¯" #GetTitleTV 
+ OZTRKONUNGR_TV:1 "©²o¬o°³°¥¯" #GetTitleTV 
+ DROTTNING_TV:1 "¦po²²°ª°¥" #GetTitleTV 
+ OZTRDROTTNING_TV:1 "©¦po²²°ª°¥" #GetTitleTV 
+ MASTER_SKALD_PRIEST_TV:1 "¢e®ª¬ª¯ ¬a®¿¦-¨peµ¯" #GetTitleTV 
+ MASTER_SKALD_PRIESTESS_TV:1 "¢e®ª¬þ ¬a®¿¦-¨pªµþ" #GetTitleTV 
+ EXALTED_COMPANION_TV:1 "¢o©¢ºŒe°°º¯ ±³²°ª¬¯" #GetTitleTV 
+ ARD_DRADH_TV:1 "p¦ ¦pa¦¯" #GetTitleTV 
+ ARD_BANNDRADH_TV:1 "p¦ ¡a°°¦pa¦¯" #GetTitleTV 
+ SHADOW_MALE_TV:1 "²e°e¢º¯ ±pª°µ¯" #GetTitleTV 
+ SHADOW_FEMALE_TV:1 "²e°e¢þ ±pª°µeccþ" #GetTitleTV 
+ CRYSTAL_QUEEN_TV:1 "¬pªc²a®¿°þ ¬opo®e¢þ" #GetTitleTV 
+ CRYSTAL_EMPRESS_TV:1 "¬pªc²a®¿°þ ª¯±epa²pªµþ" #GetTitleTV 
+ OBSIDIAN_MALE_TV:1 "¢º¡pa°°º¯ ³°oþ" #GetTitleTV 
+ OBSIDIAN_FEMALE_TV:1 "¢º¡pa°°þ ³°oþ" #GetTitleTV 
+ OBSIDIAN_INVASION_MALE_TV:1 "³°°º¯ ¢²°ª¬¯" #GetTitleTV 
+ OBSIDIAN_INVASION_FEMALE_TV:1 "³°°þ ¢²°ªµþ" #GetTitleTV 
+ COUNCILLOR_TV:1 "¬o°c³®¯" #GetTitleTV 
+ FIRST_COUNCILLOR_TV:1 "±¢º¯ ¬°³®¯" #GetTitleTV 
+ HIGH_COUNCILLOR_TV:1 "¢¢°º¯ ¬°³®¯" #GetTitleTV 
+ MARSHAL_TV:1 "¯Œ®¯" #GetTitleTV 
+ GRAND_MARSHAL_TV:1 "¥°¦-¯Œ®¯" #GetTitleTV 
+ GANG_LEADER_TV:1 "®ª¦ep¯ ¡a°¦º" #GetTitleTV 
+ GREY_EMINENCE_TV:1 "º¯ ¬¦ª°®¯" #GetTitleTV 
+ MENGURKHA_TV:1 "¯e°¥³p¬a" #GetTitleTV 
+ MENGARKHA_TV:1 "¯e°¥ap¬a" #GetTitleTV 
+ BAOZH_TV:1 "¡¨¯" #GetTitleTV 
+ BAOZHA_TV:1 "¡¨þ" #GetTitleTV 
+ BIIGH_BAOZH_TV:1 "¡ªª¥ ¡¨¯" #GetTitleTV 
+ BIIGH_BAOZHA_TV:1 "¡ªª¥ ¡¨þ" #GetTitleTV 
+ OJKAGMA_TV:1 "þ¬¥¯" #GetTitleTV 
+ MENGURM_TV:1 "¯°¥³'¯" #GetTitleTV 
+ MENGURKHA_TV:1 "¯e°¥³p¬a" #GetTitleTV 
+ OJKODIRD_TV:1 "þ¬¦ª¦þ" #GetTitleTV 
+ MENGURMA_TV:1 "¯°¥³'¯" #GetTitleTV 
+ MENGARKHA_TV:1 "¯e°¥ap¬þ" #GetTitleTV 
+ GHALRDON_TV:1 "¥®'¦°¯" #GetTitleTV 
+ GHALRDAL_TV:1 "¥®'¦®þ" #GetTitleTV 
+ BATTLEKING_TV:1 "¬opo®ž¯ ¢ª²®¯" #GetTitleTV 
+ BOYACSAR_TV:1 "¡¾¬¯" #GetTitleTV 
+ BATTLEQUEEN_TV:1 "¬opo®e¢þ ¢ª²®¿°ªµþ" #GetTitleTV 
+ BOYACSARA_TV:1 "¡¾¬þ" #GetTitleTV 
+ VALADR_TV:1 "¢®¦¯" #GetTitleTV 
+ VIZVALADR_TV:1 "¢ª©¢®¦¯" #GetTitleTV 
+ VALATKA_TV:1 "¢®²¬þ" #GetTitleTV 
+ VIZVALATKA_TV:1 "¢ª©¢®²¬þ" #GetTitleTV 
+ VYRISAR_TV:1 "¢ºª¯" #GetTitleTV 
+ VYRISETA_TV:1 "¢ºª²þ" #GetTitleTV 
+ VITSAR_TV:1 "¢ª²¯" #GetTitleTV 
+ YRIDAM_TV:1 "ªª¦¯þ" #GetTitleTV 
+ BARON_TV:1 "¡°¯" #GetTitleTV 
+ BARONESS_TV:1 "¡°þ" #GetTitleTV 
+ VENERATOR_TV:1 "¢°²¯" #GetTitleTV 
+ VENERATOR_HIGH_TV:1 "¢¢°º¯ ¢°²¯" #GetTitleTV 
+ RASHENBIR_TV:1 "Œ°¡ª¯" #GetTitleTV 
+ HWALBAEJ_TV:1 "¢®¡¯" #GetTitleTV 
+ KAJAENG_TV:1 "¬¦¨°¯" #GetTitleTV 
+ DAKAJAENG_TV:1 "¦¬¦¨°¯" #GetTitleTV 
+ HWALEI_TV:1 "¢®þ" #GetTitleTV 
+ KUSHAEN_TV:1 "¬³Œ°þ" #GetTitleTV 
+ DAKUSHAEN_TV:1 "¦¬³Œ°þ" #GetTitleTV 
+ ZHU_TV:1 "¶¨³" #GetTitleTV 
+ TONGZHE_TV:1 "²°¶¨¼" #GetTitleTV 
+ DIANGDI_TV:1 "¦ª°¥¦ª" #GetTitleTV 
+ SHUN_TV:1 "Œ³°¿" #GetTitleTV 
+ NUWANG_TV:1 "°³¢°¥" #GetTitleTV 
+ HANGHO_TV:1 "°¥" #GetTitleTV 
+ MANSAROM_TV:1 "¯°¯" #GetTitleTV 
+ MONGOR_TV:1 "¯°¥¯" #GetTitleTV 
+ TAMONGOR_TV:1 "²¯°¥¯" #GetTitleTV 
+ RENDA_TV:1 "°¦" #GetTitleTV 
+ JOLDO_TV:1 "¦¨®¦" #GetTitleTV 
+ TAJOLDO_TV:1 "²¦¨®¦" #GetTitleTV 
+ HIGH_LORD_TV:1 "¢¢°º¯ ®¦¯" #GetTitleTV 
+ GREAT_LORD_TV:1 "¢®ª¬ª¯ ®¦¯" #GetTitleTV 
+ HIGH_LADY_TV:1 "¢¢°þ ®¦ª" #GetTitleTV 
+ GREAT_LADY_TV:1 "¢®ª¬þ ®¦ª" #GetTitleTV 
+ HIGH_CONVOCATIONARY_TV:1 "¢ºŒª¯ ©º¢¯" #GetTitleTV 
+ GREAT_CONVOCATIONARY_TV:1 "¢®ª¬ª¯ ©º¢¯" #GetTitleTV 
+ SUPREME_CONVOCATIONARY_TV:1 "¢¢°º¯ ©º¢¯" #GetTitleTV 
+ MYKX_PR_CHIEF_ADMIRAL_TV:1 "²Œª¯ ¦¯ª®¯" #GetTitleTV 
+ MYKX_PR_GRAND_ADMIRAL_TV:1 "¥°¦-¦¯ª®¯" #GetTitleTV 
+ MYKX_PR_SCOURGE_MAN_TV:1 "±®²¿²µ¯" #GetTitleTV 
+ MYKX_PR_SCOURGE_WOMAN_TV:1 "±®²¿¯²¿½" #GetTitleTV 
+ LORD_MAYOR_TV:1 "®op¦-¯¼p¯" #GetTitleTV 
+ GRAND_MAYOR_TV:1 "¢e®ª¬ª¯ ¯¼p¯" #GetTitleTV 
+ IRON_KING_TV:1 "¨®©°º¯ ¬®ž¯" #GetTitleTV 
+ IRON_QUEEN_TV:1 "¨®©°þ ¬®¢þ" #GetTitleTV 
+ GRAND_PRINCE_TV:1 "¢e®ª¬ª¯ ¬°¾©¯" #GetTitleTV 
+ GRAND_PRINCESS_TV:1 "¢e®ª¬þ ¬°¾¥ª°þ" #GetTitleTV 
+ OLDKING_TV:1 "²º¯ ¬®ž¯" #GetTitleTV 
+ OLDQUEEN_TV:1 "²þ ¬®¢þ" #GetTitleTV 
+ ELDER_TV:1 "¦¢°ª¯" #GetTitleTV 
+ HIGH_ELDER_TV:1 "¢¢°º¯ ¦¢°ª¯" #GetTitleTV 
+ PARAMOUNT_ELDER_TV:1 "±¢²±°°º¯ ¦¢°ª¯" #GetTitleTV 
+ AMBER_KING_TV:1 "¾°²°º¯ ¬®ž¯" #GetTitleTV 
+ AMBER_QUEEN_TV:1 "¾°²°þ ¬®¢þ" #GetTitleTV 
+ BRIGHT_KING_TV:1 "¾¬ª¯ ¬®ž¯" #GetTitleTV 
+ BRIGHT_QUEEN_TV:1 "¾¬þ ¬®¢þ" #GetTitleTV 
+ FLAME_CUSTODIAN_TV:1 "°ª²®¯" #GetTitleTV 
+ FIRELORD_TV:1 "±¢®ª²®¯ ¥°¾" #GetTitleTV 
+ FIRELADY_TV:1 "±¢®ª²®¿°ªµþ ¥°¾" #GetTitleTV 
+ CRIMSON_REVEREND_TV:1 "¡¥¢º¯ ±±¦¡°º¯" #GetTitleTV 
+ CRIMSON_REVEREND_fem_TV:1 "¡¥¢þ ±±¦¡°þ" #GetTitleTV 
+ SKY_CAPTAIN_TV:1 "°¡°º¯ ¬±ª²°¯" #GetTitleTV 
+ GRAND_SKY_CAPTAIN_TV:1 "¢®ª¬ª¯ °¡°º¯ ¬±ª²°¯" #GetTitleTV 
+ DRAGON_PRINCE_TV:1 "±ª°µ¯ ¦¬°¢" #GetTitleTV 
+ DRAGON_KING_TV:1 "¬®ž¯ ¦¬°¢" #GetTitleTV 
+ DRAGON_EMPEROR_TV:1 "ª¯±²¯ ¦¬°¢" #GetTitleTV 
+ DRAGON_PRINCESS_TV:1 "±ª°µþ ¦¬°¢" #GetTitleTV 
+ DRAGON_QUEEN_TV:1 "¬®¢þ ¦¬°¢" #GetTitleTV 
+ DRAGON_EMPRESS_TV:1 "ª¯±²ªµþ ¦¬°¢" #GetTitleTV 
+ LIANGZHU_TV:1 "®ª°¶¨³" #GetTitleTV 
+ KEGLORD_TV:1 "¬¥®¦¯" #GetTitleTV 
+ HIGH_KEGLORD_TV:1 "¢¢°º¯ ¬¥®¦¯" #GetTitleTV 
+ KEGQUEEN_TV:1 "¬¥®¢þ" #GetTitleTV 
+ HIGH_KEGQUEEN_TV:1 "¢¢°þ ¬¥®¢þ" #GetTitleTV 
+ LESSER_KING_TV:1 "¯°¿Œª¯ ¬®ž¯" #GetTitleTV 
+ KING_OF_KINGS_TV:1 "¬®ž¯ ¬®þ" #GetTitleTV 
+ LESSER_QUEEN_TV:1 "¯°¿Œþ ¬®¢þ" #GetTitleTV 
+ QUEEN_OF_QUEENS_TV:1 "¬®¢þ ¬®¢" #GetTitleTV 
+ FIRST_STEWARD_TV:1 "±¢º¯ ³±¢®¾½¸ª¯" #GetTitleTV 
+ HIGH_STEWARD_TV:1 "¢¢°º¯ ³±¢®¾½¸ª¯" #GetTitleTV 
+ FIRST_STEWARD_fem_TV:1 "±¢þ ³±¢®¾½¸þ" #GetTitleTV 
+ HIGH_STEWARD_fem_TV:1 "¢¢°þ ³±¢®¾½¸þ" #GetTitleTV 
+ 
+ HIGH_RECTOR_TV:1 "¢¢°º¯ ¬²¯" #GetTitleTV 
+ FIRST_MASTER_TV:1 "±¢º¯ ¯²¯" #GetTitleTV 
+ RIGHTEOUS_MASTER_TV:1 "±¢¦°º¯ ¯²¯" #GetTitleTV 
+ SUPREME_MASTER_TV:1 "¢¢°º¯ ¯²¯" #GetTitleTV 
+ MARQUIS_TV:1 "¯¬ª©¯" #GetTitleTV 
+ GRAND_MARQUIS_TV:1 "¢®ª¬ª¯ ¯¬ª©¯" #GetTitleTV 
+ MARQUISA_TV:1 "¯¬ª©þ" #GetTitleTV 
+ GRAND_MARQUISA_TV:1 "¢®ª¬þ ¯¬ª©þ" #GetTitleTV 
+ LUMINARY_TV:1 "¢²ª®¯" #GetTitleTV 
+ FIRST_HIERARCH_IM:1 "±¢ª¯" #GetTitleTV 
+ GENERAL_GOV_TV:1 "¥°®¯" #GetTitleTV 
+ LOT_DEKKHANG_TV:1 "®² ¦¬¬°¥¯" #GetTitleTV 
+ GOVERNOR_GENERAL_TV:1 "¥°®-¥³¡°²¯" #GetTitleTV 
+ CHANCELLOR_TV:1 "¬°µ®¯" #GetTitleTV 
+ SUPREME_CHANCELLOR_TV:1 "¢¢°ºþ ¬°µ®¯" #GetTitleTV 
+ WITCH_KING_TV:1 "¬opo®ž¯-¶apo¦e¯" #GetTitleTV 
+ WITCH_EMPEROR_TV:1 "ª¯±epa²op¯-¶apo¦e¯" #GetTitleTV 
+ WITCH_QUEEN_TV:1 "¬®¢þ-¶¦þ¬þ" #GetTitleTV 
+ WITCH_EMPRESS_TV:1 "ª¯±²ªµþ-¶¦þ¬þ" #GetTitleTV 
+ KYLAKAS_TV:1 "¬ª®a¬ac¯" #GetTitleTV 
+ DEGA_KYLAKAS_TV:1 "¦e¥a ¬ª®a¬ac¯" #GetTitleTV 
+ WIZARD_KING_TV:1 "¬opo®ž¯-¢®Œ¡°ª¬¯" #GetTitleTV 
+ WIZARD_QUEEN_TV:1 "¬opo®e¢þ-¢®Œ¡°ªµþ" #GetTitleTV 
+ SKALD_PRIEST_TV:1 "¬®¿¦¯-¨µ¯" #GetTitleTV 
+ SKALD_PRIESTESS_TV:1 "¬®¿¦¯-¨ªµþ" #GetTitleTV 
+ RECLAIMER_TV:1 "²¢¢²®¯" #GetTitleTV 
+ RECLAIMER_fem_TV:1 "²¢¢²®¿°ªµþ" #GetTitleTV 
+ VICEROY_TV:1 "¢ªµ-¬®ž¯" #GetTitleTV 
+ VICERINE_TV:1 "¢ªµ-¬®¢þ" #GetTitleTV 
+ ESBAGG_TV:1 "¼c¡a¥¥¯" #GetTitleTV 
+ SGARRT_TV:1 "¥app²¯" #GetTitleTV 
+ DECANN_TV:1 "¦e¬a°°¯" #GetTitleTV 
+ ESBAGG_fem_TV:1 "¼c¡a¥¥þ" #GetTitleTV 
+ SGARRT_fem_TV:1 "¥app²þ" #GetTitleTV 
+ DECANN_fem_TV:1 "¦e¬a°°þ" #GetTitleTV 
+ CLANBOSS_TV:1 "¬®°¡¯" #GetTitleTV 
+ OVERBOSS_TV:1 "°¦¡¯" #GetTitleTV 
+ SUPREME_BOSS_TV:1 "¢¢°º¯ ¡¯" #GetTitleTV 
+ CLANBOSSESS_TV:1 "¬®°¡¯" #GetTitleTV 
+ OVERBOSSESS_TV:1 "°¦¡¯" #GetTitleTV 
+ SUPREME_BOSSESS_TV:1 "¢¢°º¯ ¡¯" #GetTitleTV 
+ CAPTAIN_TV:1 "¬±ª²°¯" #GetTitleTV 
+ CAPTAIN_fem_TV:1 "¬±ª²°¯" #GetTitleTV 
+ PETTY_KING_TV:1 "¯®¬ª¯ ¬opo®ž¯" #GetTitleTV 
+ PETTY_QUEEN_TV:1 "¯®¬þ ¬®¢þ" #GetTitleTV 
+ GRAND_MAGISTER_TV:1 "¢®ª¬ª¯ ¯¥ª²¯" #GetTitleTV 
+ FIRST_MAGISTER_TV:1 "±¢º¯ ¯¥ª²¯" #GetTitleTV 
+ HIGH_MAGE_TV:1 "¢¢°º¯ ¯¥¯" #GetTitleTV 
+ ARCHMAGE_TV:1 "ª¯¥¯" #GetTitleTV 
+ PRINCE_ELECTOR_TV:1 "¬°¾©¯-¢º¡¸ª¬¯" #GetTitleTV 
+ PRINCESS_ELECTOR_TV:1 "¬°¾¥ª°þ-¢º¡¸ª¬¯" #GetTitleTV 
+ GRAND_ELECTRESS_TV:1 "¢®ª¬ª¯ ¢º¡¸ª¬¯" #GetTitleTV 
+ LORD_ELECTOR_TV:1 "®¦¯-¢º¡¸ª¬¯" #GetTitleTV 
+ HIGH_KING_TV:1 "¢¢°º¯ ¬®ž¯" #GetTitleTV 
+ HIGH_QUEEN_TV:1 "¢¢°þ ¬®¢þ" #GetTitleTV 
+ DUKE_ELECTOR_TV:1 "¥µ¥¯-¢º¡¸ª¬¯" #GetTitleTV 
+ GRAND_ELECTOR_TV:1 "¢®ª¬ª¯ ¢º¡¸ª¬¯" #GetTitleTV 
+ DUCHESS_ELECTOR_TV:1 "¥µ¥ª°þ-¢º¡¸ª¬¯" #GetTitleTV 
+ PRIEST_ELECTOR_TV:1 "¨µ¯-¢º¡¸ª¬¯" #GetTitleTV 
+ IMPERIAL_GRANDMASTER_TV:1 "ª¯±epc¬ª¯ ¥°¦¯²¯" #GetTitleTV 
+ IMPERIAL_GRANDMISTRESS_TV:1 "ª¯±epc¬ª¯ ¥°¦¯²¯" #GetTitleTV 
+ MARCHER_LORD_TV:1 "®¦¯ ±¥°ª¶¿¾" #GetTitleTV 
+ MOOR_KING_TV:1 "¡®²°º¯ ¬®ž¯" #GetTitleTV 
+ MOOR_EMPEROR_TV:1 "¡®²°þ ¬®¢þ" #GetTitleTV 
+ MOOR_QUEEN_TV:1 "¡®²°º¯ ª¯±²¯" #GetTitleTV 
+ MOOR_EMPRESS_TV:1 "¡®²°þ ª¯±²ªµþ" #GetTitleTV 
+ AKAL_TV:1 "¬®¯" #GetTitleTV 
+ AKALUNAKAL_TV:1 "¬®³°¬®¯" #GetTitleTV 
+ AKALI_TV:1 "¬®ª" #GetTitleTV 
+ AKALUNAKALI_TV:1 "¬®³°¬®ª" #GetTitleTV 
+ MARAS_TV:1 "¯Œ¯" #GetTitleTV 
+ GRAND_MARAS_TV:1 "¢®ª¬ª¯ ¯Œ¯" #GetTitleTV 
+ GREAT_MARAS_TV:1 "¢¢°º¯ ¯Œ¯" #GetTitleTV 
+ KASHRA_TV:1 "¬Œ" #GetTitleTV 
+ AKAL_KASHRA_TV:1 "¬® ¬Œ" #GetTitleTV 
+ ISIAK_SURAKEL_TV:1 "ªŒª¬¯ Ô³¬®¾" #GetTitleTV 
+ PACK_LORD_TV:1 "±o¢e®ª²e®¯ ²aª" #GetTitleTV 
+ PACK_MISTRESS_TV:1 "±o¢e®ª²e®¿°ªµþ ²aª" #GetTitleTV 
+ SONAD_TV:1 "o°a¦¯" #GetTitleTV 
+ FALT_TV:1 "´a®¿²¯" #GetTitleTV 
+ ARD_FALT_TV:1 "p¦-´a®¿²¯" #GetTitleTV 
+ SURCAG_TV:1 "³p¬a¥þ" #GetTitleTV 
+ BANRAG_TV:1 "¡a°pa¥þ" #GetTitleTV 
+ ARD_BANRAG_TV:1 "p¦-¡a°pa¥þ" #GetTitleTV 
+ COMHAIR_TV:1 "¬o¯xþp¯" #GetTitleTV 
+ LABRAR_TV:1 "®a¡pap¯" #GetTitleTV 
+ CANSUDD_TV:1 "¬a°c³¦¦¯" #GetTitleTV 
+ PROVOST_TV:1 "±¬²¯" #GetTitleTV 
+ ARCH_PROVOST_TV:1 "ª±¬²¯" #GetTitleTV 
+ IMPERIAL_PROVOST_TV:1 "ª¯±¬ª¯ ª±¬²¯" #GetTitleTV 
+ GRANDMASTER_TV:1 "¥°¦¯²¯" #GetTitleTV 
+ FIRST_ORACLE_MALE_TV:1 "¢¢°º¯ ¢¥³¯" #GetTitleTV 
+ FIRST_ORACLE_FEMALE_TV:1 "¢¢°þ ¢¥³þ" #GetTitleTV 
+ SENAPTI_TV:1 "°±²ª" #GetTitleTV 
+ PRABHI_TV:1 "±¡ª" #GetTitleTV 
+ GRAND_VIZIER_TV:1 "¢®ª¬ª¯ ¢ª©ªž¯"
+ CAEHN_TV:1 "¬¼°¯" #GetTitleTV 
+ GREAT_CAEHN_TV:1 "¥²ª¥ ¬¼°¯" #GetTitleTV 
+ CAEHTEN_TV:1 "¬a¼²e°þ" #GetTitleTV 
+ GREAT_CAEHTEN_TV:1 "¥²ª¥ ¬a¼²e°þ" #GetTitleTV 
+ IZHUUN_TV:1 "ª¨³³°¯" #GetTitleTV 
+ KAASHEG_TV:1 "¬Œ¥¯" #GetTitleTV 
+ GREAT_KAASHEG_TV:1 "¢®ª¬ª¯ ¬Œ¥¯" #GetTitleTV 
+ KHUSHAI_TV:1 "³Œþ" #GetTitleTV 
+ KUSHENG_TV:1 "¬³Œ¼°þ" #GetTitleTV 
+ GREAT_KUSHENG_TV:1 "¢®ª¬þ ¬³Œ¼°þ" #GetTitleTV 
+ HWALBAEJ_TV:1 "¢®¡¯" #GetTitleTV 
+ JAENG_TV:1 "¶¨¼°¯" #GetTitleTV 
+ DAEJAENG_TV:1 "¦¼¶¨¼°¯" #GetTitleTV 
+ HWALEI_TV:1 "¢®þ" #GetTitleTV 
+ WAENBU_TV:1 "¢¼°¡³" #GetTitleTV 
+ DAEWAENBU_TV:1 "¦¼¢¼°¡³" #GetTitleTV 
+ FIRST_MARSHAL_TV:1 "±¢º¯ ¯Œ®¯" #GetTitleTV 
+ GRAND_MARSHAL_TV:1 "¥°¦-¯Œ®¯" #GetTitleTV 
+ VRYDAL_TV:1 "¢ª¦®¯" #GetTitleTV 
+ VYRISAR_TV:1 "¢ºª¯" #GetTitleTV 
+ VRYDALVA_TV:1 "¢ª¦®¢þ" #GetTitleTV 
+ VYRISETA_TV:1 "¢ºª²þ" #GetTitleTV 
+ VYLEDAR_TV:1 "¢º®¦¯" #GetTitleTV 
+ VYLYENDAR_TV:1 "¢º®¿°¦¯" #GetTitleTV 
+ VYLEDAM_TV:1 "¢º®¦¯þ" #GetTitleTV 
+ VYLYENDAM_TV:1 "¢º®¿°¦¯þ" #GetTitleTV 
+ DHAVANA_TV:1 "¦¢°" #GetTitleTV 
+ ARYACAN_TV:1 "¿¾¬°¯" #GetTitleTV 
+ CAMRAYACAN_TV:1 "¬¯þ¬°¯" #GetTitleTV 
+ ELAVI_TV:1 "¼®¢ª" #GetTitleTV 
+ ARACI_TV:1 "ª" #GetTitleTV 
+ CAMRAYANI_TV:1 "¬¯¾°ª" #GetTitleTV 
+ YODHAN_TV:1 "þ¦°¯" #GetTitleTV 
+ RAYODHAN_TV:1 "þ¦°¯" #GetTitleTV 
+ CAKRAYODHANTI_TV:1 "¬¬þ¦°²ª" #GetTitleTV 
+ YODHENGASU_TV:1 "þ¦°¥³" #GetTitleTV 
+ RAYODANI_TV:1 "þ¦°ª" #GetTitleTV 
+ CAKRAMAHISI_TV:1 "¬¬¯ªª" #GetTitleTV 
+ DANNUKA_TV:1 "¦°°³¬" #GetTitleTV 
+ ADHIPAYAV_TV:1 "¦ª±¾¢¯" #GetTitleTV 
+ ADHIVAMRATT_TV:1 "¦ª¢¯²²¯" #GetTitleTV 
+ VENITA_TV:1 "¢°ª²þ" #GetTitleTV 
+ ADHIPAYAVNI_TV:1 "¦ª±¾¢°ª" #GetTitleTV 
+ ADHIVAMRAHANI_TV:1 "¦ª¢¯°ª" #GetTitleTV 
+ VRAKKA_TV:1 "¢¬¬" #GetTitleTV 
+ POVRAKKA_TV:1 "±¢¬¬" #GetTitleTV 
+ RASVRAPAKKA_TV:1 "¢±¬¬" #GetTitleTV 
+ VRAKKANI_TV:1 "¢¬¬°ª" #GetTitleTV 
+ POVRAKKANI_TV:1 "±¢¬¬°ª" #GetTitleTV 
+ RASVRAPAKKANI_TV:1 "¢±¬¬°ª" #GetTitleTV 
+ DHEKKA_TV:1 "¦¬¬" #GetTitleTV 
+ AMARYARU_TV:1 "¯¿¾³" #GetTitleTV 
+ AMARAWOR_TV:1 "¯¢" #GetTitleTV 
+ ESTRI_TV:1 "¼²ª" #GetTitleTV 
+ AMARYARNI_TV:1 "¯¿¾°ª" #GetTitleTV 
+ AMARAWORNI_TV:1 "¯¢°ª" #GetTitleTV 
+ DOOKANIST_SHAMAN_MALE_TV:1 "²¡²°¯" #GetTitleTV 
+ DOOKANIST_SHAMAN_FEMALE_TV:1 "²¡²°¯" #GetTitleTV 
+ GOLDSCALE_SAGE_MALE_TV:1 "©®²º¯ ¯³¦µ¯" #GetTitleTV 
+ GOLDSCALE_SAGE_FEMALE_TV:1 "©®²º¯ ¯³¦µ¯" #GetTitleTV 
+ MATRIARCH_TV:1 "¯²ª¯" #GetTitleTV 
+ HIGH_MATRIARCH_TV:1 "¢¢°º¯ ¯²ª¯" #GetTitleTV 
+ PUNGIPEA_TV:1 "±³°¥ª±" #GetTitleTV 
+ QASHLAIKIM_TV:1 "¬Œ®¬ª¯¯" #GetTitleTV
+ KHOIDARG_TV:1 "þ¦¥¯" #GetTitleTV
+ FIRST_COMMANDER_TV:1 "±¢º¯ ¬¯°¦³½¸ª¯" #GetTitleTV
+ DAKOCRACY_DUKE_TV:1 "¯¥-®¦¯" #GetTitleTV
+ DAKOCRACY_KING_TV:1 "¢¢®Œ¡°ª¬¯" #GetTitleTV
+ DAKOCRACY_EMPEROR_TV:1 "¢¢°º¯ ª¯±²¯" #GetTitleTV
+ DIARCH_TV:1 "¦ª¯" #GetTitleTV
+ GRAND_DIARCH_TV:1 "¢®ª¬ª¯ ¦ª¯" #GetTitleTV
+
+ #°®¦°ª¬ª
+ HOLY_CHOSEN_TV:1 "¢¾²º¯ ª©¡pa°°ª¬¯" #GetTitleHeirTV
+ PHOENIX_PRINCE_TV:1 "±ª°µ¯-´°ª¬" #GetTitleHeirTV
+ PHOENIX_PRINCESS_TV:1 "±ª°µþ-´°ª¬" #GetTitleHeirTV
+ GRAY_LORD_TV:1 "epº¯ ®op¦¯" #GetTitleHeirTV
+ GRAY_PRINCE_TV:1 "epº¯ ±pª°µ¯" #GetTitleHeirTV
+ GRAY_LADY_TV:1 "epþ ®e¦ª" #GetTitleHeirTV
+ GRAY_PRINCESS_TV:1 "epþ ±pª°µeccþ" #GetTitleHeirTV
+ KARAKHUR_TV:1 "¬¬³¯" #GetTitleHeirTV
+ KARADURZK_TV:1 "¬¦³©¬" #GetTitleHeirTV
+ SER_HEIR_TV:1 "¯" #GetTitleHeirTV
+ YELLER_APPARENT_TV:1 "¢±¾¸ª¯ ¶¢ª¦µ¯" #GetTitleHeirTV
+ TLUUKT_PRINCE_TV:1 "¯¨¯" #GetTitleHeirTV
+ TLUUKT_PRINCESS_TV:1 "¯¨ª" #GetTitleHeirTV
+ JARLSSON_TV:1 "¾p®cco°¯" #GetTitleHeirTV
+ KONUNGSSON_TV:1 "¬o°³°¥cco°¯" #GetTitleHeirTV
+ OZTRKONUNGSSON_TV:1 "©²p¬o°³°¥cco°¯" #GetTitleHeirTV
+ JARLSDOTTIR_TV:1 "¾p®c¦o²²ªp" #GetTitleHeirTV
+ KONUNGSDOTTIR_TV:1 "¬o°°³°¥c¦o²²ªp" #GetTitleHeirTV
+ OZTRKONUNGSDOTTIR_TV:1 "©²¬o°°³°¥c¦o²²ªp" #GetTitleHeirTV
+ PRANT_TV:1 "±pa°²¯" #GetTitleHeirTV
+ SHADOW_HEIR_TV:1 "½°º¯ ¥±¦ª°¯" #GetTitleHeirTV
+ SHADOW_HEIRESS_TV:1 "½°þ ¥±¨þ" #GetTitleHeirTV
+ BATTLEPRINCE_TV:1 "±pª°µ¯ ¢ª²®¯" #GetTitleHeirTV
+ BATTLEPRINCESS_TV:1 "±pª°µeccþ ¢ª²®¿°ªµþ" #GetTitleHeirTV
+ RASHOKUDEI_TV:1 "Œ¬³¦¯" #GetTitleHeirTV
+ BOJAEJ_TV:1 "¡¦¨¯" #GetTitleHeirTV
+ KHUNZHE_TV:1 "³°¿µ©" #GetTitleHeirTV
+ DAKHUNZE_TV:1 "¦³°¿µ©" #GetTitleHeirTV
+ BOJEI_TV:1 "¡¦¨¼þ" #GetTitleHeirTV
+ GONJE_TV:1 "¥°¿µ©" #GetTitleHeirTV
+ DAGONJE_TV:1 "¦¥°¿µ©" #GetTitleHeirTV
+ XANSHEN_TV:1 "¾°¿Œ°¿" #GetTitleHeirTV
+ TONZHI_TV:1 "²°¶¨ª" #GetTitleHeirTV
+ DATONZHI_TV:1 "¦²°¶¨ª" #GetTitleHeirTV
+ DANSHEN_TV:1 "¦°¿Œ°¿" #GetTitleHeirTV
+ GONZHI_TV:1 "¥°¿¶¨ª" #GetTitleHeirTV
+ DAGONZHI_TV:1 "¦¥°¶¿¨ª" #GetTitleHeirTV
+ AROMO_TV:1 "¯" #GetTitleHeirTV
+ TOJIS_TV:1 "²¦©ª" #GetTitleHeirTV
+ RENDA_TV:1 "°¦" #GetTitleHeirTV
+ RONTOS_TV:1 "°²" #GetTitleHeirTV
+ PRINCE_APPARENT_TV:1 "¾¢°º¯ ±pª°µ¯" #GetTitleHeirTV
+ PRINCESS_APPARENT_TV:1 "¾¢°þ ±pª°µeccþ" #GetTitleHeirTV
+ HEIR_APPARENT_TV:1 "¾¢°º¯ °ac®e¦°ª¬¯" #GetTitleHeirTV
+ DRAGON_LORD_TV:1 "¦¬°¿ª¯ ®¦¯" #GetTitleHeirTV
+ DRAGON_PRINCE_TV:1 "¦¬°¿ª¯ ±ª°µ¯" #GetTitleHeirTV
+ DRAGON_LADY_TV:1 "¦¬°¿þ ®¦ª" #GetTitleHeirTV
+ DRAGON_PRINCESS_TV:1 "¦¬°¿þ ±ª°µþ" #GetTitleHeirTV
+ 
+ CHOSEN_DISCIPLE_TV:1 "ª©¡°°º¯ ³¶°ª¬¯" #GetTitleHeirTV
+ ASCENDANT_MASTER_TV:1 "¢¦¾¸ª¯ ¯²¯" #GetTitleHeirTV
+ MARSAR_TV:1 "¯Œ¯" #GetTitleHeirTV
+ MARSARI_TV:1 "¯Œª" #GetTitleHeirTV
+ OGHAR_TV:1 "¥ap¯" #GetTitleHeirTV
+ BANOGHAR_TV:1 "¡a°o¥ap¯" #GetTitleHeirTV
+ IZHUUNAAZUN_TV:1 "ª¨³³°©³°" #GetTitleHeirTV
+ KHUSHAAZUN_TV:1 "³Œ©³°¯" #GetTitleHeirTV
+ BOJAENG_TV:1 "¡¦¨°¯" #GetTitleHeirTV
+ NOPOJAENG_TV:1 "°±¦¨°¯" #GetTitleHeirTV
+ BOJAENBU_TV:1 "¡¦¨¼°¡³" #GetTitleHeirTV
+ NOPAENBU_TV:1 "°±¼°¡³" #GetTitleHeirTV
+ TALDHAVANA_TV:1 "²®¦¢°" #GetTitleHeirTV
+ AVALIRIKAN_TV:1 "¢®ªª¬°¯" #GetTitleHeirTV
+ TALNIDHAVANA_TV:1 "²®°ª¦¢°" #GetTitleHeirTV
+ AVALIKUMARI_TV:1 "¢®ª¬³¯ª" #GetTitleHeirTV
+ YODHANNAGUR_TV:1 "þ¦°°¥³" #GetTitleHeirTV
+ RAYODHANNAGUR_TV:1 "þ¦°°¥³" #GetTitleHeirTV
+ CAKRAYODHANTINAGUR_TV:1 "¶¬þ¦°²ª°¥³" #GetTitleHeirTV
+ YODHANNAGULU_TV:1 "þ¦°°¥³®³" #GetTitleHeirTV
+ RAYODHANNAGULU_TV:1 "þ¦°°¥³®³" #GetTitleHeirTV
+ CAKRAYODHANTINAGULU_TV:1 "¶¬þ¦°²ª°¥³®³" #GetTitleHeirTV
+ DANNUKPATRUY_TV:1 "¦°°³¬±²³þ" #GetTitleHeirTV
+ ADHIPPATRUY_TV:1 "¦ª±±²³þ" #GetTitleHeirTV
+ ADHIVAMPATRUY_TV:1 "¦ª¢¯±²³þ" #GetTitleHeirTV
+ DANNUKPATRI_TV:1 "¦°°³¬±²ª" #GetTitleHeirTV
+ ADHIPPATRI_TV:1 "¦ª±±²ª" #GetTitleHeirTV
+ ADHIVAMPATRI_TV:1 "¦ª¢¯±²ª" #GetTitleHeirTV
+ DHEKKAMARUI_TV:1 "¦¬¬¯³¯" #GetTitleHeirTV
+ AMARAVARA_TV:1 "¯¢" #GetTitleHeirTV
+ AMARAVARAJU_TV:1 "¯¢¦¨³" #GetTitleHeirTV
+ DHEKKAMARUTY_TV:1 "¦¬¬¯³²ª" #GetTitleHeirTV
+ AMARASURA_TV:1 "¯³þ" #GetTitleHeirTV
+ AMARASURUNI_TV:1 "¯³³°ª" #GetTitleHeirTV
+ CONRI_BINH_TV:1 "¬°ª ¡ª°¿" #GetTitleHeirTV
+ CONGI_BINH_TV:1 "¬°¥ª ¡ª°¿" #GetTitleHeirTV
+ 
+ #¬°²º
+ AKAL_CONSORT_TV:1 "¬®¯-¬°²¯" #GetTitleConsortTV
+ AKALI_CONSORT_TV:1 "¬®ª-¬°²¯" #GetTitleConsortTV
+ TELJARL_TV:1 "²e®¹¾p®¯" #GetTitleConsortTV
+ GREVINNA_TV:1 "¥pe¢ª°°þ" #GetTitleConsortTV
+ GRAND_CONSORT_TV:1 "¥pa°¦-¬o°cop²¯" #GetTitleConsortTV
+ 
+ FIRST_NOBLE_HUSBAND_TV:1 "±ep¢º¯ ¡®a¥opo¦°º¯ ¯³¨¯" #GetTitleConsortTV
+ FIRST_ROYAL_HUSBAND_TV:1 "±ep¢º¯ ¬opo®e¢c¬ª¯ ¯³¨¯" #GetTitleConsortTV
+ FIRST_SUPREME_HUSBAND_TV:1 "±ep¢º¯ ¢epxo¢°º¯ ¯³¨¯" #GetTitleConsortTV
+ FIRST_NOBLE_WIFE_TV:1 "±ep¢þ ¡®a¥opo¦°þ ¨e°þ" #GetTitleConsortTV
+ FIRST_ROYAL_WIFE_TV:1 "±ep¢þ ¬opo®e¢c¬þ ¨e°þ" #GetTitleConsortTV
+ FIRST_SUPREME_WIFE_TV:1 "±ep¢þ ¢epxo¢°þ ¨e°þ" #GetTitleConsortTV
+ DUKAD_CARD_TV:1 "¦³¬a¦-¬ap¦¯" #GetTitleConsortTV
+ RIGAK_CARD_TV:1 "ª¥a¬-¬ap¦¯" #GetTitleConsortTV
+ ARDRIGAK_CARD_TV:1 "p¦pª¥a¬-¬ap¦¯" #GetTitleConsortTV
+ SURCAG_CARD_TV:1 "³p¬a¥-¬ap¦þ" #GetTitleConsortTV
+ BANRAG_CARD_TV:1 "¡a°pa¥-¬ap¦þ" #GetTitleConsortTV
+ ARDBANRAG_CARD_TV:1 "p¦¡a°pa¥-¬ap¦þ" #GetTitleConsortTV
+ HENGASU_TV:1 "þ¦°¥³" #GetTitleConsortTV
+ DANI_TV:1 "¦°ª" #GetTitleConsortTV
+ MAHISI_TV:1 "¯ªª" #GetTitleConsortTV
+ NGI_HONG_TV:1 "°¥ª °" #GetTitleConsortTV
+ NGI_VO_TV:1 "°¥ª ¢" #GetTitleConsortTV 
+ 
+ #‰¦®¨°ºþ ±¦¨
+ HARI_PR:1 "ª" #GetTitlePR 
+ GREAT_HARI_PR:1 "¢®ª¬¯ ª" #GetTitlePR 
+ HARIN_PR:1 "ª°" #GetTitlePR 
+ GREAT_HARIN_PR:1 "¢®ª¬þ ª°" #GetTitlePR 
+ DUKE_CROSSGUARD_PR:1 "¬°¾©-©a¸ª²°ª¬" #GetTitlePR 
+ KING_CROSSGUARD_PR:1 "¬opo®-©a¸ª²°ª¬" #GetTitlePR 
+ EMPEROR_CROSSGUARD_PR:1 "ª¯±epa²op-©a¸ª²°ª¬" #GetTitlePR 
+ DUCHESS_CROSSGUARD_PR:1 "¬°¾¥ª°-©a¸ª²°ªµ" #GetTitlePR 
+ QUEEN_CROSSGUARD_PR:1 "¬opo®e¢-©a¸ª²°ªµ" #GetTitlePR 
+ EMPRESS_CROSSGUARD_PR:1 "ª¯±epa²pªµ-©a¸ª²°ªµ" #GetTitlePR 
+ SANCTIFIED_KING_PR:1 "¢¾²o¯ ¬opo®" #GetTitlePR 
+ SANCTIFIED_EMPEROR_PR:1 "¢¾²o¯ ª¯±epa²op" #GetTitlePR 
+ SANCTIFIED_QUEEN_PR:1 "¢¾²þ ¬opo®e¢" #GetTitlePR 
+ SANCTIFIED_EMPRESS_PR:1 "¢¾²þ ª¯±epa²pªµ" #GetTitlePR 
+ PHOENIX_EMPEROR_PR:1 "ª¯±² ´°ª¬" #GetTitlePR 
+ PHOENIX_EMPRESS_PR:1 "ª¯±²ªµ ´°ª¬" #GetTitlePR 
+ COMMANDER_PR:1 "¬o¯a°¦ªp" #GetTitlePR 
+ HERALD_PR:1 "¢ec²°ª¬" #GetTitlePR 
+ DIVINE_HERALD_PR:1 "¡o¨ec²¢e°°¯ ¢ec²°ª¬" #GetTitlePR 
+ COMMANDER_fem_PR:1 "¬o¯a°¦ªpŒ" #GetTitlePR 
+ HERALD_fem_PR:1 "¢ec²°ªµ" #GetTitlePR 
+ DIVINE_HERALD_fem_PR:1 "¡o¨ec²¢e°°þ ¢ec²°ªµ" #GetTitlePR 
+ SORCERER_KING_PR:1 "¬®-¬®¦³°" #GetTitlePR 
+ SORCERER_QUEEN_PR:1 "¬®¢-¬®¦³°¿" #GetTitlePR 
+ BLACK_ACOLYTE_PR:1 "¶ž°¯ ¬®ª²" #GetTitlePR 
+ BLACK_ACOLYTE_fem_PR:1 "¶ž°þ ¬®ª²" #GetTitlePR 
+ GRAY_DUKE_PR:1 "ep¯ ¬°¾©" #GetTitlePR 
+ GRAY_KING_PR:1 "ep¯ ¬opo®" #GetTitlePR 
+ GRAY_EMPEROR_PR:1 "ep¯ ª¯±epa²op" #GetTitlePR 
+ GRAY_DUCHESS_PR:1 "epþ ¬°¾¥ª°" #GetTitlePR 
+ GRAY_QUEEN_PR:1 "epþ ¬opo®e¢" #GetTitlePR 
+ GRAY_EMPRESS_PR:1 "epþ ª¯±epa²pªµ" #GetTitlePR 
+ MAGISTER_PR:1 "¯¥ª²" #GetTitlePR 
+ MAGISTRIX_PR:1 "¯¥ª²" #GetTitlePR 
+ KNIGHT_CAPTAIN_PR:1 "ºµap-¬a±ª²a°" #GetTitlePR 
+ KNIGHT_CAPTAIN_fem_PR:1 "ºµap-¬a±ª²a°Œ" #GetTitlePR 
+ LORD_CRIER_PR:1 "®op¦ ¥®aŒa²a" #GetTitlePR 
+ LADY_CRIER_PR:1 "®¦ª ¥®aŒa²aþ" #GetTitlePR 
+ PACK_LORD_PR:1 "±o¢e®ª²e® ²aª" #GetTitlePR 
+ CORSAIR_KING_PR:1 "¬opo® ¬opcapo¢" #GetTitlePR 
+ SEA_SCOURGE_PR:1 "¥po© ¯opeþ" #GetTitlePR 
+ PACK_MISTRESS_PR:1 "±o¢e®ª²e®¿°ªµ ²aª" #GetTitlePR 
+ CORSAIR_QUEEN_PR:1 "¬®¢ ¬opcapo¢" #GetTitlePR 
+ TLUUKT_KING_PR:1 "¬®³°¬®" #GetTitlePR 
+ TLUUKT_EMPEROR_PR:1 "¬³°¬®" #GetTitlePR 
+ TLUUKT_QUEEN_PR:1 "¬®³°¬®ª" #GetTitlePR 
+ TLUUKT_EMPRESS_PR:1 "¬³°¬®ª" #GetTitlePR 
+ JARL_PR:1 "¾®" #GetTitlePR 
+ KONUNGR_PR:1 "¬°³°¥" #GetTitlePR 
+ OZTRKONUNGR_PR:1 "©²o¬o°³°¥" #GetTitlePR 
+ DROTTNING_PR:1 "¦po²²°ª°¥" #GetTitlePR 
+ OZTRDROTTNING_PR:1 "©¦po²²°ª°¥" #GetTitlePR 
+ MASTER_SKALD_PRIEST_PR:1 "¢e®ª¬¯ ¬a®¿¦-¨peµ" #GetTitlePR 
+ MASTER_SKALD_PRIESTESS_PR:1 "¢e®ª¬þ ¬a®¿¦-¨pªµ" #GetTitlePR 
+ EXALTED_COMPANION_PR:1 "¢o©¢ºŒe°°¯ ±³²°ª¬" #GetTitlePR 
+ ARD_DRADH_PR:1 "p¦ ¦pa¦" #GetTitlePR 
+ ARD_BANNDRADH_PR:1 "p¦ ¡a°°¦pa¦" #GetTitlePR 
+ SHADOW_MALE_PR:1 "²e°e¢o¯ ±pª°µ" #GetTitlePR 
+ SHADOW_FEMALE_PR:1 "²e°e¢þ ±pª°µecc" #GetTitlePR 
+ CRYSTAL_QUEEN_PR:1 "¬pªc²a®¿°þ ¬opo®e¢" #GetTitlePR 
+ CRYSTAL_EMPRESS_PR:1 "¬pªc²a®¿°þ ª¯±epa²pªµ" #GetTitlePR 
+ OBSIDIAN_MALE_PR:1 "¢º¡pa°°¯ ³°oþ"
+ OBSIDIAN_FEMALE_PR:1 "¢º¡pa°°þ ³°oþ"
+ OBSIDIAN_INVASION_MALE_PR:1 "³°°¯ ¢²°ª¬"
+ OBSIDIAN_INVASION_FEMALE_PR:1 "³°°þ ¢²°ªµ"
+ COUNCILLOR_PR:1 "¬o°c³®" #GetTitlePR 
+ FIRST_COUNCILLOR_PR:1 "±¢¯ ¬°³®" #GetTitlePR 
+ HIGH_COUNCILLOR_PR:1 "¢¢°¯ ¬°³®" #GetTitlePR 
+ MARSHAL_PR:1 "¯Œ®" #GetTitlePR 
+ GRAND_MARSHAL_PR:1 "¥°¦-¯Œ®" #GetTitlePR 
+ GANG_LEADER_PR:1 "®ª¦ep ¡a°¦º" #GetTitlePR 
+ GREY_EMINENCE_PR:1 "¯ ¬¦ª°®" #GetTitlePR 
+ MENGURKHA_PR:1 "¯e°¥³p¬a" #GetTitlePR 
+ MENGARKHA_PR:1 "¯e°¥ap¬a" #GetTitlePR 
+ BAOZH_PR:1 "¡¨" #GetTitlePR 
+ BAOZHA_PR:1 "¡¨" #GetTitlePR 
+ BIIGH_BAOZH_PR:1 "¡ªª¥ ¡¨" #GetTitlePR 
+ BIIGH_BAOZHA_PR:1 "¡ªª¥ ¡¨" #GetTitlePR 
+ OJKAGMA_PR:1 "þ¬¥¯" #GetTitlePR 
+ MENGURM_PR:1 "¯°¥³'¯" #GetTitlePR 
+ MENGURKHA_PR:1 "¯e°¥³p¬a" #GetTitlePR 
+ OJKODIRD_PR:1 "þ¬¦ª¦" #GetTitlePR 
+ MENGURMA_PR:1 "¯°¥³'¯" #GetTitlePR 
+ MENGARKHA_PR:1 "¯e°¥ap¬a" #GetTitlePR 
+ GHALRDON_PR:1 "¥®'¦°" #GetTitlePR 
+ GHALRDAL_PR:1 "¥®'¦®" #GetTitlePR 
+ BATTLEKING_PR:1 "¬opo® ¢ª²®" #GetTitlePR 
+ BOYACSAR_PR:1 "¡¾¬" #GetTitlePR 
+ BATTLEQUEEN_PR:1 "¬opo®e¢ ¢ª²®¿°ªµ" #GetTitlePR 
+ BOYACSARA_PR:1 "¡¾¬" #GetTitlePR 
+ VALADR_PR:1 "¢®¦" #GetTitlePR 
+ VIZVALADR_PR:1 "¢ª©¢®¦" #GetTitlePR 
+ VALATKA_PR:1 "¢®²¬" #GetTitlePR 
+ VIZVALATKA_PR:1 "¢ª©¢®²¬" #GetTitlePR 
+ VYRISAR_PR:1 "¢ºª" #GetTitlePR 
+ VYRISETA_PR:1 "¢ºª²" #GetTitlePR 
+ VITSAR_PR:1 "¢ª²" #GetTitlePR 
+ YRIDAM_PR:1 "ªª¦¯" #GetTitlePR 
+ BARON_PR:1 "¡°" #GetTitlePR 
+ BARONESS_PR:1 "¡°" #GetTitlePR 
+ VENERATOR_PR:1 "¢°²" #GetTitlePR 
+ VENERATOR_HIGH_PR:1 "¢¢°¯ ¢°²" #GetTitlePR 
+ RASHENBIR_PR:1 "Œ°¡ª" #GetTitlePR 
+ HWALBAEJ_PR:1 "¢®¡" #GetTitlePR 
+ KAJAENG_PR:1 "¬¦¨°" #GetTitlePR 
+ DAKAJAENG_PR:1 "¦¬¦¨°" #GetTitlePR 
+ HWALEI_PR:1 "¢®þ" #GetTitlePR 
+ KUSHAEN_PR:1 "¬³Œ°" #GetTitlePR 
+ DAKUSHAEN_PR:1 "¦¬³Œ°" #GetTitlePR 
+ ZHU_PR:1 "¶¨³" #GetTitlePR 
+ TONGZHE_PR:1 "²°¶¨¼" #GetTitlePR 
+ DIANGDI_PR:1 "¦ª°¥¦ª" #GetTitlePR 
+ SHUN_PR:1 "Œ³°¿" #GetTitlePR 
+ NUWANG_PR:1 "°³¢°¥" #GetTitlePR 
+ HANGHO_PR:1 "°¥" #GetTitlePR 
+ MANSAROM_PR:1 "¯°¯" #GetTitlePR 
+ MONGOR_PR:1 "¯°¥" #GetTitlePR 
+ TAMONGOR_PR:1 "²¯°¥" #GetTitlePR 
+ RENDA_PR:1 "°¦" #GetTitlePR 
+ JOLDO_PR:1 "¦¨®¦" #GetTitlePR 
+ TAJOLDO_PR:1 "²¦¨®¦" #GetTitlePR 
+ HIGH_LORD_PR:1 "¢¢°¯ ®¦" #GetTitlePR 
+ GREAT_LORD_PR:1 "¢®ª¬¯ ®¦" #GetTitlePR 
+ HIGH_LADY_PR:1 "¢¢°þ ®¦ª" #GetTitlePR 
+ GREAT_LADY_PR:1 "¢®ª¬þ ®¦ª" #GetTitlePR 
+ HIGH_CONVOCATIONARY_PR:1 "¢ºŒ¯ ©º¢" #GetTitlePR 
+ GREAT_CONVOCATIONARY_PR:1 "¢®ª¬¯ ©º¢" #GetTitlePR 
+ SUPREME_CONVOCATIONARY_PR:1 "¢¢°¯ ©º¢" #GetTitlePR 
+ MYKX_PR_CHIEF_ADMIRAL_PR:1 "²Œ¯ ¦¯ª®" #GetTitlePR 
+ MYKX_PR_GRAND_ADMIRAL_PR:1 "¥°¦-¦¯ª®" #GetTitlePR 
+ MYKX_PR_SCOURGE_MAN_PR:1 "±®²¿²µ" #GetTitlePR 
+ MYKX_PR_SCOURGE_WOMAN_PR:1 "±®²¿¯²ª" #GetTitlePR 
+ LORD_MAYOR_PR:1 "®op¦-¯¼p" #GetTitlePR 
+ GRAND_MAYOR_PR:1 "¢e®ª¬¯ ¯¼p" #GetTitlePR 
+ IRON_KING_PR:1 "¨®©°¯ ¬®" #GetTitlePR 
+ IRON_QUEEN_PR:1 "¨®©°þ ¬®¢" #GetTitlePR 
+ GRAND_PRINCE_PR:1 "¢e®ª¬¯ ¬°¾©" #GetTitlePR 
+ GRAND_PRINCESS_PR:1 "¢e®ª¬þ ¬°¾¥ª°" #GetTitlePR 
+ OLDKING_PR:1 "²¯ ¬®" #GetTitlePR 
+ OLDQUEEN_PR:1 "²þ ¬®¢" #GetTitlePR 
+ ELDER_PR:1 "¦¢°¯" #GetTitlePR 
+ HIGH_ELDER_PR:1 "¢¢°¯ ¦¢°¯" #GetTitlePR 
+ PARAMOUNT_ELDER_PR:1 "±¢²±°°¯ ¦¢°¯" #GetTitlePR 
+ AMBER_KING_PR:1 "¾°²°¯ ¬®" #GetTitlePR 
+ AMBER_QUEEN_PR:1 "¾°²°þ ¬®¢" #GetTitlePR 
+ BRIGHT_KING_PR:1 "¾¬¯ ¬®" #GetTitlePR 
+ BRIGHT_QUEEN_PR:1 "¾¬þ ¬®¢" #GetTitlePR 
+ FLAME_CUSTODIAN_PR:1 "°ª²®" #GetTitlePR 
+ FIRELORD_PR:1 "±¢®ª²® ¥°¾" #GetTitlePR 
+ FIRELADY_PR:1 "±¢®ª²®¿°ªµ ¥°¾" #GetTitlePR 
+ CRIMSON_REVEREND_PR:1 "¡¥¢¯ ±±¦¡°¯" #GetTitlePR 
+ CRIMSON_REVEREND_fem_PR:1 "¡¥¢þ ±±¦¡°þ" #GetTitlePR 
+ SKY_CAPTAIN_PR:1 "°¡°¯ ¬±ª²°" #GetTitlePR 
+ GRAND_SKY_CAPTAIN_PR:1 "¢®ª¬¯ °¡°¯ ¬±ª²°" #GetTitlePR 
+ DRAGON_PRINCE_PR:1 "±ª°µ ¦¬°¢" #GetTitlePR 
+ DRAGON_KING_PR:1 "¬® ¦¬°¢" #GetTitlePR 
+ DRAGON_EMPEROR_PR:1 "ª¯±² ¦¬°¢" #GetTitlePR 
+ DRAGON_PRINCESS_PR:1 "±ª°µ ¦¬°¢" #GetTitlePR 
+ DRAGON_QUEEN_PR:1 "¬®¢ ¦¬°¢" #GetTitlePR 
+ DRAGON_EMPRESS_PR:1 "ª¯±²ªµ ¦¬°¢" #GetTitlePR 
+ LIANGZHU_PR:1 "®ª°¶¨³" #GetTitlePR 
+ KEGLORD_PR:1 "¬¥®¦" #GetTitlePR 
+ HIGH_KEGLORD_PR:1 "¢¢°¯ ¬¥®¦" #GetTitlePR 
+ KEGQUEEN_PR:1 "¬¥®¢" #GetTitlePR 
+ HIGH_KEGQUEEN_PR:1 "¢¢°þ ¬¥®¢" #GetTitlePR 
+ LESSER_KING_PR:1 "¯°¿Œ¯ ¬®" #GetTitlePR 
+ KING_OF_KINGS_PR:1 "¬® ¬®þ" #GetTitlePR 
+ LESSER_QUEEN_PR:1 "¯°¿Œþ ¬®¢" #GetTitlePR 
+ QUEEN_OF_QUEENS_PR:1 "¬®¢ ¬®¢" #GetTitlePR 
+ FIRST_STEWARD_PR:1 "±¢¯ ³±¢®¾½¸¯" #GetTitlePR 
+ HIGH_STEWARD_PR:1 "¢¢°¯ ³±¢®¾½¸¯" #GetTitlePR 
+ FIRST_STEWARD_fem_PR:1 "±¢þ ³±¢®¾½¸þ" #GetTitlePR 
+ HIGH_STEWARD_fem_PR:1 "¢¢°þ ³±¢®¾½¸þ" #GetTitlePR 
+ 
+ HIGH_RECTOR_PR:1 "¢¢°¯ ¬²" #GetTitlePR 
+ FIRST_MASTER_PR:1 "±¢¯ ¯²" #GetTitlePR 
+ RIGHTEOUS_MASTER_PR:1 "±¢¦°¯ ¯²" #GetTitlePR 
+ SUPREME_MASTER_PR:1 "¢¢°¯ ¯²" #GetTitlePR 
+ MARQUIS_PR:1 "¯¬ª©" #GetTitlePR 
+ GRAND_MARQUIS_PR:1 "¢®ª¬¯ ¯¬ª©" #GetTitlePR 
+ MARQUISA_PR:1 "¯¬ª©" #GetTitlePR 
+ GRAND_MARQUISA_PR:1 "¢®ª¬þ ¯¬ª©" #GetTitlePR 
+ LUMINARY_PR:1 "¢²ª®" #GetTitlePR 
+ FIRST_HIERARCH_IM:1 "±¢ª" #GetTitlePR 
+ GENERAL_GOV_PR:1 "¥°®" #GetTitlePR 
+ LOT_DEKKHANG_PR:1 "®² ¦¬¬°¥" #GetTitlePR 
+ GOVERNOR_GENERAL_PR:1 "¥°®-¥³¡°²" #GetTitlePR 
+ CHANCELLOR_PR:1 "¬°µ®" #GetTitlePR 
+ SUPREME_CHANCELLOR_PR:1 "¢¢°¯ ¬°µ®" #GetTitlePR 
+ WITCH_KING_PR:1 "¬opo®-¶apo¦e" #GetTitlePR 
+ WITCH_EMPEROR_PR:1 "ª¯±epa²op-¶apo¦e" #GetTitlePR 
+ WITCH_QUEEN_PR:1 "¬®¢-¶¦þ¬" #GetTitlePR 
+ WITCH_EMPRESS_PR:1 "ª¯±²ªµ-¶¦þ¬" #GetTitlePR 
+ KYLAKAS_PR:1 "¬ª®a¬ac" #GetTitlePR 
+ DEGA_KYLAKAS_PR:1 "¦e¥a ¬ª®a¬ac" #GetTitlePR 
+ WIZARD_KING_PR:1 "¬opo®-¢®Œ¡°ª¬" #GetTitlePR 
+ WIZARD_QUEEN_PR:1 "¬opo®e¢-¢®Œ¡°ªµ" #GetTitlePR 
+ SKALD_PRIEST_PR:1 "¬®¿¦-¨µ" #GetTitlePR 
+ SKALD_PRIESTESS_PR:1 "¬®¿¦-¨ªµ" #GetTitlePR 
+ RECLAIMER_PR:1 "²¢¢²®" #GetTitlePR 
+ RECLAIMER_fem_PR:1 "²¢¢²®¿°ªµ" #GetTitlePR 
+ VICEROY_PR:1 "¢ªµ-¬®" #GetTitlePR 
+ VICERINE_PR:1 "¢ªµ-¬®¢" #GetTitlePR 
+ ESBAGG_PR:1 "¼c¡a¥¥" #GetTitlePR 
+ SGARRT_PR:1 "¥app²" #GetTitlePR 
+ DECANN_PR:1 "¦e¬a°°" #GetTitlePR 
+ ESBAGG_fem_PR:1 "¼c¡a¥¥" #GetTitlePR 
+ SGARRT_fem_PR:1 "¥app²" #GetTitlePR 
+ DECANN_fem_PR:1 "¦e¬a°°" #GetTitlePR 
+ CLANBOSS_PR:1 "¬®°¡" #GetTitlePR 
+ OVERBOSS_PR:1 "°¦¡" #GetTitlePR 
+ SUPREME_BOSS_PR:1 "¢¢°¯ ¡" #GetTitlePR 
+ CLANBOSSESS_PR:1 "¬®°¡" #GetTitlePR 
+ OVERBOSSESS_PR:1 "°¦¡" #GetTitlePR 
+ SUPREME_BOSSESS_PR:1 "¢¢°¯ ¡" #GetTitlePR 
+ CAPTAIN_PR:1 "¬±ª²°" #GetTitlePR 
+ CAPTAIN_fem_PR:1 "¬±ª²°" #GetTitlePR 
+ PETTY_KING_PR:1 "¯®¬¯ ¬opo®" #GetTitlePR 
+ PETTY_QUEEN_PR:1 "¯®¬þ ¬®¢" #GetTitlePR 
+ GRAND_MAGISTER_PR:1 "¢®ª¬¯ ¯¥ª²" #GetTitlePR 
+ FIRST_MAGISTER_PR:1 "±¢¯ ¯¥ª²" #GetTitlePR 
+ HIGH_MAGE_PR:1 "¢¢°¯ ¯¥" #GetTitlePR 
+ ARCHMAGE_PR:1 "ª¯¥" #GetTitlePR 
+ PRINCE_ELECTOR_PR:1 "¬°¾©-¢º¡¸ª¬" #GetTitlePR 
+ PRINCESS_ELECTOR_PR:1 "¬°¾¥ª°-¢º¡¸ª¬" #GetTitlePR 
+ GRAND_ELECTRESS_PR:1 "¢®ª¬¯ ¢º¡¸ª¬" #GetTitlePR 
+ LORD_ELECTOR_PR:1 "®¦-¢º¡¸ª¬" #GetTitlePR 
+ HIGH_KING_PR:1 "¢¢°¯ ¬®" #GetTitlePR 
+ HIGH_QUEEN_PR:1 "¢¢°þ ¬®¢" #GetTitlePR 
+ DUKE_ELECTOR_PR:1 "¥µ¥-¢º¡¸ª¬" #GetTitlePR 
+ GRAND_ELECTOR_PR:1 "¢®ª¬¯ ¢º¡¸ª¬" #GetTitlePR 
+ DUCHESS_ELECTOR_PR:1 "¥µ¥ª°-¢º¡¸ª¬" #GetTitlePR 
+ PRIEST_ELECTOR_PR:1 "¨µ-¢º¡¸ª¬" #GetTitlePR 
+ IMPERIAL_GRANDMASTER_PR:1 "ª¯±epc¬¯ ¥°¦¯²" #GetTitlePR 
+ IMPERIAL_GRANDMISTRESS_PR:1 "ª¯±epc¬¯ ¥°¦¯²" #GetTitlePR 
+ MARCHER_LORD_PR:1 "®¦ ±¥°ª¶¿¾" #GetTitlePR 
+ MOOR_KING_PR:1 "¡®²°¯ ¬®" #GetTitlePR 
+ MOOR_EMPEROR_PR:1 "¡®²°þ ¬®¢" #GetTitlePR 
+ MOOR_QUEEN_PR:1 "¡®²°¯ ª¯±²" #GetTitlePR 
+ MOOR_EMPRESS_PR:1 "¡®²°þ ª¯±²ªµ" #GetTitlePR 
+ AKAL_PR:1 "¬®" #GetTitlePR 
+ AKALUNAKAL_PR:1 "¬®³°¬®" #GetTitlePR 
+ AKALI_PR:1 "¬®ª" #GetTitlePR 
+ AKALUNAKALI_PR:1 "¬®³°¬®ª" #GetTitlePR 
+ MARAS_PR:1 "¯Œ" #GetTitlePR 
+ GRAND_MARAS_PR:1 "¢®ª¬¯ ¯Œ" #GetTitlePR 
+ GREAT_MARAS_PR:1 "¢¢°¯ ¯Œ" #GetTitlePR 
+ KASHRA_PR:1 "¬Œ" #GetTitlePR 
+ AKAL_KASHRA_PR:1 "¬® ¬Œ" #GetTitlePR 
+ ISIAK_SURAKEL_PR:1 "ªŒª¬ Ô³¬®¾" #GetTitlePR 
+ PACK_LORD_PR:1 "±o¢e®ª²e® ²aª" #GetTitlePR 
+ PACK_MISTRESS_PR:1 "±o¢e®ª²e®¿°ªµ ²aª" #GetTitlePR 
+ SONAD_PR:1 "o°a¦" #GetTitlePR 
+ FALT_PR:1 "´a®¿²" #GetTitlePR 
+ ARD_FALT_PR:1 "p¦-´a®¿²" #GetTitlePR 
+ SURCAG_PR:1 "³p¬a¥" #GetTitlePR 
+ BANRAG_PR:1 "¡a°pa¥" #GetTitlePR 
+ ARD_BANRAG_PR:1 "p¦-¡a°pa¥" #GetTitlePR 
+ COMHAIR_PR:1 "¬o¯xþp" #GetTitlePR 
+ LABRAR_PR:1 "®a¡pap" #GetTitlePR 
+ CANSUDD_PR:1 "¬a°c³¦¦" #GetTitlePR 
+ PROVOST_PR:1 "±¬²" #GetTitlePR 
+ ARCH_PROVOST_PR:1 "ª±¬²" #GetTitlePR 
+ IMPERIAL_PROVOST_PR:1 "ª¯±¬¯ ª±¬²" #GetTitlePR 
+ GRANDMASTER_PR:1 "¥°¦¯²" #GetTitlePR 
+ FIRST_ORACLE_MALE_PR:1 "¢¢°¯ ¢¥³" #GetTitlePR 
+ FIRST_ORACLE_FEMALE_PR:1 "¢¢°þ ¢¥³" #GetTitlePR 
+ SENAPTI_PR:1 "°±²ª" #GetTitlePR 
+ PRABHI_PR:1 "±¡ª" #GetTitlePR 
+ GRAND_VIZIER_PR:1 "¢®ª¬¯ ¢ª©ª"
+ CAEHN_PR:1 "¬¼°" #GetTitlePR 
+ GREAT_CAEHN_PR:1 "¥²ª¥ ¬¼°" #GetTitlePR 
+ CAEHTEN_PR:1 "¬a¼²e°" #GetTitlePR 
+ GREAT_CAEHTEN_PR:1 "¥²ª¥ ¬a¼²e°" #GetTitlePR 
+ IZHUUN_PR:1 "ª¨³³°" #GetTitlePR 
+ KAASHEG_PR:1 "¬Œ¥" #GetTitlePR 
+ GREAT_KAASHEG_PR:1 "¢®ª¬¯ ¬Œ¥" #GetTitlePR 
+ KHUSHAI_PR:1 "³Œ" #GetTitlePR 
+ KUSHENG_PR:1 "¬³Œ¼°" #GetTitlePR 
+ GREAT_KUSHENG_PR:1 "¢®ª¬þ ¬³Œ¼°" #GetTitlePR 
+ HWALBAEJ_PR:1 "¢®¡" #GetTitlePR 
+ JAENG_PR:1 "¶¨¼°" #GetTitlePR 
+ DAEJAENG_PR:1 "¦¼¶¨¼°" #GetTitlePR 
+ HWALEI_PR:1 "¢®" #GetTitlePR 
+ WAENBU_PR:1 "¢¼°¡³" #GetTitlePR 
+ DAEWAENBU_PR:1 "¦¼¢¼°¡³" #GetTitlePR 
+ FIRST_MARSHAL_PR:1 "±¢¯ ¯Œ®" #GetTitlePR 
+ GRAND_MARSHAL_PR:1 "¥°¦-¯Œ®" #GetTitlePR 
+ VRYDAL_PR:1 "¢ª¦®" #GetTitlePR 
+ VYRISAR_PR:1 "¢ºª" #GetTitlePR 
+ VRYDALVA_PR:1 "¢ª¦®¢" #GetTitlePR 
+ VYRISETA_PR:1 "¢ºª²" #GetTitlePR 
+ VYLEDAR_PR:1 "¢º®¦" #GetTitlePR 
+ VYLYENDAR_PR:1 "¢º®¿°¦" #GetTitlePR 
+ VYLEDAM_PR:1 "¢º®¦¯" #GetTitlePR 
+ VYLYENDAM_PR:1 "¢º®¿°¦¯" #GetTitlePR 
+ DHAVANA_PR:1 "¦¢°" #GetTitlePR 
+ ARYACAN_PR:1 "¿¾¬°" #GetTitlePR 
+ CAMRAYACAN_PR:1 "¬¯þ¬°" #GetTitlePR 
+ ELAVI_PR:1 "¼®¢ª" #GetTitlePR 
+ ARACI_PR:1 "ª" #GetTitlePR 
+ CAMRAYANI_PR:1 "¬¯¾°ª" #GetTitlePR 
+ YODHAN_PR:1 "þ¦°" #GetTitlePR 
+ RAYODHAN_PR:1 "þ¦°" #GetTitlePR 
+ CAKRAYODHANTI_PR:1 "¬¬þ¦°²ª" #GetTitlePR 
+ YODHENGASU_PR:1 "þ¦°¥³" #GetTitlePR 
+ RAYODANI_PR:1 "þ¦°ª" #GetTitlePR 
+ CAKRAMAHISI_PR:1 "¬¬¯ªª" #GetTitlePR 
+ DANNUKA_PR:1 "¦°°³¬" #GetTitlePR 
+ ADHIPAYAV_PR:1 "¦ª±¾¢" #GetTitlePR 
+ ADHIVAMRATT_PR:1 "¦ª¢¯²²" #GetTitlePR 
+ VENITA_PR:1 "¢°ª²" #GetTitlePR 
+ ADHIPAYAVNI_PR:1 "¦ª±¾¢°ª" #GetTitlePR 
+ ADHIVAMRAHANI_PR:1 "¦ª¢¯°ª" #GetTitlePR 
+ VRAKKA_PR:1 "¢¬¬" #GetTitlePR 
+ POVRAKKA_PR:1 "±¢¬¬" #GetTitlePR 
+ RASVRAPAKKA_PR:1 "¢±¬¬" #GetTitlePR 
+ VRAKKANI_PR:1 "¢¬¬°ª" #GetTitlePR 
+ POVRAKKANI_PR:1 "±¢¬¬°ª" #GetTitlePR 
+ RASVRAPAKKANI_PR:1 "¢±¬¬°ª" #GetTitlePR 
+ DHEKKA_PR:1 "¦¬¬" #GetTitlePR 
+ AMARYARU_PR:1 "¯¿¾³" #GetTitlePR 
+ AMARAWOR_PR:1 "¯¢" #GetTitlePR 
+ ESTRI_PR:1 "¼²ª" #GetTitlePR 
+ AMARYARNI_PR:1 "¯¿¾°ª" #GetTitlePR 
+ AMARAWORNI_PR:1 "¯¢°ª" #GetTitlePR 
+ DOOKANIST_SHAMAN_MALE_PR:1 "²¡²°" #GetTitlePR 
+ DOOKANIST_SHAMAN_FEMALE_PR:1 "²¡²°" #GetTitlePR 
+ GOLDSCALE_SAGE_MALE_PR:1 "©®²¯ ¯³¦µ" #GetTitlePR 
+ GOLDSCALE_SAGE_FEMALE_PR:1 "©®²¯ ¯³¦µ" #GetTitlePR 
+ MATRIARCH_PR:1 "¯²ª" #GetTitlePR 
+ HIGH_MATRIARCH_PR:1 "¢¢°¯ ¯²ª" #GetTitlePR 
+ PUNGIPEA_PR:1 "±³°¥ª±" #GetTitlePR 
+ QASHLAIKIM_PR:1 "¬Œ®¬ª¯" #GetTitlePR
+ KHOIDARG_PR:1 "þ¦¥" #GetTitlePR
+ FIRST_COMMANDER_PR:1 "±¢¯ ¬¯°¦³½¸¯" #GetTitlePR
+ DAKOCRACY_DUKE_PR:1 "¯¥-®¦" #GetTitlePR
+ DAKOCRACY_KING_PR:1 "¢¢®Œ¡°ª¬" #GetTitlePR
+ DAKOCRACY_EMPEROR_PR:1 "¢¢°¯ ª¯±²" #GetTitlePR
+ DIARCH_PR:1 "¦ª" #GetTitlePR
+ GRAND_DIARCH_PR:1 "¢®ª¬¯ ¦ª" #GetTitlePR
+
+ #°®¦°ª¬ª
+ HOLY_CHOSEN_PR:1 "¢¾²o¯ ª©¡pa°°ª¬" #GetTitleHeirPR
+ PHOENIX_PRINCE_PR:1 "±ª°µ-´°ª¬" #GetTitleHeirPR
+ PHOENIX_PRINCESS_PR:1 "±ª°µ-´°ª¬" #GetTitleHeirPR
+ GRAY_LORD_PR:1 "ep¯ ®op¦" #GetTitleHeirPR
+ GRAY_PRINCE_PR:1 "ep¯ ±pª°µ" #GetTitleHeirPR
+ GRAY_LADY_PR:1 "epþ ®e¦ª" #GetTitleHeirPR
+ GRAY_PRINCESS_PR:1 "epþ ±pª°µecc" #GetTitleHeirPR
+ KARAKHUR_PR:1 "¬¬³" #GetTitleHeirPR
+ KARADURZK_PR:1 "¬¦³©¬" #GetTitleHeirPR
+ SER_HEIR_PR:1 "" #GetTitleHeirPR
+ YELLER_APPARENT_PR:1 "¢±¾¸¯ ¶¢ª¦µ" #GetTitleHeirPR
+ TLUUKT_PRINCE_PR:1 "¯¨" #GetTitleHeirPR
+ TLUUKT_PRINCESS_PR:1 "¯¨ª" #GetTitleHeirPR
+ JARLSSON_PR:1 "¾p®cco°" #GetTitleHeirPR
+ KONUNGSSON_PR:1 "¬o°³°¥cco°" #GetTitleHeirPR
+ OZTRKONUNGSSON_PR:1 "©²p¬o°³°¥cco°" #GetTitleHeirPR
+ JARLSDOTTIR_PR:1 "¾p®c¦o²²ªp" #GetTitleHeirPR
+ KONUNGSDOTTIR_PR:1 "¬o°°³°¥c¦o²²ªp" #GetTitleHeirPR
+ OZTRKONUNGSDOTTIR_PR:1 "©²¬o°°³°¥c¦o²²ªp" #GetTitleHeirPR
+ PRANT_PR:1 "±pa°²" #GetTitleHeirPR
+ SHADOW_HEIR_PR:1 "½°¯ ¥±¦ª°" #GetTitleHeirPR
+ SHADOW_HEIRESS_PR:1 "½°þ ¥±¨" #GetTitleHeirPR
+ BATTLEPRINCE_PR:1 "±pª°µ ¢ª²®" #GetTitleHeirPR
+ BATTLEPRINCESS_PR:1 "±pª°µecc ¢ª²®¿°ªµ" #GetTitleHeirPR
+ RASHOKUDEI_PR:1 "Œ¬³¦" #GetTitleHeirPR
+ BOJAEJ_PR:1 "¡¦¨" #GetTitleHeirPR
+ KHUNZHE_PR:1 "³°¿µ©" #GetTitleHeirPR
+ DAKHUNZE_PR:1 "¦³°¿µ©" #GetTitleHeirPR
+ BOJEI_PR:1 "¡¦¨¼" #GetTitleHeirPR
+ GONJE_PR:1 "¥°¿µ©" #GetTitleHeirPR
+ DAGONJE_PR:1 "¦¥°¿µ©" #GetTitleHeirPR
+ XANSHEN_PR:1 "¾°¿Œ°¿" #GetTitleHeirPR
+ TONZHI_PR:1 "²°¶¨ª" #GetTitleHeirPR
+ DATONZHI_PR:1 "¦²°¶¨ª" #GetTitleHeirPR
+ DANSHEN_PR:1 "¦°¿Œ°¿" #GetTitleHeirPR
+ GONZHI_PR:1 "¥°¿¶¨ª" #GetTitleHeirPR
+ DAGONZHI_PR:1 "¦¥°¶¿¨ª" #GetTitleHeirPR
+ AROMO_PR:1 "¯" #GetTitleHeirPR
+ TOJIS_PR:1 "²¦©ª" #GetTitleHeirPR
+ RENDA_PR:1 "°¦" #GetTitleHeirPR
+ RONTOS_PR:1 "°²" #GetTitleHeirPR
+ PRINCE_APPARENT_PR:1 "¾¢°¯ ±pª°µ" #GetTitleHeirPR
+ PRINCESS_APPARENT_PR:1 "¾¢°þ ±pª°µecc" #GetTitleHeirPR
+ HEIR_APPARENT_PR:1 "¾¢°¯ °ac®e¦°ª¬" #GetTitleHeirPR
+ DRAGON_LORD_PR:1 "¦¬°¿¯ ®¦" #GetTitleHeirPR
+ DRAGON_PRINCE_PR:1 "¦¬°¿¯ ±ª°µ" #GetTitleHeirPR
+ DRAGON_LADY_PR:1 "¦¬°¿þ ®¦ª" #GetTitleHeirPR
+ DRAGON_PRINCESS_PR:1 "¦¬°¿þ ±ª°µ" #GetTitleHeirPR
+ 
+ CHOSEN_DISCIPLE_PR:1 "ª©¡°°¯ ³¶°ª¬" #GetTitleHeirPR
+ ASCENDANT_MASTER_PR:1 "¢¦¾¸¯ ¯²" #GetTitleHeirPR
+ MARSAR_PR:1 "¯Œ" #GetTitleHeirPR
+ MARSARI_PR:1 "¯Œª" #GetTitleHeirPR
+ OGHAR_PR:1 "¥ap" #GetTitleHeirPR
+ BANOGHAR_PR:1 "¡a°o¥ap" #GetTitleHeirPR
+ IZHUUNAAZUN_PR:1 "ª¨³³°©³°" #GetTitleHeirPR
+ KHUSHAAZUN_PR:1 "³Œ©³°" #GetTitleHeirPR
+ BOJAENG_PR:1 "¡¦¨°" #GetTitleHeirPR
+ NOPOJAENG_PR:1 "°±¦¨°" #GetTitleHeirPR
+ BOJAENBU_PR:1 "¡¦¨¼°¡³" #GetTitleHeirPR
+ NOPAENBU_PR:1 "°±¼°¡³" #GetTitleHeirPR
+ TALDHAVANA_PR:1 "²®¦¢°" #GetTitleHeirPR
+ AVALIRIKAN_PR:1 "¢®ªª¬°" #GetTitleHeirPR
+ TALNIDHAVANA_PR:1 "²®°ª¦¢°" #GetTitleHeirPR
+ AVALIKUMARI_PR:1 "¢®ª¬³¯ª" #GetTitleHeirPR
+ YODHANNAGUR_PR:1 "þ¦°°¥³" #GetTitleHeirPR
+ RAYODHANNAGUR_PR:1 "þ¦°°¥³" #GetTitleHeirPR
+ CAKRAYODHANTINAGUR_PR:1 "¶¬þ¦°²ª°¥³" #GetTitleHeirPR
+ YODHANNAGULU_PR:1 "þ¦°°¥³®³" #GetTitleHeirPR
+ RAYODHANNAGULU_PR:1 "þ¦°°¥³®³" #GetTitleHeirPR
+ CAKRAYODHANTINAGULU_PR:1 "¶¬þ¦°²ª°¥³®³" #GetTitleHeirPR
+ DANNUKPATRUY_PR:1 "¦°°³¬±²³" #GetTitleHeirPR
+ ADHIPPATRUY_PR:1 "¦ª±±²³" #GetTitleHeirPR
+ ADHIVAMPATRUY_PR:1 "¦ª¢¯±²³" #GetTitleHeirPR
+ DANNUKPATRI_PR:1 "¦°°³¬±²ª" #GetTitleHeirPR
+ ADHIPPATRI_PR:1 "¦ª±±²ª" #GetTitleHeirPR
+ ADHIVAMPATRI_PR:1 "¦ª¢¯±²ª" #GetTitleHeirPR
+ DHEKKAMARUI_PR:1 "¦¬¬¯³" #GetTitleHeirPR
+ AMARAVARA_PR:1 "¯¢" #GetTitleHeirPR
+ AMARAVARAJU_PR:1 "¯¢¦¨³" #GetTitleHeirPR
+ DHEKKAMARUTY_PR:1 "¦¬¬¯³²ª" #GetTitleHeirPR
+ AMARASURA_PR:1 "¯³" #GetTitleHeirPR
+ AMARASURUNI_PR:1 "¯³³°ª" #GetTitleHeirPR
+ CONRI_BINH_PR:1 "¬°ª ¡ª°¿" #GetTitleHeirPR
+ CONGI_BINH_PR:1 "¬°¥ª ¡ª°¿" #GetTitleHeirPR
+ 
+ #¬°²º
+ AKAL_CONSORT_PR:1 "¬®-¬°²" #GetTitleConsortPR
+ AKALI_CONSORT_PR:1 "¬®ª-¬°²" #GetTitleConsortPR
+ TELJARL_PR:1 "²e®¹¾p®" #GetTitleConsortPR
+ GREVINNA_PR:1 "¥pe¢ª°°" #GetTitleConsortPR
+ GRAND_CONSORT_PR:1 "¥pa°¦-¬o°cop²" #GetTitleConsortPR
+ 
+ FIRST_NOBLE_HUSBAND_PR:1 "±ep¢¯ ¡®a¥opo¦°¯ ¯³¨" #GetTitleConsortPR
+ FIRST_ROYAL_HUSBAND_PR:1 "±ep¢¯ ¬opo®e¢c¬¯ ¯³¨" #GetTitleConsortPR
+ FIRST_SUPREME_HUSBAND_PR:1 "±ep¢¯ ¢epxo¢°¯ ¯³¨" #GetTitleConsortPR
+ FIRST_NOBLE_WIFE_PR:1 "±ep¢þ ¡®a¥opo¦°þ ¨e°" #GetTitleConsortPR
+ FIRST_ROYAL_WIFE_PR:1 "±ep¢þ ¬opo®e¢c¬þ ¨e°" #GetTitleConsortPR
+ FIRST_SUPREME_WIFE_PR:1 "±ep¢þ ¢epxo¢°þ ¨e°" #GetTitleConsortPR
+ DUKAD_CARD_PR:1 "¦³¬a¦-¬ap¦" #GetTitleConsortPR
+ RIGAK_CARD_PR:1 "ª¥a¬-¬ap¦" #GetTitleConsortPR
+ ARDRIGAK_CARD_PR:1 "p¦pª¥a¬-¬ap¦" #GetTitleConsortPR
+ SURCAG_CARD_PR:1 "³p¬a¥-¬ap¦" #GetTitleConsortPR
+ BANRAG_CARD_PR:1 "¡a°pa¥-¬ap¦" #GetTitleConsortPR
+ ARDBANRAG_CARD_PR:1 "p¦¡a°pa¥-¬ap¦" #GetTitleConsortPR
+ HENGASU_PR:1 "þ¦°¥³" #GetTitleConsortPR
+ DANI_PR:1 "¦°ª" #GetTitleConsortPR
+ MAHISI_PR:1 "¯ªª" #GetTitleConsortPR
+ NGI_HONG_PR:1 "°¥ª °" #GetTitleConsortPR
+ NGI_VO_PR:1 "°¥ª ¢" #GetTitleConsortPR 
+ 
+ 

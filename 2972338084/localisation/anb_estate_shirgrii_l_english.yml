@@ -1,0 +1,377 @@
+﻿l_english:
+
+ ########################
+ ########################
+ ### Shinukhorchi Estate
+ ########################
+ ########################
+ estate_shinukhorchi:0 "÷ª°³¶ª" 
+ estate_shinukhorchi_desc:0 "Ëª²¦®¿ Ïº¶þŒ¥ ±®¯°ª — ¦¢°þŒ¾ ª ¬³±°þŒ¾ ª© ¢ ¶²ºž ¢®ª¬ª ÷ª¥ªª, ³¦¾¸¾ ¦®¬ ¢ °¡ ª ¢©¢ºŒ½¸¾¾ °¦ ¢¯, ¶² ±ª°¦®¨ª² ó°ª. Ì®°º ¥ ¬®° ®¢¾²¾ ¢ª¯ª ¯³¦²¿½, ¢²ª²²¯ ª ª©¢²°º¯ ³±¾¯²¢¯, ª¡ ¦®¾ °ª °² ¦³¥ª ±³²þ, ¬¯ ¢¾°°º ¢¬¯ª ²¦ªµªª."
+ estate_shinukhorchi_ownership:0 "…¯®ª ¢ ¢®¦°ªª ÷ª°³¶ª"
+ shinukhorchi_influence_modifier:0 "Ï®ª¾°ª ÷ª°³¶ª"
+ shinukhorchi_loyalty_modifier:0 "Ð¢°¢°¾ ®¾®¿°²¿ ÷ª°³¶ª"
+
+ #Privileges
+ estate_shinukhorchi_supremacy:0 "©¦¨¬³¯ ±¦ °¦©¯ ÷ª¥ªª"
+ estate_shinukhorchi_supremacy_desc:0 "¬©¢ ¦²²¶°ºþ ³¢°¿ ±¶²°ª¾ ª ±¦²¢ª¢ Œª°°º ±ª¢ª®¥ªª ¡ª²²®¾¯ ÷ª°³¶ª, ¯º ©®³¨ª¯ ³¢¨°ª ª ®¾®¿°²¿ ÷ª¥ªª, µ°þ °¬¥ ¬°²®¾ °¦ ¦®¯ª ¦¢."
+ estate_shinukhorchi_land_rights:0 "Ï®¦®¿µº ©¯®¿ ÷ª°³¶ª"
+ estate_shinukhorchi_land_rights_desc:0 "¡ª²²®ª ÷ª°³¶ª, ²þŒþ ª ¢®ª¶þŒþ ª© ¶²ºž ÷ª¥ªª, ¾¢®¾½²¾ ¦°ª¯ª ª© ¯º ¢ª±º ª ±º²°º ¢ª°¢-Œ¯°¢ ¦ª ó°ª. ‰¦²¢®°ª ª¯ Œª°°º ±¢ ª ±¦¶ ¢ ³±¢®°ª ²ª²ªþ — ©³¯°ºþ Œ¥."
+ estate_shinukhorchi_statutory_rights:0 "Ï¯Œ²®¿²¢ ÷ª°³¶ª"
+ estate_shinukhorchi_statutory_rights_desc:0 "Ï ¡¯° ° ¢©¢² ¬° ©°¶ª²®¿°º ±®¸¦þ ©¯®ª ¯º ³²³±ª®ª ¢¯º ±®°¯¶ª¾ ¦¢³ ÷ª°³¶ª, ¶² ±ª¢® ¬ ®¡®°ª½ °Œ¥ ¬°²®¾ °¦ ¥³¦²¢¯."
+ estate_shinukhorchi_advisors:0 "Ô¢²°ª¬ª ÷ª°³¶ª"
+ estate_shinukhorchi_advisors_desc:0 "÷ª°³¶ª, ª©¢²°º ¢þ ¬Œ¿½ ª ¯¡ªµª¾¯ª, — ¦¯ ¦®¾ ¯º ¯³¦º ª ¦¢°ª ¢®¦º¬ ó°ª. † ±¯¸¿ ¢ ³±¢®°ªª °Œª¯ ¦¢¯ ¡³¦² ¡µ°°."
+ estate_shinukhorchi_monthly_power_adm:0 "Ïº¶þŒ ±®¯¾ ±¢ºŒ ¢¥"
+ estate_shinukhorchi_monthly_power_adm_desc:0 "³¦²¿ ª °¬±®°°ºþ ±º² ó°ª ª© ÷ª°³¶ª °µ°ª¯º ¢ ¦® ¥³¦²¢,  ª ±¯¸¿ ¯¨² ¡º²¿ ¡µ°°þ ¦®¾ ³±¢®°ª¾ °Œª¯ ¥³¦²¢¢."
+ estate_shinukhorchi_inwards_perfection:0 "Ëª²¦®ª ¯°Œ²¢"
+ estate_shinukhorchi_inwards_perfection_desc:0 "º ¦®¬ ° ±² ¶³¦ª¸ ª© ¡¬ ª ¬©°ªþ, ¬ª¯ª ° ±³¥½² ª°º º. Ô®¦³¾ ¯³¦²ª ²þŒª° ÷ª°³¶ª, ¯º ±þ¦ž¯ ² ©¢¢°ªþ ¬ ¢°³²°°¯³ ¯©¢ª²ª½ ª ©µ°ª½."
+ estate_shinukhorchi_cast_magic:0 "Ô²¢ª²¿ ©¬®ª°°ª"
+ estate_shinukhorchi_cast_magic_desc:0 "÷ª°³¶ª, ±¨®³þ, ¢®ª¶þŒª ¯¥ª ª© ¢ ±¦²¢ª²®þ ó°ª. † ÷ª¥ªª ©¢ª¢® ¢¨¦ž°°³½ ¢¾©¿  Ùþ¦©ª¯ª, ¼¬©²ª¶¬þ ¥®³¡þ ³¡²°µªþ, ±¡°þ ±ª²²¿ ¯¥ª½ ±¶²ª ²¬ ¨ Œ, ¬¬ ¬¢¿. † ¬®¦¢²¢ ¢ ±¢³½ ¶¦¿ °±¢®° ° Œ°ª ¢°³²°°ª ±¡®¯ ²°º, ª°¥¦  ¡®¿Œª¯ ª¬¯."
+ estate_shinukhorchi_generic:0 "¦© Ïº¶þŒ¥ ±®¯°ª"
+ estate_shinukhorchi_generic_desc:0 "Ó°ª ÷ª°³¶ª ¾¢®¾½²¾ °ª²®¾¯ª °Œª ¦¢°þŒª ²¦ªµªþ, ª ²¾ ±ª³¸ªþ ª¯ ¶©¯°ºþ ²¦ªµª°®ª©¯ ª°¥¦ ±ª¢¦ª² ¬ ±¡®¯¯, ª °¡º¶þ°¾ ¯³¦²¿ ¡µ°° ¦®¾ °Œ[Y01.GetMEndEgoEy] [Y01.GetTitleRD]."
+
+ #Monopolies
+ estate_shinukhorchi_monopoly_of_damestear:0 "Mo°o±o®ª¾ °a ¦a¯ec²ªp"
+ estate_shinukhorchi_monopoly_of_damestear_desc:0 "Ùþ¦©ª¯ª, ª©¢²°ºþ ª°²°°º¯ ¬³±µ¯ ¬¬ ¦¯²ª, ¾¢®¾²¾ ¨ª©°°°þ ª®þ ®½¡þ ¯¥ª¶¬þ ¥°ª©µªª ª ²¢¯, ° ª¯½¸ª¯ µ°º. º ¯¨¯ ©®³¨ª²¿ ®¾®¿°²¿ ª ±ª©°²®¿°²¿ ÷ª°³¶ª, ±¦²¢ª¢ ª¯ ¼¬¬®½©ª¢°º ±¢ ° ¬°²®¿ °¦ ¥ ²¥¢®þ ° ²ª²ªª °Œª ¢®¦°ªþ."
+ estate_shinukhorchi_monopoly_of_damestear_mod:0 "Mo°o±o®ª¾ °a ¦a¯ec²ªp"
+ desc_estate_shinukhorchi_monopoly_of_damestear_mod:0 "‚³¦²¢ ±¦® ÷ª°³¶ª ¯°±®¿°º ±¢ ° ¦¡º¶³ ¦¯²ª."
+ monopoly_privileges.12.d.shinukhorchi:0 "°±®ª¾ ° ¦a¯ec²ªp, ¬²³½ ¯º ¦¢®ª [Root.GetShinukhorchiName], ª²¬®,  ¼² ©°¶², ¶² ²±¿ ¯º ¢°¢¿ ¯¨¯ ±®³¶²¿ ¦¦ ² ¦¡º¶ª ª ¢°³²°°¥ ±ª©¢¦²¢. ¦°¬, [Root.GetShinukhorchiName] ¨®½² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ©±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+
+ #Agendas
+ estate_privileges_and_agendas_events.3.su:0 "Ïº¡²¿ ±¦®¨°ª [Root.GetShinukhorchiName]"
+ estate_shinukhorchi_build_temple_in_y:0 "‰²ª²¿ ¯°²º¿ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_shinukhorchi_build_temple_in_y_desc:0 "[Root.GetShinukhorchiName] ±ª©º¢½² ° ±²ª²¿ ¬Œ°ºþ ¯°²º¿ ¢ ±¢ª°µªª [agenda_province.GetName], ¶²¡º ³ ª ±®¦¢²®þ ¡º® ±¦¦¾¸ ¯² ¦®¾ ¡°ªþ."
+ estate_shinukhorchi_develop_x:0 "‰¢ºª²¿ ¦¦ ² °®¥¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_shinukhorchi_develop_x_desc:0 "[Root.GetShinukhorchiName] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ª ©¯®¿ ¢ ±¢ª°µªª [agenda_province.GetName]."
+ #estate_burghers_build_production_building_in_y:0 "Build a Manufactory in [agenda_province.GetName]"
+ #estate_burghers_build_production_building_in_y_desc:0 "The entrepreneurs among the [Root.GetShinukhorchiName] of [agenda_province.GetName] ask that we invest in their province's production infrastructure. They claim that the expanded facilities they propose would greatly increase the prosperity of the province and the country as a whole."
+ estate_shinukhorchi_develop_damestear_in_y:0 "‰¢ºª²¿ ¦¦ ² °®¥¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_shinukhorchi_develop_damestear_in_y_desc:0 "[Root.GetShinukhorchiName] ±poc¾², ¶²o¡º ¯º ª°¢ec²ªpo¢a®ª ¢ ¦¡º¶³ [agenda_province.GetTradeGoodsName] ¢ ±¢ª°µªª [agenda_province.GetName]."
+ estate_shinukhorchi_build_manufactory_in_y:0 "‰²ª²¿ ¯°³´¬²³³ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_shinukhorchi_build_manufactory_in_y_desc:0 "[Root.GetShinukhorchiName] ª© ±¢ª°µªª [agenda_province.GetName] ±¾², ¶²¡º ¯º ±´ª°°ª¢®ª ²ª²®¿²¢ °¢þ ¯°³´¬²³º [agenda_province.GetManufactory]. °ª ¶ª²½², ¶² ¼² ¡³¦² ¢º¥¦°¾ ª°¢²ªµª¾, ¬²¾ ³¦¢ª² ¡¹¯ ±ª©¢¦²¢ [agenda_province.GetTradeGoodsRD]."
+ estate_shinukhorchi_convert_province_x:0 "Ô¯°ª²¿ ®ª¥ª½ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_shinukhorchi_convert_province_x_desc:0 "[Root.GetShinukhorchiName] ¡±¬°º ±²¾°°º¯ ±¡º¢°ª¯ °¢³½¸ª ¢ °Œþ ²°, ²¡³¾ ª ª¬°ª²¿, °¶¢  ², ¬² ¨ª¢ž² ¢ ±¢ª°µªª [agenda_province.GetName]!"
+ estate_shinukhorchi_reduce_war_exhaustion:0 "±¢ª²¿¾ ² ±³²Œ°ª¾ ª©-© ¢þ°º"
+ estate_shinukhorchi_reduce_war_exhaustion_desc:0 "[Root.GetShinukhorchiName] ¨®³½²¾ ° ²¦°ª¾, ¢º©¢°°º ¯°¥ª¯ª ¢þ°¯ª ¢ ¦¨¢ [Root.GetUsableName]. °ª ³¯®¾½² ° ±©¢®ª²¿ ²° ¢²°¢ª²¿¾ ±¦ ±±º²¬¯ª ¦®¿°þŒª ©¢¢°ªþ."
+ estate_shinukhorchi_recover_stability:0 "Ô²¡ª®ª©ª¢²¿ ²°³"
+ estate_shinukhorchi_recover_stability_desc:0 "[Root.GetShinukhorchiName] ¦¢° ²¾² ²¡ª®¿°²ª. °ª ±ª©º¢½² ° ¢²°¢ª²¿ ±¾¦¬ ¢ ¦¨¢ [Root.GetUsableName]."
+ estate_shinukhorchi_increase_stability:0 "‰¦°¾²¿ °µª°®¿°³½ ²¡ª®¿°²¿"
+ estate_shinukhorchi_increase_stability_desc:0 "[Root.GetShinukhorchiName] ¶ª²½², ¶² ²¡ª®¿°²¿ [Root.GetTagRD] ª¯² ±¢²±°° ©°¶°ª. °ª °²ª¢½² ° ²¯, ¶²¡º ¯º ³®³¶Œª®ª ³±¢®°ª ²°þ, ¦¡º °Œ °µª¾ ¯¥® ¡º²¿ ¢¡¦°þ ² ¦²¡ª®ª©µªª."
+ estate_shinukhorchi_reduce_overextension:0 "Ô°ª©ª²¿ ³¢°¿ ¢Œª°ª¾"
+ estate_shinukhorchi_reduce_overextension_desc:0 "[Root.GetShinukhorchiName] ³²¢¨¦½², ¶² ±¡°²ª °Œþ ²°º ¬ ³±¢®°ª½ °±¾¨°º ¦ ±¦®. °ª ³²¢¨¦½², ¶² ¯º ¦®¨°º ¦®²¿ ±³©³, ¶²¡º ©¬±ª²¿¾ ±¦ ±±º²¬þ ¦®¿°þŒª ©¢¢°ªþ."
+ estate_shinukhorchi_crush_religious_revolts:0 "Ô¬³Œª²¿ ²ª¬¢"
+ estate_shinukhorchi_crush_religious_revolts_desc:0 "[Root.GetShinukhorchiName] ²¡³½², ¶²¡º ¯º ¬³Œª®ª ²ª¬¢, ¬²º ¢²®ª, ¡ª¢ ¢º©¢ ª ¢®²ª °¦ ¢±¯ª ¦³¢°²¢."
+ estate_shinukhorchi_hire_advisor:0 "°¾²¿ ¦¯ª°ª²²ª¢°¥ ¢²°ª¬"
+ estate_shinukhorchi_hire_advisor_desc:0 "[Root.GetShinukhorchiName] ±¦®¥½² [Root.GetTitleDT] °°¾²¿ °¢¥ ¦¯ª°ª²²ª¢°¥ ¢²°ª¬."
+ estate_shinukhorchi_fire_advisor:0 "‹¢®ª²¿ °Œ¥ ¦¯ª°ª²²ª¢°¥ ¢²°ª¬"
+ estate_shinukhorchi_fire_advisor_desc:0 "[Root.Adm_Advisor.GetTitle] [Root.Adm_Advisor.GetName] ¬¡ª®[Root.Adm_Advisor.GetAAEndA] [Root.GetShinukhorchiName]. °ª ²¡³½², ¶²¡º ¯º ³¢®ª®ª [Root.GetAMEgoEyo]!"
+ estate_shinukhorchi_restore_legitimacy:0 "Ï²°¢ª²¿ [Root.GetLegitimacyOrMeritocracy]"
+ estate_shinukhorchi_restore_legitimacy_desc:0 "[Root.GetShinukhorchiName] ¡±¬°º ²¯, ¶² [Root.GetTitleIM] ° ¯¨² ©¢¢²¿ ³¢¨°ª ¢¥ °¦. °ª ²¡³½², ¶²¡º ®¥ª²ª¯°²¿ [Root.GetTitleRD] ²¬ ª®ª ª°¶ ¡º® ¢²°¢®°..."
+ estate_shinukhorchi_regain_liberty:0 "Ï°³²¿ °Œ³ ¢¡¦³"
+ estate_shinukhorchi_regain_liberty_desc:0 "[Root.GetShinukhorchiName] ¢ ³¨ ² ª©¦¢²®¿²¢ °Œ¥ ¢®¦®¿µ [agenda_country.GetTagRD]. °ª ²¡³½² ±ª°¾²ª¾ ¯ ± ¢²°¢®°ª½ [Root.GetAdjective]þ ¢¡¦º!"
+
+ #Estate Events
+
+ #Innate Influence and Loyalty Modifiers
+ shinukhorchi_ruler:0 "¯ ÐŒ°¡ª"
+ shinukhorchi_heir:0 "¯ ÐŒž¬³¦þ"
+ shinukhorchi_empire:0 "¯ Ù¯²ª"
+ teimarji_mines_desc:0 "÷²º Ùþ¦©ª¯ª"
+
+ #Rebels
+
+ ########################
+ ########################
+ ### Chumijemoya Estate
+ ########################
+ ########################
+ estate_chumijemoya:0 "Ì³¯ª¦¨¯¾"
+ estate_chumijemoya_desc:0 "¦° €©¯®¢°¥ ²³¯° — ¯ºþ ²ª°²¢°°ºþ ª© ¢ ÷ª¥ªª, ±®¨°°ºþ ¥®³¡¬ ¢ °¦ ¥³²º, °±¦ª¯º ¦¨³°¥®¾. Ïº¦µº ª© ¥ ©®¢ ®¢¾²¾ ¬¬ ±¬°þŒª Œ±ª°º ª ®¦±º²º, ¡®¦½¸ª ©¢®²¢®ž°°º¯ª ¥°²³°º¯ª ²¾¯ª ± ¢¯³ Û®³. Ù¯ ° ¯°, ª ¯²¦º ¦®½² ª© °ª ° ®ªŒ¬¯ ±ª¢®¬²®¿°º ½©°ª¬¢."
+ estate_chumijemoya_ownership:0 "…¯®ª ¢ ¢®¦°ªª Ì³¯ª¦¨¯¾"
+ chumijemoya_influence_modifier:0 "Ï®ª¾°ª Ì³¯ª¦¨¯¾"
+ chumijemoya_loyalty_modifier:0 "Ð¢°¢°¾ ®¾®¿°²¿ Ì³¯ª¦¨¯¾"
+
+ #Privileges
+ estate_chumijemoya_cast_magic:0 "Ô²¢ª²¿ ©¬®ª°°ª"
+ estate_chumijemoya_cast_magic_desc:0 "Ì³¯ª¦¨¯¾ ª©¢²°º ¢ª¯ ©²¢°ª¶²¢¯ ¦ª ÷ª¥ªª,  ²¬¨ ¢°²¿½,  ¬²þ °ª ¡¥½² ¢ª ¬²º. ™²² ¬®° ¢®ª¬®±° ¢ Œ±ª°¨ ª ²þ°º ¦þ²¢ª¾, ±®¿©³¾¿ ®¢¬ª¯ª ª®®½©ª¾¯ª ª ª²³¯°º¯ª ¯°ª±³®¾µª¾¯ª ¦®¾ ¡, ±¢¬ª ª ©¸ª²º ª°´¯µªª,  ²¬¨ ²¿½ ¯¸°þ ª®®½©°þ ¯¥ªª."
+ estate_chumijemoya_secret_police:0 "€Œ³¯°º ª®º"
+ estate_chumijemoya_secret_police_desc:0 "Ì³¯ª¦¨¯¾ — ¯² ¬º²°²ª ª Œ±ª°¨. …²¢ª¢ ª ±²³®ª¢²¿ °Œª ¢®¦°ª¾ ¢ ±ª¬ ¯¾²¨°ª¬¢ ª ²²³±°ª¬¢, ¯º ¯¨¯ ¡±¶ª²¿ ¡ ¬°²®¿ °¦ ²°þ."
+ estate_chumijemoya_secret_police_tooltip:0 "¶¯³ µ ²³®²ª±"
+ estate_chumijemoya_advisors:0 "Ù³¯° ±ª°³¨¦°ª¾"
+ estate_chumijemoya_advisors_desc:0 "‰©¢®ª¢ Ì³¯ª¦¨¯¾ ¦þ²¢¢²¿ © ¥°ªµþ ¡© ¢¾¬ª ¥°ª¶°ªþ, ±¢²º¢¾ ®³¶Œª ª°²°°º ¯²¢ ª ±ª¢¦¾ ª ¬ °Œ¯³ ¦¢³, ¯º ¯¨¯ ¡²¿ ¦®¾ ¡²º ° ° ¾¶þŒª ³¯º  ¢¥ Û®, ¶², ©³¯²¾, ¢º©¢² °¬ªþ ¥°¢  ²°º ¶³¨¬¢."
+ estate_chumijemoya_spynetworks:0 "‰³²ª° ²ªŒª°º"
+ estate_chumijemoya_spynetworks_desc:0 "ƒ³¾ Ì³¯ª¦¨¯¾ ±¢ ¡±±¾²²¢°° ¦þ²¢¢²¿, ¯º ¯¨¯ ª±®¿©¢²¿ ª ²®°²º ¦®¾ ©¦°ª¾ ¡±µ¦°²°þ ²ª ¬²ª¢¢, Œ±ª°¢ ª ®©³²¶ª¬¢ ± ¢¯³ Û®³."
+ estate_chumijemoya_generic:0 "‰¦¦¨°ª ²ªŒª°º"
+ estate_chumijemoya_generic_desc:0 "Û²¾ Ì³¯ª¦¨¯¾ ±¦±¶ª²² °¯°¥ ¡® ²°¬ªþ ±¦¦ ¢ ¢°°ªª  ¦³¥ª¯ª ÷ª¥ªª, ª ¢¡¦ ¦þ²¢ªþ ±©¢®¾² ¢º±®°¾²¿ ¯°¨²¢ ¡¾©°°²þ ¬¬ ¢°³²ª °Œª ¢®¦°ªþ, ²¬ ª © ª ±¦®¯ª. ‰¦²¢®°ª ª¯ ¦±®°ª²®¿°º ±¢ ª ¢¡¦º ¦þ²¢ªþ ±ª°³² ±®¿©³ °¯ ¡ª¯."
+ estate_chumijemoya_khappur_sappers:0 "Ô±žº Û±±³"
+ estate_chumijemoya_khappur_sappers_desc:0 "Û±±³¬ªþ þ° ¢ Ôª³°¥ ©°¯°ª² ©®³¨°°þ ±³²µªþ ¯² ¡ª²®ª¸ ¡°¦, ©¡þ°ª¬¢ ª ±¶ª ²¡¢ ¡¸²¢ ¢ ¯²þ. Ì³¯ª¦¨¯¾ ©ª°²¢°º ¢ ¦® ¥¦ ª ¶ª²½², ¶² ¯¥³² ª±®¿©¢²¿ ¯²°º ¬®°º ª ¥ª®¿¦ªª ³¡ªþµ ¢ ¢ª ¡²¢°°º ±®° ± ¢þ ª¯±ªª. Ï ¡¯° ° ¡®¿Œ ¢®ª¾°ª ¢ Ôª³°¥ °ª ¡³¦³² ±®¿©¢²¿¾ ¯²°º¯ª ¦ª¢°²¯ª ¦®¾ ±¯¸ª ¢ °Œª ©¢¢°ª¾."
+
+ #Monopolies
+ estate_chumijemoya_monopoly_of_incense:0 "°±®ª¾ ° ¡®¥¢°ª¾"
+ estate_chumijemoya_monopoly_of_incense_desc:0 "Ì³¯ª¦¨¯¾ ®¢°º ° ²®¿¬ ¢ª¯ ¯²²¢¯ ³¡ªþ²¢ ª ¦ª¢ªþ, ° ª ²ª°²¢°°º¯ª ¯ª²ª¾¯ª  ©¢ª²þ ª²³®¿°þ ²¦ªµªþ. º ¯¨¯ ©®³¨ª²¿ ª ±®¨°ª, ±¦²¢ª¢ ª¯ ¼¬¬®½©ª¢°º ±¢ ° ±ª©¢¦²¢ ª ±²°°ª ¡®¥¢°ªþ ° ²ª²ªª ²°º."
+ estate_chumijemoya_monopoly_of_incense_effect_tooltip:2 "§Rº ±²°¯ ±®³¶²¿ ¦¦ ² §Y¡®¥¢°ªþ§!§!"
+ estate_chumijemoya_monopoly_of_incense_mod:0 "°±®ª¾ ° ¡®¥¢°ª¾"
+ desc_estate_chumijemoya_monopoly_of_incense_mod:0 "ÐŒ°¡ª ¦¢® [Root.GetChumijemoyaName] ¯°±®¿°º ±¢ ° ±ª©¢¦²¢ ¡®¥¢°ªþ."
+ estate_chumijemoya_monopoly_of_incense_revoke_tooltip:0 "ƒ¦ ² ±ª©¢¦²¢ §Y¡®¥¢°ªþ§! ¢²°¢®°"
+ monopoly_privileges.16.t:0 "‰¦®ª²¿ ¯°±®ª½ ° ¡®¥¢°ª¾"
+ monopoly_privileges.16.d:0 "°±®ª¾ ° ¥° ¦®, ¬²³½ ¯º ¦¢®ª [Root.GetChumijemoyaName] ª²¬®,  ¼² ©°¶², ¶² ²±¿ ¯º ¢°¢¿ ¯¨¯ ±®³¶²¿ ¦¦ ² ¦¡º¶ª ª ¢°³²°°¥ ±ª©¢¦²¢. ¦°¬, °ª ¨®½² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ©±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+ monopoly_privileges.16.b.tooltip:0 "Ô®¢°¾ ±ª¢ª®¥ª¾ §Y¯°±®ª¾ ° ¡®¥¢°ª¾§! ¡³¦² ²©¢°."
+
+ #Agendas
+ estate_privileges_and_agendas_events.3.cu:0 "Ïº¡²¿ ±¦®¨°ª [Root.GetChumijemoyaName]"
+ estate_chumijemoya_develop_x:0 "‹¢®ª¶ª²¿ ¡©¢ ±ª©¢¦²¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_chumijemoya_develop_x_desc:0 "[Root.GetChumijemoyaName] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ª ©¯®¿ ¢ ±¢ª°µªª [agenda_province.GetName]."
+ estate_chumijemoya_vassalise_vulnerable_country:0 "Ï®ª©ª¢²¿ ¦¨¢³ [agenda_country.GetUsableName]"
+ estate_chumijemoya_vassalise_vulnerable_country_desc:0 "[Root.GetChumijemoyaName] ° ¯¥³² ° ¡®©°ª²¿¾ ³¾©¢ª¯þ µ®¿½, ¢ ¢ª¦ ¦¨¢º [agenda_country.GetUsableName]. °ª °²ª¢½² ° ±¢¦°ªª ¢°°þ ¬¯±°ªª, ¶²¡º ±¦¶ª°ª²¿ ª °Œ¯³ ¥³¦²¢³!"
+ estate_chumijemoya_restore_legitimacy:0 "Ï²°¢ª²¿ [Root.GetLegitimacyOrMeritocracy]"
+ estate_chumijemoya_restore_legitimacy_desc:0 "[Root.GetChumijemoyaName] ¡±¬°º ²¯, ¶² [Root.GetTitleIM] ° ¯¨² ©¢¢²¿ ³¢¨°ª ¢¥ °¦. °ª ²¡³½², ¶²¡º ®¥ª²ª¯°²¿ [Root.GetTitleRD] ²¬ ª®ª ª°¶ ¡º® ¢²°¢®°..."
+ estate_chumijemoya_condottieri_rivals:0 "²±¢ª²¿ °ž¯°ª¬¢ ±²ª¢ ¦¨¢º [agenda_country.GetUsableName]"
+ estate_mages_chumijemoya_rivals_desc:0 "Œª ¬°¬³°²º ª ¥³¦²¢ [agenda_country.GetUsableName] ²¯¾²¾ Œªª²¿ ¢½ ¢®²¿  ±¯¸¿½ ¢þ°º  ¦¨¢þ [agenda_enemy_country.GetUsableName]. [Root.GetChumijemoyaName] ±ª©º¢½² ° ° ¦±³²ª²¿ ¼²¥, °±¢ª¢ ª®º ¢ ±¦¦¨¬³ [agenda_enemy_country.GetAdjective]þ ¦¨¢º."
+
+ #Estate Events
+
+ #Innate Influence and Loyalty Modifiers
+ chumijemoya_ruler:0 "¥³³¦ ÐŒ°¡ª: §Y$VAL$%§!"
+ chumijemoya_heir:0 "¥³³¦ ÐŒž¬³¦þ: §Y$VAL$%§!"
+ chumijemoya_empire:0 "¥³³¦ Ù¯²ª: §Y$VAL$%§!"
+ kongren_locate_chumijemoya_guarenteed_success:0 "‰¯¸¿ ¢ ±ª¬ °¥°: §Y$VAL$%§!"
+
+
+ #Rebels
+
+ ########################
+ ########################
+ ### Ajgriijarul Estate
+ ########################
+ ########################
+ estate_ajgriijarul:0 "¨¥ª¾³®"
+ estate_ajgriijarul_desc:0 "Û¯ €®ª²²®¿°¥ ¬¥²¾ ¢¥¦ ²®¬ª¢®¾  ¨®½¸ª¯ª ©¢¢²¿ ©¯®ª ó°ª ª ±¯Œ°°º¯ª «¥¾¯ª», ª ¢¥¦ °ª ¬©º¢®ª¿ ©¡ª²º ª ¡¨®ª ² ², ¬² ¦¯ ª© ¼²ª ¯². Ôª®¿°þŒª, °¦¯°°þŒª ª ²Œ°þŒª ª© ¢ ó°ª, ¬ª ¢¥¦ ²¢¾² ¯¶ ±¢ºŒ ¢¾¬¥ ®."
+ estate_ajgriijarul_ownership:0 "…¯®ª ¢ ¢®¦°ªª ¨¥ª¾³®"
+ ajgriijarul_influence_modifier:0 "Ï®ª¾°ª ¨¥ª¾³®"
+ ajgriijarul_loyalty_modifier:0 "Ð¢°¢°¾ ®¾®¿°²¿ ¨¥ª¾³®"
+
+ #Privileges
+ estate_ajgriijarul_cast_magic:0 "Ô²¢ª²¿ ©¬®ª°°ª"
+ estate_ajgriijarul_cast_magic_desc:0 "¨¥ª¾³® — ¯¥³¶ª ¢ª²®ª, ±ª¯°¾½¸ª ¯¥ª½ ª ®¬µª½ ¦®¾ ©¦°ª¾ ¢ž ¡® ª®¿°º ®¦². † ª°² ¬ ¢ª°¬¯³ ¦®³ ²©ª®¾ ª ° ª ¬®¦¢²¢, ²¶¥ ² ¡®¦½² ¡Œª°º¯ª ©°°ª¾¯ª ¢ ©¬®ª°°ª¾ ª ¯ª²ª¶¬ª ±ªž¯, °¯°¥ ¡® ±®©°º ¦®¾ °Œª ¢®¦°ª¾, °¨®ª ±² ª©¯°°ª ²®."
+ estate_ajgriijarul_land_rights:0 "ƒ¢²¿ ©¯®½ ¯°²º¾¯"
+ estate_ajgriijarul_land_rights_desc:0 "¨¥ª¾³® — ¦ª° ¯º ¢ª±º ¢°¶®¿°ª¬¢ ¦ª ó°ª. ™²² ¬®° ©®³¨ª® ±¢ ° ¢®¦°ª ¡Œª°º¯ª ©¯®¾¯ª ¢þ ¾²¿½ ª ©¢¢°ª¾¯ª"
+ estate_ajgriijarul_advisors:0 "²¢°ª¶²¢ ¥²¾"
+ estate_ajgriijarul_advisors_desc:0 "Ïª²®ª Û¯ €®ª²²®¿°¥ ¬¥²¾ ¦¬©®ª ¢ž ¯²²¢ ¢ °¯²°¯ ¶ª® ¡ª²¢  ¥®³±µ¯ª-¥¡ª²®¾¯ª ª ²¬ °©º¢¯º¯ª «¥¾¯ª». † ±©°°ª¾ ¢ ¢°°¯ ¦® °±¢©þ¦ž°°º, ²¶¥ °ª ¡³¦³² ¨®°°º¯ ¦±®°°ª¯ ¬ °Œ¯³ ¦¢³. "
+ estate_ajgriijarul_monthly_power_mil:0 "ˆª¦²¢ €®ª²²®¿°¥ ¬¥²¾"
+ estate_ajgriijarul_monthly_power_mil_desc:0 "Ó°ª ª© ¨¥ª¾³® ª©¢²°º ¬¬ °¶°þ ¬Œ¯ ¢¥ Û® ° ²®¿¬ ¢þ ¦ª¬²¿½, ° ª ¬¢°þ ª²²¿½ ª ¯²²¢¯ ¢ ¢²¬. °ª ¾¢®¾½²¾ ±ª¨¦ž°°º¯ª ¢®¦º¬¯ª °Œþ ¯¥³¶þ ¯ªª."
+ estate_ajgriijarul_military_command:0 "‚°®º ¨¥ª¾³®"
+ estate_ajgriijarul_military_command_desc:0 "Û¯ €®ª²²®¿°¥ ¬¥²¾ ¾¢®¾²¾ ¦¯¯ ¦®¾ ¢ª°¢, °¢¦¾¸ª ² ° ¢½ ²°³ ª © ž ±¦®¯ª. ‰²¢ª¢ ª ¢ ¥®¢ °Œª ¯ªþ, ¯º ¢®ª¯ ²¶¾°ª ¢ ¦µ °Œª ¢¥¢."
+ estate_ajgriijarul_military_command_tooltip:0 "þ¯ §Y®ª¦§! ¦ž² §Y5 ¢®ª¾°ª¾ ¨¥ª¾³®§!"
+ EST_VAL_AJGRIIJARUL_LEADER:0 "‚°®º ¨¥ª¾³®"
+ estate_ajgriijarul_drafting_subjects:0 "‰ª©º¢ €®ª²²®¿°¥ ¬¥²¾"
+ estate_ajgriijarul_drafting_subjects_desc:0 "ÐŒªª¢ ±¢ ¨¥ª¾³® ± °¡³ ®¦² ¦ª °Œª ±¦¦°°º, ¯º ¯¨¯ ´¯ª¢²¿ ¡® ¯°¥¶ª®°°º ¢±¯¥²®¿°º ±®¬ª ¦®¾ ±±®°°ª¾ °Œª ¯ªþ."
+ estate_ajgriijarul_generic:0 "Ì²¿ €®ª²²®¿°¥ ¬¥²¾"
+ estate_ajgriijarul_generic_desc:0 "Ïª²®ª €®ª²²®¿°¥ ¬¥²¾ ±¢º¯ª ¢²½² ° ©¸ª²³ °Œþ ²°º ² ©®ª¶°º ³¥© ª ±®¦°ª¯ª ¢ª¦¾² ³®±ž²º¢½¸ª ª¬²®þ ±ª¬®½¶°ªþ. Ôþ ¦ ®¢° ¢ª¯ ¡®¥¦²¢¯ ª ¥¦²¿½, ²¬ ¶² ¨®ª ¯º ±ª³¬ª¯ ²ª²³®º, ¦¡¢ª¢ ª¯ ±²ª¨ ª µ¯°ªþ, ¯º ©³¶ª¯¾ ª ±¦¦¨¬þ."
+
+
+ #Monopolies
+ estate_ajgriijarul_monopoly_metals:0 "°±®ª¾ ° ¥° ¦®"
+ estate_ajgriijarul_monopoly_metals_desc:0 "¨¥ª¾³® ª©¢²° ¢þ ¯þ ©¢ª²þ ¬³®¿²³þ ¡ª²¢º ¦ª ¢ ÷ª¥ªª, ²¬ ¨ ¾¢®¾¾¿ ª¬³°º¯ª ¬³©°µ¯ª ª ¯®°°ª¬¯ª. Ô²¯¾¿ ° ²²²¿ ¢ ¡º² ¯°¾½¸þ¾ ³¨þ°þ ´, °ª ±¦®¨ª®ª ´ª°°¢³½ ±¦¦¨¬³ ¢ ¡¯° ° ¼¬¬®½©ª¢°º ±¢ ° ²¥¢®½ ¯²®®¯ª."
+ ajgriijarul_monopoly_income_desc_tooltip:0 "² ±ª©¢¦²¢ ¨®© ª ¯¦ª."
+ ajgriijarul_monopoly_metals_effect_tooltip:2 "§Rº ±²°¯ ±®³¶²¿ ¦¦ ² §Y¨®©§! ª §Y¯¦ª§!§!"
+ estate_ajgriijarul_monopoly_metals_mod:0 "°±®ª¾ ° ¥° ¦®"
+ desc_estate_ajgriijarul_monopoly_metals_mod:0 "ÐŒ°¡ª ¦¢® [Root.GetKabiurgarkoName] ¯°±®¿°º ±¢ ° ¥° ¦®."
+ estate_ajgriijarul_monopoly_metals_revoke_tooltip:0 "ƒ¦ ² ±ª©¢¦²¢ §Y¨®©§! ª §Y¯¦ª§! ¢²°¢®°"
+ #event
+ monopoly_privileges.15.t:0 "‰¦®ª²¿ ¯°±®ª½ ° ¥° ¦®"
+ monopoly_privileges.15.d:0 "°±®ª¾ ° ¥° ¦®, ¬²³½ ¯º ¦¢®ª [Root.GetAjgriijarulName] ª²¬®,  ¼² ©°¶², ¶² ²±¿ ¯º ¢°¢¿ ¯¨¯ ±®³¶²¿ ¦¦ ² ¦¡º¶ª ª ¢°³²°°¥ ±ª©¢¦²¢. ¦°¬, °ª ¨®½² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ©±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+ monopoly_privileges.15.b.tooltip:0 "Ô®¢°¾ ±ª¢ª®¥ª¾ §Y¯°±®ª¾ ° ¥° ¦®§! ¡³¦² ²©¢°."
+
+ #Agendas
+ estate_privileges_and_agendas_events.3.aj:0 "Ïº¡²¿ ±¦®¨°ª [Root.GetAjgriijarulName]"
+ estate_ajgriijarul_develop_x:0 "‹¢®ª¶ª²¿ ¡©¢ ¶ª® ¬³²¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_ajgriijarul_develop_x_desc:0 "[Root.GetAjgriijarulName] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ª ©¯®¿ ¢ ±¢ª°µªª [agenda_province.GetName]."
+ estate_ajgriijarul_build_fort_building_in_y:0 "Fortify [agenda_province.GetName]"
+ estate_ajgriijarul_build_fort_building_in_y_desc:0 "[Root.GetAjgriijarulName] ±ª©º¢½² ° ³ª®ª²¿ °Œª ³¬±®°ª¾ ¢ ±¢ª°µªª [agenda_province.GetName]. °ª ¶ª²½², ¶² ¯º ¡¾©°º ³¡¶¿ ¼²³ ¬®½¶¢³½ ²²¥ª¶¬³½ ±©ªµª½ ² °±¦°ª¾."
+ estate_ajgriijarul_restore_legitimacy:0 "Ï²°¢ª²¿ [Root.GetLegitimacyOrMeritocracy]"
+ estate_ajgriijarul_restore_legitimacy_desc:0 "[Root.GetAjgriijarulName] ¡±¬°º ²¯, ¶² [Root.GetTitleIM] ° ¯¨² ©¢¢²¿ ³¢¨°ª ¢¥ °¦. °ª ²¡³½², ¶²¡º ®¥ª²ª¯°²¿ [Root.GetTitleRD] ²¬ ª®ª ª°¶ ¡º® ¢²°¢®°..."
+ estate_ajgriijarul_hire_advisor:0 "°¾²¿ ¢°°¥ ¢²°ª¬"
+ estate_ajgriijarul_hire_advisor_desc:0 "[Root.GetAjgriijarulName] ±¦®¥½² [Root.GetTitleDT] °°¾²¿ °¢¥ ¢°°¥ ¢²°ª¬."
+ estate_ajgriijarul_fire_advisor:0 "‹¢®ª²¿ °Œ¥ ¢°°¥ ¢²°ª¬"
+ estate_ajgriijarul_fire_advisor_desc:0 "[Root.Mil_Advisor.GetTitle] [Root.Mil_Advisor.GetName] ¬¡ª®[Root.Mil_Advisor.GetAAEndA] [Root.GetAjgriijarulName]. °ª ²¡³½², ¶²¡º ¯º ³¢®ª®ª [Root.GetAMEgoEyo]!"
+ estate_ajgriijarul_retake_core:0 "Ï°³²¿ ±¢ª°µª½ [agenda_province.GetName]"
+ estate_ajgriijarul_retake_core_desc:0 "[Root.GetAjgriijarulName] ¬¡¾²  ²¯, ¶² [agenda_province.GetName], °²¹¯®¯¾ ¶²¿ °Œþ ²°º, ° °¦ª²¾ ±¦ °Œª¯ ¬°²®¯. °ª ²¡³½², ¶²¡º ¯º ¢°³®ª ©¯®½, ¬²¾ ± ±¢³ ±ª°¦®¨ª² °¯!"
+ estate_ajgriijarul_build_an_army:0 "‰²ª²¿ ¯ª½"
+ estate_ajgriijarul_build_an_army_desc:0 "[Root.GetAjgriijarulName] ¶ª²½², ¶² °Œ ¯ª¾ ±©ª² °Œ³ °µª½. °ª ¶° ±ª©º¢½² ¬ ž °¸ª¢°ª½, ¶²¡º °Œª ª®º ¯¥®ª ¡±¶ª²¿ ¦²²¶° ±²ª¢®°ª ¢¥¯, ¬²º ¯¥³² ¨¨¦²¿ °Œª ©¯®¿."
+ estate_ajgriijarul_bigger_army_than_rival:0 "…¸ª²ª²¿¾ ² ¦¨¢º [agenda_country.GetUsableName]"
+ estate_ajgriijarul_bigger_army_than_rival_desc:0 "[Root.GetAjgriijarulName] ±½²¾, ¶² °Œ ¯ª¾ ¡³¦² ±ª¥º¢²¿ [agenda_country.GetTagDT] ¢ ¢þ°. °ª °²ª¢½² ° ²¯, ¶²¡º ³¢®ª¶ª²¿ °¡ ¢ ¯ª½, ¦¡º °Œª ¢³¨ž°°º ª®º ¡®¿Œ ° ³²³±®ª °Œª¯ ±°ª¬¯."
+ estate_ajgriijarul_build_up_manpower_reserves:0 "Ï²°¢ª²¿ ®½¦¬ª ©¢º"
+ estate_ajgriijarul_build_up_manpower_reserves_desc:0 "[Root.GetAjgriijarulName] ¡±¬°º ¬¸°ª¯ °Œª ¬³²¢ ª ±¦³±¨¦½², ¶² [Root.GetUsableName] ²°²¾ ¡©©¸ª²°º¯, ®ª °Œª ¢¥ª ¢±®¿©³½²¾ ª²³µªþ. °ª ±ª©º¢½² ±©¢®ª²¿ °Œª¯ ©¢¯ ¢²°¢ª²¿¾."
+ estate_ajgriijarul_recover_abysmal_prestige:0 "Ï²°¢ª²¿ ±²ª¨"
+ estate_ajgriijarul_recover_abysmal_prestige_desc:0 "[Root.GetAjgriijarulName] ±²¾°º ²¯ª ¥®³¡ª°¯ª, ¢ ¬²º ¯º ±©¢®ª®ª ±³²ª²¿¾ ª¯ª¦¨³ °Œþ ²°º. °ª ²¡³½² ¢¯²°º ³ª®ªþ, ¶²¡º ¢²°¢ª²¿ °Œ³ ±³²µª½ ¦ª °Œª ²°ª¬¢!"
+ estate_ajgriijarul_improve_prestige:0 "‰¢ºª²¿ ±²ª¨"
+ estate_ajgriijarul_improve_prestige_desc:0 "[Root.GetAjgriijarulName] ²¾², ¶²¡º ¯º ³®³¶Œª®ª °Œ ±®¨°ª ¦ª ²°, ±¢ºª¢ ¢®ª¶ª ¦¢ [Root.GetTitleRD]."
+
+ #Estate Events
+
+ #Innate Influence and Loyalty Modifiers
+ ajgriijarul_ruler:0 "Ô³³¥Œª ÐŒ°¡ª: §Y$VAL$%§!"
+ ajgriijarul_heir:0 "Ô³³¥Œª ÐŒž¬³¦þ: §Y$VAL$%§!"
+ ajgriijarul_empire:0 "Ô³³¥Œª Ù¯²ª: §Y$VAL$%§!"
+
+
+ #Rebels
+
+ #tooltips
+
+ ########################
+ ########################
+ ### Kabiurgarko Estate
+ ########################
+ ########################
+ estate_kabiurgarko:0 "¡ª³¥¬"
+ estate_kabiurgarko_desc:0 "Ô²°º …®²º ¢² ¢±®° ±¢¦º¢½² ¢ž °©¢°ª  ¢ª¯ª ¢¬½¸ª¯ª ° ®°µ ¬ºŒ¯ª ª ²°¯ª ¬±²ª. Ï ž ²°ª ³¬º®¿ ¡¶ž²° ¶ª® ®°ªþ ®½¦þ, ¥³®¾° ±®²¾¸ª ¡ª®¿°³½ ¦°¿. † ²¾ ¬©° ¡ª³¥¬ ¡ª²¬¯ °¡ª² ¡®¥¦°º¯ª ¯²®®¯ª ª ¢¢©¯¨°º¯ª ¦¥µ°°²¾¯ª, ¥ ¶®°º ¨¦°º ¢ ¢¾¬þ ¯º ª ¢¥¦ ®¶° ¨¨¦³² ¡®¿Œ¥..."
+ estate_kabiurgarko_ownership:0 "…¯®ª ¢ ¢®¦°ªª ¡ª³¥¬"
+ kabiurgarko_influence_modifier:0 "Ï®ª¾°ª ¡ª³¥¬"
+ kabiurgarko_loyalty_modifier:0 "Ð¢°¢°¾ ®¾®¿°²¿ ¡ª³¥¬"
+
+ #Privileges
+ estate_kabiurgarko_land_rights:0 "Ï®¦º¬ª ¡ª³¥¬"
+ estate_kabiurgarko_land_rights_desc:0 "Ó°ª …®²º ¢² ¶©¯° ¡¥²º ª¯ ¡®¥¦°º¯ ¯²®®¯, ° ¨¨¦³² ©¯®¿ ª ³¢¨°ª¾, ¬ª¯ª °ª ¡¦®°º ± ¢°°ª½  ¦³¥ª¯ª ¢®ª¬ª¯ª ÷ª¥ªª. ‰¦²¢®°ª ª¯ ±¢ ° ©¯®ª ¡®¥¶ª² °Œ ¦¯ª°ª²²ª¢°ºþ ±±² ª ¯¨² ³°¾²¿ ª ¨¦°²¿. Û²¾ ¡º ° ¢¯¾."
+ estate_kabiurgarko_monthly_power_dip:0 "³¦²¿ ©®²º¯"
+ estate_kabiurgarko_monthly_power_dip_desc:0 "¡ª³¥¬ ¾¢®¾²¾ ¦¯¯ ¦®¾ ¡¥²þŒª ª ¯¡ªµª©°þŒª ¢®¦º¬ ª© º ó°ª. ™²² ¬®° ª©¢²° ¢þ ¨¦°²¿½ ª ¦¢³®ª¶°²¿½, ¦°¬ °®¿©¾ ª¥°ª¢²¿ ª ³¯°ª¾ ¢²ª ¦®  ª°º¯ª ²°¯ª ª ¯ª."
+ estate_kabiurgarko_indebted_to_golden:0 "Ï©¾²¿ ¢ ¦®¥ ³ …®²º ¢²"
+ estate_kabiurgarko_indebted_to_golden_desc:0 "Ï®¦º¬ª …®²º ¢² ¥²¢º ±¦®¨ª²¿ ¢º¥¦°º ©þ¯º ¢ ¡¯° ° ±®ª²ª¶¬ ¢®ª¾°ª ª ¢º¥¦° ±®¨°ª. Ù¯ ° ¯°, ¼² ±²±°° ®¡ª² °Œ³ ¼¬°¯ª¬³, ª¡ ¡ª³¥¬ ©¡²¾²¾  ¡®¥±®³¶ªª ¥³¦²¢ ®ªŒ¿ ²¥¦, ¬¥¦ ¼² ¢¦ž² ¬ ¢º¥¦ ª ¯ª."
+ estate_kabiurgarko_advisors:0 "…®²º ¢²°ª¬ª"
+ estate_kabiurgarko_advisors_desc:0 "¡ª³¥¬ ©®³¨°° ¶ª²½²¾ ¯º¯ª ¨¦°º¯ª ª ¦¢³®ª¶°º¯ª ó°ª ª© ¢þ °Œþ º. Ù¯ ° ¯°, ¡ª¾ ¦°¿  ±¦¦°°º ©®ª¶°º , °ª ±ª¡®ª ¡µ°°ºþ ±º² ¢ ¢¦°ªª ±¥¢¢ ª °®¨ª¢°ªª ¬°²¬²¢  ¦³¥ª¯ª ¢ª¦¯ª ª ¬³®¿²³¯ª. † ±ª³²²¢ª ±ª ¦¢ ¬¨² °¯ ¡®¿Œ³½ ±¯¸¿ ¢ Œ°ªª ¢±¢ ³±¢®°ª¾ ¥³¦²¢¯."
+ estate_kabiurgarko_control_over_monetary_policy:0 "°²®¿ °¦ ¦°¨°þ ±®ª²ª¬þ"
+ estate_kabiurgarko_control_over_monetary_policy_desc:0 "¡ª³¥¬, µ°ª¢¾ °Œª ¯²¦º ³±¢®°ª¾ ²°þ, ¢±¦½² ¢ ³¨ ² ¬®ª¶²¢ °¡°°º ¯°² ª ¢º¡Œ°°º ° ¡¶ª°³ ²¾°ªþ. °ª ¡¸½² ±¢ª²®½ °¯²°º ¡¥²²¢, ¨®ª ¯º ±² ¦¢ª¯¾ ª¯ ¢ ¢± ¦°¨°þ ±®ª²ª¬ª. † ¶² ¨ ²³² ¯¨² ±þ²ª ° ²¬?"
+ estate_kabiurgarko_exclusive_trade_rights:0 "ÐŒªª²¿ ±¦°Œ°ª ¡ª³¥¬"
+ estate_kabiurgarko_exclusive_trade_rights_desc:0 "°¢°º¯ ª²¶°ª¬¯ °¯º®ª¯¥ ²¾°ª¾ ¡ª³¥¬ ¾¢®¾²¾ ¦¾²ª° ª ¡ª¯º °®¥ª  ±ª°¦®¨¸ª ª¯ ®°ªþ. ®ª ¯º ±¦²¢ª¯ ª¯ ±¢ ° ¡ ²¥¢º ±Œ®ª° µ°½ ¦¨°ª¾ µ°²¢ ²¥¢®ª, ² ¯¨° ³®³¶Œª²¿ ª°´²³¬²³³ ²°º © ¶ž² ¬²¬¶°º ¦¦¢."
+ estate_kabiurgarko_generic:0 "²¦²¿ ¦®¨° ©®²º¯"
+ estate_kabiurgarko_generic_desc:0 "¯²¾ ° ¡Œª°º ³¥¦¿¾ ª °¬±®°° ²¾°ª, ó°ª ¡ª³¥¬ ° ³¢¨¯º ²¬ ¨, ¬¬ ¦¢°þŒª ¢ª°º ª Œ¯°º °Œþ ²°º. ‰ª¢°ª ª¯ ±¶ž²°º ²ª²³®¢, ±¢¦°ª ®¨°º ª²³®¢ ¢ ª ¶²¿ ª ¢ µ®¯ ±¢ºŒ°ª ª ±®¨°ª¾ ±©¢®ª² ©³¶ª²¿¾ ª ±¦¦¨¬þ ¡© °³¨¦º ²²ª²¿ ®ªŒ¬¯ ¯°¥ ¦²¢."
+ estate_kabiurgarko_cast_magic:0 "Ô²¢ª²¿ ©¬®ª°°ª"
+ estate_kabiurgarko_cast_magic_desc:0 "¡ª³¥¬ ±¶®¿° ª©¢²°º ¢þ ° ©°½¸þ ¥°ªµ ¨¦°²¿½: ª ¢®¦°ª¾ ¦¢° ±³²Œ°º ¢ ±¥° © ®ž¥¬ª¯ª ¦°¿¥¯ª. Ô²¯¾¿ ¬ ¸ž ¡®¿Œª¯ ±ª¡º®¾¯, °ª ¢®¦®ª ¢©¯¨°²¿½ ª©¯°°ª¾ ¯²ª®¢ ª ¦¨ ¯þ ©¯®žþ. ‰¯ª¯ ª©¥²¢®°ª¾ ²¢¢ ¢º¬¥ ¬¶²¢, ®ª¯ª¶¬ª ²®°²º ¡ª³¥¬ ¯¥³² ¡º²¿ ¢¿¯ ±®©°º, ¬¥¦ ¦® ¬²¾ ±¡©¢°ª¾ ¯²ªþ."
+
+ #Monopolies
+ estate_kabiurgarko_monopoly_of_luxuries:0 "°±®ª¾ ° ±¦¯²º ¬Œª"
+ estate_kabiurgarko_monopoly_of_luxuries_desc:0 "Ï®¦º¬ª ¡ª³¥¬ ª©¢²°º ° ¢¿ Û® ¢þ ¨¦°²¿½ ª ¼¬²¢¥°²°²¿½, ¡°° ®ª ¦® ¬²¾ ¢º¶³°þ ¬Œª. °ª ©±ª®ª ¡º ±¢ ° ²¥¢®½ ²¬¢º¯ª ±¦¯²¯ª ¢ °Œþ ²° ¢ ¡¯° ° ¸¦³½ ¦°¨°³½ ¬¯±°µª½."
+ MONOPOLY_INCOME_LUXURIES_DESC:0 "² ±ª©¢¦²¢ ±¦¯²¢ ¬Œª."
+ estate_kabiurgarko_monopoly_of_luxuries_effect_tooltip:2 "§Rº ±²°¯ ±®³¶²¿ ¦¦ ² §Y±¦¯²¢ ¬Œª§!§!"
+ estate_kabiurgarko_monopoly_of_luxuries_mod:0 "°±®ª¾ ° ±¦¯²º ¬Œª"
+ desc_estate_kabiurgarko_monopoly_of_luxuries_mod:0 "ÐŒ°¡ª ¦¢® [Root.GetKabiurgarkoName] ¯°±®¿°º ±¢ ° ±ª©¢¦²¢ ±¦¯²¢ ¬Œª."
+ estate_kabiurgarko_monopoly_of_luxuries_revoke_tooltip:0 "ƒ¦ ² ±ª©¢¦²¢ §Y±¦¯²¢ ¬Œª§! ¢²°¢®°"
+ monopoly_privileges.17.t:0 "‰¦®ª²¿ ¯°±®ª½ ° ±¦¯²º ¬Œª"
+ monopoly_privileges.17.d:0 "°±®ª¾ ° ±¦¯²º ¬Œª, ¬²³½ ¯º ¦¢®ª [Root.GetKabiurgarkoName] ª²¬®,  ¼² ©°¶², ¶² ²±¿ ¯º ¢°¢¿ ¯¨¯ ±®³¶²¿ ¦¦ ² ¦¡º¶ª ª ¢°³²°°¥ ±ª©¢¦²¢. ¦°¬, °ª ¨®½² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ©±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+ monopoly_privileges.17.b.tooltip:0 "Ô®¢°¾ ±ª¢ª®¥ª¾ §Y¯°±®ª¾ ° ±¦¯²º ¬Œª§! ¡³¦² ²©¢°."
+
+ #Agendas
+ estate_privileges_and_agendas_events.3.kb:0 "Ïº¡²¿ ±¦®¨°ª [Root.GetKabiurgarkoName]"
+ estate_kabiurgarko_develop_x:0 "‹¢®ª¶ª²¿ ¡©¢ ±ª©¢¦²¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_kabiurgarko_develop_x_desc:0 "[Root.GetKabiurgarkoName] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ª ©¯®¿ ¢ ±¢ª°µªª [agenda_province.GetName]."
+ estate_kabiurgarko_restore_legitimacy:0 "Ï²°¢ª²¿ [Root.GetLegitimacyOrMeritocracy]"
+ estate_kabiurgarko_restore_legitimacy_desc:0 "[Root.GetKabiurgarkoName] ¡±¬°º ²¯, ¶² [Root.GetTitleIM] ° ¯¨² ©¢¢²¿ ³¢¨°ª ¢¥ °¦. °ª ²¡³½², ¶²¡º ®¥ª²ª¯°²¿ [Root.GetTitleRD] ²¬ ª®ª ª°¶ ¡º® ¢²°¢®°..."
+ estate_kabiurgarko_hire_advisor:0 "°¾²¿ ¦ª±®¯²ª¶¬¥ ¢²°ª¬"
+ estate_kabiurgarko_hire_advisor_desc:0 "[Root.GetKabiurgarkoName]±¦®¥½² [Root.GetTitleDT] °°¾²¿ °¢¥ ¦ª±®¯²ª¶¬¥ ¢²°ª¬."
+ estate_kabiurgarko_fire_advisor:0 "‹¢®ª²¿ °Œ¥ ¦ª±®¯²ª¶¬¥ ¢²°ª¬"
+ estate_kabiurgarko_fire_advisor_desc:0 "[Root.Dip_Advisor.GetTitle] [Root.Dip_Advisor.GetName] ¬¡ª®[Root.Dip_Advisor.GetAAEndA] [Root.GetKabiurgarkoName]. °ª ²¡³½², ¶²¡º ¯º ³¢®ª®ª [Root.GetAMEgoEyo]!"
+ estate_kabiurgarko_pay_off_loans:0 "Ïº±®²ª²¿ °µª°®¿°ºþ ¦®¥"
+ estate_kabiurgarko_pay_off_loans_desc:0 "[Root.GetKabiurgarkoName] ¡±¬°º ²¾°ª¯ ´ª°°¢º ¦® °Œþ ²°º. °ª ²¡³½², ¶²¡º ¯º ¥°ª¶ª®ª °Œª ¦º ª ¬²ª®ª ©¯ °Œª ¦®¥¢."
+ estate_kabiurgarko_restore_currency:0 "Ï²°¢ª²¿ ¦°¨° ¡¸°ª"
+ estate_kabiurgarko_restore_currency_desc:0 "[Root.GetKabiurgarkoName] ¡±¬°º ª°´®¾µªþ ¦¨¢º [Root.GetUsableName]. °ª ±ª©º¢½² ¡³©¦²¿ ž ¦ ²¥, ¬¬ ¼² ¢ºþ¦² ª©-±¦ ¬°²®¾!"
+ estate_kabiurgarko_increase_trade_power_in_X:0 "‰¢ºª²¿ ²¥¢ ¢®ª¾°ª ¢ ³©® [agenda_trade_node.GetTradeNodeName]"
+ estate_kabiurgarko_recovery_from_hyperinflation:0 "±¢ª²¿¾ ² ¥ª±ª°´®¾µªª"
+ estate_kabiurgarko_recovery_from_hyperinflation_desc:0 "[Root.GetKabiurgarkoName] ¨®³½²¾  ¥¶¿½ ° ²³¦°²ª, ¢º©¢°°º ¡º²º¯ ¡µ°ª¢°ª¯ °Œþ ¢®½²º. °ª ²¡³½² ±ª°¾²ª¾ ¯ ± ¢²°¢®°ª½ ²¡ª®¿°º µ°!"
+ estate_kabiurgarko_increase_trade_power_in_X_desc:0 "‰¢ºª²¿ ²¥¢ ¢®ª¾°ª ¢ ³©® [agenda_trade_node.GetTradeNodeName]"
+ estate_kabiurgarko_get_cash:0 "¬±ª²¿ ¦°¥"
+ estate_kabiurgarko_get_cash_desc:0 "[Root.GetKabiurgarkoName] ¡±¬°º ¨®¬ª¯ ²¾°ª¯ °Œþ ¬©°º. °ª ±ª©º¢½² ¬²ª²¿ °Œª ¦º, ¶²¡º ±±®°ª²¿ ¬©°³."
+ estate_kabiurgarko_access_sea:0 "‰®³¶ª²¿ ¢º¦ ¬ ¯½"
+ estate_kabiurgarko_access_sea_desc:0 "[Root.GetKabiurgarkoName] ¨¨¦³² ¦²³± ¬ ¯½, ²³²²¢ª ¬²¥ °°ª² ³¸¡ ª ¬¯¯¶¬ª¯ ª°²¯. °ª ²¡³½² ¢°°º ¦þ²¢ªþ ¦®¾ ²¥, ¶²¡º ©¦²¿ ±² ¦®¾ °Œþ ²°º."
+ estate_kabiurgarko_increase_corruption:0 "‰®³¶ª²¿ ¢©¾²¬ª"
+ estate_kabiurgarko_increase_corruption_desc:0 "[Root.GetKabiurgarkoName] ¡±¬¾² ±±¾²²¢ª¾,  ¬²º¯ª °ª ²®¬ª¢½²¾ ¢ ¢þ ¦¾²®¿°²ª. °ª ±¦®¥½² ¸¦º ¢©¾²¬ª ¢ ¡¯° ° ², ¶² ² ° ¡²¾² ¢°ª¯°ª¾ ° °¬²º ¯®¬ª °³Œ°ª¾."
+ estate_kabiurgarko_silk_trade:0 "°²®¿ °¦ ²¥¢®þ Œž®¬¯"
+ estate_kabiurgarko_silk_trade_desc:0 "Ô¦ª ¢©¯¨°²þ, ¬²º ±¦®¥½² °Œª ©²¢º ° Ï²¬ — ¼² ¢©¯¨°²¿ ³²°¢ª²¿ ¬°²®¿ °¦ ª²¶°ª¬¯ª ¢º¬¬¶²¢°°¥ Œž®¬. [Root.GetKabiurgarkoName] ±ª©º¢½² ¦®²¿ ¥ ±®³¶°ª °Œþ ±ªª²²°þ ©¦¶þ." #needs new desc
+ estate_kabiurgarko_tea_trade:0 "°²®¿ °¦ ²¥¢®þ ¶¯"
+ estate_kabiurgarko_tea_trade_desc:0 "Ìþ ¬þ° ¢¨° ¦®¾ µª¢ª®ª©µªª, ± ¬þ°þ ¯, ²¬ ¥¢¾² [Root.GetKabiurgarkoName]. °ª °²ª¢½² ° ²¯, ¶² ¯º ¦®¨°º ±®³¶ª²¿ ¬°²®¿ °¦ ¥ ±ª©¢¦²¢¯, ¦¡º ¥ ±²¢¬ª ¢ ¦¨¢³ [Root.GetUsableName] ¡®¿Œ °ª¬¥¦ ° ±¬¸®ª¿." #needs new desc
+ estate_kabiurgarko_build_production_building_in_y:0 "Ð©¢ª²¿ ¼´´¬²ª¢°²¿ ±ª©¢¦²¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_kabiurgarko_build_production_building_in_y_desc:0 "‰¦±ª°ª¯²®ª ª© [Root.GetKabiurgarkoName] ±¾² ° ª°¢²ª¢²¿ ¢ ±ª©¢¦²¢°°³½ ª°´²³¬²³³ ±¢ª°µªª [agenda_province.GetName]. °ª ³²¢¨¦½², ¶² ±¦®¥¯ ª¯ª Œª°ª ¯¸°²þ ©°¶ª²®¿° ±¢ºª² ¡®¥²¾°ª ±¢ª°µªª ª ²°º ¢ µ®¯."
+
+ #Estate Events
+
+ #Innate Influence and Loyalty Modifiers
+ kabiurgarko_ruler:0 "Ùª¯¬³ ÐŒ°¡ª: §Y$VAL$%§!"
+ kabiurgarko_heir:0 "Ùª¯¬³ ÐŒž¬³¦þ: §Y$VAL$%§!"
+ kabiurgarko_empire:0 "Ùª¯¬³ Ù¯²ª: §Y$VAL$%§!"
+
+ #Rebels
+
+ #tooltips
+
+ ########################
+ ########################
+ ### Khelorvalshi Estate
+ ########################
+ ########################
+ estate_khelorvalshi:0 "Û®¢®Œª"
+ estate_khelorvalshi_desc:0 "ƒ¯ ‰¬®¾²º ¦³Œ ¡º® ¢º²° ó°ª, ª©¥°°°º¯ª ª© °Œþ ²°º © °³¦¨ª¯ ¨®°ª ³©°²¿ ¡ ¢ ±¬² ¯¥ªª, ¦¨ ¯þ ©±²°þ. ÷ª¥ªª ¢² ³¨ ¢¬ ©¡Œ° ª ©®ž° ±ªŒ®¿µ¯ª, ° ¬¥¦ ¯º ¢°³®ª ¥ ¢ ¢ž µ²¢, ² °¬°µ-² ±®³¶ª®ª ¦²³± ¬ ²ž¯°þ ¯³¦²ª, ²¾¸þ¾ ¢ ¥ ²°."
+ estate_khelorvalshi_ownership:0 "…¯®ª ¢ ¢®¦°ªª Û®¢®Œª"
+ khelorvalshi_influence_modifier:0 "Ï®ª¾°ª Û®¢®Œª"
+ khelorvalshi_loyalty_modifier:0 "Ð¢°¢°¾ ®¾®¿°²¿ Û®¢®Œª"
+
+ #Privileges
+ estate_khelorvalshi_cast_magic:0 "Ô²¢ª²¿ ©¬®ª°°ª"
+ estate_khelorvalshi_cast_magic_desc:0 "Ù¯°þŒª ª© ¢ ±®¿µ¢ ‰³²ª ˆ¢þ ³¬ª, Û®¢®Œª ¢¦½²  ¦® ¨ª©°ª ª ¯²ª. †¯°° °ª ¡®¿Œ ¦³¥ª ±¦¢ª°³®ª¿ ¢ ¯°ª±³®¾µªª µª. † ²¾ ¦³¥ª ó°ª ±¡°º ³±¢®¾²¿ ¦³Œ¯ª, ®ªŒ¿ Û®¢®Œª ¢®¦º¶²¢³½² °¦ ¯þ ¨ª©°¿½, ª© ¬²þ ²¾² ¼²ª ¦³Œª, ¶² ¦³² ª¯ ¡¬°¶°ºþ ±²°µª® ¦®¾ ², ¬² ¥²¢ ±²ª¶¿ ªª ²þ°º."
+ estate_khelorvalshi_land_rights:0 "…¯®ª ¦®¾ ±¬®¾²º"
+ estate_khelorvalshi_land_rights_desc:0 "Ï©¢¸°ª Û®¢®Œª ¡º® ¢²¶°  ±¦©°ª¯ ª ¬±²ªµª©¯¯. ‰¦²¢®°ª ©¯®ª ¼²ª¯ ²ž¯°º¯ ¯¥¯ ¯¨² ¡º²¿ ±°, ° ¡®¥¶ª² ¡¯¾ °Œ¥ ³±¢®°¶¬¥ ±±²,  ª¯ ±¦²¢ª² °¢º ©¯®ª ¦®¾ ±¢¦°ª¾ ²ž¯°º ¡¾¦¢."
+ estate_khelorvalshi_church_power:0 "Ï ±ª¬ ©±²°º ©°°ªþ"
+ estate_khelorvalshi_church_power_desc:0 "Ô ¢ ³¥®¬¢ Û® ¬ Û®¢®Œª ²¬³² °¢º ¦±²º ²ž¯°¥ ‰³²ª ˆ¢þ ³¬ª. €®¥¦¾ ª °²¢°ª¶²¢³ ª ±¦¦¨¬ ¯º ¢ž ¥®³¡¨ ±°ª¯¯ ª ¢®¦¯ ¯¶°º¯ª ³¶°ª¾¯ª ‰³²ª."
+ estate_khelorvalshi_study_help:0 "‰±¶ª²®¿²¢ ±¬®¾²º"
+ estate_khelorvalshi_study_help_desc:0 "‰ ¯ ª©³¶°ª¾ ¯¥ªª °Œª¯ ±¢ª²®¯ ³ ° ±¾¢®¾²¾ ¢©¯¨°²¿ ³¶ª²¿¾ ³ ²ž¯°º ¬®¦³°¢ Û®¢®Œª. Ï ¡¯° ° ¡®¿Œ ±®ª²ª¶¬ ¢®ª¾°ª °ª ±¦®¾²¾  ¢®¦º¬þ ¢ª¯ª ¬¸³°²¢°°º¯ª ©°°ª¾¯ª."
+ estate_khelorvalshi_temple_desecrators:0 "Ð©ª²®ª ¯¢" #Desecration of Sacred Sites
+ estate_khelorvalshi_temple_desecrators_desc:0 "¶°º ¢®¦º¬ª Û®¢®Œª ¦®®ª °¯ ²ž¯° ±¦®¨°ª. †²¸ª¢ ª ¢®¦¢ ¼°¥ªþ ¦³¢ ¢®ª¬ª ¯¢ Û®, °ª ±¦¶ª°¾² °¯²ª®¿° ¢þ ¢® ª ¦³½² °¯ °±²ª¨ª¯³½ ¯¸¿."
+ estate_khelorvalshi_halve_corruption_penalty:0 "Ùž¯°º ¬¢°ª²®ª"
+ estate_khelorvalshi_halve_corruption_penalty_desc:0 "‰µ ¬¢°°ª¾ ¢®ª¬ª ¯¢ ²¡³² ² °Œþ ²°º ¥¯°¥ °±¾¨°ª¾ ª®. Ï®¦º¬ª Û®¢®Œª ¥²¢º ¢©¾²¿ ° ¡¾ ¶²¿ ¼²þ ²¾¨¬þ °Œª ¢ ¡¯° ° ¡®¿Œ ¢®ª¾°ª ª ¬°²®¿."
+ estate_khelorvalshi_halve_corruption_penalty_tooltip:0 "Ô°ª¨°ª ¶¬¢ ¯° ² ¬¢°°ª¾ ¯¢ ¡³¦² ³¯°¿Œ° ¢¦¢."
+ estate_khelorvalshi_generic:0 "Ï©¨¦°ª ¦¢°ª ª²³®¢"
+ estate_khelorvalshi_generic_desc:0 "Ï²°¢®°ª ¡ª²®ª Û®¢®Œª ±¦ª® °¢³½ ¬²³ ¬®¦³°¢ ª ³¶ž°º, ¨¨¦³¸ª ¦²þ°¥ ±®¨°ª¾ ª ¢®²ª ¢ °Œ¯ ¥³¦²¢. ¨®ª ¯º ¬¨¯ ª¯ ¦²þ°³½ ±¦¦¨¬³ ¢ ¢©¦°ªª ¦¢°ª ª ¦¢° ©±²°º µ¯°ªþ ª ©¢²°º ²ž¯°º ±©¦°°²¢, ² °ª ¡³¦³² ¢°º °¯ ª ©þ¯³² ¦²þ° ¯² ¦ª ¦³¥ª ÷ª¥ªª."
+ estate_khelorvalshi_accepted_the_cursed:0 "‰ª°¾²ª ±¬®¾²º"
+ estate_khelorvalshi_accepted_the_cursed_desc:0 "‰® ¢©¢¸°ª¾ ¢ °Œ³ ²°³ ÷ª¥ªª Û®¢®Œª, [Root.Monarch.GetTitle] ±Œž® ±²ª¢ ¢®ª ¦³¥ª ¬®°¢ ª ¦¢® ²¯°þŒª¯ ª© ó°ª ¢¡¦³ ¦þ²¢ªþ, ¦¡º ² ¯¥®ª ±¬²ª¬¢²¿ ¦¢° ©±²°º ¡¾¦º ª ª²³®º."
+ estate_khelorvalshi_restrictive_regulations:0 "Ô¦¨ª¢½¸ª ±¢ª®"
+ estate_khelorvalshi_restrictive_regulations_desc:0 "†±®°¾¾ ¢®½ ¦³¥ª ÷ª¥ªª, [Root.Monarch.GetTitle] ²¥ ¥°ª¶ª® ¢©¯¨°²ª Û®¢®Œª ¢ ª±®°°ªª ¢ª ©±²°º ª²³®¢ ª ª°º ¦¾°ª¾."
+ estate_khelorvalshi_granted_study_privileges:0 "ƒ¢°ª ª®¦¢²®¿¬ª ±ª¢ª®¥ªþ"
+ estate_khelorvalshi_granted_study_privileges_desc:0 "‰¶®¿° ª©¢²°º ¢ª¯ ±¥³¨°ª¯ ¢ ©±²°º ©¦®º ¯¥ªª ª ¬®¿°º ¡¾¦º, ²¬³¦ ¶±®ª¿ ¬¸³°²¢°°º ©°°ª¾, Û®¢®Œª ±¡°º ³¬ª²¿ ²°ª¶¬ªþ ±¥, ®ª ²®¿¬ ¯º ±¦²¢ª¯ ª¯ ¡®¿Œ ±¢ ¢... ±®³¶°ªª ¡¹¬²¢ ª®¦¢°ªþ ª ©¬º²ªª ¥®© ° ±²ª¢¶¸ª ©¬°¯ ó°ª ¼¬±ª¯°²º."
+
+ #Monopolies
+ estate_khelorvalshi_monopoly_of_relics:0 "Mo°o±o®ª¾ °a e®ª¬¢ªª ±¦²¶"
+ estate_khelorvalshi_monopoly_of_relics_desc:0 "°¨²¢ ±¬®°ªþ °©¦ °Œª ±¦¬ª ¨®ª¿  ¯©¬ª¯ª ‰¦²¶¯ª ¢ ª ²¯®°ªª ±¦®²¿ ¯ª ¥®° ¢þ ¢®, ª ¼² ¢¨¦ ¥®³¡¬ ³¬°ª®¿ ¢ °Œþ ª²ªª ª ²¦ªµª¾. Û²¾ ¡®¿Œª°²¢ ¯¥¢ ó°ª  ±©°ª¯ ²°¾²¾ ¬ ª¦ ³¶ª²¿¾ ³ °Œª ¦¢° ±¥ª¡Œª ¢¥¢, Û®¢®Œª ¢¥¦ ¡º®ª ²²³±°ª¬¯ª ² ®½¡º ±¢ª® ª ¨¨¦®ª ±®³¶ª²¿ ¯¥³¸²¢ ®½¡þ µ°þ. Ï ¡¯° ° ¢¯³½ ´ª°°¢³½ ¬¯±°µª½ °ª ²¡³½² ±®³¶ª²¿ ¬°²®¿ °¦ ¬±¬¯ª ª ©±¯ª ®ª¬¢ªþ ¢ °Œþ ²°."
+ MONOPOLY_INCOME_RELICS_DESC:0 "² ±ª©¢¦²¢ ®ª¬¢ªþ ±¦²¶."
+ estate_khelorvalshi_monopoly_of_relics_effect_tooltip:2 "§Rº ±²°¯ ±®³¶²¿ ¦¦ ² §Y®ª¬¢ªþ ±¦²¶§!§!"
+ estate_khelorvalshi_monopoly_of_relics_mod:0 "°±®ª¾ ° ®ª¬¢ªª ±¦²¶"
+ desc_estate_khelorvalshi_monopoly_of_relics_mod:0 "ÐŒ°¡ª ¦¢® [Root.GetKhelorvalshiName] ¯°±®¿°º ±¢ ° ¦¡º¶³ ®ª¬¢ªþ ±¦²¶."
+ estate_khelorvalshi_monopoly_of_relics_revoke_tooltip:0 "ƒoxo¦ c ±poª©¢o¦c²¢a §Y®ª¬¢ªþ ±¦²¶§! ¢occ²a°o¢®e°"
+ monopoly_privileges.18.t:0 "‰¦®ª²¿ ¯°±®ª½ ° ®ª¬¢ªª ±¦²¶"
+ monopoly_privileges.18.d:0 "°±®ª¾ ° ®ª¬¢ªª ±¦²¶, ¬²³½ ¯º ¦¢®ª [Root.GetKhelorvalshiName] ª²¬®,  ¼² ©°¶², ¶² ²±¿ ¯º ¢°¢¿ ¯¨¯ ±®³¶²¿ ¦¦ ² ¦¡º¶ª ª ¢°³²°°¥ ±ª©¢¦²¢. ¦°¬, °ª ¨®½² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ©±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+ monopoly_privileges.18.b.tooltip:0 "Ô®¢°¾ ±ª¢ª®¥ª¾ §Y¯°±®ª¾ ° ®ª¬¢ªª ±¦²¶§! ¡³¦² ²©¢°."
+
+ #Agendas
+ estate_privileges_and_agendas_events.3.kh:0 "Ïº¡²¿ ±¦®¨°ª [Root.GetKhelorvalshiName]"
+ estate_khelorvalshi_develop_x:0 "‰¢ºª²¿ ¦¦ ² °®¥¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_khelorvalshi_develop_x_desc:0 "[Root.GetKhelorvalshiName] ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ±µ¢²°ª ª ©¯®¿ ¢ ±¢ª°µªª [agenda_province.GetName]."
+ estate_khelorvalshi_restore_legitimacy:0 "Ï²°¢ª²¿ [Root.GetLegitimacyOrMeritocracy]"
+ estate_khelorvalshi_restore_legitimacy_desc:0 "[Root.GetKhelorvalshiName] ¡±¬°º ²¯, ¶² [Root.GetTitleIM] ° ¯¨² ©¢¢²¿ ³¢¨°ª ¢¥ °¦. °ª ²¡³½², ¶²¡º ®¥ª²ª¯°²¿ [Root.GetTitleRD] ²¬ ª®ª ª°¶ ¡º® ¢²°¢®°..."
+ estate_khelorvalshi_conquer_precursor_relics:0 ""
+ estate_khelorvalshi_conquer_precursor_relics_desc:0 ""
+ estate_khelorvalshi_build_fort_building_on_precursor_relics:0 ""
+ estate_khelorvalshi_build_fort_building_on_precursor_relics_desc:0 ""
+ estate_khelorvalshi_fire_advisor:0 "‹¢®ª²¿ °Œ¥ [Root.Adm_Advisor.GetTitle]"
+ estate_khelorvalshi_fire_advisor_desc:0 "[Root.Adm_Advisor.GetTitle] [Root.Adm_Advisor.GetName] °e ±o¦xo¦ª² [Root.Monarch.GetTitle]. [Root.GetKhelorvalshiName] ±o®a¥a½², ¶²o [Root.GetAAEgoEyo] ¦o®¨°oc²¿ °³¨°o ±epe¦a²¿ ¯a¥a¯."
+ estate_khelorvalshi_develop_precursor_relics_in_y:0 ""
+ estate_khelorvalshi_develop_precursor_relics_in_y_desc:0 ""
+ estate_khelorvalshi_build_mage_tower_in_y:0 ""
+ estate_khelorvalshi_build_mage_tower_in_y_desc:0 ""
+
+ #Innate Influence and Loyalty Modifiers
+ khelorvalshi_ruler:0 "ƒ©ªŒ½ ÐŒ°¡ª: §Y$VAL$%§!"
+ khelorvalshi_heir:0 "ƒ©ªŒ½ ÐŒž¬³¦þ: §Y$VAL$%§!"
+ khelorvalshi_empire:0 "ƒ©ªŒ½ Ù¯²ª: §Y$VAL$%§!"
+ 
+
+ #Rebels
+
+ #tooltips
+ oni_study_help_tooltip:0 "‰®³¶¯ºþ ¯¥ª¶¬ªþ ±º² ³¢®ª¶° ° §G20%§!"
+ estate_khelorvalshi_temple_desecrators_granted_tooltip:0 "‰¦²¢®°ª ¼²þ ±ª¢ª®¥ªª ±©¢®ª² °¯¦®°° °¶²¿ ±¦¥²¢¬³ ¼¬±¦ªµªª ¢ ¥®³¡ª°º ±ª°¦®¨¸¥ °¯ §OÛ¯¢¥ ¬¯±®¬§!,  ²¬¨ ¡±¶ª²¿ ¢©¯¨°²¿ ²¬¢º ¼¬±¦ªµªþ ¢ ¦®¿°þŒ¯."
