@@ -153,12 +153,12 @@
  CRIMSON_REVEREND_fem_IM:1 "¡¥¢¾ ±±¦¡°¾" #GetTitleIM 
  SKY_CAPTAIN_IM:1 "°¡°ºþ ¬±ª²°" #GetTitleIM 
  GRAND_SKY_CAPTAIN_IM:1 "¢®ª¬ªþ °¡°ºþ ¬±ª²°" #GetTitleIM 
- DRAGON_PRINCE_IM:1 "±ª°µ ¦¬°¢" #GetTitleIM 
- DRAGON_KING_IM:1 "¬®¿ ¦¬°¢" #GetTitleIM 
- DRAGON_EMPEROR_IM:1 "ª¯±² ¦¬°¢" #GetTitleIM 
- DRAGON_PRINCESS_IM:1 "±ª°µ ¦¬°¢" #GetTitleIM 
- DRAGON_QUEEN_IM:1 "¬®¢ ¦¬°¢" #GetTitleIM 
- DRAGON_EMPRESS_IM:1 "ª¯±²ªµ ¦¬°¢" #GetTitleIM 
+ DRAGON_PRINCE_IM:1 "¦¬°ªþ ±ª°µ" #GetTitleIM 
+ DRAGON_KING_IM:1 "¦¬°ªþ ¬®¿" #GetTitleIM 
+ DRAGON_EMPEROR_IM:1 "¦¬°ªþ ª¯±²" #GetTitleIM 
+ DRAGON_PRINCESS_IM:1 "¦¬°¿¾ ±ª°µ" #GetTitleIM 
+ DRAGON_QUEEN_IM:1 "¦¬°¿¾ ¬®¢" #GetTitleIM 
+ DRAGON_EMPRESS_IM:1 "¦¬°¿¾ ª¯±²ªµ" #GetTitleIM 
  LIANGZHU_IM:1 "®ª°¶¨³" #GetTitleIM 
  KEGLORD_IM:1 "¬¥®¦" #GetTitleIM 
  HIGH_KEGLORD_IM:1 "¢¢°ºþ ¬¥®¦" #GetTitleIM 
@@ -389,7 +389,6 @@
  DRAGON_LORD_IM:1 "¦¬°ªþ ®¦" #GetTitleHeirIM
  DRAGON_PRINCE_IM:1 "¦¬°ªþ ±ª°µ" #GetTitleHeirIM
  DRAGON_LADY_IM:1 "¦¬°¿¾ ®¦ª" #GetTitleHeirIM
- DRAGON_PRINCESS_IM:1 "¦¬°¿¾ ±ª°µ" #GetTitleHeirIM
  
  CHOSEN_DISCIPLE_IM:1 "ª©¡°°ºþ ³¶°ª¬" #GetTitleHeirIM
  ASCENDANT_MASTER_IM:1 "¢¦¾¸ªþ ¯²" #GetTitleHeirIM
@@ -608,12 +607,12 @@
  CRIMSON_REVEREND_fem_RD:1 "¡¥¢þ ±±¦¡°þ" #GetTitleRD 
  SKY_CAPTAIN_RD:1 "°¡°¥ ¬±ª²°" #GetTitleRD 
  GRAND_SKY_CAPTAIN_RD:1 "¢®ª¬¥ °¡°¥ ¬±ª²°" #GetTitleRD 
- DRAGON_PRINCE_RD:1 "±ª°µ ¦¬°¢" #GetTitleRD 
- DRAGON_KING_RD:1 "¬®¾ ¦¬°¢" #GetTitleRD 
- DRAGON_EMPEROR_RD:1 "ª¯±² ¦¬°¢" #GetTitleRD 
- DRAGON_PRINCESS_RD:1 "±ª°µº ¦¬°¢" #GetTitleRD 
- DRAGON_QUEEN_RD:1 "¬®¢º ¦¬°¢" #GetTitleRD 
- DRAGON_EMPRESS_RD:1 "ª¯±²ªµº ¦¬°¢" #GetTitleRD 
+ DRAGON_PRINCE_RD:1 "¦¬°¿¥ ±ª°µ" #GetTitleRD 
+ DRAGON_KING_RD:1 "¦¬°¿¥ ¬®¾" #GetTitleRD 
+ DRAGON_EMPEROR_RD:1 "¦¬°¿¥ ª¯±²" #GetTitleRD 
+ DRAGON_PRINCESS_RD:1 "¦¬°¿þ ±ª°µº" #GetTitleRD 
+ DRAGON_QUEEN_RD:1 "¦¬°¿þ ¬®¢º" #GetTitleRD 
+ DRAGON_EMPRESS_RD:1 "¦¬°¿þ ª¯±²ªµº" #GetTitleRD 
  LIANGZHU_RD:1 "®ª°¶¨³" #GetTitleRD 
  KEGLORD_RD:1 "¬¥®¦" #GetTitleRD 
  HIGH_KEGLORD_RD:1 "¢¢°¥ ¬¥®¦" #GetTitleRD 
@@ -844,7 +843,6 @@
  DRAGON_LORD_RD:1 "¦¬°¿¥ ®¦" #GetTitleHeirRD
  DRAGON_PRINCE_RD:1 "¦¬°¿¥ ±ª°µ" #GetTitleHeirRD
  DRAGON_LADY_RD:1 "¦¬°¿þ ®¦ª" #GetTitleHeirRD
- DRAGON_PRINCESS_RD:1 "¦¬°¿þ ±ª°µº" #GetTitleHeirRD
  
  CHOSEN_DISCIPLE_RD:1 "ª©¡°°¥ ³¶°ª¬" #GetTitleHeirRD
  ASCENDANT_MASTER_RD:1 "¢¦¾¸¥ ¯²" #GetTitleHeirRD
@@ -1063,12 +1061,12 @@
  CRIMSON_REVEREND_fem_DT:1 "¡¥¢þ ±±¦¡°þ" #GetTitleDT 
  SKY_CAPTAIN_DT:1 "°¡°¯³ ¬±ª²°³" #GetTitleDT 
  GRAND_SKY_CAPTAIN_DT:1 "¢®ª¬¯³ °¡°¯³ ¬±ª²°³" #GetTitleDT 
- DRAGON_PRINCE_DT:1 "±ª°µ³ ¦¬°¢" #GetTitleDT 
- DRAGON_KING_DT:1 "¬®½ ¦¬°¢" #GetTitleDT 
- DRAGON_EMPEROR_DT:1 "ª¯±²³ ¦¬°¢" #GetTitleDT 
- DRAGON_PRINCESS_DT:1 "±ª°µ ¦¬°¢" #GetTitleDT 
- DRAGON_QUEEN_DT:1 "¬®¢ ¦¬°¢" #GetTitleDT 
- DRAGON_EMPRESS_DT:1 "ª¯±²ªµ ¦¬°¢" #GetTitleDT 
+ DRAGON_PRINCE_DT:1 "¦¬°¿¯³ ±ª°µ³" #GetTitleDT 
+ DRAGON_KING_DT:1 "¦¬°¿¯³ ¬®½" #GetTitleDT 
+ DRAGON_EMPEROR_DT:1 "¦¬°¿¯³ ª¯±²³" #GetTitleDT 
+ DRAGON_PRINCESS_DT:1 "¦¬°¿þ ±ª°µ" #GetTitleDT 
+ DRAGON_QUEEN_DT:1 "¦¬°¿þ ¬®¢" #GetTitleDT 
+ DRAGON_EMPRESS_DT:1 "¦¬°¿þ ª¯±²ªµ" #GetTitleDT 
  LIANGZHU_DT:1 "®ª°¶¨³" #GetTitleDT 
  KEGLORD_DT:1 "¬¥®¦³" #GetTitleDT 
  HIGH_KEGLORD_DT:1 "¢¢°¯³ ¬¥®¦³" #GetTitleDT 
@@ -1299,7 +1297,6 @@
  DRAGON_LORD_DT:1 "¦¬°¿¯³ ®¦³" #GetTitleHeirDT
  DRAGON_PRINCE_DT:1 "¦¬°¿¯³ ±ª°µ³" #GetTitleHeirDT
  DRAGON_LADY_DT:1 "¦¬°¿þ ®¦ª" #GetTitleHeirDT
- DRAGON_PRINCESS_DT:1 "¦¬°¿þ ±ª°µ" #GetTitleHeirDT
  
  CHOSEN_DISCIPLE_DT:1 "ª©¡°°¯³ ³¶°ª¬³" #GetTitleHeirDT
  ASCENDANT_MASTER_DT:1 "¢¦¾¸¯³ ¯²³" #GetTitleHeirDT
@@ -1518,12 +1515,12 @@
  CRIMSON_REVEREND_fem_VN:1 "¡¥¢³½ ±±¦¡°³½" #GetTitleVN 
  SKY_CAPTAIN_VN:1 "°¡°¥ ¬±ª²°" #GetTitleVN 
  GRAND_SKY_CAPTAIN_VN:1 "¢®ª¬¥ °¡°¥ ¬±ª²°" #GetTitleVN 
- DRAGON_PRINCE_VN:1 "±ª°µ ¦¬°¢" #GetTitleVN 
- DRAGON_KING_VN:1 "¬®¾ ¦¬°¢" #GetTitleVN 
- DRAGON_EMPEROR_VN:1 "ª¯±² ¦¬°¢" #GetTitleVN 
- DRAGON_PRINCESS_VN:1 "±ª°µ³ ¦¬°¢" #GetTitleVN 
- DRAGON_QUEEN_VN:1 "¬®¢³ ¦¬°¢" #GetTitleVN 
- DRAGON_EMPRESS_VN:1 "ª¯±²ªµ³ ¦¬°¢" #GetTitleVN 
+ DRAGON_PRINCE_VN:1 "¦¬°¿¥ ±ª°µ" #GetTitleVN 
+ DRAGON_KING_VN:1 "¦¬°¿¥ ¬®¾" #GetTitleVN 
+ DRAGON_EMPEROR_VN:1 "¦¬°¿¥ ª¯±²" #GetTitleVN 
+ DRAGON_PRINCESS_VN:1 "¦¬°¿½ ±ª°µ³" #GetTitleVN 
+ DRAGON_QUEEN_VN:1 "¦¬°¿½ ¬®¢³" #GetTitleVN 
+ DRAGON_EMPRESS_VN:1 "¦¬°¿½ ª¯±²ªµ³" #GetTitleVN 
  LIANGZHU_VN:1 "®ª°¶¨³" #GetTitleVN 
  KEGLORD_VN:1 "¬¥®¦" #GetTitleVN 
  HIGH_KEGLORD_VN:1 "¢¢°¥ ¬¥®¦" #GetTitleVN 
@@ -1754,7 +1751,6 @@
  DRAGON_LORD_VN:1 "¦¬°¿¥ ®¦" #GetTitleHeirVN
  DRAGON_PRINCE_VN:1 "¦¬°¿¥ ±ª°µ" #GetTitleHeirVN
  DRAGON_LADY_VN:1 "¦¬°¿½ ®¦ª" #GetTitleHeirVN
- DRAGON_PRINCESS_VN:1 "¦¬°¿½ ±ª°µº" #GetTitleHeirVN
  
  CHOSEN_DISCIPLE_VN:1 "ª©¡°°¥ ³¶°ª¬" #GetTitleHeirVN
  ASCENDANT_MASTER_VN:1 "¢¦¾¸¥ ¯²" #GetTitleHeirVN
@@ -1973,12 +1969,12 @@
  CRIMSON_REVEREND_fem_TV:1 "¡¥¢þ ±±¦¡°þ" #GetTitleTV 
  SKY_CAPTAIN_TV:1 "°¡°º¯ ¬±ª²°¯" #GetTitleTV 
  GRAND_SKY_CAPTAIN_TV:1 "¢®ª¬ª¯ °¡°º¯ ¬±ª²°¯" #GetTitleTV 
- DRAGON_PRINCE_TV:1 "±ª°µ¯ ¦¬°¢" #GetTitleTV 
- DRAGON_KING_TV:1 "¬®ž¯ ¦¬°¢" #GetTitleTV 
- DRAGON_EMPEROR_TV:1 "ª¯±²¯ ¦¬°¢" #GetTitleTV 
- DRAGON_PRINCESS_TV:1 "±ª°µþ ¦¬°¢" #GetTitleTV 
- DRAGON_QUEEN_TV:1 "¬®¢þ ¦¬°¢" #GetTitleTV 
- DRAGON_EMPRESS_TV:1 "ª¯±²ªµþ ¦¬°¢" #GetTitleTV 
+ DRAGON_PRINCE_TV:1 "¦¬°¿ª¯ ±ª°µ¯" #GetTitleTV 
+ DRAGON_KING_TV:1 "¦¬°¿ª¯ ¬®ž¯" #GetTitleTV 
+ DRAGON_EMPEROR_TV:1 "¦¬°¿ª¯ ª¯±²¯" #GetTitleTV 
+ DRAGON_PRINCESS_TV:1 "¦¬°¿þ ±ª°µþ" #GetTitleTV 
+ DRAGON_QUEEN_TV:1 "¦¬°¿þ ¬®¢þ" #GetTitleTV 
+ DRAGON_EMPRESS_TV:1 "¦¬°¿þ ª¯±²ªµþ" #GetTitleTV 
  LIANGZHU_TV:1 "®ª°¶¨³" #GetTitleTV 
  KEGLORD_TV:1 "¬¥®¦¯" #GetTitleTV 
  HIGH_KEGLORD_TV:1 "¢¢°º¯ ¬¥®¦¯" #GetTitleTV 
@@ -2209,7 +2205,6 @@
  DRAGON_LORD_TV:1 "¦¬°¿ª¯ ®¦¯" #GetTitleHeirTV
  DRAGON_PRINCE_TV:1 "¦¬°¿ª¯ ±ª°µ¯" #GetTitleHeirTV
  DRAGON_LADY_TV:1 "¦¬°¿þ ®¦ª" #GetTitleHeirTV
- DRAGON_PRINCESS_TV:1 "¦¬°¿þ ±ª°µþ" #GetTitleHeirTV
  
  CHOSEN_DISCIPLE_TV:1 "ª©¡°°º¯ ³¶°ª¬¯" #GetTitleHeirTV
  ASCENDANT_MASTER_TV:1 "¢¦¾¸ª¯ ¯²¯" #GetTitleHeirTV
@@ -2428,12 +2423,12 @@
  CRIMSON_REVEREND_fem_PR:1 "¡¥¢þ ±±¦¡°þ" #GetTitlePR 
  SKY_CAPTAIN_PR:1 "°¡°¯ ¬±ª²°" #GetTitlePR 
  GRAND_SKY_CAPTAIN_PR:1 "¢®ª¬¯ °¡°¯ ¬±ª²°" #GetTitlePR 
- DRAGON_PRINCE_PR:1 "±ª°µ ¦¬°¢" #GetTitlePR 
- DRAGON_KING_PR:1 "¬® ¦¬°¢" #GetTitlePR 
- DRAGON_EMPEROR_PR:1 "ª¯±² ¦¬°¢" #GetTitlePR 
- DRAGON_PRINCESS_PR:1 "±ª°µ ¦¬°¢" #GetTitlePR 
- DRAGON_QUEEN_PR:1 "¬®¢ ¦¬°¢" #GetTitlePR 
- DRAGON_EMPRESS_PR:1 "ª¯±²ªµ ¦¬°¢" #GetTitlePR 
+ DRAGON_PRINCE_PR:1 "¦¬°¿¯ ±ª°µ" #GetTitlePR 
+ DRAGON_KING_PR:1 "¦¬°¿¯ ¬®" #GetTitlePR 
+ DRAGON_EMPEROR_PR:1 "¦¬°¿¯ ª¯±²" #GetTitlePR 
+ DRAGON_PRINCESS_PR:1 "¦¬°¿þ ±ª°µ" #GetTitlePR 
+ DRAGON_QUEEN_PR:1 "¦¬°¿þ ¬®¢" #GetTitlePR 
+ DRAGON_EMPRESS_PR:1 "¦¬°¿þ ª¯±²ªµ" #GetTitlePR 
  LIANGZHU_PR:1 "®ª°¶¨³" #GetTitlePR 
  KEGLORD_PR:1 "¬¥®¦" #GetTitlePR 
  HIGH_KEGLORD_PR:1 "¢¢°¯ ¬¥®¦" #GetTitlePR 
@@ -2664,7 +2659,6 @@
  DRAGON_LORD_PR:1 "¦¬°¿¯ ®¦" #GetTitleHeirPR
  DRAGON_PRINCE_PR:1 "¦¬°¿¯ ±ª°µ" #GetTitleHeirPR
  DRAGON_LADY_PR:1 "¦¬°¿þ ®¦ª" #GetTitleHeirPR
- DRAGON_PRINCESS_PR:1 "¦¬°¿þ ±ª°µ" #GetTitleHeirPR
  
  CHOSEN_DISCIPLE_PR:1 "ª©¡°°¯ ³¶°ª¬" #GetTitleHeirPR
  ASCENDANT_MASTER_PR:1 "¢¦¾¸¯ ¯²" #GetTitleHeirPR
