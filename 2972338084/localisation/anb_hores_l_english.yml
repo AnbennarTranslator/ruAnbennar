@@ -1,0 +1,42 @@
+﻿l_english:
+ horseRaceBlue_IM:1 "§B¥®³¡þ§!" #GetHorseRaceFirst_IM 
+ horseRaceTeal_IM:1 "§P´ª®²¢ºþ§!" #GetHorseRaceFirst_IM 
+ horseRaceGreen_IM:1 "§v©®ž°ºþ§!" #GetHorseRaceFirst_IM 
+ horseRaceYellow_IM:1 "§w¡®ºþ§!" #GetHorseRaceFirst_IM 
+ horseRaceOrange_IM:1 "§O°¨¢ºþ§!" #GetHorseRaceFirst_IM 
+ horseRaceRed_IM:1 "§r¬°ºþ§!" #GetHorseRaceFirst_IM 
+ 
+ horseRaceBlue_RD:1 "§B¥®³¡¥§!" #GetHorseRaceFirst_RD 
+ horseRaceTeal_RD:1 "§P´ª®²¢¥§!" #GetHorseRaceFirst_RD 
+ horseRaceGreen_RD:1 "§v©®ž°¥§!" #GetHorseRaceFirst_RD 
+ horseRaceYellow_RD:1 "§w¡®¥§!" #GetHorseRaceFirst_RD 
+ horseRaceOrange_RD:1 "§O°¨¢¥§!" #GetHorseRaceFirst_RD 
+ horseRaceRed_RD:1 "§r¬°¥§!" #GetHorseRaceFirst_RD 
+ 
+ horseRaceBlue_DT:1 "§B¥®³¡¯³§!" #GetHorseRaceFirst_DT 
+ horseRaceTeal_DT:1 "§P´ª®²¢¯³§!" #GetHorseRaceFirst_DT 
+ horseRaceGreen_DT:1 "§v©®ž°¯³§!" #GetHorseRaceFirst_DT 
+ horseRaceYellow_DT:1 "§w¡®¯³§!" #GetHorseRaceFirst_DT 
+ horseRaceOrange_DT:1 "§O°¨¢¯³§!" #GetHorseRaceFirst_DT 
+ horseRaceRed_DT:1 "§r¬°¯³§!" #GetHorseRaceFirst_DT 
+ 
+ horseRaceBlue_VN:1 "§B¥®³¡¥§!" #GetHorseRaceFirst_VN 
+ horseRaceTeal_VN:1 "§P´ª®²¢¥§!" #GetHorseRaceFirst_VN 
+ horseRaceGreen_VN:1 "§v©®ž°¥§!" #GetHorseRaceFirst_VN 
+ horseRaceYellow_VN:1 "§w¡®¥§!" #GetHorseRaceFirst_VN 
+ horseRaceOrange_VN:1 "§O°¨¢¥§!" #GetHorseRaceFirst_VN 
+ horseRaceRed_VN:1 "§r¬°¥§!" #GetHorseRaceFirst_VN 
+ 
+ horseRaceBlue_TV:1 "§B¥®³¡º¯§!" #GetHorseRaceFirst_TV 
+ horseRaceTeal_TV:1 "§P´ª®²¢º¯§!" #GetHorseRaceFirst_TV 
+ horseRaceGreen_TV:1 "§v©®ž°º¯§!" #GetHorseRaceFirst_TV 
+ horseRaceYellow_TV:1 "§w¡®º¯§!" #GetHorseRaceFirst_TV 
+ horseRaceOrange_TV:1 "§O°¨¢º¯§!" #GetHorseRaceFirst_TV 
+ horseRaceRed_TV:1 "§r¬°º¯§!" #GetHorseRaceFirst_TV 
+ 
+ horseRaceBlue_PR:1 "§B¥®³¡¯§!" #GetHorseRaceFirst_PR 
+ horseRaceTeal_PR:1 "§P´ª®²¢¯§!" #GetHorseRaceFirst_PR 
+ horseRaceGreen_PR:1 "§v©®ž°¯§!" #GetHorseRaceFirst_PR 
+ horseRaceYellow_PR:1 "§w¡®¯§!" #GetHorseRaceFirst_PR 
+ horseRaceOrange_PR:1 "§O°¨¢¯§!" #GetHorseRaceFirst_PR 
+ horseRaceRed_PR:1 "§r¬°¯§!" #GetHorseRaceFirst_PR 

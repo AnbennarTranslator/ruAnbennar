@@ -1,0 +1,652 @@
+﻿l_english:
+ #ovdal lodhum
+
+ #######random stuff#######
+ #tooltips
+ LODHUM_GELKALIS_NO_INTERGRATE:0 "º ° ¯¨² ª°²¥ª¢²¿ ¥±ªþ ª©-© ¢®ª¾°ª¾ ¢¦® ˆ¦³¯"
+ lodhum_remove_natives_tooltip:0 "Ï ²³©¯µº ¡³¦³² §R³¡ª²º§!"
+ lodhum_no_keep_lands_tooltip:0 "§RÏº ° ¯¨² °ª²¿ ©¯®ª§!"
+ lodhum_unlock_wood_elves_tooltip:0 "§TÔ¡º²ª¾  ®°º ¼®¿´ ²°³² ¦²³±°º§!"
+ lodhum_unlock_human_harpy_tooltip:0 "§TÔ¡º²ª¾  ®½¦¾ ª ¥±ª¾ ²°³² ¦²³±°º§!"
+ lodhum_boost_humans_tooltip:0 "§TÔ¡º²ª¾  ®½¦¾ ²°³² ¡® ¶²°º¯ª§!"
+ lodhum_unlock_dwarves_tooltip:0 "§TÔ¡º²ª¾  ¦¢´ ±¢°²ª ²°³² ¦²³±°º§!"
+ lodhum_boost_dwarves_tooltip:0 "§TÔ¡º²ª¾  ¦¢´ ±¢°²ª ²°³² ¡® ¶²º¯ª§!"
+ lodhum_unlock_halfling_gnome_tooltip:0 "§TÔ¡º²ª¾  ®´®ª°¥ ª ¥°¯ ²°³² ¦²³±°º§!"
+ lodhum_unlock_moon_elf_tooltip:0 "§TÔ¡º²ª¾  ®³°°º ¼®¿´ ²°³² ¦²³±°º§!"
+
+ #######decisions#######
+ decision_orcrend_natives_title:0 "Ïº©²¿ ¬¢"
+ decision_orcrend_natives_desc:0 "ˆ½¡ ±ª³²²¢ª ¬¢ ¢ …¯ª°¯ ‰¦® — ³¥© ¡©±°²ª ¢¦® ˆ¦³¯. ¬¦ž ° ²°¢ª²¾ ±¬ °ª ¢ ° ¡³¦² ¢º¶ª¸°º, ª ° ¥²¢ ©¡²¿ ¸ž ¯°¥ ¨ª©°þ."
+ lodhum_join_war_tooltip:0 "§Yº ¯¨¯ ±¯¶¿ ª¯ ±¡¦ª²¿ ¢ ¢þ°§!"
+ decision_encourage_woodelf_war_title:0 "¢¾©²¿ ¦ª°²¢"
+ decision_encourage_woodelf_war_desc:0 "º ¦®¨°º ¡¹¦ª°ª²¿ ‚®³®¿ ±¦ °Œª¯ª ©°¯ž°¯ª ¬¬ ¯¨° °¿Œ, ° °Œª ½©°ª¬ª ¬®¡®½²¾ ©¢¾©º¢²¿ ¬°´®ª¬²º. ¦¢ª¯ ° °ª ¶²¡º °ª °¶®ª ¢ª ©¢¢°ª¾."
+ decision_encourage_gelkalis_war_title:0 "¢¾©²¿ ®½¡¢¿"
+ decision_encourage_gelkalis_war_desc:0 "‚®¬®ª ¦®¨° ©¸ª²ª²¿ ¢½ ¦ª°³, ° ±¬ ¶² °ª ° ¨®®ª ¦þ²¢¢²¿ Œª²®¿°. º °¢¾¨¯ ¼²³ ¢þ°³ ¢¯² °ª."
+ decision_encourage_tungr_war_title:0 "Ô¢¾©²¿ °Œª ¦µ"
+ decision_encourage_tungr_war_desc:0 "‰¬ ¢¦® Ù³°¥ ° ª¯² ¬°²®¾ °¦ ¢ª¯ª ±¦¯²¿¾¯ª, °Œ ±¦ ¬ ƒª¢°®³ ²ž²¾ ³©¬ª¯. ®ª °ª ° ¨®½² Œª²¿ ¢±, ¯º Œª¯ ¥ © °ª."
+
+
+ #war stuff
+ LODHUM_NO_CALL_WAR:0 "\nÏ ¼²³ ¢þ°³ ¯º ¯¨¯ ±ª©¢²¿ ²®¿¬ §Y‚®¬®ª§! ª §Y‚±ª®°§!"
+ cb_lodhum_elf_war:0 "…²¢ª²¿ ª ®³Œ²¿"
+ cb_lodhum_elf_war_desc:0 "ˆ½¡¢¿ ° ±¦®¨ª² ¡³¨¦°ª½."
+ wg_lodhum_elf_war:0 "…°¾²¿ ²®ªµ³"
+ wg_lodhum_elf_war_desc:0 "º °³¶ª¯ ª ®½¡¢ª."
+ LODHUM_ELF_WAR_NAME:0 "$FIRST$ ¢þ° ±ª°¾²ª¾ $SECOND_NAME$"
+ CB_ALLOWED_po_lodhum_elf_war:0 "‹¬±ª²¿ °Œ³ ±©ªµª½"
+ PEACE_po_lodhum_elf_war:0 "§Y‹¬±ª²¿ °Œ³ ±©ªµª½§!"
+ po_lodhum_elf_war_desc:0 "º ©²¢ª¯ [From.GetName] ±ª©°²¿ ®½¦þ ¢°º¯ª!"
+
+ #######Events#######
+ flavor_lodhum.hidden:0 "¬º²¾ Œ²³¬"
+
+ #######gerin intro 1-9#######
+ flavor_lodhum.1.t:0 "‰¢®°ª ‚ª° ¬¦ž"
+ flavor_lodhum.1.d:0 "       ¦°¨¦º ‚ª° ¬¦ž ¡º® ¬²®®ª¬ª¯ ¢°²½ª²¯. ¦°¨¦º ° ¶°³®¾, ³¢ª¦¢ ±¦ ¡þ ²°ª ³¡ª²º ¥ ³¬þ ¬¢ ª ¯ž²¢¥ ¦³¥ ¾¦¯. ¦°¨¦º ° ¡º® °±¢.  ¦°¨¦º ° Œª® ¶ª²ª²¿ ¦¢¢ ² ¬¢. ¦°¨¦º ° ³¢ª¦® ¯Œ …®ž°þ ˆ¢ª°º, ° ±ª¬°¶ª® ¬¥ ¯¥, ° ±°¦¾®¾ ° ², ¶² €®º Ô²°º ²®®ª ¦¨² ²®¿°º. ¦°¨¦º ° Œª¡¾. ¦°¨¦º, ° ³¢ª¦® ¬¬ ±¦ °ª¯ ¬º¢²¾ ±²°µª® ƒ¢¢, ²©¢³¬ ²¥ ¶¯ ° ¡º® ª ¶¯ ¯¥ ²²¿ °¢.\n\n       ¦°¨¦º ° ¢²²ª® ¦¢´ªþ¬³ ± ª¯°ª ƒ¢®. ¦°¨¦º ° ° ¯¥ ¦¨²¿ ¶¿ °±¦°ª, ¶² ³¡ª® ¥ ¯³¨ ª ²¢ª® ž º° €®¥ ¡© ²µ. ¦°¨¦º ƒ¢® ¢ °¥ ¢®½¡ª®¿. ¦°¨¦º, ¨°²º¯ª, °ª ¢°³®ª¿ ¢ ²¢¦º°½ ¥¦ ° ¦ª®¿.\n\n        ¼² ¡º® ¦¢°. Ù±¿ ° ¦ª²  ²²¿½ ª ²¢®¾² ¢þ ¯¶ ¦¯. Ù±¿ Œ¯º ®ª®ª¿ ¢¦ª°, ¦²®ª °, ¶² ¬ °ª¯ ±ª¢®ª ³¬º®ª¿ ² ¢©. Ù±¿ ° ²¦º² ±¬þ°, ±ª² ± °¶¯ ¡© ² ¬©²¿¾ ¢ ¶þ ©¦, ¬³¨ž°°ºþ ¯²°°º¯ª ª¯ ²°¯ª ª °²°¢°°º¯ª ª¯ ²¨¯ª. † ²±¿ ° ¯¨² ²¿ ª ¯²²¿ ¬¬ ¥ º° ³¶ª²¾ ±¢ª²¿.\n\n       † ¬ ° ³°ž², ©°¾, ¶² ¢¦® ˆ¦³¯ ¢©¥®¢ª² ¢¡¨¦°ª ƒ¢¢.  ±¬ ¦¢´º ¨ª¢³² ¢ …¯ª°¯ Û¡², ¦¿ °ª ¡³¦² ¨ª²¿ ®¥°¦  ²¯, ¬¥ °ª ©¢³² Ùª¬²¯,  ²¯, ¬¥ °ª ©¢³² ¬¦ž¯, ¡©®ª¬þ ´ª¥³, ª²¡ª¢Œþ ²º¾¶ª ¬¢. Ìª®, °±¢©þ¦ž°° °ª ¦, °ª ±®."
+ flavor_lodhum.1.a:0 "‰³²¿ ¦®¥ª¯ ¡³¦² ¥ µ²¢ª!"
+
+ flavor_lodhum.3.t:0 "Ù²¿¾ ª ±®¦°¾¾ ¯²¿ ‚ª° ¬¦ž"
+ flavor_lodhum.3.d:0 "       ‚ª° ¬¦ž ±©°® ¯°¥ ¯²þ.\n\n       €º® ¯²¿ ¬²®®ª¬¥ ¢°²½ª², ¶®¢¬, ¢ª¦¢Œ¥ ²¬º² °¡ ª ®³¶ª² ®°µ, ²¢ª¢Œ¥ ¢ž ¼² ¦ª ¥®³¡ª° …¯ª°¥ Û¡². €º® ¯²¿ ²ª¬², ¯²¿ ¬Œ¯ ¬¥¦ ° ±®¨ª® ¢þ ¯¶ ª ¢©¾® ¨°³, º° ª ²²¿.\n\n       Ù±¿ ° ¢²²ª® ¶¦°³½ ¯²¿. €® ±ª¾²°³½, ¶¯ ²®¿°º — ¬³¨ž°°³½ ®½¡ª¯º¯ª,  ±°¯ª, ±¸ž°°º¯ª ¬¨¦º¯ ª© ¦¢´¢ ¢¦® ˆ¦³¯. † ¬ ²¯³ ¨ ¬°¶²®¿°³½."
+ flavor_lodhum.3.a:0 "¢¦ ˆ¦³¯ ¬¡ª² ± ¶®¢¬³. † ± ®¥°¦."
+
+ flavor_lodhum.4.t:0 "Ï ²³"
+ flavor_lodhum.4.d:0 "       ¢¦® ˆ¦³¯ ±¢ž® ²º¾¶®²ª¾ ¦³¯¾ ¯Œ²¡¯ª ¢¬¢. ™² ²²¢°°ºþ ²¯± ¢¯°ª ¦®¾ ¥ ª ¦¢´¢. † ¢ ¼²¯ ¯Œ²¡ ‚ª° ¬¦ž ¾¢®¾²¾... ¡º® ª¬þ ¦ª ¥¯°þ ²ž¯°þ ±¸º, ª®ª, ¢©¯¨°, ¢±ºŒ¬þ ¯®°ªª.\n\n€®¥ ©°®, ¶² ¼²² ¦°¿ ±ª¦ž². …°® ¬¥¦ ¢±¢º °©¢® ¢¥ ²µ «²µ». † ¢ž ¢°. ™² ° ²² ¯¯°² ¬ ¬²¯³ ¡º® ±¦¥²¢®° ° ª®ª ®½¡þ ¦³¥þ ¦¢´. ¬ ¢°³²¿¾ ¬ ¯°¥¢¬¢þ ¨ª©°ª, ¬¥¦ ²¢ž ²²¢ ¡º® ±²° ° ±²¾¨°ªª ¦¾²ª®²ªþ?"
+ flavor_lodhum.4.a:0 "ƒ°¿ © ¦°ž¯?"
+
+ flavor_lodhum.5.t:0 "„°¸ª° º¦² ª ¦þ²¢³²"
+ flavor_lodhum.5.d:0 "       ƒ¢® ±¢® ¢¯¾ ¬¡¾ ³ ¥¡°ªµº ¯³¨¶ª°º, ¬²¥ ° ®½¡ª®. Ï ¡¸¯ ¶ž² °¦®½, ª¦¾ ¢ ²ªŒª°, ±ª²¾¿ ²®¿¬ ¢¦þ ª ±²º¯ ®¡¯, ¶² þ ±ª°®ª ¡®ª©¬ª ¦³©¿¾. ¦®¾ ©¦³¯ªþ, ±µ°¬ª ª ¢ª°º.\n\n        ©²¯ ° ³Œ®, ±¢¦¾ ®ªŒ¿ ¦¢¦µ²³½ ¶²¿ ²°¦²°¥ ±ª¦ ²³, ±¾²°¦µ²³½ ¶²¿ ¢¯°ª, ²¢¦ž°°¥ ¥¾¯ ª ¦³¥ª¯ ¢®ª¬ª¯ ´ª¥³¯. ‚®© ¦¢´¢ ¢ª¦®ª, ¬¬ ° ¢©¢¸®¿ ¬ ¡ ¦¯þ, °¯³ª¢ ¡¢ª ª ¢º¡ª¢ °¬®¿¬ °¦¡º ¢©¥®¾¦¢. , ¬¬ ¬¦ž ±¦ª²¾ ¬¢©¿ ±®²¿ ¬, ° ° ²® ²°¢®ª¢²¿¾.\n\n       Ï ¦¢¾ ¦¯, ¢ ¬²¯ ° ¨ª® ¦¾²ª®²ª¾¯ª, ¡®¿Œ ° ¶³¢²¢¢¢Œ¥¾ ¬¬ ¦¯, ° ²°¢ª®¿. ¡°³®¿. ‰¦ª® °¡®½¦¢Œþ © °þ ²®± ±³²Œ½¸ªþ ¢©¥®¾¦ ª ¯¾¥¬ªþ ¢©¦. Ï¦¢ª® °¥²ª ¢ ®¦°¿, ¨®¾, ¶²¡º ¾¦¯ ¡º® ¥³¡¾ ³¬, ¢ ¬²³½ ¯¨° ¡º® ¡º ¢¦¢ª²¿¾.\n\n        ° ©Œ® ¢°³²¿, ¢°ª© ± ²³±°¾¯. «ª¬² ª© °ª ¥ ° ©°®, °ª ¦ª°ºþ. ª¬² ª °ª ° ©°² ¬¬ ±¶²ª²¿ ¥. ™² ¶²-², ¶² ©°½ ²®¿¬ ¾.»\n\n       † ²¥¦ ° ¢©¥®¾°³® °¢, ³¢ª¦® º°, ²¾¸¥ ¢ ¢þ ¦²¬þ ±®¿°  ©±®¬°°º¯ª ¥®©¯ª. «Ì²-², ¶² ©°¯ ²®¿¬ ¯º.»"
+ flavor_lodhum.5.a:0 " ¯¨² ¡º²¿ °ª °³¶²¾. Ô ¢¯°¯."
+
+ flavor_lodhum.6.t:0 "‰ ²±¯ ²µ"
+ flavor_lodhum.6.d:0 "       ®ª°¬ ©°² ¶² ¦®². €®¥® ° ©°².\n\n       ° ©°² ¬¨¦ºþ ±ªž¯,  ¬²º¯ ¦¢´ ª®ª ¬²®®ªµ ¯¨² ¡º²¿ ©°¬¯, ²º¾¶ª ª© ¬²º ¡º®ª ª©³¶°º ²³¦°º¯ ±³²ž¯. ° ©°² ¬¨¦ºþ ¢©¯, ¬¨¦ºþ ¡®¬, ¬¨¦ ±ª¢°ª. ƒ, €®¥ ³¶ª®ª ¼²¯³, ° ²°ª¢®¾ ¼²¯³ ±¦ °¦©¯ ²µ, ° ¡© ²¥ ©¡²®ª¢¥ ª±®¥ ¥®, ¬ª¶¸¥: «Ô°¾þ ¡¦ª²®¿°²¿!» ª®ª «€º²!» ª®ª «Ï² °, ¯þ ¯®¿¶ª¬!» ¢ž ¡º® ±-¦³¥¯³.\n\n       ¶ °³¦¡° ®¨ª² ¢ ³¬, ° ¥³¡¢Œþ ¦¾²ª®²ª¾¯ª, ª ¶³²¿ ¦®ª°°¢² ¦®¾ ¯³¨¶ª°º ¢º²þ ¢ ¯² ¦¢¦µ²¿.  ±¦°ª¯¾ ¥ ¢ ¥®¢°¯ ©® ¢¦® ˆ¦³¯, ¥ ³¬ª ª ¦³ ²½²¾ ±¬þ°º¯ª.\n\n       ° ¥¢ª² ª ¡®¥¦¾ ¯¥ªª, ¶² ƒ¢® ¢º³¶ª® ²°½ ®² °©¦, ©¡º® ª ¢±¯°ª® ¢°¢¿, ¥ ¥® ©±®°ª® ±²°²¢: «þ ²µ ±¥ª¡. ‚ª° ±¥ª¡.  ° ¬¦ž. † ¯º ²¨ ° ±¥ª¡®ª!»"
+ flavor_lodhum.6.a:0 "¬¦ž  °¯ª!"
+ flavor_lodhum.6.tooltip:0 "º ±®³¶ª¯ ¯¦ª´ª¬² §Y¬¦ž§! ¬¬ ²®¿¬ ¢²³±ª¯ ¢ ¢þ°³  §Y¬¯ª§!"
+
+ flavor_lodhum.7.t:0 "Ð©¦ªþ ¬¢"
+ flavor_lodhum.7.d:0 "       ®ª°¬ ©°² ¶² ¦®². €®¥ ¦ ª ± ¦ ¬°µ ° ±ª¢º¬ ¶³¢²¢¢²¿ ¥ ¢ ³¬.\n\n       ™² ², ¢ ¶ž¯ €®¥ ±º²²¾ ¡¾ ³¡¦ª²¿ ¢Œ¾ ±¢º Œ¥ª © ²°¯ª ¢¦® ˆ¦³¯  ¦°¾ ³¦¿¡°°þ ¼¬±¦ªµªª, ³°žŒþ ª© ¥ ¨ª©°ª ²µ ª ±ª°žŒþ ¢ °ž ¶®¢¬. ²®¿°¾ ¶²¿ ¬© ³¨ ª²ª¾...  ¥¦°¾ ¢Œª²¾ ¡³¦³¸ ¢¦® ˆ¦³¯¼"
+ flavor_lodhum.7.a:0 "Ô²®¿° ± ª ¶°ª® ª© ¶¿þ ¬¢ª."
+ flavor_lodhum.7.tooltip:0 "²¬¢² Œ°ª §YÏº©²¿ ¬¢§!"
+
+ flavor_lodhum.8.t:0 "°³¯°² ° ²®¿¬ ¶®¢¬³"
+ flavor_lodhum.8.d:0 "       ƒ®¾ ¬¢ ¬¦ž ¡º® ª©¢²° ¬¬ Ùª¬², ²°¿ ¢ °¶ª, ¶¿ª ®¢³Œ¬ª ª¥®ª ¢ ¥ ¯²°°²ª ²³ ¨ ®¿, ¶² ª ¥ ³¯°ª ¡¸²¿¾  ¯¶¯. °¥ª ¢ª¦®ª ¥ ²°¿½, ¬Œ¯¯, ¢±®¸°ª¯ ¯²°°þ ²¿¯º …¯ª°¥ Û¡².\n\n       ¬ª ¯¥³² ³¦ª¢ª²¿¾ ¯°³¯°²³, ¶² ¯º ¢©¦¢ª¥®ª ‚ª°³ ¢ ¬´®, ±³²¿ ¢ ¬ª ¢ ¬²°²ª — ²³±º. Ô²²³¾ ¢º©° ª© ¾¬¥ ¯¯, ²±®ª¢°°¾ ¦ ª¾°ª¾ ¢ ¢² ´¬®. Ï©¥®¾¦ ‚ª° ³²¯®ž° ¢ ±²°²¢, ¬¬ ° ¯ ¢¥¦ ¯²® ¢¦®¿.\n\n       ° ³¬©º¢² ¬¦ž¯ ±¶²ª ¾°, ° ¢¦¿ ¢¥¦ ¡º® ±¦®¨°ª¯ ¥ ³¬ª. Ù¶° ±¬©²¿ ¼² ²ª® ¬¯°¦ ¬³®¿±²¢ ²®¿¬ ¨ ²³¦, ¶² ª ¦®¾ ²®¿°þ ¡²º ¢¯². º ¢±®¿©¢®ª¿ ²¢¶¬þ ¢¡¦þ ®ªŒ¿ ¦®¾ ¦°þ ¢¸ª — °¢Œª ³¬Œ° ¥°²¯ª. Ï ¬°µ ¬°µ¢ ° ¡º® ¦°ª¯ ª© °,  ¯º — ¥ °¦."
+ flavor_lodhum.8.a:0 "²°º° ª °¢¥¦."
+
+ flavor_lodhum.9.t:0 "Ï ¡³¦³¸  ¬¦ž¯"
+ flavor_lodhum.9.d:0 "       ÷¥. Ïº±¦. €®¬. ÷¥. Ð©©. ‰® ¡². Ï©¯.\n\n       €®¥ ±¦®¨² ±®¿©¢²¿¾ ¦¢ª¨°ª¾¯ª, ¬²º¯ª ° °³¶ª®¾ ³ ²µ, ²¾ ª °¡®¾ ª¯±¢ª©µªª, °¡¦ª¯þ ¬¥¦ ¶ž°ºþ ¬ ¡ª²¾ ¢¥º©²¿¾ ²¡ ¢ ¥®²¬³ ¢ª¯ª ¬®º¬¯ª. €ª²¢, ©¦, ©°¾. ƒ°ª, °¦®ª, ¯¾µº ®ª¢½²¾ ¢¯² ª €®¥ ±²¾® ¶ž² ¯²¾¯, ±±¢Œª¯ ° ¶ž² ¬¦ž. ° ° ¯¨² ³®¨ª²¿ ¢ ¥®¢, ¶² ¦¾²ª®²ª¾¯ª ¨ª©°¿ ¥ ²µ ²¾® ± ¡®¿Œþ ª© ¼²¥."
+ flavor_lodhum.9.a:0 "™²... ª ²¿ ¨ª©°¿?"
+
+
+
+ flavor_lodhum.30.t:0 "°µ ¬¦ž"
+ flavor_lodhum.30.d:0 "       Ì² ²¿ ¯¶? Ï®¾ ª ©¢¸°ª ¶®¢¬, ¶² ²º ©¢® ²µ¯? †°²³¯°² ±²°ª¾ ®³¶Œ¥ ¯ª? Ð®ª¬¢ª¾, ¦¢° ²¨ª¢Œ¾ ¢þ ¢¬?\n\n       ™²ª ¢±º ¯¥³² ¡º²¿ ©¦°º  ®½¡¯ ³¨ªª, ° ¥¦°¾ €®¥ ‚ª°° ©¦ž² ª ¡ ¬¦ž. €®¿Œª°²¢ ¢ ¢¦® ˆ¦³¯ ©°½² ¬®ª°¬ ¬¬ ¢þ ª¯¢®, ¥ ª¯¢®, ª¯¢® ¢þ°º, ¶² ª©¡®ª ¥°²¢º ¦¢´º ²¬º¢ ¢² ª ¢ºþ¦¾ ¢ ²¯°²³.  ¼² ° ¬°µ. Ù¬ ° ¯¨² ¡º²¿. ‰²¯³ ¶² €®¥ ²¬¨ ±¯°ª² ¢¥ ²µ, ±¯°ª², ¬¬ ‚ª° ±ª®¾ ° °¨°º ¬¬ ° ¢½ ²²¿, ±¯°ª², ¬¬ ²² ©©® ª¯ ¥ª¡º ª ¶¿½ ±®²¿. ¨² ³¨ °² ¬¦ž, ° ‚ª°? ‚ª° ¡º®. † ¥°²¢º¯ ¦¢´¯ ¦° ¢©¯¨°²¿ ¡º²¿.\n\n       ¬¦ž °±ª® ¢½ ¥®¢³ ¬¢¿½, ¬²¾¯ª ª ²³±¯ª. † ±ž°°º¯ª ¨ª©°¾¯ª, ±¦²¢¸ž°°º¯ª ²¥¦ª¾¯ª, ²°¢®°°º¯ª ±²³±®°ª¾¯ª. ƒ ¢þ ¥ª¡®ª ‚ª° ¨®¾ ¦¾²ª®²ª¾¯ª,  ¥ ¬®ª°¬ ±²¾°³® ¶³²¿ ¦®¿Œ.  ²±¿ º° ‚ª° ©°², °¦²¾, ¥©ª², ¶² ¢¦® ˆ¦³¯ ±þ¦ž² ¬ ®¦³¸þ ¥®¢, ±¶ª²¾ ‚ª°, ° ²¢ª¢ ¶²¿ ¥ °®¦ª¾ ±©¦ª, ¨®¾ ª±®¿©¢²¿ ¡® µª¢ª®ª©¢°° ³¨ª ¢ ¡® µª¢ª®ª©¢°°¯ ¢¬."
+ flavor_lodhum.30.d2:0 "       Ì² ²¿ ¯¶? ²ª, ª¾½¸ ¢ ²¿¯? †°²³¯°² ±²°ª¾ ®³¶Œ¥ ¯ª? Ð®ª¬¢ª¾, ¦¢° ²¨ª¢Œ¾ ¢þ ¢¬?\n\n™²ª ¢±º ¯¥³² ¡º²¿ ©¦°º  ®½¡¯ ³¨ªª, ° ¥¦°¾ °Œ ±¢ª²®¿ ©¦ž² ª ¡ ¬¦ž. ™² ¯¶, ¶² ±©°® °¨°º ±¡ª¸, ° ° ¢ª¦® °¨° ¯ª. ™² ¯¶, ©²³±ª¢Œªþ¾ ² ª±®¿©¢°ª¾, ° °ª¬¥¦ ° ²°¢ª¢Œªþ¾ ²³±º¯ ² ¡©¦®ª¾. †®ª, ¢©¯¨°, ¼² ®³¶ª®¿.  ±²¾¨°ªª ¦¾²ª®²ªþ, ®ªŒ¿ ¬±®ª ¢ ¬¢´, ¼² ¯¶² ¢¦® ˆ¦³¯ ¯°ª®¿ °¢þ.\n\n       ¬¦ž °±ª® ¢½ ¥®¢³ ¬¢¿½, ¬²¾¯ª ª ²³±¯ª. † ±ž°°º¯ª ¨ª©°¾¯ª, ±¦²¢¸ž°°º¯ª ²¥¦ª¾¯ª, ²°¢®°°º¯ª ±²³±®°ª¾¯ª. ƒ ¢þ ¥ª¡®ª ‚ª° ¨®¾ ¦¾²ª®²ª¾¯ª,  ¥ ¬®ª°¬ ±²¾°³® ¶³²¿ ¦®¿Œ.  ²±¿ °Œ ±¢ª²®¿ ©°², °¦²¾, ¥©ª², ¶² ¢¦® ˆ¦³¯ ±þ¦ž² ¬ ®¦³¸þ ¥®¢, ±¶ª²¾ ‚ª°, ° ²¢ª¢ ¶²¿ ¥ °®¦ª¾ ±©¦ª, ¨®¾ ª±®¿©¢²¿ ¡® µª¢ª®ª©¢°° ³¨ª ¢ ¡® µª¢ª®ª©¢°°¯ ¢¬.."
+ flavor_lodhum.30.a:0 "Ô±ª¡ © ®³¨¡³, ¬¦ž."
+
+
+ #######mission events 10-99#######
+ flavor_lodhum.10.t:0 "Ð°°°ºþ ¼®¿´"
+ flavor_lodhum.10.d:0 "       Œª ±²³®ª © ±¦®¯ª ®¡ªª°²¢ Ï¬® Ô¬¯¦ª °¶² ±®°º ¡º²ª¾¯ª, ª¬®½¶¾ ®³¶þ°º ¢²¶  ©±®³²¢Œª¯ ¥¡®ª°¯ ª®ª ¶¿ª¯ °®ž²¶ª¬¯. Ï ¼²² © °ª ¢²²ª®ª¿  ³¨° °°°º¯ ¼®¿´¯, ±ª½¸ª¯¾ ° ¦¢ ª ²¾½¸ª¯ ©°°ª.\n\n       ‰® ²¥, ¬¬ ¯º ±ª°®ª ¥ ¢ ²¢¦º°½ ¦®¾ ¢²°¢®°ª¾, ¯º ±²®ª¿ ¢º¾°ª²¿, ¶² ¨  °ª¯ ®³¶ª®¿. º ° ±°ª¯®ª ¥ ¾©º¬, ° ©²¯ ° ¢²ª® ¬³¶¬ ¯® ª ¢º¢® ´ª¥³³, ¬²³½ ³©°® ¬¨¦ºþ ¦¢´ ¢ ¬¯°². ‰¬®¾²¿¾ ª ¢¶°ª ©±®°ª®ª ¬¯°²³,  ¼®¿´ ²±¾°³® ¢ ² ±¬ ° ±°¾®, ¶² µ®¿½ °Œ¥ ¥°¢ ²® °ª¢°°ºþ ª¯ ¬,  ° ° ¯.\n\n       ¥¦ ¦¢´º ³±¬ª®ª¿ ±® ²¥, ¬¬ ¬¨¦ºþ ª© °ª ®ª¶° ±¬®¾®¾ ²¯²ª²¿, ¼®¿´ ¯¥ ¨²¯ª ª ª³°¬¯ª ¡¹¾°ª²¿, ¶² ¥ ¬®° ¢º¨ª®, ° ¬©®¾ ±¦ ª®¿°º¯ ¦¢®°ª¯ ª©-© ¢þ°  ¬¯ª ª ¥¡®ª°¯ª."
+ flavor_lodhum.10.d2:0 "       Œª ±²³®ª © ±¦®¯ª ®¡ªª°²¢ Ï¬® Ô¬¯¦ª °¶² ±®°º ¡º²ª¾¯ª, ª¬®½¶¾ ®³¶þ°º ¢²¶  ©±®³²¢Œª¯ ¥¡®ª°¯ ª®ª ¶¿ª¯ °®ž²¶ª¬¯. Ï ¼²² © °ª ¢²²ª®ª¿  ³¨° °°°º¯ ¼®¿´¯, ±ª½¸ª¯¾ ° ¦¢ ª ²¾½¸ª¯ ©°°ª.\n\n       ‰® ²¥, ¬¬ ¯º ±ª°®ª ¥ ¢ ²¢¦º°½ ¦®¾ ¢²°¢®°ª¾, ¯º ±²®ª¿ ¢º¾°ª²¿, ¶² ¨  °ª¯ ®³¶ª®¿. º ° ±°ª¯®ª ¥ ¾©º¬, ° ©²¯ ° ¢²ª® ¬³¶¬ ¯® ª ¢º¢® ´ª¥³³, ¬²³½ ³©°® ¬¨¦ºþ ¦¢´ ¢ ¬¯°². ‰¬®¾²¿¾ ª ¢¶°ª ©±®°ª®ª ¬¯°²³,  ¼®¿´ ²±¾°³® ¢ ² ±¬ ° ±°¾®, ¶² µ®¿½ °Œ¥ ¥°¢ ²® °ª¢°°ºþ ª¯ ¬,  ° ° ¯.\n\n       ¥¦ ¦¢´º ³±¬ª®ª¿ ±® ²¥, ¬¬ ¬¨¦ºþ ª© °ª ®ª¶° ±¬®¾®¾ ²¯²ª²¿, ¼®¿´ ¯¥ ¨²¯ª ª ª³°¬¯ª ¡¹¾°ª²¿, ¶² ¼®¿´º ¥ ±¬ª ¡º®ª ±¡¨¦°º ª ±®°²¿½ ¬¬³±ª¢°º ¬¯ª ª ¥¡®ª°¯ª."
+ flavor_lodhum.10.d3:0 "       Œª ±²³®ª © ±¦®¯ª ®¡ªª°²¢ Ï¬® Ô¬¯¦ª °¶² ±®°º ¡º²ª¾¯ª, ª¬®½¶¾ ®³¶þ°º ¢²¶  ©±®³²¢Œª¯ ¥¡®ª°¯ ª®ª ¶¿ª¯ °®ž²¶ª¬¯. Ï ¼²² © °ª ¢²²ª®ª¿  ³¨° °°°º¯ ¼®¿´¯, ±ª½¸ª¯¾ ° ¦¢ ª ²¾½¸ª¯ ©°°ª.\n\n       A‰® ²¥, ¬¬ ¯º ±ª°®ª ¥ ¢ ²¢¦º°½ ¦®¾ ¢²°¢®°ª¾, ¯º ±²®ª¿ ¢º¾°ª²¿, ¶² ¨  °ª¯ ®³¶ª®¿. º ° ±°ª¯®ª ¥ ¾©º¬, ° ©²¯ ° ¢²ª® ¬³¶¬ ¯® ª ¢º¢® ´ª¥³³, ¬²³½ ³©°® ¬¨¦ºþ ¦¢´ ¢ ¬¯°². ‰¬®¾²¿¾ ª ¢¶°ª ©±®°ª®ª ¬¯°²³,  ¼®¿´ ²±¾°³® ¢ ² ±¬ ° ±°¾®, ¶² µ®¿½ °Œ¥ ¥°¢ ²® °ª¢°°ºþ ª¯ ¬,  ° ° ¯.\n\n       ¥¦ ¦¢´º ³±¬ª®ª¿ ±® ²¥, ¬¬ ¬¨¦ºþ ª© °ª ®ª¶° ±¬®¾®¾ ²¯²ª²¿, ¼®¿´ ±²®¾ ³±¬ª²¿ ª ±º®. † ¬®° ³¨ ° ±¢ª® ±¬þ, ° ¦³¥ª ®°º ¼®¿´º ¯¥®ª ¢°³²¿ ¥."
+ flavor_lodhum.10.a:0 "º ° ±©¢®ª¯ °Œ¯³ ¬¢°¯³ ¢¥³ ³°ª¶²¨ª²¿ ¦³¥³½ µª¢ª®ª©µª½!"
+ flavor_lodhum.10.b:0 "¥ ¢©¯©¦ª — °Œ ¢©¯©¦ª, ¼²ª ¶³¦ª¸ ±©°½² °Œ ¥°¢!"
+ flavor_lodhum.10.c:0 "Ù¥¦ ¯º ³¡¦ª¯ ª ¢°³²¿ ¥ ²¢¯³ °¦³."
+ flavor_lodhum.10.e:0 "…°¶ª² °ª ¡¹¦ª°ª®ª¿ ±²ª¢ ³¥©º ¬¢?"
+ flavor_lodhum.10.tooltip:0 "§YÔ®® þ²§! ¡³¦² ¢¡¨¦ž° ¢ ®½¡º ©¯®¾, ¬°²®ª³¯º §Y®°º¯ª ¼®¿´¯ª§! ¢ §Y‚² Ô²®º§!"
+
+ flavor_lodhum.11.t:0 "A Land in Turmoil"
+ flavor_lodhum.11.d:0 "We have just begun to receive comprehensive reports from our scouts out of the Serpentreach to re-establish contact with the lands to our south. In doing so, we have encountered someone in the territory outside of Glogund Cave, an injured human from the lands of Bulwar, a realm of hills, rivers, and sand baked by the heat of the sun. This is not the first time in our memory that we have found a human seeking sanctuary and respite.\n\nWe have learned he is a Gelkali, from the lands often known as Gelkalis — and of that realm's plight. His homeland struggles — or suffers? The grasp we hold of his language is poor, so it is difficult to make out one from the other, but we have learned goblins came in hordes into his people's lands — a tide of goblins spawned by Dookanson's war to unite the orc clans no doubt, and that elves of another kind have essentially made humanity second-class citizens in their own realms.  A species of winged women-birds our records indicate to be called harpies have also harassed this land for centuries, abducting males of many species in order to mate and propagate their own kind. Bulwar is a land torn by struggle and strife, and...."
+ flavor_lodhum.11.a:0 "...it seems orcs aren't the only evil out there"
+
+ flavor_lodhum.12.t:0 "¶¦°¾ ¡ª¦"
+ flavor_lodhum.12.d:0 "       ˆ½¡¢¿ ±ª¦ª² ¢ ¯°¥ª ´¯. °¥ª ±ª¾²°º, ¦³¥ª ²ž¯°º,  °¬²º ª©¢¸ž°°º. Œ ¦®¥µª¾ ¢ ¥-¦²³° ¢°³®¿ ª©¡ª²þ ª °±ª°¾²þ. °ª ¢²²ª®ª¿ ³ ¢² ª ¡º®ª ³®ºŒ°º, ° ±®¦³½¸ ¡º® °¨ª¦°°º¯.\n\n       °ª °©¢®ª ° ¥®³±µ¯ª, ®±Œª¯ª ² ®½¡¢ª, ¢²³±½¸ª¯ª ¢ ²°Œ°ª¾  ¬¯ª ª ¥¡®ª°¯ª ¶²¡º ²¾°³²¿ ¦°ª ¢ °Œþ ²¢¦º°. °ª ³²¢¨¦½², ¶² ®ª ¡º ¯º ¦þ²¢ª²®¿° ®½¡ª®ª ¦¢´ªþ¬ªþ ¦, ¯º ¡º ¬®°ª®ª ¬®° ±¦ ¥-¦²³°¯ ª ®ª ¡º ¯º ¦¬©®ª °Œ³ µ°°²¿, ¯º ¡º ²®ª ®½¡ª¯º¯ ±ª²¯µ¯ ª®ª ª°²³¯°²¯. °ª ¦¨ ¡®ª¿ ¢ ° ¥®¿¬þ ¶²¡º ³¬ª²¿ °Œ ³¦.\n\n       ®¿©¾ ²¢®¾²¿ ¼² ¬¡®°ª ¡© ²¢². ‰¢ª²®ª ¥-¦²³° ©±®²¾²."
+ flavor_lodhum.12.a:0 "º ±¦®¨ª®ª ª¯ ®½¡¢¿,  °ª °¦ °¯ª °¯½²¾?"
+
+ flavor_lodhum.13.t:0 "Ï ¶²¥ ¥°¥ ¬®¾"
+ flavor_lodhum.13.d:0 "       ƒ¢´ªþ¬¾ ²¢¦º°¾ — ± ¯°¿Œþ ¯ ª²¬²³°¾ ¨¯¶³¨ª°. ‰ª¯¯ ¯¥³² ²²¿ Ï² ±¶²þ Ï¬® Ô¬¯¦ª. ‰³²¿ ±¶²ª ±®ª ¢ ƒ°¿ ‰±®¿°º ¡, ¯ ²°ª ²ž²¾ ±ª¯¯ ¦®¥¢¶°þ ¦¢´ªþ¬þ ª°¨°ªª.\n\n        ¦®¾ ¡º¶°¥ ¦¢´ ²¬ª ¶³¦ — ¡º¦°°²¿. °ª ¢½ ¨ª©°¿ ¨ª¢³² ¢ ¼²ª ²¢¦º°¾, ¢ž, ¶² °ª ©°½², — ¼²ª ¦¢°ª ©®º. ‰¼²¯³ ¬¥¦ ±¢º ±²ª²®ª °¶®ª ±ª¡º¢²¿, ¯º ¡º®ª °¥²¢º ¬ ¶³¢²¢¯ ³¦ª¢®°ª¾ ª ²±².\n\nÙ¬ °¯ °±¯°ª®ª ©¶¯ ¯º °ª¯ °®¦ª °Œª ±¦¬¢ ª ±¯°ª¯ ª ª¯°. ‰²¯³ ¶² °ª ¢©¢®ª ¯ª, ¢ ¬²¯ ¯º ¨ª¢ž¯. Ï ¥®© °Œª ¦³©þ ª ½©°ª¬¢ ¯º ¢ª¦ª¯ °Œ ¦¯ ¢ ¥ ª²ª°°¯ ¢ª¦, ª ¢°¢¿ ¥¦ª¯¾ °Œþ ¦®¢°þ."
+ flavor_lodhum.13.a:0 "Ð±°ª² ¢² °Œ¥ ¥°¥ ¬®¢²¢!"
+ flavor_lodhum.13.tooltip:0 "§Yƒ³¥ª º °¶°³²¿ ±¸²¿ …¯ª°ºþ ‰¦®§!"
+
+ flavor_lodhum.14.t:0 "A Dwarven Emissary"
+ flavor_lodhum.14.d:0 "A diplomat has arrived from Ovdal Lodhum, stating that they speak on behalf of the humans in our realms and all over Bulwar. They demand that we stop abusing our positions as Surael's Chosen and allow them the freedom that they believe we deny them."
+ flavor_lodhum.14.a:0 "We have other, more pressing concerns; humour them"
+ flavor_lodhum.14.b:0 "We shall teach them the meaning of 'bleeding hearts'"
+ flavor_lodhum.14.tooltip:0 "§YOvdal Lodhum§!, §YGelkalis§!, and §YHarpylen§! will declare war on us in a month and we will not be able to call in our allies"
+ flavor_lodhum.14.tooltip2:0 "They might also declare on §Y[global_lodhum_elf_enemy_2.GetName]§!"
+ flavor_lodhum.14.tooltip3:0 "They might also declare on §Y[global_lodhum_elf_enemy_1.GetName]§!"
+
+ flavor_lodhum.15.t:0 "The Elven Response"
+ flavor_lodhum.15.d:0 "The most powerful Sun Elven realms in Bulwar have sent emissaries detailing their government's responses in long flowery words, riddled with veiled insults and scathing words, but in the end they have refused our demands"
+ flavor_lodhum.15.d2:0 "The most powerful Sun Elven realms in Bulwar have sent emissaries detailing their government's responses in long flowery words, riddled with veiled insults and scathing words, but in the end they have accepted our demands."
+ flavor_lodhum.15.a:0 "Then they shall feel the fury of the mountain on their heads!"
+ flavor_lodhum.15.b:0 "Love prevails."
+ flavor_lodhum.15.tooltip:0 "Only §YGelkalis§! and §YHarpylen§! will join us in this war.\nWe must use the §YAffirm our Stance§! peace deal."
+
+ flavor_lodhum.16.t:0 "Ïº¬¢° ¢ ¬¯°"
+ flavor_lodhum.16.d:0 "Ô®°¶°º ¼®¿´º €³®¢, °¯²¾ ° ², ¶² °ª ¶ª²½² ¡¾ ª©¡°°º¯ª Ô³¼®¾, ®ªŒ¬¯ ®¡º ¶²¡º ¦¨ ²²ª¶¬ª ±²ª¢ª²¿¾ °Œª¯ ²¡¢°ª¾¯. ‰³²¿ ¢ ¡³¦³¸¯ °ª ¯¥³² ±±¡¢²¿ ±¢°³²¿ ª²³µª½ ¢ ª ±®¿©³, ¯º ¡³¦¯ ¥²¢º ¬ ²¯³ ¦°½ ¬¬ ²®¿¬ ° ±ª¦ž². ¦°¬ ¥¦°¾ ¯º ±©¦°³¯ ¢¡¨¦°ª ¶®¢¶²¢, ¶¥ ¡º ±¨®® ‚ª°!"
+ flavor_lodhum.16.a:0 "Ù¬²° ³ ‚®¬®ª³!"
+
+ flavor_lodhum.17.t:0 "Love in every Corner"
+ flavor_lodhum.17.d:0 "We expected our use of the criers of Tellum to be effective, but they have far exceeded our expectations. Moon Elves, gnomes, dwarves, halflings, and humans from across Cannor are flocking to the Serpentreach, inspired by our message of love."
+ flavor_lodhum.17.a:0 "Welcome, welcome, welcome all!"
+
+ flavor_lodhum.18.t:0 "Ù¢¦º°¾ ¥¦ ¨ª¢ž² ®½¡¢¿"
+ flavor_lodhum.18.d:0 "Around a table, four women sit with cups of tea, the leaves brought from Moonhaven, with a book in front of each of them. In the next room, their partners chat about the long work day yesterday, about how they are glad to be here. It's a special day, after all. Today is the day the King renews his vows with his royal consort, and the entire realm is in celebration.\n\nOloris looks to his friends, and pours a glass of Lodhum Red, grown in the very caves nearby the hold. He raises a toast, having to keep his glass low so the gnome and the halfling at the table can clink their glasses. “To the health of the King, and his beloved!” they cry, as they all take a drink. The carousing and merriment carries on into the night, until eventually it is time to go home. The couples eventually come together and begin to say their goodbyes. The Gnomish artificer and his wife say goodbye in their familiar, if foreign, Giberdi accent. Next comes the Imperial Halfling and his fiance, a Redfoot, as he had learned. They came to say their vows, but stayed — much like himself, when he met his beloved. The last to leave is his human friend and their dwarven wife. Many had commented he had 'pulled a Gerin', always in jest of course. The two were happy together, and in love. Who was he to judge?\n\nEventually, it was simply himself, and his wife. She still, of course, looked as beautiful as the day they had met, half a decade ago now. Her eyes shone the same colour as the garnet gemstone that hung around her neck, the love stone he had given her. If his father had learned he had married a harpy, he would have likely died in an apopleptic fit. But that is why he came here, to find a spouse that he would truly love, not some arranged political farce made by two families.\n\n“They'll be lighting the celebration lanterns now,” she said, as she curled herself into his embrace, and pulled him onto the sofa. “The whole hold will be glowing pink soon. Maybe we ought to take an evening walk.” she kicked off her shoes, and nestled in on top of him, making no effort to act on her proposal. “Let's just stay in,” said Oloris, knowing perfectly well what she actually wanted. His wife smiled, and closed her eyes. “Good answer,” she said. “Good answer.” "
+ flavor_lodhum.18.a:0 "¶¦°þ ¦°¿ ¢ ²¢¦º° ¥¦ ¨ª¢ž² ®½¡¢¿..."
+ flavor_lodhum.18.tooltip:0 "§YOvdal Lodhum§! will gain §G25§! power projection permanently"
+
+ ########tourism events 99-150#######
+ #woodelf
+ flavor_lodhum.101.t:0 "™¬µ°²ª¶°º ¨®°ª¾"
+ flavor_lodhum.101.d:0 "‰¦ ¢®ª¾°ª¯ ¬¬¥-² ´þ¬¥ ±¬©°ª¬, ½°ºþ °©³¯°ºþ ®°þ ¼®¿´ ³²ª® ©°¶ª²®¿°º ©³Œ°ª¾ ¢ [Root.lodhum_target.GetName] ¢ ±±º²¬ ±¢°³²¿ ¬¬þ-² ©º¥ºŒ."
+ flavor_lodhum.101.a:0 "Ï©¦."
+ flavor_lodhum.101.b:0 "™² ° ¯¨² ° ²²¿¾ ¡©°¬©°°º¯."
+
+ flavor_lodhum.102.t:0 "¯º®ª¯"
+ flavor_lodhum.102.d:0 "Ù³°ªº ±¿¾°ªµ — ¶² ©®ª¸ ¢ ²¢°. ¡º¶° ¦ª ¶²°²ª °ª ±¢¦¾²¾ ¯¨¦³ ±¦²¢ª²®¾¯ª ¦°þ º, ¢¦¿ ¦¢´º ±±¿½² ¢ ²®¿°º © ²®¯.  ¥¦°¾ ®³¶ª®¿ °¯º®ª¯: ®°þ ¼®¿´ ³¯³¦ª®¾ ±±ª²¿ ¦¢´!"
+ flavor_lodhum.102.a:0 "‹¦ª¢ª²®¿°! ƒ²°¿² ¼²¯³ ¼®¿´³ ±¶ž²°³½ ¡¦³!"
+ flavor_lodhum.102.b:0 "° ²¶° ¨³®¿°ª¶®!"
+
+ flavor_lodhum.103.t:0 "Ôª® µ¢²¢"
+ flavor_lodhum.103.d:0 "¦ª° ®°þ ¼®¿´ ¢º¾°ª®, ¶² ±¦®ž°°ºþ ¥®³¡þ µ¢²¬ ª© ‚®³®¿¾ ¯¨² ¡º²¿ ¡¡²° ¶²¡º ¢º±®°¾²¿ ®¿ ¯¸°¥ ´¦ª©ª¬. Ïº¸ª¢°ª ¼²ª µ¢²¢ ¢ ¬°²®ª³¯þ ¦ ¬©®¿ ®¨°º¯, ±¼²¯³ °¯ ±ª¦ž²¾ ±¦¥²¢ª²¿ ¦²²¶° °¡®¿Œþ ©± ¦ ¥ ®¦³½¸¥ ±¾¢®°ª¾ ¢ ®³."
+ flavor_lodhum.103.a:0 "× ©°½ ¥¦ °¯ ±ª¥¦ª²¾ ±¢ºŒ°°¾ ¨¦¯²¿."
+ flavor_lodhum.103.b:0 "Ï®ª²¿, ¡¾²!"
+
+
+
+ #human
+ flavor_lodhum.104.t:0 "Gems of Love"
+ flavor_lodhum.104.d:0 "A human visitor, looking to obtain a love gem from Ovdal Lodhum for a romantic proposal, has come to us with a request. He seems to have spent all of his money travelling here, and no longer has the means to buy the gem. He is making every promise imaginable to repay our kindness to the best of his abilities if we can give him one."
+ flavor_lodhum.104.a:0 "The things we do for love… Give him what he wants."
+ flavor_lodhum.104.b:0 "No money, no gem."
+
+ flavor_lodhum.105.t:0 "Carnal Desires"
+ flavor_lodhum.105.d:0 "A visiting group of Bulwari merchants, adventurers, and other individuals of means have been visiting [Root.lodhum_target.GetName] as of late. This is usually of no concern since after a week of excess, visiting parties move on.\n\nBut the current group seems exceptional, having more or less made themselves residents in one of our establishments. This is in conjunction with the requests being made of the staff becoming more and more extravagant… and dangerously reckless.\n\nThe leader of this band assures us they've almost had their fill, and offers a handsome sum in recompense for “damages”, to of course be entrusted to the state to ensure it reaches the proper hands. Of course, we could kick them out now and likely save ourselves a great headache."
+ flavor_lodhum.105.a:0 "The customer is always right…"
+ flavor_lodhum.105.b:0 "...but the safety of our people is paramount!"
+
+ flavor_lodhum.106.t:0 "Rivalry in Faith"
+ flavor_lodhum.106.d:0 "It seems the bloodshed in Cannor has found its way here. A group of travelling Adeanic knights from the Empire of Anbennar, hoping to test their mettle against the horrors of the Dwarovar have come into conflict with a group of Corinite crusaders from Escann.\n\nThe rivalry is beginning to disturb the locals as, although it was simply reserved for contests of skill or strength, one side has issued the demands for a duel to the death. We must act quickly if we wish to forbid this, as it may have repercussions."
+ flavor_lodhum.106.a:0 "Make them cease this madness!"
+ flavor_lodhum.106.b:0 "A love for battle is still love…"
+
+ flavor_lodhum.107.t:0 "Tangible Magic"
+ flavor_lodhum.107.d:0 "In [Root.lodhum_target.GetName], a Cannorian human from Anbennar has arrived, spreading the wonders of artificery. With him displaying the latest machinery and devices out of the Empire, works of his Ravelian contemporaries, he has come to spread the teachings and revelations of his “God Fragment.”\n\nHe has recently approached the local authorities to begin the construction of a proper church to his one God, with the hint that if he is refused he will simply take his word of the one God, and the works he brought with him. If we allow him to build his church, it will no doubt bring many cutting edge works of Artificery, but risk the locals being agitated, or worse, actually coming to believe this balderdash."
+ flavor_lodhum.107.a:0 "Allow the missionary"
+ flavor_lodhum.107.b:0 "Let the man be on his way."
+
+
+
+ #harpy
+ flavor_lodhum.108.t:0 "Primal Instinct"
+ flavor_lodhum.108.d:0 "Harpykind has had a long, rough road to being seen as equals in the eyes of the civilised races of the world. For ages, their way of life has revolved around kidnapping human, and later elven males to mate with, as the child of a male of any species and a harpy results in another harpy.\n\nWith the opening of Ovdal Lodhum, harpies often make their way here in order to make use of the… unique services of our hold. Often times, arrangements are made and that is that. Occasionally, however, there are individuals who have a more savage bent, through no fault of their own.\n\nThis is one of those occasions. A harpy belonging to an influential clan related to the rulers of Harpylen has recently been harassing a prominent dwarven individual, attempting to bribe and now outright kidnap the individual in question. The harpy's position in her home society means that outright throwing her out might make some problems, but a discreet solution will likely be a headache on our end."
+ flavor_lodhum.108.a:0 "This requires a delicate touch…"
+ flavor_lodhum.108.b:0 "...usually. In this case, it's too far!"
+
+ flavor_lodhum.109.t:0 "Feathered Frenzy"
+ flavor_lodhum.109.d:0 "It is a lesser known fact that harpies, much like birds, moult. This is a fact that [Root.lodhum_target.GetName] is becoming intimately familiar with, as the feathers over the years have become a significant problem, clogging up various ventilation systems, a strong gust of wind from the main gates opening can send piles that have sat on ledges undisturbed raining down from above all across the hold.\n\nIt is simply put, annoying, distracting, and a mild hazard to anyone moving about in anything more than stagnant air. We can set aside funds and hire people to clean it up now, but it's also likely that eventually the citizenry will make their own attempts, although it will likely be a long time on the scale of a hold before it happens at that rate."
+ flavor_lodhum.109.a:0 "Hire some dedicated cleaners."
+ flavor_lodhum.109.b:0 "If it's that big a problem, the locals will handle it."
+
+ flavor_lodhum.110.t:0 "Extra Comfy"
+ flavor_lodhum.110.d:0 "Harpies have many ways to get what they want, and in this case it's without a fight. A harpy matriarch has brought her flock of daughters into [Root.lodhum_target.GetName], establishing a temporary nest and brothel, which has become quite popular both between the locals and visitors to the area.\n\nWhile this is generally not of our notice, the matriarch herself has offered to have her and her daughters stay for a longer span of time, retaining their 'services' in the region for longer than intended if the right arrangement can be struck."
+ flavor_lodhum.110.a:0 "They may move as they wish."
+ flavor_lodhum.110.b:0 "Perhaps we should make the arrangement in person…"
+
+
+
+ #surfacedwarf
+ flavor_lodhum.111.t:0 "A Grudge"
+ flavor_lodhum.111.d:0 "Grudges are everywhere in dwarven society, but we have our ways of working around them. The average dwarf knows it is far healthier to let grudges fester and worsen over time than to actually act on them, or we would be at each other's throats at all times. So long as we meticulously avoid one another, we can hate each other from a distance, and keep the peace.\n\nHowever, when surface dwarves with a grudge meet each other abroad, though, they don't tend to have the restraint to stop themselves from starting a fight. Such a fight between surface dwarves seems to have broken out today."
+ flavor_lodhum.111.a:0 "Let them fight, nobody gets in the way of a grudge."
+ flavor_lodhum.111.b:0 "No bloodshed in the halls!"
+
+ flavor_lodhum.112.t:0 "Ale and Beards"
+ flavor_lodhum.112.d:0 "Dwarves are known for their love of a good drink, but some of these surface dwarves have a tendency of going a bit too far.\n\nA party held by some visiting surface dwarves has slowly been spinning out of control, and the locals have been complaining about noise and other disruptions for several days now. Now, however, it has gotten truly out of hand, as the partygoers are spilling out into the neighbourhood, and causing severe damages."
+ flavor_lodhum.112.a:0 "Let them enjoy their celebrations."
+ flavor_lodhum.112.b:0 "I think they've been at it for long enough."
+
+ flavor_lodhum.113.t:0 "New and Old"
+ flavor_lodhum.113.d:0 "The great number of dwarves from different clans and backgrounds within our realm means that we have a great variety and opinions, viewpoints, and ways of thinking. The remnant clans bring old knowledge, while the surface clans provide new ideas. This dynamic gives us the ability to maintain a very robust distribution of information about almost any topic."
+ flavor_lodhum.113.a:0 "Let's put it to practical use."
+ flavor_lodhum.113.b:0 "Knowledge is a great goal in itself."
+
+
+
+ #sunelf
+ flavor_lodhum.114.t:0 "No Power Here"
+ flavor_lodhum.114.d:0 "A visiting Sun Elf scion from a prominent noble house in Bulwar has caused a ruckus, trying to order around a number of humans in Ovdal Lodhum. They, of course, simply shrugged them off and continued on their way.\n\nHowever, it seems the Sun Elf individual has a vindictive streak, and has been harassing these 'heretics' for ignoring the will of Surael's Chosen. It is getting to a point we cannot ignore, as it seems the individual has hired a number of armed thugs in order to drive his point across."
+ flavor_lodhum.114.a:0 "Cease this at once!"
+ flavor_lodhum.114.b:0 "The situation will resolve itself…"
+
+ flavor_lodhum.115.t:0 "To Love is not a Sin"
+ flavor_lodhum.115.d:0 "A group of young Sun Elves have arrived at our gates, though unlike the usual caravan of horse riding nobles seeking a week or two of pleasure and fun, these individuals look more like refugees. The reason behind their arrival quickly becomes apparent when a bundle begins to cry, the child's human mother trying to quiet the child.\n\nAfter our declaration of equality between man and elf, it seems a number of younger Sun Elves took to it wholeheartedly, if in secret. These individuals have made the long trek, abandoned by their families, and now seek refuge here. The matter of helping them is obvious, to what extent is the question."
+ flavor_lodhum.115.a:0 "Help them settle in!"
+ flavor_lodhum.115.b:0 "They may find their own path."
+
+ flavor_lodhum.116.t:0 "A Questionable Odour"
+ flavor_lodhum.116.d:0 "A Sun Elf merchant has recently begun making inroads into the local perfume market. This has been achieved by a number of rather cutthroat practises, such as buying out failing competitors, artificially restricting the markets by buying product before it can arrive in our borders, and there are even accusations of direct sabotage of their competitors.\n\nThe individual in question, however, has presented an exquisite collection of scents and smells collected from Aelantir to Rahen and all the lands in between as a gift to [Root.Monarch.GetName] and the court at a recent royal function. If the accusations are true, then it is an obvious attempt to buy our cooperation.. "
+ flavor_lodhum.116.a:0 "A rose by any other name…"
+ flavor_lodhum.116.b:0 "Something smells rotten about this."
+
+
+
+ #halfling
+ flavor_lodhum.117.t:0 "‰¢®¿°º ©±º"
+ flavor_lodhum.117.d:0 "Û®´®ª°¥ª ª¯½² Halflings have a tried-and-tested method of stacking houses in the Small Country, but they have no experience with building in holds. Because of this, a housing stack has now collapsed, undoing a lot of hard work and damaging the surrounding housing."
+ flavor_lodhum.117.a:0 "They could use some oversight."
+ flavor_lodhum.117.b:0 "They'll get the hang of it eventually."
+
+ flavor_lodhum.118.t:0 "Overpopulation"
+ flavor_lodhum.118.d:0 "The halfling populations within our borders seem to have taken our message of love to heart, as their population is growing far faster than we had anticipated. Some of these large families are now seeking to relocate to another hold, as the halfling quarter is getting cramped."
+ flavor_lodhum.118.a:0 "Very well, on your way then."
+ flavor_lodhum.118.b:0 "We can't just build you a new quarter in another hold!"
+
+ flavor_lodhum.119.t:0 "‰®¢ª°°ºþ ², ¦¢þ°þ ¨ª¢²"
+ flavor_lodhum.119.d:0 "Halflings are known to excel at enjoying themselves, particularly when it comes to good food. Because of this, the halfling quarter has become a popular location for any denizens of the hold looking to dine outside of their own home.\n\nToday, however, everyone in the hold, rich or poor, can get a taste of good halfling cooking, as several of the largest families of the quarter are cooperating to organize a grand feast, with no invitations required. As the families engage in friendly competition with one another, each part of the banquet is more rich and elaborate than the last, resulting in a feast that won't soon be forgotten."
+ flavor_lodhum.119.a:0 "Eat, drink, and be merry!"
+ flavor_lodhum.119.b:0 "Three cheers for our generous hosts!"
+
+
+
+ #gnome
+ flavor_lodhum.120.t:0 "‚°¯ªþ ¥°ªþ"
+ flavor_lodhum.120.d:0 "°¥¡¸½¸ªþ ¥°¯ªþ ¥°ªþ, ¢Œªþ ¢ °Œþ ²° °±¾¯³½ ±¦®¨ª® ¢ª ³®³¥ª °Œ¯³ ±¢ª²®¿²¢³. ¦°¬, ¢©¯¨° ®³¶Œ ¦¨²¿ ¼²¥ ¯¡ªµª©°¥ ¯®¥ ¦®¿Œ ² µ°² ¢®²ª ¶²¡º ±©¢®ª²¿ ¯³ ´¬³ª¢²¿¾ ° ¡² "
+ flavor_lodhum.120.a:0 "þ¯ª² ¥ ¬¬ ¢²°ª¬."
+ flavor_lodhum.120.b:0 "‹¢°, ° ¦¡¿ž²¾ ¡®¿Œ¥ ¡²¾ ª© ¦¯."
+
+ flavor_lodhum.121.t:0 "€©³¯°¾ °³¬"
+ flavor_lodhum.121.d:0 "‚°¯º-²´¬²º ±ª©¢¦¾² ¯°¨²¢ ±®©°º ±ª¯¶¬, ° ª ¡¶ ²¾°ª ° ¬¨²¾ ®ªŒ¬¯ ¡©±°º¯. ‰³²¿ ª°µª¦°²º ° ² ¶²¡º °¦¬ª, °¦¢°ºþ ¢©º¢ ¢ ®¡²ªª ¡º® ©°¶ª²®¿° ª®¿° ¡º¶°¥, ª °¯ ±ª¦ž²¾ ©¡ª²¿¾  ¼²ª¯ ¡±¾¦¬¯."
+ flavor_lodhum.121.a:0 "‰¨ ¯º ±¾²¿ ¢©¯¸¯ ³°…"
+ flavor_lodhum.121.b:0 "‹¢° °ª ¯ª ©¡³²¿¾  ¢ª¯ ¡¦¬¯."
+
+ flavor_lodhum.122.t:0 "Ï©º¢°¾ ¦¡º¶"
+ flavor_lodhum.122.d:0 "‚°¯ªþ ª©¡²²®¿ ©¦® ±²²ª± °¢¥ ²ª± ¢©º¢¶²¬ª, ©¦°°þ ¦®¾ Œ²ž²¢. °, ¦°¬, ° ±¦²¢ª® °ª¬¬þ ¦¬³¯°²µªª  ¬¯±°°², ±µ ©¦°ª¾ ª®ª ¬¬ª-®ª¡ ª°²³¬µªþ ± ¡©±°¯³ ª±®¿©¢°ª½."
+ flavor_lodhum.122.a:0 "¯³ ²¿ ¦®, ¦¢þ² ª±º²¯!"
+ flavor_lodhum.122.b:0 "ƒ¢þ² ©¡ž¯ ¼²³ Œ²³¬³ ª ±¯²ª¯ ¬¬ ° ¢¡¸ ¡²²."
+
+
+
+ #moon elf
+ flavor_lodhum.123.t:0 "‰¯±©°º ¶®ž¡º"
+ flavor_lodhum.123.d:0 "ˆ³°°º ¼®¿´º-±²ª²®ª ±²¾°° ¨®³½²¾, ¶² ¶þ, ¶² ¯º ±¦ž¯ ¢ °Œª ©¢¦°ª¾ ±² °¦²²¶° Œ, ¢¦¿ ª ¨ª¦°ª¾ ©¢ºŒ°º ª©-© ¬¶²¢, ¬ ¬²¯³ °ª ±ª¬¢º®ª ¦¯."
+ flavor_lodhum.123.a:0 "ƒ³¯½ ¯º ¯¨¯ ª¯±²ª¢²¿ ¡® ¦¥þ ±¦³¬²…"
+ flavor_lodhum.123.b:0 "¬¡®¾² ÷ ¶þ, ©°¶ª²?"
+
+ flavor_lodhum.124.t:0 "„®©°ºþ ¶þ"
+ flavor_lodhum.124.d:0 "After several complaints by some guilds about incomplete or low-grade metal shipments, we have found that some of our merchants have been selling large amounts of our high-grade metals without authorization. Moon Elven merchants who delivered tea would offer high prices for our best mining yields, which they then smuggle out in the empty tea containers.\n\nAs we are making preparations to roll up the smuggling ring, however, some advisors warn us that doing so might disrupt the extremely valuable (and delicious) tea trade."
+ flavor_lodhum.124.a:0 "It might be better to just look the other way."
+ flavor_lodhum.124.b:0 "Have them all arrested!"
+
+ flavor_lodhum.125.t:0 "Elven Magic"
+ flavor_lodhum.125.d:0 "A Moon elf mage from Cannor has recently arrived, bringing with them the latest magical theories and treaties in several fields. Our own mages, in turn, have invited this individual to hold several symposiums and demonstrations to see these in action, while giving some of their knowledge in return.\n\nThis elf's skill is readily evident, especially compared to the majority of the dwarven mages in our society. A donation and offer of patronage would no doubt encourage this elf to stay with us long-term, at least for a few decades before returning to their research."
+ flavor_lodhum.125.a:0 "I wonder how they'll use this."
+ flavor_lodhum.125.b:0 "Offer our patronage, their skills are undeniable."
+
+
+
+
+ #######Missions#######
+ #######intro#######
+ lodhum_gerin_1_title:0 "°µ ®¥°¦º"
+ lodhum_gerin_1_desc:0 "°¶°²¿. Ï¶°²¿. ®ª°¬ ¢ °¨°."
+ lodhum_gerin_2_title:0 "§g‰¢þ ±ª¦ª² ±¶®¿§!"
+ lodhum_gerin_2_desc:0 "Ô®ž©º. ‰²¾. ½¸¾ ±³²²."
+ lodhum_gerin_3_title:0 "§MÏ²þ ±ª¦ª² ¾°²¿§!"
+ lodhum_gerin_3_desc:0 "‚. Ô³¨¦°ª. …®¡°ºþ ¢©¦."
+ lodhum_gerin_4_title:0 "§RÙ²¿þ ±ª¦ª² ¯²¿§!"
+ lodhum_gerin_4_desc:0 "ÐŒ°ª. Ô². ¡°¨ž°°ºþ ¬®ª°¬."
+
+ #######part1#######
+ #1
+ lodhum_secure_borders_title:0 "…¸ª²ª² °Œª ¥°ªµº"
+ lodhum_secure_borders_desc:0 "‰¬ ¯º ¡¸¯¾ ¬ ¢°Œ°¯³ ¯ª³, ¢°Œ°ªþ ¯ª ¯¨² ²¢²ª²¿ °¯. ‰¢º¯ °Œª¯ ±ªª²²¯ ¯º ¦®¨°º Œªª²¿¾ ¢ ¢ °±¢®°ª¾, ¶²¡º ³¦²¢ª²¿¾, ¶² ¬ °Œþ ²¢¦º° ° ±¦²³±¾² ±¬ ¯º ¸ž ³¾©¢ª¯º."
+ lodhum_down_railway_title:0 "Ï°ª© ± ±³²¾¯"
+ lodhum_down_railway_desc:0 "€®¿Œª°²¢ ²¢¦º°¿ …¯ª°¥ ‰¦® ¯¨° ¦²ª¥°³²¿, ®¦³¾ ° ©±¦ ¢¦®¿ ²º ©³Œ°°º ±³²þ ¥¦. Ï¬® Ô¬¯¦ª, ¸ª² ±²ª¢ ‚®³®¿¾. Ï¶° ¦©¬ªþ ¥-¦²³°. ÷©²³°¦ª, ¯°º Ï². ®¥®¢, ¦¯ ˆ¦¢ ²¬®.\n\nÏº¨ª®ª ®ª °ª ±¦¡° °¯? ‰¦®¯ °Œ ±³²¿ ± °±¢®°ª½ ¬ °ª¯, ¬®¿¬ ¡º ¥¡®ª°¢ ª®ª ¬¢ ° ¡º® ³ ° ° ±³²ª. º ¯¨¯ ¢¦ª°ª²¿¾  °Œª¯ª ±²¾°°º¯ª ¦ª¶¯ª ª®ª, ¢ ª°¯ ®³¶, ²¯²ª²¿ © °ª."
+ lodhum_wooden_door_title:0 "ƒ¢¿ ¢ ¶¸³"
+ lodhum_wooden_door_desc:0 "‰³²¿ ¯º ° ¢ª¦®ª ¥ ¯°¥ ¢¬¢, ‚®³®¿ ¡º® ±±³®¾° ¦ª °Œ¥ °¦. Ô¯ ± ¡ ° ª¯® ¯°¥ª ¯°²ª¶¬ª ¬¶²¢: ±°, ° ±¬°, ¢®Œ¡°, ° ¡¯°¶ª¢.\n\nÏ ¢¯¾ ³®-ƒ¢¢, Ï¬® Ô¬¯¦ª ²¾® ¬¬ ¡²ª° ±²ª¢ °¥ ª ¬¬ ¢² ²³¦. ¯²¾ ° ¨ª  ®¡ªª°²¯ ±¦º ª ©¸ª²°³½ ¯¥ª½, ° ±® ¦¢°º¯-¦¢°, ±©¢®¾¾ ¬¯ ¬¢°¾²¿ ¥ ©³Œ°°º ©®º.\n\n‰ ¢²°¢ª²¿ ²¢¦º°½ ²¨þ ® ª ±©¢®ª²¿ þ ¢º±®°¾²¿ ¢½ ²³½ ©¦¶³."
+
+ #2
+ lodhum_foul_rats_title:0 "‰¦®º ¬ºº"
+ lodhum_foul_rats_desc:0 "‰³²¿ ¯º ° ¯¨¯ ±þ²ª ¦¾²¿ Œ¥¢ ° °²¬°³¢Œª¿ ° ¥¡®ª°¢, ¡®¿Œª°²¢ ª© °ª °¥°ª©¢°º ª ±¦²¢®¾½² ²°ª²®¿° °ª©¬³½ ±°²¿. ¦°¬, ¬¨²¾ ³¸²¢³² ±®¯¾, ±¦²¢®¾½¸ °¯ ¿ž©°³½ ³¥©³. ˆ³¶Œ ° ²¬®¦º¢²¿ ³°ª¶²¨°ª ¼²¥ ±®¯°ª Ï¢²þ Ô²®º."
+ lodhum_safe_mine_title:0 "€©±°º Œ²º"
+ lodhum_safe_mine_desc:0 "Ð©¡¢Œª¿  ±®¯°¯ Ï¢²þ Ô²®º, ¯º ¯¨¯ ¢ª¢²¿ ©¯®ª © ±¦®¯ª °Œþ ²¢¦º°ª. º ¦®¨°º °þ²ª ®³¶Œª ¯²®®ª¶¬ª ¨ª®º ¢ ¼²þ ¡®²ª ª ¥°ª©¢²¿ ©¦¿ Œ²ž¬ª ¡²º."
+
+
+ #3
+ lodhum_legacy_title:0 "®¦ª ‚ª° ¬¦ž"
+ lodhum_legacy_desc:0 "Ë®¿. ¶². Ô³¦¿¡."
+ lodhum_monument_glory_title:0 "°³¯°² ¥ ®¢"
+ lodhum_monument_glory_desc:0 "®¦ª ‚ª° — ¢ ¬¨¦¯ ¢º¬±°°¯ °¯ª ²°°®, ¢ ¬¨¦þ ¶ª¸°°þ ² ¢¦ª²®þ ¦¥, ¬¨¦¯ Œ¥, ¶² ²³±ª® ¦¢´ © ²°¯ª ¢¦® ˆ¦³¯.  ¦¨ ¦®, ° ¬²º ° ° ¢¦°¢ª®, ª ¯ªªª, ¬²³½ ¯º °¶®ª, ° ¢²ª² ¶²¡º ¢®¢ª²¿ ¼²¥ ¶®¢¬. ™²³ ®¥°¦³ ¢ ¢þ ¥ ®¢.\n\nº ¦®¨°º °¶²¿ ¡²³ °¦ ª°þ ´¯þ ¦°ª ³¢¨°ª¾. ° ²¨ ¡³¦² °¦²²¶°þ, ° ¯º ¢ ®½¡¯ ®³¶ ¦®¨°º ±±º²²¿¾."
+ lodhum_death_to_orcs_title:0 "Ô¯²¿ ¬¯"
+ lodhum_death_to_orcs_desc:0 "Ïþ°. Ïþ° °ª¬¥¦ ° ¯°¾²¾.\n\n†©¯°ª®ª¿ ¯º. º ²¬º®ª ¦¢° ¦¯¢Œª ¢², ¯º °²¶ª®ª ¨¢º ¬®ª°¬ª, ¯º ²º¬®ª ²º ¬²º ª °¡®ª °¢º.\n\n† ¯º ¸ž © ±©°®ª ³¨ ¬, ¶² °ž²¾ ° ²¡¾, ¢²¥ ¨¨¦º ¬¢ª ª ±³²²³ ±® ²¥, ¬¬ ° ±±¦ž². º ±©°®ª ¶³¢²¢ ¯¶, ±©½¸¥ ±®²¿, ª ¢ª¡µª½, ¢©°ª¬½¸³½ ±ª ³¦  ¬²¿. º ±©°®ª ¬¬¥ °¡®½¦²¿ ¦³¥, ±¥ª¡½¸¥ ¢ ¶ª²°°º ¯² ² ²¡¾, ®ªŒ¿ ¶²¡º ²¢ª²¿ ¥ ²³± ±ª ²²³±®°ªª.\n\nº ©¡º®ª ¼²ª ¢¸ª. ¬¦ž ° ©¡º®. † ²±¿ ª© ©¡º²¿¾ ° ±±¦® °¯ ±®¦°ªþ ³¬."
+ lodhum_death_to_orcs_tooltip:0 "§Y‰¾²¿§! © ª±®¿©¢®ª Œ°ª §YÏº©²¿ ¬¢§!(§Y[Root.orcrend_natives_counter.GetValue]/5§!)"
+ lodhum_in_memory_title:0 "Ï ±¯¾²¿  °ž¯"
+ lodhum_in_memory_desc:0 "…ª¯°ª¯ ¦°ž¯ ¬® ¢¬ °©¦ ‚ª° ¬¦ž ²³±ª® ¢ …¯ª°ºþ Û¡². ‰® ° °ª¬¥¦ ° ¢ª¦® ®°µ ª®ª ¦³¥¥ ¶®¢¬.\n\ƒ³¥ª¯ ¦°ž¯ °¬®¿¬ ¦¾²ª®²ªþ °©¦, ¶®¢¬ ±Œž® ¬¢©¿ ¢² ¢¦® ˆ¦³¯. ‰¢ºþ ª ¦ª°²¢°°ºþ ¶®¢¬, ¶² ¢ª¦®ª ¯°¥ª ª© °. ¦ª°²¢°°ºþ ¶®¢¬, ¶² ±¡³¦ª® °, ±¬¢® °, ±ª¢ž® ° ¬ °¢þ ³¦¿¡, ¶² ¯º ®ªŒ¿ °¶ª°¯ ©°¢²¿. ° ¡º® ±¢º¯ ¶®¢¬¯ ¢¦® ˆ¦³¯, ° ¦¨ ®ª ²®¿°º ° ²¢®¾½² ª ¦¾²þ ¶²ª ²¥, ¬¯ ° ¡º®, °ª ¡³¦³² ±®©°º °Œ¬þ ²¢¦º°. ƒ¢þ² ¨ ¢º¥®¾°¯ ° ¢² ª ±ª¥®ª¯ ª ½¦!"
+
+
+ #3b
+ lodhum_sheathed_title:0 "¬°µ ¢ °¨°"
+ lodhum_sheathed_desc:0 "«Û¢²ª²  ° ¬¢¢þ ¨²¢º\n   Ï ²ž¯°þ ¥®³¡ª° ±¸,\n‰³²¿ ° ¯®¬°² ¢ ¦µ ¡ª²¢º,\n    ©¡º²¿ °¯ ¢þ ³¦®.\n\n¶ ¢°ž²¾ ¢ ¢ª °¨°º,\n   ‰³²¿ ª ¢ ¢²¬³ ¢ž²¾ ¦³.\n‰¦ºŒ¬³ ¦®²¿ ¦®¨°\n  €¬°¶°ºþ ¦µ ²³¬.\n\n‰³²¿ ª ¨¦° ¦®¾ ¶ª\n   Ï¬¢¾ ²¿¯ ¥º,\n   ¬¦ž ¢±¯°ª¯ ¶ª\n   † ²¢ª¯ ±³²¿ ©°ª.»\n— Ô²ª²¢°ª ˆ¦ €ªª°, ©¬©°°¾ [Root.GetTitleTV] ±® ²¶ž²  ²¯, ¶² ¬¢ ° ²®¿ ¢ ‚®³®¿ ª …¯ª°¯ ±¦®."
+ lodhum_sheathed_tooltip:0 "§Y¬¦ž§! ±²°² ¦¢²¿ ¡°³º ±ª ¢þ°  ¬¯ª ª Œ°ª §YÏº©²¿ ¬¢§! ²°² °¦²³±°"
+ lodhum_warm_embrace_title:0 "Ùž±®ºþ ±ªž¯"
+ lodhum_warm_embrace_desc:0 "º ¦®¥ ²®ª¿ ¦²ª¶¿ °Œ¥ ²¬³¸¥ ±®¨°ª¾. Ï °Œª ²°ª¬ ª ¦³©¿¾ ¢ €³®¢ ª ‚®³®¿ ¯º ¢ª¦ª¯ ¡© ¡³¦³¸¥ ¬ ¬²¯³ ²ª² ²¯ª²¿¾.\n\n‰¢°²¿ — ¢¨¦¡° ª ¶³¨¦ °¯ ¯², ³ ° °² °ª¬¬¥ ¨®°ª¾ ±¢ª²¿ ª¯. ‰¼²¯³, ®³¶Œ ¢¥ ¡³¦² °ª²¿ ²ž±®º ²°Œ°ª¾  °Œª¯ª ¦³©¿¾¯ª ª ½©°ª¬¯ª, ¡²¾ ²¬ ¨ °¦ ©¬®½¶°ª¯ °¢º ½©¢. Ù¬ª¯ ¡©¯ ¯º ±®³¶ª¯ ¢º¥¦º ¯ª ±¢°²ª, ª©¡¥¾ ²³¦°²þ ¬¬³±µªª ª ³¨¢ ©¢¢°ª¾."
+
+
+
+ #4
+ lodhum_other_hold_title:0 "ƒ³¥¾ ²¢¦º°¾"
+ lodhum_other_hold_desc:0 "¬°µ ¯º ²¬º®ª °¢³½ ²¢¦º°½ ¢ …¯ª°¯ ‰¦®! ¬ ª ¯º, ¥-¦²³° ¯¥ ±²¾²¿ ¢¬. Ï¨°, ¶²¡º ¢ ¦¢´º, °©¢ªª¯ ² ¶¥ ª®ª ²¢¦º°ª, ¡ª®ª¿ ¦ª°º¯ °¦¯ ¶²¡º ¢°³²¿ °Œ ¦¯.\n\²±¢ª¯ ¦®¥µª½ ¶²¡º ¢¦°¢ª²¿ ª ±ª¦ª°ª²¿¾ ¬ °¯ ¬¬ ¦ª°ºþ °¦ ±¦ ®ªµ¯ ¢®ª¶þŒ¥ ª±º²°ª¾ °Œþ ¼±ª: ¢©¨¦°ª¾ ƒ¢¢."
+
+ #4b
+ lodhum_love_not_weak_title:0 "ˆ½¡¢¿ — ° ®¡²¿"
+ lodhum_love_not_weak_desc:0 "¬¡®°ª¾ ¥-¦²³° ¢ž ¸ž ©¢°¾² ³ ° ¢ ³Œ. °ª °©¢®ª ° ®¡º¯ª ±²¯³, ¶² ¯º ¶ª²º¢¯ ° ®½¡¢¿, °¯²¾ ° ², ¶² ª¯°° ®½¡¢¿ ±¢® °Œ³ ²¢¦º°½ ¬¢©¿ ¢¬. ˆ½¡¢¿ ¢® ‚ª°  °¯ª ª ®½¡¢¿ ±ª¢® ° ¬ ¢¡¨¦°ª½ ƒ¢¢.\n\n®¯©°º ¦¢´º °±¢º, ° ¯º ¯¨¯ ¡³¶ª²¿ ª. ˆ½¡¢¿ ° ²®¿¬ ©²¢®¾² ° ¡º²¿ ª®¿°º¯ª ¦ª ¦³¥ª, ° ª ±¬©º¢²¿ ®¡ª°³ ¦ª ¦³¥ª. ®¯©°º ¦¢´º ª¯½² ±¢, ª ¯º ±¬¨¯ ª¯ ¬¬¢ ª¯²¿ ¢²."
+ lodhum_what_connects_title:0 "° ², ¶² ¢¾©º¢² °"
+ lodhum_what_connects_desc:0 "¥-¦²³° ¢©¨¦ž°. Ù¢¦º°¾ ¢°¢¿ ¢º²³±² ª¾½¸ª¯ ¯¾¬¯ ƒ¢¢. ˆªŒ¿ ²³¦ ¡ª °Œª °¦¢ ±©¢®ª® ¼²¯³ ®³¶ª²¿¾.\n\nº ©¦®ª ¯², ¥¦ ¢©®½¡®°°º, ¬¬ ª© ¥°²¢º, ²¬ ª ª ª© ®¯©°º ¦¢´¢, ¯¥³² ¡º²¿ ¢¯². ‰³²¿ ¼² ©°¾® ¢¯¾ ª ³ª®ª¾, ²±¿ °ª ±°ª¯½², ¶² ±©°¿ °ª ®¡º.  ¢¯² ¯º ª®¿° ²¢¦þŒ¥ ®¯©."
+ lodhum_what_connects_tooltip:0 "¨¦¾ ±¢ª°µª¾ ¬³®¿²³º §Y®¯©°º ¦¢´¢§! ±®³¶ª² ¯¦ª´ª¬² '§Y¯±°µªª§!' ° §Y30 ®²§!, ¦½¸ªþ ®¦³½¸ª ¼´´¬²º:\n²°º ¡±¾¦¬ª: §G-2.50§!"
+
+ #5
+ lodhum_restore_hold_title:0 "Ï²°¢ª²¿ °Œ³ ²¢¦º°½"
+ lodhum_restore_hold_desc:0 "Ï¬¯ª ¢¦® ˆ¦³¯ ¡º® ª©®ª¢° ² ¢°Œ°¥ ¯ª, ª, ¬ ¨®°ª½, ¼²ª ²®²ª¾ ±ª°®ª °Œ¯³ ¦¯³ ²¥°µª½ ª ³±¦¬. ƒ¢° ±Œ®ª ¦°ª, ¬¥¦ ¢©®½¡®°°º  ¢¥ ƒ¢¢ ¥³®¾®ª ± °Œª¯ ±¬° ³¬Œ°°º¯ ©®¯, ¢º¨¾ ®½¡¢¿ ¦³¥ ¦³¥³ ª ¯ª³ ¢¬³¥.\n\nº ¦®¨°º ±¦¥²¢ª²¿¾ ¬ ¦°½, ¬¥¦ ¢ž ¼² ¢°ž²¾. ‰²ª² ©®º! ¶ª²ª² ®¨ª! ¢¦® ˆ¦³¯ ²°² ¯²¯, ¦þ²¢ª²®¿° ¦²þ°º¯ °©º¢²¿¾ ¢ª¯ ª¯°¯!"
+ lodhum_pure_heart_title:0 "Ìª²º ¦µ¯"
+ lodhum_pure_heart_desc:0 "ƒ¢¢ ²® ³¨½¸ª¯ ¯²¯. ¬ª, ¥¡®ª°º ª ¦³¥ª °©þ®ª¢º ©¦°ª¾ ¥®³¡ª° ±®¨ª®ª ¡ ±³²¿ ¢ °Œ ¦¢°ªþ ¦¯. Ù®¿¬ ²¢¦º°¾ ¶ª²º ¦µ¯ ª ¡¹¦ª°ž°°º ¡²¿½ ¯¨² ¦¨ °¦¾²¿¾ ¥ ¢¡¨¦°ª.\n\n ¶²¿½, ¯º ª °ž¯ ®½¡¢¿ ¢ °Œª ¦µ, ª ¡¹¦°º µ®¿½, ¶² ° °¯ ±¦ª®. Ð©°¡©°º ¥³±±º ª ¬®ª¬ª °Œþ ²¢¦º°ª ±¡¸®ª, ¶² ¯º ±®³¶ª¯ ª ¢µ®³½ ±¦¦¨¬³ ¢ ¢¡¨¦°ªª ƒ¢¢."
+ lodhum_up_railway_title:0 "Ï¢ ± ±³²¾¯"
+ lodhum_up_railway_desc:0 "º °¶®ª ª®¦¢²¿ ¢²¬ ± °±¢®°ª½ ¬ ²º¯ ±³²¾¯, ¢¦³¸ª¯ ¬ ‚ €³¦³. ¥¦-² ° ¡º® µ°²¯ ª°¦³²ª®¿°þ ¯¸ª, ª, °¬®¿¬ °¯ ª©¢²°, ¯¨¦³ °Œª¯ª ²¢¦º°¾¯ª °¦ª²¾ ¥®¢°ºþ, ª ¢©¯¨° ¦ª°²¢°°ºþ, ±³²¿ ¢ …¯ª°ºþ ‰¦® — ‚¦.\n\n®ª ¯º ©þ¯ž¯ ±¦ ¢ …¯ª°ºþ ‰¦®, ¯º ³¦²¢ª¯¾, ¶² ¥¡®ª°º ª ¬ª ° ¦¡³²¾ ¦ °Œ¥ ¦¯."
+ lodhum_surface_dwarves_title:0 "ƒ¢´º ±¢°²ª"
+ lodhum_surface_dwarves_desc:0 "™²ª ¦¢´º ° ²¬ª ¬¬ ¯º. °ª ° ±ªŒ®ª ª© ¬¬þ-°ª¡³¦¿ ¥°þ ²¢¦º°ª, ¦¨¢Œþ¾ ±²ª¢ ¬¢,  ¾¢®¾½²¾ ±²¯¬¯ª ², ¬² ¡¨® ° ±¢°²¿ © ±Œ¦Œª ¢¬.\n\n°ª ©¢³² ¡¾ ¡¾°°º¯ª ¦¢´¯ª ¢ ¶²¿ ©®, ª© ¬²¥ °ª ±ªŒ®ª.  ±® ¡º²ª¾, ¶² ¢º¢® ª© ƒ¢¢ ¯°¥ ²º¾¶ ¬¢, °ª, ¬¬ ª, ± ¢ª¦ª¯²ª, ¯°¥ª ¦³¥ª, ¢°³®ª¿ ¶²¡º ²¢¢²¿ ¦ª°³ ¢ª ±¦¬¢.\n\n‰¬¨¯ ¨ ª¯, ¶² ³ °ª ²¿ ¦¯, ¢ ¬²ºþ ¯¨° ¢°³²¿¾. ƒ¯, ¬²ºþ ¢²²ª² ª ®½¡¢°º¯ª ¡¹¾²ª¾¯ª ª ±ª¯² ¬ ¢¦°ª½ ª ª¦ª ª ¡© ¯º®ª."
+ lodhum_their_tomb_title:0 "…¦¿ ¡³¦² ª ¯¥ª®"
+ lodhum_their_tomb_desc:0 "º ©¸ª²ª®ª ±¦ ¢ ²®¿°þ ƒ¢¢. ° ¦®¨° ¡º²¿ ©¸ª¸ž° ª °¾²¿¾ ² ¢²¨°ª¾ ¬¢ ª ¥¡®ª°¢ ¢¥®³¡¿ °Œª ¥°ªµ ¶²¡º ° ¦²¿ ª¯ ³¶ª°ª²¿ ³¢°¿ , ±ª¢¦Œªþ ¬ ³±¦¬³ °Œ¥ °¦.\n\n¥¦ ¥º ©±¶²°º, ¯º ¯¨¯ ª©¡¢ª²¿¾ ² ²¢Œª¾ ¬¢ ª ¥¡®ª°¢ …¯ª°¥ ‰¦®, ®ªŒª¢Œª¾ ¢¾¬þ °¦¨¦º ° ±±®°°ª. º ³¡¦ª¯¾, ¶² ±¸º ¡²¾²¾ ¢ ª ¯¥ª®º."
+ lodhum_no_orc_mountain_title:0 "ª¬¬ª ¬¢ ±¦ ¢¦¯ª ¥"
+ lodhum_no_orc_mountain_desc:0 "¨¦ºþ ¬, ¡³¦¿ ² ¯³¨¶ª°, ¨°¸ª° ª ¦¨ ª ²¦¿¾, ±¥ª¡. …¯ª°ºþ ‰¦® ¶ª¸°.\n\n‰³²¿ °¬²º ¥¡®ª°¬ª ¡°¦º ¦ ª ± ¡®³¨¦½² ¢ ¬º²º ª®ª ©³Œ°°º ¬µª¾ ±¸, ¥®¢°þ ³¥©º, ¬¢, ¡®¿Œ °². ²°º° …¯ª°ºþ ±¦® ¶ª² ª ¯º ¦®®ª °²®¿¬ Œ³½ ¡²³, ¶² ¦¨ ‚ª° ¥¦ª®¾ ¡º °¯ª. ƒ¢þ² °®¦ª¯¾ ª¾°ª¯ ¼²¥ ®¢°¥ ¦® ª ±®¦¯ª °Œ¥ ¦® ®½¡¢ª."
+ lodhum_no_orc_mountain_tooltip:0 "² ±¢ª°µªþ  §Y¶¿ª¯ ¡®¿Œª°²¢¯§! ª®ª §Y¯°¿Œª°²¢¯§!"
+
+ #fey1
+ lodhum_feywoods_title:0 "ˆ ´þ"
+ lodhum_feywoods_desc:0 "™®¿´º ‚®³®¿¾ ©²¾®ª ¢ ¯²®¿°þ ¢²¬  °Œª¯ ¬¢°º¯ª ¢¥¯ª, ¬¯ª. ®ž°°º ´¾¯ª ¶¸ª ¯¥³² ¡º²¿ ±°º, ° ¯º ¡¾©°º ª¯ ±¯¶¿. º °¬ ¡ª¯ ±¢ ±®¿²¢ ¢ ‚®³®¿ ¶²¡º ±¦²¢ª²¿ ±¦¦¨¬³ ¼®¿´¯, ¬²¾ °³¨° ª¯ ¢ ¼²þ ¡¿¡."
+ lodhum_feywoods_tooltip:0 "Ï®¦² ± ¬þ°þ ¯ §Y²¯¾§! ±¢ª°µª¾¯ª ¢ §Y‚² ²®§!"
+ lodhum_feywoods_tooltip2:0 "¡¹¾¢ª² ¢þ°³ §Y[This.Overlord.GetName]§! ª ¯º ¡³¦¯ ±ª©¢°º ±¯¶¿ ª¯!"
+ lodhum_feywoods_tooltip3:0 "‰®³¶ª² 25£adm£ ª 20¤ © ¬¨¦³½ ±¢ª°µª½ ¢ §Y‚®³®¿§! ª ±¦² ª §YÔ®® þ²§!"
+ lodhum_feywoods_tooltip4:0 "¡°³¨ª² ¬¨¦³½ ±¢ª°µª½ ¢ §Y‚®³®¿§!"
+
+ lodhum_united_greentide_title:0 "Ï¯² ±²ª¢ …®ž°þ ˆ¢ª°º"
+ lodhum_united_greentide_desc:0 "™®¿´ ª ¦¢´ ¦®¨°º ²¾²¿ ¡¬  ¡¬ ±²ª¢ °± ¦ ¬¢ ª ¥¡®ª°¢. º ¦®¨°º ¬¢²¿ ¢¬¢º ³©º ¦³¨¡º ª ¢°²ª ª ±¦¦¨ª¢²¿ ¦³¥ ¦³¥ ¦ª ¡©±°²ª °Œª ¦°º ©¯®¿."
+ lodhum_united_greentide_tooltip:0 "†¯² ¯¦ª´ª¬² §Y³®³¶Œ°°º ²°Œ°ª¾§!  ©°¶°ª¯ §G+100§!"
+ lodhum_united_greentide_tooltip2:0 "²¬º¢² Œ°ª §Y¢¾©²¿ ¦ª°²¢§! decision"
+ lodhum_safe_grove_title:0 "€©±°ºþ ¥²"
+ lodhum_safe_grove_desc:0 "®ª ¯º ¡¹¦ª°ª¯ ¢½ ®½¡¢¿ ¬ ¦¯³ °Œª ¼®¿´ªþ¬ª ½©°ª¬¢, ¯º ±®³¶ª¯ ¡©±°ºþ ±² ¦®¾ ¦þ²¢ªþ ¶²¡º ²¬¢²¿ ²²¬ª ¬¢ ‚®³®¿¾."
+ lodhum_safe_grove_tooltip:0 "º ±®³¶ª¯ §Y±²¾°°º ±²°©ªª§! ° ¢ ±¢ª°µªª §Y‚®³®¿¾§!, ¬²º¯ª ° ¢®¦½² §Y®°º ¼®¿´º§!"
+ lodhum_helping_hand_title:0 "Ð³¬ ±¯¸ª"
+ lodhum_helping_hand_desc:0 "ˆ°º ¼®¿´º ±ª±¡ª®ª¿ ¬ ¢º¨ª¢°ª½ ¦ª ±°²þ ‚®³®¿¾, ª ª ¦ªµª±®ª° ª ¡¢º °¢º¬ª ¦²þ°º ³¢¨°ª¾. † ³¨ª ª ª°²³¯°²º, ¦°¬, ¡©°¦ž¨° ³²®ª ª ª¯½² ²¢²ª²®¿° ¬¶²¢.\n\nº ¦®¨°º ¡±¶ª²¿ ª °²¾¸þ ¦¢´ªþ¬þ ¼¬ª±ª¢¬þ ª °±¢ª²¿ ª ° ±³²¿ ¢¯°°º °³¶°º ¦²ª¨°ªþ."
+ lodhum_woodland_trade_title:0 "ˆ°¾ ²¥¢®¾"
+ lodhum_woodland_trade_desc:0 "Ù±¿ ¬¥¦ °Œª ®°º ¼®¿´º-½©°ª¬ª ¢°¢¿ ±¬©®ª ¡¾, °ª — ±®©°ºþ ²¥¢ºþ ±²°ž. ‚®³®¿ ±¦®¥² ¡ª®¿°º ³º, °¦²³±°º °¯ ¢ °Œª ¥ ª …¯ª°ºþ ‰¦® ¯¨² ±¦²¢ª²¿ ¯²®®, ²³½ °¢²¬³ ¬²¥ ¸³¸½² ®°º ¼®¿´º."
+
+ #fey2
+ lodhum_no_orc_woods_title:0 "ª¬¬ª ¬¢ ±¦ ¬°¯ª ¦¢"
+ lodhum_no_orc_woods_desc:0 "Ï ±®¯° ¬¢ ª ¥¡®ª°¢ ¢ ‚®³®¿ ¦®¨°º ¡º²¿ ³°ª¶²¨°º. ƒ¢¢ ¡© ¬°µ ²¦® ² ª ³¬, ª ¡®¥¦¾ °Œª¯ ¥°½ ª ²®ª, ®°º ¼®¿´º ° ª±º²½² ²þ ¨ ³¦¿¡º."
+ lodhum_united_realm_title:0 "¡¹¦ª°ž°° ¢®¦°ª"
+ lodhum_united_realm_desc:0 "™®¿´º ‚®³®¿¾ ¡¹¦ª°ª®ª¿ ±¦ ¡¸ª¯ ©°¯°¯ ª ©¦®ª °¢³½ °µª½, ª°¢. Û²¾ ²º ¬®°º ¢¦ª°ª®ª¿, ¦¨¢ ²ž²¾ ¬®²þ.\n\n¦° ´¬µª¾ ¶² ¢©¢²ª²¿¾ ¬ ²º¯ ±¾¦¬¯ ª ª©®ª¢²¿ ‚®³®¿ ² ²®¿°¥ ¯ª. ¦°¬ ¦³¥¾ ´¬µª¾ ²¬©º¢²¾ ² ¼²þ ²¥°µªª. °ª ¢ª¦¾² ª°¢ °²¾¸þ °µªþ, ª®þ ¦¡ ¢ ¯ª. ƒ³¨¡ ¯¨¦³ ¢¦® ˆ¦³¯¯ ª ª°¢¯ ²® ¦®¾ °ª ª¯¢®¯, ±ª¯¯ ²¥, ¶² ¯ª © ¥°ªµ¯ª ‚®³®¿¾ ¯¨² ±¦®¨ª²¿ ª¯."
+ lodhum_united_realm_tooltip:0 " ³¸²¢³² ¦³¥ª °µªþ §Yˆ°º ¼®¿´¢§!"
+ lodhum_united_realm_tooltip2:0 "§Yª°¢ ¡³¦² ²¯ª²¿¾ ¬ ±®ª²ª¬ ²¬º²º ¥°ªµ§!"
+
+ #bulwar4
+ lodhum_safe_passage_title:0 "€©±°ºþ ±¦"
+ lodhum_safe_passage_desc:0 "Ð²¾°ª ¯¨¦³ °Œþ ²°þ ª ‚®¬®ª¯ ¡®¿Œ, ¶¯ ²®¿ ¡º. ² ²ª²ªª ‚®¯³¦¢þ ‰¸º ¦ ¥°ªµ ‚®¬®ª, ¬³±µº ª ¦ª±®¯²º ¯¥³² ±þ²ª ©°¶ª²®¿°º ²ª²ªª, ° ¬°²®®ª³¯°º °¯ª ª®ª ª¯ª, °®ž°°º ©¡þ°ª¬¯ª, ¡°¦ª²¯ª ª, ³¨ ¢¥, ¥¡®ª°¯ª.\n\nº ¦®¨°º ³°ª¶²¨ª²¿ ©¨°ª ª ±©¢®ª²¿ ª ©¯®¾¯ ±²ª²¿¾ ¦ °Œª ¥°ªµ. ™² ¦² ¥®¬®¿µ¯ ¡®¿Œªþ ±² ¦®¾ ¨ª©°ª ª ¦º°ª¾ © ±¦®¯ª ª ²°º ¥°º ¢®¦°ªþ."
+
+ #bulwar5
+ lodhum_slaves_title:0 "Ð¡º ¢ ¢ž¯ ¬¯ ª¯°ª"
+ lodhum_slaves_desc:0 "ˆ½¦ª ‚®¬®ª ¡º®ª ³¥°²°º ª®ª ±¡¨¦°º ª ¦¾¯ª.  ±²¾¨°ªª ¯°¥ª ¼± ¥±ªª ‚±ª®° ©¾®ª ¦¢°ª ª ¥¦, ¢³¾ ®½¦þ ¦®¾ ¢ª ¥°ž©¦, ª®ª ±©¢®¾®ª ©¢²¶ª¬¯ ±þ²ª ¶© ±¦ ª ±³²Œ²¿ ª ©¯®ª. …²¯ ±ªŒ®ª ƒ¨ ª ®°¶°º ¼®¿´º, ³¬®ª ª ®ª¥ª½, ª¬©ª®ª ž ¦ª ¢þ ¢º¥¦º, ±¦¢®¾®ª ¶®¢¶¬ª ¯¥¢ ª ±ª¢ª®ª ¯¥ª½ ¼®¿´ªþ¬¯³ ¦³, ²¡¢ ¯¸° ¦²¢ ¯©¸ª²º. ¬°µ ¥¡®ª°º, ¢º¢¢Œª¾ ª© ‚®¥³°¦¢þ ‰¸º ª ÷©²³°¦ª, °¶¢ ±ª¦, ª©¢²°ºþ ¬¬ ƒ¾²ª®²ª¾ ©°ª¾.\n\nº ±¡°º ¢¡¦ª²¿ ¼²ª ®½¦þ ² ³¥©º ¥¡®ª°¢, ±¯¶¿ ¥®¬®¿µ¯ ©¦²¿ ¯¸° ª ²¡ª®¿° ¥³¦²¢ ª ³¦²¢ª²¿¾, ¶² ¥±ªª ° ±¦²¢®¾½² ³¥©³ ¬³¨½¸ª¯ ¥¯."
+ lodhum_slaves_tooltip:0 "Ï®¦² ± ¬þ°þ ¯ §Y3§! ±¢ª°µª¾¯ª ¢ ¡®²¾ §YÏ°ªþ ‚®¬®ª§! ª®ª §Y‚®¬®ª§!"
+ lodhum_slaves_tooltip2:0 "‰®³¶ª² 25£adm£ ª 20¤ © ¬¨¦³½ ±¢ª°µª½ ¢ §Y€³®¢§! ª ±¦² ª §Y‚®¬®ª³§!"
+ lodhum_slaves_tooltip3:0 "²¬² Œ°ª §Y¢¾©²¿ ®½¡¢¿§!"
+ lodhum_free_oppressed_title:0 "¢¡¦ª²¿ ³¥°²ž°°º"
+ lodhum_free_oppressed_desc:0 "‚®¬®¿µº ¢¡¦°º, ¢¡¨¦°º ² ¯°¥¶ª®°°º ³¥©, ±¦²¶ª¢½¸ª ª ²®²ª¾¯ª ª .\n\n™²² ±¦¢ª¥ ®½¡¢ª, ¦°¬, ¸ž ° ¬°¶°. ‰³²¿ ³ ¥®¬®¿µ¢ ²±¿ ²¿ ¦¯, ¯°¥ª ª© ª ²¶²¢°°ª¬¢ ²½²¾ ¢ °¢¡¦. º ¡³¦¯ ° ª ²° ²¬ ¨, ¬¬ ‚ª° ¡º® ° °Œþ. ƒ ¯¥ ¬°µ."
+ lodhum_end_raids_title:0 "‰¬²ª²¿ °®ž²º"
+ lodhum_end_raids_desc:0 "Û®¯¢º ¥±ªª ¥¡ª®ª ¥®¬®¿¬ªþ °¦  °©±¾¯¾²°º ¢¯ž°, ©¡ª¾ ©¯®ª, ¬²º ©°ª¯®ª, ®½¦þ, ¬²º °ª ±ª¸®ª ª ±ª¢®ª¿  °ª¯ª, ©²¯ ²±³¬¾, ³¡ª¢¾ ª®ª ²¢®¾¾ ¢ ¢ª °².\n\nƒ¢ ª© ¼²ª ²ž ¢ª°²¢ ¬°¶ª¢½²¾ ±²þ ®½¡ª¯º,  ±®¦°ªþ ©®ª² ®½¡¾¸ª. ƒ¢®¿° ¼²¥. ¦ ‚®¬®ª ²¦® ¦²²¶°! ®ž²º ¦®¨°º ±¬²ª²¿¾!"
+
+ #######part2#######
+ #1
+ lodhum_dwarven_expertise_title:0 "ƒ¢´ªþ¬¾ ±º²°²¿"
+ lodhum_dwarven_expertise_desc:0 "ª°¢ — ¦¯ ¦®¾ ¦¥µ°°º Œ² ª°ª°º ª °¢¾²° ¡¥²º ©®²º Œ² †´®. ˆ°º ¼®¿´º, ¦°¬, ° ¡®¦½² °Œª¯ ±º²¯ ¼´´¬²ª¢°¥ Œ²ž²¢.\n\n ¶²¿½ ¦®¾ °ª, ¯°¥ª ¦¢´º ¡³¦³² ¦º ±¯¶¿ ª¯ ¢ ¼²ª °¶ª°°ª¾."
+ lodhum_kindest_neighbor_title:0 "ƒ¡þŒªþ ¦"
+ lodhum_kindest_neighbor_desc:0 "ª°¢ ²¬º®¾ ¦®¾ ¢°Œ°ª ²¥¢µ¢ ª ²±¿ ¯°¥ª ª© °ª ²¬½²¾ ¢ ‚®³®¿, ±¾¥¾¿ ° ¢½ ¦®½ ¥ ³¢. ¦°¬ ¡®¥¦¾ °Œþ ª²ªª ¢¯²°þ ¦³¨¡º, ¯º ±²¾°° ±®³¶¯ ²¥¢ ±ª¯³¸²¢ ± ¢°°ª½  ª°©¯µ¯ª."
+
+ #1b
+ lodhum_respite_title:0 "‰¦ºŒ¬ ² ´þ"
+ lodhum_respite_desc:0 "™®¿´º ‚®³®¿¾ Œ ±ª±¡ª®ª¿ ¬ ¨ª©°ª ¦ª ´þ. ¦°¬, ¼² °±² ³¸²¢¢°ª ©²¢®¾² °¬²º ¼®¿´¢ ª¬²¿ ±¬¾ ª ¯¦ª²µªª ¢ ±¸ ¢¬³¥ Ï¬® Ô¬¯¦ª ±¨¦ ¢©¢¸°ª¾ ¢ ¶¸³. ¬²º ¦¨ Œª®ª ²¿ ©¦¿, ©¦¢¾ ¯®°¿¬ª ±ª²°ª¸ ¦®¾ ª¸³¸ª ±¦ºŒ¬ª ² ´þ."
+ lodhum_wooden_horsies_title:0 "ƒ¢¾°°º ®Œ¦¬ª"
+ lodhum_wooden_horsies_desc:0 "†©¡º²¬ ¢º¬¬¶²¢°°¥ ¦¢, ¬² ¯º ±®³¶¯ ª© ª°¢, ¢¦°¢ª® ¯°¥ª ¯®°°ª¬¢ Ï¬® Ô¬¯¦ª. Ô¯º¯ ±±³®¾°º¯ ª±®¿©¢°ª¯ ²® ª©¥²¢®°ª ¦²¬ª ª¥³Œ¬.\n\n™²ª °¢º ª¥³Œ¶°º ¦® ¯² ©¦½² ª¬³°º ¥®¢®¯¬ª ª ¯ª°²¬, ° ²¬¨ ª ¡® ±²º ¢¸ª ¢¦ ¦¢¾°°º ®Œ¦¬."
+
+ #2
+ lodhum_elven_artisans_title:0 "‰ª¥®ª²¿ ¼®¿´ªþ¬ª ¯®°°ª¬¢"
+ lodhum_elven_artisans_desc:0 "ƒ¢´º ¥¦¾²¾ ©¦°°º¯ª ª¯ª ª©¦®ª¾¯ª, ° °ª¬² ° ¯¨² ¯°¢²¿¾, ¶² ¼®¿´º ©¦½² ²¢°ª¾ ±¨¥ ¬¶²¢ ª ¡°°º¯ ¼®¿´ªþ¬ª¯ ±¡¯. ®ª ¼®¿´ªþ¬ª ª ¦¢´ªþ¬ª ¯² ¯¥³² ²³¦°ª¶²¿, ¯º ²¶° ©¦¦ª¯ Œ¦¢º ° ©¢ª²¿ ¢¯³ ¯ª³."
+ lodhum_mastery_nature_title:0 "‰¢¦²¢ °¦ ±ª¦þ"
+ lodhum_mastery_nature_desc:0 "ˆ°º ¼®¿´º ¥®³¡¬ ¢¾©°°º  ¼®¿´ªþ¬ª¯ª ®¯ª, °ª ²®ª ¼¬±²¯ª ¢ ¢ž¯, ¶² ²ž². ®ª ¯º ±ª¥®ª¯ °¬²º ª© °ª, ª ±º² ²¶° ±¯¨² °Œª¯ °¢º¯ ¢ª°¦®¿°¾¯."
+
+ #2b
+ lodhum_time_peace_title:0 "Ï¯¾ ¦®¾ ¯ª"
+ lodhum_time_peace_desc:0 "¡¹¦ª°°ª ª°¢ ª ¬°®ª¦µª¾ °Œþ ²°º ©°¶², ¶² ¢þ° ²® ¦®¿°ª¯ ¢±¯ª°°ª¯ ¦®¾ ¯°¥ª ¼®¿´¢ ª ¦¢´¢,  ±®¦³½¸ªþ ¬³®¿²³°ºþ ¡¯° ±ª°ž ±µ¢²°ª ª ¢¦® ˆ¦³¯³, ª ª°¢³.\n\nª ¦®® ° ª®¿°."
+ lodhum_time_peace_tooltip:0 "‰ª¡®ª©ª² §G‰µ¢²°ª§! ¢ ¦¢³ ®³¶þ°º §Y¥²§! ° §G+50%§!."
+ lodhum_time_war_title:0 "† ¢¯¾ ¦®¾ ¢þ°º"
+ lodhum_time_war_desc:0 "€ª²¢º, ¢ ¬²º ¯º ¨®ª¿ ±®¶¯ ¬ ±®¶³  ¼®¿´¯ª ²¢ª®ª ®¦ ¬¬ ° °Œþ ¯ªª, ²¬ ª ° ª.\n\nÙ±¿ ª°¥¦ ¯¨° ³¢ª¦²¿, ¬¬ ¯ªª ¢¦® ˆ¦³¯ ª±®¿©³½² ¡º²º² ²¬ª ¼®¿´¢, ±¬ ¯ªª ª°¢ ±ª°¾®ª °¬²º ´¯µªª ©¬º²þ ¡°º.  ¬¯ ¼²¥, ³ ¯°¥ª ¦¢´¢ ²¿ ¡¢þ ²¢ª¸-¼®¿´,  ¬²º¯ª °ª ±Œ®ª ° ¦°³ ¡ª²¢³."
+
+ #3
+ lodhum_mountain_love_title:0 "‚ ®½¡¢ª"
+ lodhum_mountain_love_desc:0 "…¯ª°ºþ ‰¦® ¢ª¦® ¦®¥ª ¢¬ ¬°´®ª¬²¢ ª , ° °ª ±¦Œ®ª ¬ ¬°µ³. €®¥¦¾ °Œª¯ ²°ª¾¯, ¯º ¢¡¦ª®ª ¥ ª ¦®®ª ¥ ¡©±°º¯ ² ¶¿þ ¥°ª®ª.  ¯º ° ¯¥®ª ¡º ¦²ª¶¿ ¼²ª ¢º² ¢ ¦ª°¶¬³.\n\nÔ ±¯¸¿½ ¥®¬®¿µ¢ ª ¥±ªþ €³®¢ ª ®°º ¼®¿´¢ ª°¢, ©¸ª¸½¸ª ° ² ³¥© ±¢°²ª, ¯º ¦þ²¢¢®ª ¶²¡º ©¸ª²ª²¿ ª ¬¬ ² ±°²þ ƒ¢¢, ±¬ª°³¢Œª ¥º ¢ ©³®¿²² …®ž°þ ˆ¢ª°º, ²¬ ª ¦³¥ ² ¦³¥.\n\n‰¼²¯³ ¦ª°²¢°°º¯ ±¢ª®¿°º¯ Œ°ª ¡³¦² ±©¢®ª²¿ ª¯ ª±º²²¿ ¶³¦ ƒ¢¢ ±¦¡° °¯ ¯ª¯. Ð±°ž¯ °Œª ¢² ¦®¾ °Œª ½©°ª¬¢  ±¢°²ª ª ±¬¨¯ ª¯, ª© ¶¥ ¢º¬¢° ®½¡¢¿."
+
+ #4
+ lodhum_usable_soil_title:0 "‰ª¥¦°¾ ±¶¢"
+ lodhum_usable_soil_desc:0 "‰¸º …¯ª°¥ ‰¦® ±®°¾²¾ ¬¢ª¸¯ª: ©®²º¯ª ¨ª®¯ª, ¨®©¯, ¯µ¢²¯ª ª ¯ª´ª®¯.  ¢ ¼²ª ±¸ ° ¢²² ¦°þ ¢¸ª — ¡¥²þ, ±®¦¦°þ ±¶¢º. ¶ªþ ¬¯±² ° ±ª°ª² °³¨°º ©³®¿²²¢,  ²³±º ° ª®ª ±©¦° ¬°¶²¾.\n\n€® ¦®¥¢¯°° Œ°ª °¦ª²¾ ¢ €³®¢. ™² ¡¥²¾ ©¯®¾, ¶¿ª ±®¾ Œ½²¾ ¬¯ª, °³¸ª¯ª ª® ¦¾²¬¢ ©¯®¿. ‹²ª¯ ¦®¬³  ©°¡©°º¯ª ª¥¬¯ª €³®¢: ¨ž®² ¦¢´ªþ¬ ©®² ¢ ¡¯° ° ¡¥² ³¥®ª°ª² ©®² €³®¢\n\n‹®³¶Œ°ª ¢º¡°°º ¦®¾ ¼²¥ ±¬² ±¸ ©þ¯ž² ¢¯¾ ª ³º ³¸²¢³½¸ª ²®þ, ° ° ¬³±ª² ¡¾."
+ lodhum_vineyards_title:0 "‰¸°º ¢ª°¦®¿°ª"
+ lodhum_vineyards_desc:0 "Ïª°, °©¢ªª¯ ² ¢¥ ±ª¨¦°ª¾ ª ², ¬² ¥ ¢º±ª¢², ¢¥¦ ¡º® ª¯¢®¯ ®½¡¢ª ª ¯°²ª¬ª. ‰¼²¯³ ¦ª°²¢°°º¯ ±¦¦¾¸ª¯ ¦®¾ ° Œ¥¯ ²°² ±¢¸°ª °Œª °¢º ±¸°º ´¯ ¢ ±²°²¢, ¥¦ ¯¨° ¢º¸ª¢²¿ °¢ª¦°°º °ª¥¦ ¢ ¯ª ² ¢ª°. ¦°¬ ¯º ° ´¯º ± ±ª¨¦°ª½ ª®ª ±´ªª. Œª¯ ¡¶ª¯ ±²¡³²¾ ¢¯¾ ¶²¡º °¡²¿¾ °¡¦ª¯¥ ±º². ¦°¬ ¼²² ±¦¢ª¥ ®½¡¢ª ±©¢®ª² ¢©®½¡®°°º¯ °Œþ ²¢¦º°ª °®¨¦²¿¾ ¢ª°¯, ©¦°°º¯ ª© ¶ª²þ ®½¡¢ª."
+
+ #5
+ lodhum_second_chance_title:0 "Ï²þ Œ°"
+ lodhum_second_chance_desc:0 "Ì¯ ¡®¿Œ ¯º ³©°ž¯  €³®¢, ²¯ ¡®¿Œ ¢±¢ ° ¢º©º¢². ‚¡®ª°º, ¼®¿´º, ®½¦ª, ¥°®®º ª ¥±ªª — ¢ °ª °©º¢½² ¼² ¯² ¢ª¯ ¦¯¯. ¦°¬ ¥±ªª, ¢²¶°°º °¯ª ¢ ‚®¬®ª ¬¨³²¾ ¡® ©³¯°º¯ª ª ±°ª¯½¸ª¯ª, ¶¯ ¬ª ª®ª ¥¡®ª°º. º ¦®¨°º ²¯ª²¿¾ ¬ ®³¶Œ¯³ ±°ª¯°ª½ ¼²ª ¥±ªþ ª ©¸ª²ª²¿ ª ² ¢º¯ª°ª¾.\n\nÏ ¬°¶°¯ ª²¥, ¬°¶°þ µ®¿½ ª ¬µªþ ¾¢®¾²¾ ²¯®°ª °þ²ª ±²°ž. „®°ª, ±°¾²° ®½¡¯³ ¦¢´³ ¢¦® ˆ¦³¯."
+ lodhum_monsters_title:0 "€®¿Œ ° ¶³¦¢ª¸"
+ lodhum_monsters_desc:0 "‚±ªª ‚±ª®° °¶®ª ±ª°ª¯²¿ °Œª ¢²º, ° ž ©¢Œ°ª ±²¡³² ¡®¿Œ¥ ¢°ª¾, ¶¯ ±¡°º ±¦®¨ª²¿ ¦ª±®¯²ª¶¬¾ ¯ªª¾ ª®ª ¬¢° ²¥¢µ¢.\n\n¯ °³¨° °°¾²¿ ¥³±±³ ³¯®º ¢²°ª¬¢ ª ²±¢ª²¿ ª ¢ ‚±ª®°, ¶²¡º ±¯¶¿ ª¯ ¢ ¥³¦²¢°°º ¦® ª ±¦¢ª°³²¿ ¡¸²¢ ¢±ž¦. ™² ¥³±± °³¶ª² ±¢ª²®¿°ªµ ¥±ªþ °¡¦ª¯º¯ °¢º¬¯, ¶²¡º ª ¢ª¦®ª ° ¬¬ ¢¦ª²®þ,  ¬¬ ¢°º."
+ lodhum_monsters_tooltip:0 "§Y‚±ª®°§! ±®³¶ª² §G©°¶ª²®¿°ºþ ±¥§! ¦¯°²ª´ª¬µªª"
+ lodhum_monsters_tooltip2:0 "§Y‚±ª®°§! ¡³¦² ¢¡¨¦ž° ¢ §Y¡®²ª ‚±ª®°§!"
+ lodhum_yesterdays_enemy_title:0 "Ï¶Œ°ªþ ¢¥"
+ lodhum_yesterdays_enemy_desc:0 "Œª ²°ª¾ °¬°µ ±ª°®ª ±®¦º. ‚±ª®° ²±¿ °²¾¸¾ ²°, ¢º²³±½¸¾ ¶®°¯ ¢¯°°¥ ¡¸²¢, ±³²¿ ª ²½²¾ ², ¬² ±ª¦¨ª¢½²¾ ²º ¢©¥®¾¦¢.\n\n‰¼²¯³ ¥±ª¾¯ °³¨° ©¸ª²°ª¬ ° ±¢°²ª, ¢¦¿ ª© °Œª ¥ ¯º ° ¯¨¯ ±¦²¢²ª²¿ ¢¯Œ²®¿²¢ °µªþ €³®¢, ¢º©¢°° ²º¯ª ¡ª¦¯ª. ‰¼²¯³ ¯º ¢¾¨¯ ‚®¬®ª ª ‚±ª®°, ²¯¾¿ ¬ ³²°¢®°ª½ ¯¨¦³ °ª¯ª ¢©ª¯¢º¥¦°¥ ²³¦°ª¶²¢."
+ lodhum_todays_friend_title:0 "Ô¥¦°¾ ²°² ¦³¥¯"
+ lodhum_todays_friend_desc:0 "º ¬¢®ª °¢ª¦°°³½ ¦ª±®¯²ª¶¬³½ ¢°²½³. Ì®¢¬, ¦¢´ ª ¥±ª¾ ¡²½² ¢¯², ¢¾©°°º ¢¯²°þ ®½¡¢¿½ ª ¡¸ª¯ ²¯®°ª¯ ¬ ¢²®¯³ ¡³¦³¸¯³ ¦®¾ ¬¨¦¥.\n\nÔ ª©¯°°ª¯ ¡© ¢þ°º ª ±²°°ª¯ ¥°²®, °¯ ª °Œª¯ ½©°ª¬¯ ²¡³²¾ ±²¾°° ¦±²ª¢²¿¾ ª ¢¯¸²¿ ³°ª¬®¿°º ¢°°º ³¯°ª¾ °Œª . †±®¿©³¾ ¼²³ ¢©¯¨°²¿ ¢¯²°þ ¡²º, ¯º ¦®¨°º ±¬²ª¬¢²¿ ²²¥ªª ª ¡¯°ª¢²¿¾ ª¦¾¯ª ¶²¡º ³¦²¢ª²¿¾, ¶² ¯º ° ¡³¦¯ ²²¢²¿ ² ¢¯°°º ¢°°º ²¬²ª¬ ¢ ¯¯°², ¬¥¦ °Œª ¯ªª ±¬ª°³² ¢þ ¥°ºþ ¦¯."
+
+ #######part3#######
+ #1
+ lodhum_proper_entrance_title:0 "‰¦¦¾¸ªþ ¢¦"
+ lodhum_proper_entrance_desc:0 "‚®¥³°¦¢ ±¸, ¬ ¨®°ª½, ª¯°° ¶² ±¸. ° ¢º¦ª² ° ±¢°²¿, ° ¢ž-²¬ª ±¸.\n\nÌ²¡º ¡±¶ª²¿ ¦²²¶°ºþ ¡¹ž¯ ²¥¢®ª ¯¨¦³ …¯ª°º¯ Û¡²¯ ª €³®¢¯, °¯ ²¡³²¾ ¡±¶ª²¿ ²¢¦º°½ ÷©²³°¦ª, °¬¥¦ ©°¯°ª²³½ ¢ª¯ ¯¯¯, ª ¶² ±¢²ª² ¼²³ ®¢³. ¦°¬ ¡³¦² °¡¦ª¯ ¢²°¢ª²¿ ²º º°¬ª ²¢¦º°ª ª ²¬ ¬¬ ° ¢º¦ª² °³¨³ …¯ª°¥ ‰¦®, °¯ ±ª¦ž²¾ ¡±¶ª²¿ ¦²²¶°³½ ¡°³ ² ³¥© © ²°¯ª °Œª ¶²¥¢."
+ lodhum_proper_path_title:0 "‰¦¦¾¸ªþ ±³²¿"
+ lodhum_proper_path_desc:0 "‰³²¿ ¢ ÷©²³°¦ª ª© ¢¦® Ù³°¥ — ±¬° ©®ª¸. Ù¾°³¸ª¾ ¢ °¡ ±ª¬ª, ©¢¨ª¢½¸ª ¢ª¦º ¢Œª° ®¯¢ ª ¨ª¢±ª°º ¡¥ ƒª¢°®¿¬¥ ¯¾. ‰²¯³ ²º¦°, ¶² ¡®¿Œª°²¢³ ±³²Œ²¢°°ª¬¢ ±ª¦ª²¾ ¦¢ª¥²¿¾ ¶© ¢º¢²°°º ²±º, ¥®³¡¬ª ¢¥ª ª®ª ¦³¥ª ª¬¢°°º ¯Œ³²º, °¾¾ Œ° ±±²¿ ¢ ¦ª¬¬³½ ©¦³.\n\nÔ³¦ª¯ ¢®ª¬³½ ¦¢´ªþ¬³½ ¦¥³ ¶²¡º ², ¬² ¨®½² ¢¶ª½ ³©²¿ ¬²³ ƒ¢¢, ¯¥®ª ¦¡²¿¾ ¦ °¥ ¡©±° ª ¬¯´²°."
+
+
+ #1b
+ lodhum_artillery_title:0 "² ²ª®®ªª"
+ lodhum_artillery_desc:0 "¦°º ¦¢´º ©¦½² ²ª®®ª½ ¢º¶þŒ¥ ¬¶²¢, ± ¯°°ª½ °¬²º ±¢¦¾¸³½ °¢º¬ª ¯þ ²¢¦º° ±³Œ¬ — ¢¦® °©¦. ¬ ¡º ²¯ °ª ¡º®, °ª ¦®½² ²®ª¶°º ±³Œ¬ª ª ¶°¿ ¡®ª©¬ª ¬ °¯, ¢ ²®ª¶ª ² ×°²°º ˆ¦¢.\n\n‰°ž¯ ²³¦ ¶²¿ °Œ¥ ±ª©¢¦²¢ ±³Œ¬ ª ±®³¶ª¯ °¬²º ª© ®³¶Œª ²¢®¢ ¯¦°º ¦¢´¢. º ±®³¶ª¯ ±³Œ¬ª, ¯¦°º ¦¢´º ±®³¶² ©®²,  °Œª ¢¥ª ±®³¶² ±¦¶¬ ² ¦¢´¢ ±¦ ž¢¯ ¬°°¦º."
+ lodhum_tourism_benefits_title:0 "Ù³ª©¯ ±ª°ª² ±®¿©³"
+ lodhum_tourism_benefits_desc:0 "²¬º²ª ±³²®º ¶²¥¢ …¯ª°¥ ‰¦® ¦®¾ ¨ª²®þ ±¢°²ª ¬©®¿ °Œª¯ ²þŒª°¯ ¯º¯ °¡¦³¯°°º¯ Œ°ª¯ ¢ ¦¢´ªþ¬þ ª²ªª. Ï ¼² ¨ ¢¯¾ °ª °ª®ª ²³°ª¬ª ª© ¥®¬®ªþ¬þ ²¬°ª ª Œ²ª, °®¨¦®ª¿ ®¡¯, ¢º±¶°°º¯ ª© ¡³®¢¬¥ ©° ª ¦³¥ª¯ª ²¢¯ª, ª¯±²ª¢°°º¯ª ¢ °°.\n\n²¬º²ª °Œª ¢² ±¢²ª® ÷©²³°¦ª ¢ ¬¯±®ª²ª¶¬³½ ²¢¦º°½, ° ±¨³½ °ª ° ¦°³ ¢ª¦°°³½ ¦ ²¥. ™®¿´, ¦¢´, ¥±ª¾ ª ¶®¢¬ ¨ª¢³² ¦³¥  ¦³¥¯ ¢ °¢ª¦°°¯ ° ¡¸²¢. †¦ª, ² ¢®ª°¬þ °³¬ª ¦ ¬ª°ª²¬þ ª ®°µ±¬®°°ª¶¬þ ´ª®´ªª, ²¬³² ¬¬ ¢ª° ª ¼®¿ ¢ ²¢°, ¥¦ ª ¡³¨¦½². º ¦®¨°º ¢º°²ª ª© ¼²¥ ®³¶Œ, ª  ²¯ ¶ª® ±²ª²®þ ª©¦®¬, ²¢¦º°¾ ¡³¦² ²®¿¬ ©¢ª¢²¿¾."
+ lodhum_tourism_benefits_tooltip:0 "‰®³¶ª® ¬¬ ¯ª°ª¯³¯ (§Y[Root.lodhum_tourism_counter.GetValue]/10§!) ¡º²ªþ §T²³ª©¯§!"
+ lodhum_tourism_benefits_tooltip2:0 "™²² ¯¦ª´ª¬² ¡³¦² ¢²¯²ª¶¬ª ¡°¢®ž°  ±®³¶°ª¯ °¢º ¡º²ªþ §T²³ª©¯§!"
+
+ #2
+ lodhum_copper_dwarves_title:0 "¦°º ¦¢´º"
+ lodhum_copper_dwarves_desc:0 "¢¦® Ù³°¥ — ²¢¦º°¾ ¯¦°º ¦¢´¢, ²°°¥ ²ª± ¦¢´¢, ±¬¾½¸ª ¯¾  ²þ ¨ ¥²¢°²¿½, ¶² ®½¡þ ®½¦¬þ ª®ª ¼®¿´ªþ¬ªþ ¯¾¬.  °ª ¢ž ¸ž ¦¢´º, °Œ °¦, ª ±¦¬ª ¢¦¾² ¬ ¦°¾¯ ±¦°ª¾ ©®ª¶°º ²¢¦º°¿, ª¶©°³¢Œª ±ª ©³Œ°ªª ƒ¢¢.\n\nº ¦®¨°º ¢¾©²¿¾  °Œª¯ª ¡²¿¾¯ª  ±¢°²ª ª ±¯¶¿ ª¯ ²¬, ¬¬ ¯¨¯. ¬ ¯¨° ±-°²¾¸¯³ ®½¡ª²¿ ¬¥-² ®ª ²º ° ¯¨Œ¿ ±¯¶¿ ¢¯³ ¡²³, °¢¨° °¬®¿¬ ¦®ž¬¯³? ƒ¨ ° ¢±¯ª°¾, ¶² ¢ ¢þ ¡®¥¦°²ª °ª ²¶° ©Œ² °¯ ¢±®¿©¢²¿¾ ª ±²¯ ¦®¾ ±®³¶°ª¾ ±²¢¬ ª ¥²þ ª© ¦®¿°ª ©¯®¿."
+ lodhum_copper_dwarves_tooltip:0 "‰®³¶ª² 25£adm£ ª 20¤ © ¬¨¦³½ ±¢ª°µª½ ¢ §Y€§! ª®ª §Y³¦ªª§! ª ±¦² ª §Y¢¦® Ù³°¥³§!"
+ lodhum_copper_dwarves_tooltip2:0 "²¬² Œ°ª §YÔ¢¾©²¿ °Œª ¦µ§!."
+ lodhum_reconnecting_title:0 "Ï¦ª°ª²¿¾  Û¡²¯"
+ lodhum_reconnecting_desc:0 "¦°º ¦¢´º ¬þ° ¨®½² ±©¢®ª²¿ °¯ ª±®¿©¢²¿ ª ±² ¦®¾ ¯¢¥ ±ª¡º²ª¾ ±²ª²®þ …¯ª°¥ ‰¦®. ¦ª°²¢°°¾ ±¡®¯, ¶² ¢¦® Ù³°¥ ²¦®ž° ² ÷²³°¦ª ²ª¶°º¯ ¯ª¢¯ ±ª¡¨°º ¬® ª ¬®ª²º ®¯¢ ª ¥, ©±®°°°º ¡±¾¦¬¯ ¦³¥ª ¦¨¢.\n\n‰¼²¯³ ¯º ¦®¨°º ±¯¶¿ ¢¦® Ù³°¥³ ¡©±ª²¿ ¼²ª ²ª²ªª, ¶²¡º ³¡¦ª²¿¾, ¶² ¢ ¥²ª ÷²³°¦ª ±ª¡º¢½² ¢ ¡©±°²ª."
+ lodhum_safe_harbor_title:0 "€©±°¾ ¥¢°¿"
+ lodhum_safe_harbor_desc:0 "¢¦® Ù³°¥ ¼² ¯¬¾ ²¢¦º°¾, ³°ª¬®¿°¾ ¢ ¢ž¯ ±²°ªª ª ¦ª©þ°. ™² ©°¶², ¶² ¬¯ ±¡®¯,  ¬²º¯ª ²®¬ª¢½²¾ ²®¿°º ²¢¦º°ª, þ ±ª¦ª²¾ ²®¬ª¢²¿¾  ¡º¯ª ²³¦°²¾¯ª. Ï °¢°¯ — ±ª²²¢¯.\n\n²±¢ª¯ ±¯¸¿ °Œª¯ ²¢ª¸¯.Let us send our friends some help in both expanding the hold's port facilities to defend against pirate attacks and renovating existing infrastructure. In addition, some materials to help put a few new ships to sea as well couldn't hurt."
+
+ #2b
+ lodhum_expanding_port_title:0 "ÐŒª°ª ±²"
+ lodhum_expanding_port_desc:0 "Ovdal Tûngr is the beating heart from which all guests arrive from across the eastern Divenhal and the sunbaked lands of Bulwar and Kheterata. But Tûngr's facilities are simply not enough for the amount of visitors Ovdal Tûngr is receiving.\n\nSomething must be done. The hold's rulership is complaining that our far-away guests are beginning to interfere with the hold's own traffic It is clear that something must be done; we must expand the port facilities even further, a whole new district of the port carved out of the rock, dedicated utterly to ships with guests or goods bound for Ovdal Lodhum.\n\nThis new district will become a melting pot of individuals and couples from far off lands, and no doubt allow Ovdal Tûngr to reclaim a number of docks and ship berths that we had built on our behalf."
+ lodhum_controlling_trade_title:0 "°²®ª¢²¿ °Œ³ ²¥¢®½"
+ lodhum_controlling_trade_desc:0 "It is said more wealth leaves the Serpentreach than remains, and in a manner of speaking that is true. The bounty of the Serpentreach is exported not only by our own merchants, but foreigners using the opportunities of us opening the Serpentreach to enrich themselves, buying low cost gemstones and metals and then selling them for triple or even quadruple the prices just outside our gates in Bulwar and Cannor, all while profiting off our craftsdwarfship of the highest quality.\n\nEnough is enough. We will work out an arrangement with our friends in Ovdal Tûngr to prevent foreign, non-dwarven merchants who have registered in their borders from making off with the bounty of our home."
+
+ #3
+ lodhum_come_all_title:0 "‰ª¦ª ¯ ª ¦³©þ ±ª¢¦ª"
+ lodhum_come_all_desc:0 "The message of love we wish to send out into the world is sorely needed, and new innovations can help us spread it. The printing press allows us to produce pamphlets and books in massive quantities, but our methods of distributing them are limited. In order to widen our reach, we need to tap into the trade routes to the Divenhal.\n\nThe Copper Dwarves are in a unique position, being situated on trade routes that reach out like a net across the Divenhal and Dameshead. We can make ready use of this by simply distributing the literature in Ovdal Tûngr and let visiting merchants take care of the rest.\n\nOne of the latest books printed, '50 Hues of Garnet', is already quite popular despite some of the risqué material within — no doubt the surface world will take to it just as readily as we have."
+ lodhum_western_gate_title:0 "…±¦°º ¢²"
+ lodhum_western_gate_desc:0 "Shazstundihr is in an excellent position to control entry into the mountains from Bulwar, but it is not well suited for those seeking to enter from further beyond, such as Cannor. Let us prepare the hold of Orlghelovar to better facilitate trade with the west, including upgrading vital infrastructure and having the proper facilities to receive visitors and merchants in volume.\n\nIt may take some time before it becomes as prosperous a trading hub as Shazstundihr, but with some tough love and care, Orlghelovar will become the gate where Cannor can experience the same wonders as Bulwar."
+ lodhum_western_port_title:0 "† ©±¦°ºþ ±²"
+ lodhum_western_port_desc:0 "With Orlghelovar secured and prepared for receiving guests of all kinds, it is now the time to secure the means of their arrival. The region of Ourdia is the southernmost edge of the region humans refer to as Cannor.\n\nSecuring the land and the fortress that gives the region its name for our friends and kin in Ovdal Tûngr will without doubt give us the access we need in order to open the way for visitors from Cannor to arrive in our realm. In addition, Bal Ouord was originally built by dwarves, so it is without question dwarves who should control it anyways…"
+ lodhum_across_sea_title:0 "… ¯¯"
+ lodhum_across_sea_desc:0 "°°. …¯®¾, ±¥®¸ž°°¾ ®ª¥ª©°º¯ ¬°´®ª¬²¯, ¦¢°ª¯ª ±°ª¶²¢¯ª ª ¨²¬þ ¦ª°²ª¶¬þ ¡¿¡þ. ¨° ±¦³¯²¿, ¶² ¢ ¼²þ ±±ª²°°þ ¬¢¿½ ¶²ª ¢² °² °³¨¦º ¢ °Œ¯ ±®°ªª  ®½¡¢ª.\n\nƒ²³¶ª¯¾ ¨ ¦ ©¯¬ª ¦³©þ. €®¿ ³¦ ¢ ³¬ °Œª ½©°ª¬¢ ª© ¢¦® Ù³°¥,  ¡°¢®°ª ®¥®¢ ©¢Œ°,  ©°¶ª² ¢¯¾ ±ªŒ®! ‰³²¿ °Œ ®½¡¢¿ ±ª¦ž² ¢ °°,  ª© °¥ ¢ ¢¿ ¯ª!"
+ lodhum_across_sea_tooltip:0 "×¢®¾²¾ §Y6§! ª®ª ¢ºŒ ¢®ª¬þ ¦¨¢þ"
+
+ #4
+ lodhum_true_purpose_title:0 "ž ª²ª°°¾ µ®¿"
+ lodhum_true_purpose_desc:0 "Originally the Tunnels of Love were a place where lovers could ride into our hold in comfort and enjoy the scent of flowers and drifting petals while music was played to set the mood that they would enjoy while staying in our hold. With the fall of Aul-Dwarov, lovers riding carts were replaced with savage orcs, flowers and falling petals were replaced with spikes and burning pitch, and the only sounds made in those halls were not of love, but savagery and death.\n\nBut the Dwarovar is safe once again, and so the Tunnels of Love will be set to their original purpose once more. While there is no moonlight to illuminate our guests on their scenic ride, some things are best left in the dark…"
+ lodhum_wool_title:0 "÷²¿ ² °¦ ¢µ¢¦¢"
+ lodhum_wool_desc:0 "The people of Gelkalis have a long and storied tradition of raising sheep and making fabric from their wool. While it is no fine silk or lace, in the rough mountains and cold desert nights, thick wool cloth is perfect for tents and tunics. It would also be perfect for the chill that the caverns outside our holds can bring.\n\nGoats and sheep are tough animals, and with some clever engineering we could perhaps bring some underground. Let us invite some herders from Gelkalis into our caves, and see if we cannot adapt such creatures into living underground."
+
+ #4b
+ lodhum_mountain_tactics_title:0 "‚°º ²¬²ª¬ª"
+ lodhum_mountain_tactics_desc:0 "Place one of our dwarf warriors in the cool darkness of the underground, and they could tell you how best to defend a hold as opposed to a segment of the rails or a cavern encampment. Place them on the surface, on a mountainside or desert hilltop and it is a different matter altogether.\n\nWe have very little practice fighting in the heat and uneven terrain of Bulwar, and the surface in general. Let us organise exercises with our Gelkali allies, who are masters of such warfare locales as the mountains around the Serpentreach. With their help, we will not only be able to better defend our own borders, but aid our friends in Bulwar as well."
+
+ #5
+ lodhum_scorching_sun_title:0 "†©-±¦ ±®¾¸¥ ®°µ"
+ lodhum_scorching_sun_desc:0 "…¯®ª ‚®¬®ª ³¢º. …¦¿ ¯¨° °þ²ª ±³²º°ª, ¥º ª °¥¿¾, °ª ° ¡¥²º ¨ª©°¿½, ° ©¦¿ ³¸²¢³² ¡¥²¾ ¬³®¿²³ ª ±²®¿°¾ ²¦ªµª¾, ¦®½¸¾ ¥®¬®¿µ¢ ²®¿ ¨ ³¢º¯ª, ¬¬ ©¯®ª, ¬²º °ª °®¾½²!\n\nÔ °Œþ ±¦¦¨¬þ ¥®¬®¿µº ¢°³®ª ©¯®ª ¢ª ±¦¬¢.  ²±¿ °¬²º ª© °ª ¨®½² °©¢²¿ ¢ª¯ ¦¯¯ ª °Œª ¥°º ¶²¥ª, ¯¢ ±©¨¾ ¢ ¢¦® ˆ¦³¯. Ù¬¨, ¥±ªª ‚±ª®° ¨®½² ±¸²¿ ° ¢¯¾ ² ¢¯°ª... †¬®½¶ª²®¿° ± ¦®¢º¯ ±ª¶ª°¯\n\n‰¬ °ª ¥²¢º ±®²ª²¿, So long as they all can pay, there should be no need to deny them as well from making use of our services."
+ lodhum_equals_title:0 "°ª ¢°º ¢¯"
+ lodhum_equals_desc:0 "¢ºþ ¡³®¢¬ªþ ³®¿² Ô®°µ ¡º® ©¦° ±ª ±¢®°ªª ƒ¨, ¶ª²¢Œ¥¾ ª°¬°µªþ ¶®¢¶¬¥ ¡¥ ¥ª°. ‰¢¦ ¼² ª®ª °², ±® ¥ ¯²ª ±®¦¢²®ª ƒ¨, ®°¶°º ¼®¿´º, ª©¢²ª®ª ¼²³ ®ª¥ª½ ª ª±®¿©¢®ª ž ¶²¡º ±¢²ª²¿ ¶®¢¶²¢ ¢ ¡¢ ª ¦¯¢º ®³¨¬.\n\n‚ª° ¡º® ¡º ¡±¸¦°, ®ª ¡º ¦¨ª® ¦ ¢²¶ª  °±¢¦®ª¢²¾¯ª, ¬²º ¼®¿´ªþ¬ªþ ¦ °¢¾©® ¶®¢¶²¢³ €³®¢. Ì²¡º ° ±¦³¯® ®ª ¡º ¯º ±ª¥°ª¢®ª ¼²? ™²¯³ ¦®¨° ±¦þ²ª ¬°µ! º ¦®¨°º ²±¢ª²¿ ¦ª±®¯²¢ ª ³¡¦ª²¿ ª, ¶² ®½¡¢¿ ±ª¦ª² ¢ ©°º ´¯. Ï¬®½¶¾ ®½¡¢¿ ¬ ¨°ª¾¯..."
+ lodhum_equals_tooltip:0 "‰® ²±¢ª²¾ ¦¢³¯ ª®¿°þŒª¯ °µª¾¯ §Y®°¶°º ¼®¿´¢§!. ™² ¯¨² ±ª¢²ª ¬ §R¢þ°§!!"
+
+ #5b
+ lodhum_sun_elves_title:0 "[Root.GetLodhumMissionTitle]"
+ lodhum_sun_elves_title_war:0 "Ù³¦°²ª ®½¡¢ª"
+ lodhum_sun_elves_title_peace:0 "ˆ½¡¢¿ ¢¥¦ ±¡¨¦²"
+ lodhum_sun_elves_desc:0 "[Root.GetLodhumMissionDesc]"
+ lodhum_sun_elves_desc_war:0 "The Sun Elves have rejected our demands to make the humans their equals. When words fail, diplomacy continues by other means, in this case  war. We shall grind them into the dirt, and feed them the humility they so clearly lack."
+ lodhum_sun_elves_desc_peace:0 "The Sun Elves have wisely seen the truth of our words. The Humans of Bulwar need not be slaves in their own countries any longer, and our Gelkali friends need not worry about the depredations of the decadent."
+ lodhum_sun_elves_tooltip:0 "The Sun Elves have been defeated"
+ lodhum_sun_elves_tooltip2:0 "The Sun Elves have accepted"
+ lodhum_era_peace_title:0 "™ ¯ª"
+ lodhum_era_peace_desc:0 "Humans and Sun Elves are now on equal footing, or at least as equal a footing as is possible when put up against a race of people who live for centuries, are highly adept in magic, and can train their skills for far longer than a human.\n\nStill, Bulwar is a hotbed of animosity between the various peoples that call it home. We must do our part to bring an end to what we started by making men and elves equal — we must work to break any tensions and ensure that an era of peace settles upon Bulwar."
+ lodhum_era_peace_tooltip:0 "Is a §YHuman§!, §YSun Elf§!, or §YDwarf§! nation in §YBulwar§!"
+ lodhum_era_peace_tooltip2:0 "All §YHuman§!, §YSun Elf§!, and §YDwarf§! nations in §YBulwar§! will gain a permanent §G+50§! opinion towards §YGelkalis§! and §YHarpylen§!"
+
+ #5c
+ lodhum_close_to_sun_title:0 "ˆ²¾ ¡®ª©¬ ¬ ®°µ³"
+ lodhum_close_to_sun_desc:0 "Gelkalis, once a realm of mountains and desert, is now a strong and powerful nation in its own right.\n\nWe have fostered their growth, and the world knows this. We have strived, hand in hand with the Gelkali of Bulwar and the harpies of Harpylen to bring an era of peace, prosperity, and safety to harpies, elves, and men. As well, Gelkalis has begun to adopt parts of our legal code, centralising the government and ensuring that all are treated with respect, leading to less unrest for Gelkalis and more respect from foreign dignitaries for us, for inspiring such changes."
+
+ #######part4#######
+ #1
+ lodhum_shortfolk_title:0 "ª©¬ªþ °¦"
+ lodhum_shortfolk_desc:0 "«Ï °¡°° © ¢¯ ²¾² ¼®¿´º ª ®½¦ª. ¦µ ±¯°¿Œ, °³... º, ¢ °¢°¯, ° ±¦°ª¯¯ ¥®¢º. ™² ¬°¶° ®³¶Œ, ¶¯ ¢ ¢°¥ª ¦³¥ª ¯², ° ±þ¯ª ¯°¾ °±¢ª®¿°. ƒ¢´º ¯¥³² ²ª²¿ ¢½ ²¢¦º°½, ®´®ª°¥ª ¡º¶° ¯¥³² ¯ª ¡þ ±¾¨²¿¾,  ¥°¯¯ ¢º¦®ª®ª ¯² ¶²¡º ±²ª²¿ ¡ ¥¦ ±® ²¥, ¬¬ ª ¢º¥°®ª ª© ²þ ªªª.»\n\n« ±³²¿ ° ° ª ¯²¾² ¢º¬, °¯, °ª©¬¯³ °¦µ³, ®³¶Œ ¦¨²¿¾ ¢¯². ®ª ¶Œ¿ ±¦³¨ª²¿¾  ¬¯-°ª¡³¦¿ ¢ °°, °¶ª°þ  ®´®ª°¥¢ ª ¥°¯¢»\n-€®¥ ×¬¡¦, ¦¢´-²¥¢µ."
+ lodhum_home_fealty_title:0 "ƒ¯ °±¬ž°°º"
+ lodhum_home_fealty_desc:0 "³±°º ª¯±ªª ¶®¢¶²¢ ¶² ³¥°²®ª ®´®ª°¥¢ ª ¯²®ª ° °ª ¢º¬. €³¦¿ °ª ª© ˆ°², ‚¢¦ ª ¦¨ °¡°°, ¯°¨²¢ ®´®ª°¥¢ ¨®½² °þ²ª ¡ °¢ºþ ¦¯.\n\nº ¯¨¯ ±¦®¨ª²¿ ª¯ ¢ª°² ¢¡¦°¥ ±¨ª¢°ª¾ ¢ ®¥®¢, ¥¦ ¯º ¢©¢¦ž¯ ®´®ª°¥¬ªþ ¬¢²® ±µª®¿° ¦®¾ °ª."
+ lodhum_funding_order_title:0 "Ô±°ª¢°ª ¦°"
+ lodhum_funding_order_desc:0 "Piracy in the Divenhal Sea is a widespread problem. From Seascourge Gnolls to Nathalaire and more, the rich trade routes from Bulwar, Sarhal and Cannor will always be an attractive target for pirates.\n\nOne of the most effective institutions in fighting these pirates has been the Order of Serondor, operating out of Sorncell. If we were to give them some help with their funding, we could ensure the stability of our trade routes towards the Dameshead."
+ lodhum_funding_order_tooltip:0 "§YFive§! port provinces around the §YNortheastern Divenhal Sea§! will gain §YNaval Batteries§!"
+
+ #2
+ lodhum_artificery_title:0 "¸¿ ²´¬²²¢"
+ lodhum_artificery_desc:0 "«‚°¯º ¶ž² ±¦ª Œ ±²³¦ª®ª¿ °¦ ¢þ ¬¡¶°þ ¯¥ªþ. ²´¬²²¢ ¼² ¡³¦³¸, ¦®¨° ¡º²¿. Ù¦ªµª°°¾ ¯¥ª¾ ¬°¶° ¯¸°¾, ° °²®¿¬ ¨ ¯¸°¾ ¬¬ °¬®¿¬ ¢¬¢ °©¦. Ô¯²¾ ° ², ¶² ²±¿ ¯¥³² ¦²ª¥°³²¿ ¼²ª ²´¬²º, ±¦²¢¿ ±², ¶² °ª ¯¥³² ¦®²¿ ¶© ¦¾²¿, ¦¢¦µ²¿, ² ®².»\n-×¬¡ Ô²®³¬, ±¢ºþ ¦¢´-²´¬² ¢¦® ˆ¦³¯.\n\n®ª ¯º ±¦²¢ª¯ Œ³½ ©±®²³, Œª ¡¶ª ³®¢ª¾ ª ª°²°º ±¬²º, ¯º ¯¨¯ ±ª¢®¶¿ ²®°²®ª¢º ¥°¯¢ ¢ ƒ¢¢ ±¦®¨ª²¿ ¢ª ª®¦¢°ª¾ ¢ °Œ³ ±®¿©³."
+ lodhum_artificery_tooltip:0 "¨¦¾ ±¢ª°µª¾, ³¦¢®²¢¾½¸¾ ²¡¢°ª¾¯ ±®³¶ª² §Y¥°¯¿ ¯°¿Œª°²¢§!"
+ lodhum_wine_festivals_title:0 "Ïª° ¦®¾ ´²ª¢®þ"
+ lodhum_wine_festivals_desc:0 "The love wine we now produce is of tremendous quality, and has been favourably compared to some of the best Cannorian wines by those who know it. The problem is, there are few who know it.\n\nIf we were to distribute some of our stock to the travelling Sugamber funfairs, that would be a good way to get word of mouth going, and create a demand for it in the wider area."
+ lodhum_wine_festivals_tooltip:0 "Every nation in §YEast Dameshead§!, §YEsmaria§!, and §YThe Borders§! will gain a permanent §G+50§! opinion towards §YOvdal Lodhum§!"
+
+ #3
+ lodhum_bickering_humans_title:0 "Ô¾¸ª¾ ®½¦ª"
+ lodhum_bickering_humans_desc:0 "“Us Dwarves have a reputation for being contentious. Maybe there's some truth in that, but at least we have the sense to keep our disagreements personal.\n\n“The way these humans are constantly at each other's throats over religion, over titles, over meaningless rivalries between their lieges from generations ago… they can stand to learn a lesson or two about getting along.” \n-Ogrim Stonebreaker, Ovdal Lodhum diplomat to the Dove Throne."
+ lodhum_bickering_humans_tooltip:0 "Has opinion modifier §YSent Gift§! with a value of §G+10 or more§!"
+ lodhum_bickering_humans_tooltip2:0 "Is a §YHuman§! nation in §YWestern Cannor§!"
+ lodhum_unending_love_title:0 "±¬¸½¸¾¾ ®½¡¢¿"
+ lodhum_unending_love_desc:0 "™² ¡º® ¦®¥ªþ ±³²¿, °¶¢Œªþ¾ ¢ ¬³°¦³, ¬¥¦ ‚ª° ¬¦ž ±Œž® ±¥ °Œª ¢². ‰³²¿,  ¬²¥ ¯º ° ²Œ®ª ±® ¥ ¯²ª. ‰³²¿, ¶² ©¢ž® ° ¬ ³¦¿¡°°þ ¢²¶ © ²°¯ª Ï¬® Ô¬¯¦ª ª ¦®¿Œ.\n\n ²±¿ ¯º °¬°µ ±¦Œ®ª ¬ ¥ ¬°µ³. ƒ¥ ¢©¢¸²¾ © ² ¢², ¥¦ ¢ž °¶®¿..."
+
+ #4
+ lodhum_cannor_dwarves_title:0 "ƒ¢´º ¬°°"
+ lodhum_cannor_dwarves_desc:0 "«…°², ¦¢´º °° ± ° °ª¬¥¦ ° ©¡º¢®ª. ¥¦ ¬ª ©±®°ª®ª ™¬°° ª ¶ª® ª ¢ ƒ¢¢ ¬²ª®¿, °ª °¶®ª ®²¿ ¼¬±¦ªµªª ¢ ¥º ¶²¡º °þ²ª °. ° ¬¨²¾ ¦ª°²¢°°º¯ ¦²þ°º¯ Œ°ª¯ ¦²³¶²¿¾ ¦ °ª ¢ ²¢²»\n-ª ‰®ª²¶°ºþ ¶¥, ±ª¦¢°ºþ ª²ª¬ ¢¦® ˆ¦³¯.\n\nƒ®¿Œ ¢¦® Ù³°¥ ²¿ ¸ž ¦¢ ²¢¦º°ª ° ©±¦ ² ƒ¢¢. Ð³¡ª°¢¾ ²¢¦º°¾ ² ª ©¢ª², ²¥¦ ¬¬ Ôª®¿¢´¦¨ ¶°¿ ¯®¦. º ¦®¨°º ©¦²¿ ²°Œ°ª¾ ª  ²¯ª, ª  ¦³¥ª¯ª."
+ lodhum_back_mountains_title:0 "Ï©¢¸°ª ¢ ¥º"
+ lodhum_back_mountains_desc:0 "Ð³¡ª°¢º ¦¢´º ª ¡¾°°º ¦¢´º ²±¢ª®ª ¢ ƒ¢¢ ¯°¥ ¼¬±¦ªµªþ ¶²¡º ¢°³²¿ ±²¾°°º ²¢¦º°ª,  ¶²¿½ ª© ¬²º °¯ ¦¢®¿ ¢²²ª²¿¾. Ð© ³¨ ¯º ¢©¢¸¯ ¼²ª ¨ ²¢¦º°ª, ¶²¿ ª© °ª ¶² ¢°³²¿¾ ¢ ƒ¢¢ ª ±¯¶¿ °¯."
+ lodhum_lace_title:0 "°°°¬ª ¬³¨¢"
+ lodhum_lace_desc:0 "While we may have plenty of good elven and dwarven artisans in the mountains, there are plenty of humans who could produce their own unique works for us. The laceworkers of Arannen are very talented indeed; if we could attract some to the Dwarovar, it would be a great boon."
+
+ #5
+ lodhum_other_elves_title:0 "ƒ³¥ª ¼®¿´º"
+ lodhum_other_elves_desc:0 "The elves from the Deepwood and the elves from Bulwar could barely be less alike, and require quite a different kind of diplomacy. As we try to establish ties with the Moon Elves of Cannor, we ought to approach them with some care, and see what they expect from us."
+ lodhum_tea_title:0 "Ìþ ¦®¾ ¢"
+ lodhum_tea_desc:0 "”Wine is a fine drink for all you up in the holds, don't get me wrong. I have it myself sometimes. But as someone in a more… physical profession, now, we prefer something that doesn't distract us from the job while we're working. And that coffee stuff makes my hands jitter.”\n-Gundobin Hammerfist, dwarven railroad worker.\n\nThere is a rising demand for tea among our population, and it's said that the elves of Moonhaven have the best around. Let's see if we can do business with them."
+ lodhum_tea_tooltip:0 "Has been receiving subsidies for §Y10 years§! with an opinion value §G+10 or more§!"
+ lodhum_crier_title:0 "‚¦ ¥®Œ²¢"
+ lodhum_crier_desc:0 "“There's lots of ways to get people's attention, some more classy than others. But I find shouting really loudly just tends to be the most effective.”\n-Gratleigh Firebane, dwarven general.\n\nAs we wish to spread our message of love far and wide, we cannot possibly go without involving the city of criers. Tellum provides town criers throughout Cannor, and if we can get in their good graces that gives us a convenient way to send our message along with them."
+
+
+
+
+ #######Mission Modifiers#######
+ lodhum_reign_of_gerin:0 "‰¢®°ª ‚ª° ¬¦ž"
+ lodhum_mourning_gerin:0 "‰¯ª°°ª ‚ª°"
+ lodhum_orcrend:0 "¬¦ž"
+ lodhum_settler_bonus:0 "²¢¢°ª"
+ lodhum_skomdihr_wooden_door_modifier:0 "‰²þ¬ Ï²"
+ lodhum_greentide_modifier:0 "‰²ª¢ ®¢ª°º"
+ lodhum_woodland_trade_modifier:0 "€¥²²¢ ®"
+ lodhum_safe_mine_modifier:0 "€©±°º ±¸º"
+ lodhum_gerins_glory1:0 "Ô®¢ ‚ª°"
+ lodhum_gerins_glory2:0 "Ô®¢ ‚ª°"
+ lodhum_gerins_glory3:0 "Ô®¢ ‚ª°"
+ lodhum_gerins_glory4:0 "Ô®¢ ‚ª°"
+ lodhum_death_to_orcs_modifier:0 "…¢ ª²¡ª²®¾"
+ lodhum_orcrend_sheathed:0 "¬¦ž, ¢ °¨°"
+ lodhum_warm_embrace_modifier:0 "† ¦¡ ¦µ"
+ lodhum_arg_love:0 "¯±°µªª"
+ lodhum_restore_hold_modifier:0 "¸ž ° ±²¾°º"
+ lodhum_pure_heart_modifier:0 "ˆ½¡ª ¡¾"
+ lodhum_surface_dwarves_modifier:0 "Ð©°º ±±¬²ª¢º"
+ lodhum_end_raids_modifier:0 "°µ þ¦¢"
+ lodhum_elf_homes:0 "² ¦®¾ ²¦º ®°º ¼®¿´¢"
+ lodhum_skomdihr_wood:0 "™¬©²ª¶¬ª ¯ž®"
+ lodhum_elf_lessons:0 "ˆž¥¬ª °¥ª"
+ lodhum_dwarf_lessons:0 "Ù¾¨ž®º ³¬ª"
+ lodhum_tolerance_modifier:0 "² ¢º, ®ªŒ¿ ®½¡¢¿"
+ lodhum_new_soil:0 "Ï¢© ±¶¢"
+ lodhum_vineyards_complete:0 "Ïª°¦®¿°ª ®½¡¢ª"
+ lodhum_new_vineyards:0 "²°ª¢°°º ³¬ª"
+ lodhum_joint_training:0 "º ¦¨ª¯¾ ¢¯²"
+ lodhum_bulwar_trade:0 "¢º ¯Œ³²º"
+ lodhum_road_building:0 "Ï©¢¦°ª ¦¥"
+ lodhum_road:0 "ƒ¢´ªþ¬¾ ¦¥"
+ lodhum_tungr_cannons:0 "‰³Œ¬ª ²²ª"
+ lodhum_shaz_tourism1:0 "Ï² ¬ ±ª¢¾©°°²ª"
+ lodhum_shaz_tourism1_desc:0 "‰¥ ³®³¶Œ°ª¾: §Y[Root.Owner.lodhum_tourism_counter.GetValue]/17§!"
+ lodhum_shaz_tourism2:0 "Ï² ¬ ±ª¢¾©°°²ª"
+ lodhum_shaz_tourism2_desc:0 "‰¥ ³®³¶Œ°ª¾: §Y[Root.Owner.lodhum_tourism_counter.GetValue]/24§!"
+ lodhum_shaz_tourism3:0 "Ï² ¬ ±ª¢¾©°°²ª"
+ lodhum_shaz_tourism3_desc:0 "‰¥ ³®³¶Œ°ª¾: §Y[Root.Owner.lodhum_tourism_counter.GetValue]/31§!"
+ lodhum_shaz_tourism4:0 "Ï² ¬ ±ª¢¾©°°²ª"
+ lodhum_shaz_tourism4_desc:0 "‰¥ ³®³¶Œ°ª¾: §Y[Root.Owner.lodhum_tourism_counter.GetValue]/38§!"
+ lodhum_shaz_tourism5:0 "Ï² ¬ ±ª¢¾©°°²ª"
+ lodhum_shaz_tourism5_desc:0 "‰¥ ³®³¶Œ°ª¾: §Y[Root.Owner.lodhum_tourism_counter.GetValue]/45§!"
+ lodhum_shaz_tourism6:0 "Ï² ¬ ±ª¢¾©°°²ª"
+ lodhum_lod_tungr:0 "ˆ¦ Ù³°¥"
+ lodhum_making_pamphlets:0 "‰¦¥²¢¬ ±¯´®²¢"
+ lodhum_cannor_diplomacy:0 "50 ²²°¬ ¥°²¢¥"
+ lodhum_restored_tunnels:0 "Ï©¨¦ž°°ºþ ²°°®¿ ®½¡¢ª"
+ lodhum_mountain_tactics_modifier:0 "Ù°ª¢¬ª ¢º¨ª¢°ª¾"
+ lodhum_harpy_visitors:0 "‰²ª²®ª-¥±ªª"
+ lodhum_chainbreakers:0 "Ð©³Œª²®ª µ±þ"
+ lodhum_winds:0 "Ï² ±¦ ª ¬º®¿¾¯ª"
+ lodhum_gelkalis_heights:0 "Ï©®²¾ ¦ °¢º ¢º²"
+ lodhum_halfling_district:0 "Û®´®ª°¥¬ªþ þ°"
+ lodhum_sorncell_funding:0 "ƒ¢´ªþ¬ª ±¨²¢¢°ª¾"
+ lodhum_sorncell_funding_desc:0 "ƒ¢´º ¢¦® ˆ¦³¯ ±¦¦¨ª¢½² ¦° Ô°¦ ¦®¾ ®³¶Œþ ²º © ±ª²¯ª."
+ lodhum_wine_of_love:0 "ƒ¢´ªþ¬ ¢ª° ®½¡¢ª"
+ lodhum_wine_of_love_desc:0 "ƒ¢´º ¢¦® ˆ¦³¯ ¨²¢³½² ¶²¿ ¢ª ®½¡¢°º ¢ª° ¯²°º¯ ¬°¢®¯ ª ´²ª¢®¾¯."
+ lodhum_improving_relations:0 "ƒ¨¿ © ³¬ª"
+ lodhum_tea_houses:0 "™®¿´ªþ¬ª ¶þ°º ¦¯"
+ lodhum_harpy_brothel:0 "€¦®ª ¥±ªþ"
+ lodhum_surface_ideas:0 "†¦ª ±¢°²ª"
+ lodhum_gnome_inventor:0 "‚°ªþ ¥°¯¢"
+ lodhum_missing_metals:0 "‰²¾°°º ±²¢¬ª"
+ lodhum_elf_perfume:0 "‰ª¾²°ºþ ±´½¯"
+ lodhum_ai_war_buff:0 "Ôµ¦º"
+
+ #######other modifiers#######
+ LODHUM_DEEPWOODS_TRADE:0 "ƒ¡þŒªþ ¦"
+ LODHUM_TUNGR_TRADE:0 "¥°ª¶°ª¾ ²¥¢®ª"
+ lodhum_harpylen_chance_opinion:0 "‰¸°ª"
+ lodhum_acceptance_opinion:0 "‰ª°¾²ª"
+ lodhum_bringer_of_wine_opinion:0 "Ïª° ±ª°¾¸ªþ"
+ lodhum_elf_mage_estate_bonus:0 "™®¿´ªþ¬¾ ¼¬±²ª©"
