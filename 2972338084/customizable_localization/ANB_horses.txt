@@ -1,0 +1,1487 @@
+
+#Цвета лошадей в именительном падеже
+defined_text = {
+	name = GetHorseRaceFirst_IM
+	
+	text = {
+		localisation_key = horseRaceBlue_IM
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_IM
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_IM
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_IM
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_IM
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_IM
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}	
+}
+
+defined_text = {
+	name = GetHorseRaceSecond_IM
+	
+	text = {
+		localisation_key = horseRaceBlue_IM
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_IM
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_IM
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_IM
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_IM
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_IM
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceThird_IM
+	
+	text = {
+		localisation_key = horseRaceBlue_IM
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_IM
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_IM
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_IM
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_IM
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_IM
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFourth_IM
+	
+	text = {
+		localisation_key = horseRaceBlue_IM
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_IM
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_IM
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_IM
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_IM
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_IM
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFifth_IM
+	
+	text = {
+		localisation_key = horseRaceBlue_IM
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_IM
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_IM
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_IM
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_IM
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_IM
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceSixth_IM
+	
+	text = {
+		localisation_key = horseRaceBlue_IM
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_IM
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_IM
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_IM
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_IM
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_IM
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+}
+
+#родительный падеж
+
+defined_text = {
+	name = GetHorseRaceFirst_RD
+	
+	text = {
+		localisation_key = horseRaceBlue_RD
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_RD
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_RD
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_RD
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_RD
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_RD
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}	
+}
+
+defined_text = {
+	name = GetHorseRaceSecond_RD
+	
+	text = {
+		localisation_key = horseRaceBlue_RD
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_RD
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_RD
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_RD
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_RD
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_RD
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceThird_RD
+	
+	text = {
+		localisation_key = horseRaceBlue_RD
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_RD
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_RD
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_RD
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_RD
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_RD
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFourth_RD
+	
+	text = {
+		localisation_key = horseRaceBlue_RD
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_RD
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_RD
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_RD
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_RD
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_RD
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFifth_RD
+	
+	text = {
+		localisation_key = horseRaceBlue_RD
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_RD
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_RD
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_RD
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_RD
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_RD
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceSixth_RD
+	
+	text = {
+		localisation_key = horseRaceBlue_RD
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_RD
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_RD
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_RD
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_RD
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_RD
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+}
+
+#дательный
+
+defined_text = {
+	name = GetHorseRaceFirst_DT
+	
+	text = {
+		localisation_key = horseRaceBlue_DT
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_DT
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_DT
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_DT
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_DT
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_DT
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}	
+}
+
+defined_text = {
+	name = GetHorseRaceSecond_DT
+	
+	text = {
+		localisation_key = horseRaceBlue_DT
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_DT
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_DT
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_DT
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_DT
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_DT
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceThird_DT
+	
+	text = {
+		localisation_key = horseRaceBlue_DT
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_DT
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_DT
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_DT
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_DT
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_DT
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFourth_DT
+	
+	text = {
+		localisation_key = horseRaceBlue_DT
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_DT
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_DT
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_DT
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_DT
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_DT
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFifth_DT
+	
+	text = {
+		localisation_key = horseRaceBlue_DT
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_DT
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_DT
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_DT
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_DT
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_DT
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceSixth_DT
+	
+	text = {
+		localisation_key = horseRaceBlue_DT
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_DT
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_DT
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_DT
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_DT
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_DT
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+}
+
+#винительный
+
+defined_text = {
+	name = GetHorseRaceFirst_VN
+	
+	text = {
+		localisation_key = horseRaceBlue_VN
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_VN
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_VN
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_VN
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_VN
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_VN
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}	
+}
+
+defined_text = {
+	name = GetHorseRaceSecond_VN
+	
+	text = {
+		localisation_key = horseRaceBlue_VN
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_VN
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_VN
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_VN
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_VN
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_VN
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceThird_VN
+	
+	text = {
+		localisation_key = horseRaceBlue_VN
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_VN
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_VN
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_VN
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_VN
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_VN
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFourth_VN
+	
+	text = {
+		localisation_key = horseRaceBlue_VN
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_VN
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_VN
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_VN
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_VN
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_VN
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFifth_VN
+	
+	text = {
+		localisation_key = horseRaceBlue_VN
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_VN
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_VN
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_VN
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_VN
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_VN
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceSixth_VN
+	
+	text = {
+		localisation_key = horseRaceBlue_VN
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_VN
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_VN
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_VN
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_VN
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_VN
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+}
+
+#Творительный
+
+defined_text = {
+	name = GetHorseRaceFirst_TV
+	
+	text = {
+		localisation_key = horseRaceBlue_TV
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_TV
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_TV
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_TV
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_TV
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_TV
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}	
+}
+
+defined_text = {
+	name = GetHorseRaceSecond_TV
+	
+	text = {
+		localisation_key = horseRaceBlue_TV
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_TV
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_TV
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_TV
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_TV
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_TV
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceThird_TV
+	
+	text = {
+		localisation_key = horseRaceBlue_TV
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_TV
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_TV
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_TV
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_TV
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_TV
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFourth_TV
+	
+	text = {
+		localisation_key = horseRaceBlue_TV
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_TV
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_TV
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_TV
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_TV
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_TV
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFifth_TV
+	
+	text = {
+		localisation_key = horseRaceBlue_TV
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_TV
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_TV
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_TV
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_TV
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_TV
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceSixth_TV
+	
+	text = {
+		localisation_key = horseRaceBlue_TV
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_TV
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_TV
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_TV
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_TV
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_TV
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+}
+
+#Предложный
+
+defined_text = {
+	name = GetHorseRaceFirst_PR
+	
+	text = {
+		localisation_key = horseRaceBlue_PR
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_PR
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_PR
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_PR
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_PR
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_PR
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 1 } }
+		}
+	}	
+}
+
+defined_text = {
+	name = GetHorseRaceSecond_PR
+	
+	text = {
+		localisation_key = horseRaceBlue_PR
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_PR
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_PR
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_PR
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_PR
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_PR
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 2 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceThird_PR
+	
+	text = {
+		localisation_key = horseRaceBlue_PR
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_PR
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_PR
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_PR
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_PR
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_PR
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 3 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFourth_PR
+	
+	text = {
+		localisation_key = horseRaceBlue_PR
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_PR
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_PR
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_PR
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_PR
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_PR
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 4 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceFifth_PR
+	
+	text = {
+		localisation_key = horseRaceBlue_PR
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_PR
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_PR
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_PR
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_PR
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_PR
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 5 } }
+		}
+	}
+}
+
+defined_text = {
+	name = GetHorseRaceSixth_PR
+	
+	text = {
+		localisation_key = horseRaceBlue_PR
+		trigger = {
+			event_target:blue_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceTeal_PR
+		trigger = {
+			event_target:teal_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceGreen_PR
+		trigger = {
+			event_target:green_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceYellow_PR
+		trigger = {
+			event_target:yellow_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceOrange_PR
+		trigger = {
+			event_target:orange_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+	text = {
+		localisation_key = horseRaceRed_PR
+		trigger = {
+			event_target:red_origin = { is_variable_equal = { which = horseRaceRank value = 6 } }
+		}
+	}
+}

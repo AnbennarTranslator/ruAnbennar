@@ -1,0 +1,107 @@
+defined_text = {
+	name = KnightsWarriors_IM
+	
+	text = {
+		localisation_key = Knights_IM
+		trigger = {
+			NOT = { tag = G32 }
+		}
+	}
+
+	text = {
+		localisation_key = Warriors_IM
+		trigger = {
+			tag = G32
+		}
+	}
+}
+
+defined_text = {
+	name = KnightsWarriors_RD
+	
+	text = {
+		localisation_key = Knights_RD
+		trigger = {
+			NOT = { tag = G32 }
+		}
+	}
+
+	text = {
+		localisation_key = Warriors_RD
+		trigger = {
+			tag = G32
+		}
+	}
+}
+
+defined_text = {
+	name = KnightsWarriors_DT
+	
+	text = {
+		localisation_key = Knights_DT
+		trigger = {
+			NOT = { tag = G32 }
+		}
+	}
+
+	text = {
+		localisation_key = Warriors_DT
+		trigger = {
+			tag = G32
+		}
+	}
+}
+
+defined_text = {
+	name = KnightsWarriors_VN
+	
+	text = {
+		localisation_key = Knights_VN
+		trigger = {
+			NOT = { tag = G32 }
+		}
+	}
+
+	text = {
+		localisation_key = Warriors_VN
+		trigger = {
+			tag = G32
+		}
+	}
+}
+
+defined_text = {
+	name = KnightsWarriors_TV
+	
+	text = {
+		localisation_key = Knights_TV
+		trigger = {
+			NOT = { tag = G32 }
+		}
+	}
+
+	text = {
+		localisation_key = Warriors_TV
+		trigger = {
+			tag = G32
+		}
+	}
+}
+
+defined_text = {
+	name = KnightsWarriors_PR
+	
+	text = {
+		localisation_key = Knights_PR
+		trigger = {
+			NOT = { tag = G32 }
+		}
+	}
+
+	text = {
+		localisation_key = Warriors_PR
+		trigger = {
+			tag = G32
+		}
+	}
+}
