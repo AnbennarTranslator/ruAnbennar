@@ -925,7 +925,7 @@ guiTypes = {
 				font = "vic_18m"
 				borderSize = {x = 2 y = 2}	
 				text = "Heretic"
-				maxWidth = 126 # Увеличил 96
+				maxWidth = 96 # Увеличил 96
 				maxHeight = 20
 				format = left
 				fixedsize = yes

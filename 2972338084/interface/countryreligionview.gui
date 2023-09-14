@@ -683,7 +683,7 @@ guiTypes = {
 			instantTextBoxType = {
 				name = "isolationism_label"
 				position = { x = 38 y = 234 }
-				font = "vic_18"
+				font = "vic_22"
 				borderSize = {x = 0 y = 0}
 				text = "ISOLATIONISM"
 				maxWidth = 132
@@ -706,11 +706,11 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "possible_incidents_label"
-				position = { x = 20 y = 263 }
-				font = "vic_18"
+				position = { x = 10 y = 259 } # Текст сдвинул влево на 20
+				font = "vic_22"
 				borderSize = {x = 0 y = 0}
 				text = "POSSIBLE_INCIDENTS"
-				maxWidth = 138
+				maxWidth = 188 # Текст увеличил на 50
 				maxHeight = 24
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -718,8 +718,8 @@ guiTypes = {
 
 			OverlappingElementsBoxType = {
 				name = "possible_incidents_box"
-				position = { x = 130 y = 259 }
-				size = { x = 264 y = 32 }
+				position = { x = 172 y = 259 }
+				size = { x = 200 y = 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
 				spacing = 0
@@ -727,11 +727,11 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "active_incidents_label"
-				position = { x = 20 y = 286 }
-				font = "vic_18"
+				position = { x = 10 y = 282 } # Текст сдвинул влево на 20
+				font = "vic_22"
 				borderSize = {x = 0 y = 0}
 				text = "ACTIVE_INCIDENTS"
-				maxWidth = 138
+				maxWidth = 188 # Текст увеличил на 50
 				maxHeight = 24
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -739,8 +739,8 @@ guiTypes = {
 
 			OverlappingElementsBoxType = {
 				name = "active_incidents_box"
-				position = { x = 130 y = 282 }
-				size = { x = 264 y = 32 }
+				position = { x = 172 y = 282 }
+				size = { x = 128 y = 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
 				spacing = 0
@@ -748,11 +748,11 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "past_incidents_label"
-				position = { x = 20 y = 309 }
-				font = "vic_18"
+				position = { x = 10 y = 305 } # Текст сдвинул влево на 20
+				font = "vic_22"
 				borderSize = {x = 0 y = 0}
 				text = "PAST_INCIDENTS"
-				maxWidth = 138
+				maxWidth = 188 # Текст увеличил на 50
 				maxHeight = 24
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -760,8 +760,8 @@ guiTypes = {
 
 			OverlappingElementsBoxType = {
 				name = "past_incidents_box"
-				position = { x = 130 y = 305 }
-				size = { x = 264 y = 32 }
+				position = { x = 172 y = 305 }
+				size = { x = 128 y = 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
 				spacing = 0
@@ -1760,8 +1760,8 @@ guiTypes = {
 				name = "church_power_label"
 				position = { x = 10 y = -37 }
 				font = "vic_18"
-				borderSize = {x = 0 y = 0}
-				maxWidth = 150
+				borderSize = {x = 0 y = 0} #x=0
+				maxWidth = 190
 				maxHeight = 25
 				Orientation = "UPPER_LEFT"
 				format = left
