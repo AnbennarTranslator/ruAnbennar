@@ -85,10 +85,10 @@
  MENGARKHA_IM:1 "¯e°¥ap¬a" #GetTitleIM 
  GHALRDON_IM:1 "¥®'¦°" #GetTitleIM 
  GHALRDAL_IM:1 "¥®'¦®" #GetTitleIM 
- BATTLEKING_IM:1 "¬opo®¿ ¢ª²®¿" #GetTitleIM 
- BOYACSAR_IM:1 "¡¾¬" #GetTitleIM 
- BATTLEQUEEN_IM:1 "¬opo®e¢a ¢ª²®¿°ªµ" #GetTitleIM 
- BOYACSARA_IM:1 "¡¾¬" #GetTitleIM 
+ BATTLEKING_IM:1 "µ¿-¢¢¦" #GetTitleIM 
+ BOYACSAR_IM:1 "¡µ¿" #GetTitleIM 
+ BATTLEQUEEN_IM:1 "µªµ-¢¢¦" #GetTitleIM 
+ BOYACSARA_IM:1 "¡µªµ" #GetTitleIM 
  VALADR_IM:1 "¢®¦" #GetTitleIM 
  VIZVALADR_IM:1 "¢ª©¢®¦" #GetTitleIM 
  VALATKA_IM:1 "¢®²¬" #GetTitleIM 
@@ -364,8 +364,8 @@
  PRANT_IM:1 "±pa°²" #GetTitleHeirIM
  SHADOW_HEIR_IM:1 "½°ºþ ¥±¦ª°" #GetTitleHeirIM
  SHADOW_HEIRESS_IM:1 "½°a¾ ¥±¨" #GetTitleHeirIM
- BATTLEPRINCE_IM:1 "±pª°µ ¢ª²®¿" #GetTitleHeirIM
- BATTLEPRINCESS_IM:1 "±pª°µecca ¢ª²®¿°ªµ" #GetTitleHeirIM
+ BATTLEPRINCE_IM:1 "¬°¾©¿-¢¢¦" #GetTitleHeirIM
+ BATTLEPRINCESS_IM:1 "¬°¾¥ª°¾-¢¢¦" #GetTitleHeirIM
  RASHOKUDEI_IM:1 "Œ¬³¦þ" #GetTitleHeirIM
  BOJAEJ_IM:1 "¡¦¨þ" #GetTitleHeirIM
  KHUNZHE_IM:1 "³°¿µ©" #GetTitleHeirIM
@@ -539,10 +539,10 @@
  MENGARKHA_RD:1 "¯e°¥ap¬ª" #GetTitleRD 
  GHALRDON_RD:1 "¥®'¦°" #GetTitleRD 
  GHALRDAL_RD:1 "¥®'¦®" #GetTitleRD 
- BATTLEKING_RD:1 "¬opo®¾ ¢ª²®¾" #GetTitleRD 
- BOYACSAR_RD:1 "¡¾¬" #GetTitleRD 
- BATTLEQUEEN_RD:1 "¬opo®e¢º ¢ª²®¿°ªµº" #GetTitleRD 
- BOYACSARA_RD:1 "¡¾¬º" #GetTitleRD 
+ BATTLEKING_RD:1 "µ¾-¢¢¦º" #GetTitleRD 
+ BOYACSAR_RD:1 "¡µ¾" #GetTitleRD 
+ BATTLEQUEEN_RD:1 "µªµº-¢¢¦º" #GetTitleRD 
+ BOYACSARA_RD:1 "¡µªµº" #GetTitleRD 
  VALADR_RD:1 "¢®¦" #GetTitleRD 
  VIZVALADR_RD:1 "¢ª©¢®¦" #GetTitleRD 
  VALATKA_RD:1 "¢®²¬ª" #GetTitleRD 
@@ -818,8 +818,8 @@
  PRANT_RD:1 "±pa°²" #GetTitleHeirRD
  SHADOW_HEIR_RD:1 "½°¥ ¥±¦ª°" #GetTitleHeirRD
  SHADOW_HEIRESS_RD:1 "½°þ ¥±¨ª" #GetTitleHeirRD
- BATTLEPRINCE_RD:1 "±pª°µ ¢ª²®¾" #GetTitleHeirRD
- BATTLEPRINCESS_RD:1 "±pª°µeccº ¢ª²®¿°ªµº" #GetTitleHeirRD
+ BATTLEPRINCE_RD:1 "¬°¾©¾-¢¢¦º" #GetTitleHeirRD
+ BATTLEPRINCESS_RD:1 "¬°¾¥ª°ª-¢¢¦º" #GetTitleHeirRD
  RASHOKUDEI_RD:1 "Œ¬³¦¾" #GetTitleHeirRD
  BOJAEJ_RD:1 "¡¦¨¾" #GetTitleHeirRD
  KHUNZHE_RD:1 "³°¿µ©" #GetTitleHeirRD
@@ -993,10 +993,10 @@
  MENGARKHA_DT:1 "¯e°¥ap¬" #GetTitleDT 
  GHALRDON_DT:1 "¥®'¦°³" #GetTitleDT 
  GHALRDAL_DT:1 "¥®'¦®" #GetTitleDT 
- BATTLEKING_DT:1 "¬opo®½ ¢ª²®½" #GetTitleDT 
- BOYACSAR_DT:1 "¡¾¬³" #GetTitleDT 
- BATTLEQUEEN_DT:1 "¬opo®e¢ ¢ª²®¿°ªµ" #GetTitleDT 
- BOYACSARA_DT:1 "¡¾¬" #GetTitleDT 
+ BATTLEKING_DT:1 "µ½-¢¢¦" #GetTitleDT 
+ BOYACSAR_DT:1 "¡µ½" #GetTitleDT 
+ BATTLEQUEEN_DT:1 "µªµ-¢¢¦" #GetTitleDT 
+ BOYACSARA_DT:1 "¡µªµ" #GetTitleDT 
  VALADR_DT:1 "¢®¦³" #GetTitleDT 
  VIZVALADR_DT:1 "¢ª©¢®¦³" #GetTitleDT 
  VALATKA_DT:1 "¢®²¬" #GetTitleDT 
@@ -1272,8 +1272,8 @@
  PRANT_DT:1 "±pa°²³" #GetTitleHeirDT
  SHADOW_HEIR_DT:1 "½°¯³ ¥±¦ª°³" #GetTitleHeirDT
  SHADOW_HEIRESS_DT:1 "½°þ ¥±¨" #GetTitleHeirDT
- BATTLEPRINCE_DT:1 "±pª°µ³ ¢ª²®½" #GetTitleHeirDT
- BATTLEPRINCESS_DT:1 "±pª°µecc ¢ª²®¿°ªµ" #GetTitleHeirDT
+ BATTLEPRINCE_DT:1 "¬°¾©½-¢¢¦" #GetTitleHeirDT
+ BATTLEPRINCESS_DT:1 "¬°¾¥ª°-¢¢¦" #GetTitleHeirDT
  RASHOKUDEI_DT:1 "Œ¬³¦½" #GetTitleHeirDT
  BOJAEJ_DT:1 "¡¦¨½" #GetTitleHeirDT
  KHUNZHE_DT:1 "³°¿µ©" #GetTitleHeirDT
@@ -1447,10 +1447,10 @@
  MENGARKHA_VN:1 "¯e°¥ap¬³" #GetTitleVN 
  GHALRDON_VN:1 "¥®'¦°" #GetTitleVN 
  GHALRDAL_VN:1 "¥®'¦®" #GetTitleVN 
- BATTLEKING_VN:1 "¬opo®¾ ¢ª²®¾" #GetTitleVN 
- BOYACSAR_VN:1 "¡¾¬" #GetTitleVN 
- BATTLEQUEEN_VN:1 "¬opo®e¢³ ¢ª²®¿°ªµ³" #GetTitleVN 
- BOYACSARA_VN:1 "¡¾¬³" #GetTitleVN 
+ BATTLEKING_VN:1 "µ¾-¢¢¦º" #GetTitleVN 
+ BOYACSAR_VN:1 "¡µ¾" #GetTitleVN 
+ BATTLEQUEEN_VN:1 "µªµ³-¢¢¦³" #GetTitleVN 
+ BOYACSARA_VN:1 "¡µªµ³" #GetTitleVN 
  VALADR_VN:1 "¢®¦" #GetTitleVN 
  VIZVALADR_VN:1 "¢ª©¢®¦" #GetTitleVN 
  VALATKA_VN:1 "¢®²¬³" #GetTitleVN 
@@ -1726,8 +1726,8 @@
  PRANT_VN:1 "±pa°²" #GetTitleHeirVN
  SHADOW_HEIR_VN:1 "½°¥ ¥±¦ª°" #GetTitleHeirVN
  SHADOW_HEIRESS_VN:1 "½°³½ ¥±¨³" #GetTitleHeirVN
- BATTLEPRINCE_VN:1 "±pª°µ ¢ª²®¾" #GetTitleHeirVN
- BATTLEPRINCESS_VN:1 "±pª°µecc³ ¢ª²®¿°ªµ³" #GetTitleHeirVN
+ BATTLEPRINCE_VN:1 "¬°¾©¾-¢¢¦³" #GetTitleHeirVN
+ BATTLEPRINCESS_VN:1 "¬°¾¥ª°½-¢¢¦³" #GetTitleHeirVN
  RASHOKUDEI_VN:1 "Œ¬³¦¾" #GetTitleHeirVN
  BOJAEJ_VN:1 "¡¦¨¾" #GetTitleHeirVN
  KHUNZHE_VN:1 "³°¿µ©" #GetTitleHeirVN
@@ -1901,10 +1901,10 @@
  MENGARKHA_TV:1 "¯e°¥ap¬þ" #GetTitleTV 
  GHALRDON_TV:1 "¥®'¦°¯" #GetTitleTV 
  GHALRDAL_TV:1 "¥®'¦®þ" #GetTitleTV 
- BATTLEKING_TV:1 "¬opo®ž¯ ¢ª²®¯" #GetTitleTV 
- BOYACSAR_TV:1 "¡¾¬¯" #GetTitleTV 
- BATTLEQUEEN_TV:1 "¬opo®e¢þ ¢ª²®¿°ªµþ" #GetTitleTV 
- BOYACSARA_TV:1 "¡¾¬þ" #GetTitleTV 
+ BATTLEKING_TV:1 "µž¯-¢¢¦þ" #GetTitleTV 
+ BOYACSAR_TV:1 "¡µž¯" #GetTitleTV 
+ BATTLEQUEEN_TV:1 "µªµþ-¢¢¦þ" #GetTitleTV 
+ BOYACSARA_TV:1 "¡µªµþ" #GetTitleTV 
  VALADR_TV:1 "¢®¦¯" #GetTitleTV 
  VIZVALADR_TV:1 "¢ª©¢®¦¯" #GetTitleTV 
  VALATKA_TV:1 "¢®²¬þ" #GetTitleTV 
@@ -2180,8 +2180,8 @@
  PRANT_TV:1 "±pa°²¯" #GetTitleHeirTV
  SHADOW_HEIR_TV:1 "½°º¯ ¥±¦ª°¯" #GetTitleHeirTV
  SHADOW_HEIRESS_TV:1 "½°þ ¥±¨þ" #GetTitleHeirTV
- BATTLEPRINCE_TV:1 "±pª°µ¯ ¢ª²®¯" #GetTitleHeirTV
- BATTLEPRINCESS_TV:1 "±pª°µeccþ ¢ª²®¿°ªµþ" #GetTitleHeirTV
+ BATTLEPRINCE_TV:1 "¬°¾©¯-¢¢¦þ" #GetTitleHeirTV
+ BATTLEPRINCESS_TV:1 "¬°¾¥ª°þ-¢¢¦þ" #GetTitleHeirTV
  RASHOKUDEI_TV:1 "Œ¬³¦¯" #GetTitleHeirTV
  BOJAEJ_TV:1 "¡¦¨¯" #GetTitleHeirTV
  KHUNZHE_TV:1 "³°¿µ©" #GetTitleHeirTV
@@ -2355,10 +2355,10 @@
  MENGARKHA_PR:1 "¯e°¥ap¬a" #GetTitlePR 
  GHALRDON_PR:1 "¥®'¦°" #GetTitlePR 
  GHALRDAL_PR:1 "¥®'¦®" #GetTitlePR 
- BATTLEKING_PR:1 "¬opo® ¢ª²®" #GetTitlePR 
- BOYACSAR_PR:1 "¡¾¬" #GetTitlePR 
- BATTLEQUEEN_PR:1 "¬opo®e¢ ¢ª²®¿°ªµ" #GetTitlePR 
- BOYACSARA_PR:1 "¡¾¬" #GetTitlePR 
+ BATTLEKING_PR:1 "µ-¢¢¦" #GetTitlePR 
+ BOYACSAR_PR:1 "¡µ" #GetTitlePR 
+ BATTLEQUEEN_PR:1 "µªµ-¢¢¦" #GetTitlePR 
+ BOYACSARA_PR:1 "¡µªµ" #GetTitlePR 
  VALADR_PR:1 "¢®¦" #GetTitlePR 
  VIZVALADR_PR:1 "¢ª©¢®¦" #GetTitlePR 
  VALATKA_PR:1 "¢®²¬" #GetTitlePR 
@@ -2634,8 +2634,8 @@
  PRANT_PR:1 "±pa°²" #GetTitleHeirPR
  SHADOW_HEIR_PR:1 "½°¯ ¥±¦ª°" #GetTitleHeirPR
  SHADOW_HEIRESS_PR:1 "½°þ ¥±¨" #GetTitleHeirPR
- BATTLEPRINCE_PR:1 "±pª°µ ¢ª²®" #GetTitleHeirPR
- BATTLEPRINCESS_PR:1 "±pª°µecc ¢ª²®¿°ªµ" #GetTitleHeirPR
+ BATTLEPRINCE_PR:1 "¬°¾©-¢¢¦" #GetTitleHeirPR
+ BATTLEPRINCESS_PR:1 "¬°¾¥ª°-¢¢¦" #GetTitleHeirPR
  RASHOKUDEI_PR:1 "Œ¬³¦" #GetTitleHeirPR
  BOJAEJ_PR:1 "¡¦¨" #GetTitleHeirPR
  KHUNZHE_PR:1 "³°¿µ©" #GetTitleHeirPR
