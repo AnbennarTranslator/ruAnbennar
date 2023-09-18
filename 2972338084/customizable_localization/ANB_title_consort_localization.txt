@@ -3193,6 +3193,114 @@ defined_text = {
 			primary_culture = binhrung
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = PRINCE_CONSORT_IM
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_IM
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_IM
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_IM
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_IM
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_IM
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_tribal
+	text = {
+		localisation_key = PRINCE_CONSORT_IM
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_IM
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_IM
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_IM
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_IM
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_IM
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }
 
 defined_text = {
@@ -6369,6 +6477,114 @@ defined_text = {
 			primary_culture = binhrung
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = PRINCE_CONSORT_RD
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_RD
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_RD
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_RD
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_RD
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_RD
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_tribal
+	text = {
+		localisation_key = PRINCE_CONSORT_RD
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_RD
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_RD
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_RD
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_RD
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_RD
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}		
 }
 
 defined_text = {
@@ -9545,6 +9761,114 @@ defined_text = {
 			primary_culture = binhrung
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = PRINCE_CONSORT_DT
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_DT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_DT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_DT
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_DT
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_DT
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_tribal
+	text = {
+		localisation_key = PRINCE_CONSORT_DT
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_DT
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_DT
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_DT
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_DT
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_DT
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}		
 }
 
 defined_text = {
@@ -12721,6 +13045,114 @@ defined_text = {
 			primary_culture = binhrung
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = PRINCE_CONSORT_VN
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_VN
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_VN
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_VN
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_VN
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_VN
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_tribal
+	text = {
+		localisation_key = PRINCE_CONSORT_VN
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_VN
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_VN
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_VN
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_VN
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_VN
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}		
 }
 
 defined_text = {
@@ -15897,6 +16329,114 @@ defined_text = {
 			primary_culture = binhrung
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = PRINCE_CONSORT_TV
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_TV
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_TV
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_TV
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_TV
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_TV
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_tribal
+	text = {
+		localisation_key = PRINCE_CONSORT_TV
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_TV
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_TV
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_TV
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_TV
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_TV
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}		
 }
 
 defined_text = {
@@ -19073,4 +19613,112 @@ defined_text = {
 			primary_culture = binhrung
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = PRINCE_CONSORT_PR
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_PR
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_PR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_PR
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_PR
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_PR
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_tribal
+	text = {
+		localisation_key = PRINCE_CONSORT_PR
+		trigger = {
+			has_female_consort = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_PR
+		trigger = {
+			has_female_consort = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = PRINCE_CONSORT_PR
+		trigger = {
+			has_female_consort = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = CONSORT_PR
+		trigger = {
+			has_female_consort = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_CONSORT_PR
+		trigger = {
+			has_female_consort = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_CONSORT_PR
+		trigger = {
+			has_female_consort = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}		
 }

@@ -4419,6 +4419,168 @@ defined_text = {
 			primary_culture = binhrung	
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_theocracy	
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_IM
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_IM
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}
 }	
 
 defined_text = {
@@ -8821,6 +8983,168 @@ defined_text = {
 			primary_culture = binhrung	
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_theocracy	
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_RD
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_RD
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }	
 
 defined_text = {
@@ -13223,6 +13547,168 @@ defined_text = {
 			primary_culture = binhrung	
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_theocracy	
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_DT
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_DT
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }	
 
 defined_text = {
@@ -17625,6 +18111,168 @@ defined_text = {
 			primary_culture = binhrung	
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_theocracy	
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_VN
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_VN
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }	
 
 defined_text = {
@@ -22027,6 +22675,168 @@ defined_text = {
 			primary_culture = binhrung	
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_theocracy	
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_TV
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_TV
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }
 
 defined_text = {
@@ -26429,4 +27239,166 @@ defined_text = {
 			primary_culture = binhrung	
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+#default_theocracy	
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_PR
+		trigger = {
+			has_female_heir = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+	
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = HEIR_fem_PR
+		trigger = {
+			has_female_heir = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }		

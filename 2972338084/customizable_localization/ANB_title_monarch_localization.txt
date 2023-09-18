@@ -11156,6 +11156,222 @@ defined_text = {
 			has_reform = verkal_ozovar_magocracy
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = LORD_IM
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = KING_IM
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_IM
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+
+	text = {
+		localisation_key = LADY_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}	
+#default_republic
+	text = {
+		localisation_key = MAYOR_IM
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_IM
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_IM
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = republic
+		}
+	}
+
+	text = {
+		localisation_key = MAYOR_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = republic
+		}
+	}	
+#default_theocracy	
+	text = {
+		localisation_key = HIGH_PRIEST_IM
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_IM
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_IM
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+
+	text = {
+		localisation_key = HIGH_PRIESTESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = CHIEF_IM
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = KING_IM
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_IM
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}
 }
 
 defined_text = {
@@ -22294,6 +22510,222 @@ defined_text = {
 			is_female = yes
 			government_rank = 3 
 			has_reform = verkal_ozovar_magocracy
+		}
+	}
+#default_monarchy	
+	text = {
+		localisation_key = LORD_RD
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = KING_RD
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_RD
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+
+	text = {
+		localisation_key = LADY_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}	
+#default_republic
+	text = {
+		localisation_key = MAYOR_RD
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_RD
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_RD
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = republic
+		}
+	}
+
+	text = {
+		localisation_key = MAYOR_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = republic
+		}
+	}	
+#default_theocracy	
+	text = {
+		localisation_key = HIGH_PRIEST_RD
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_RD
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_RD
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+
+	text = {
+		localisation_key = HIGH_PRIESTESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = CHIEF_RD
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = KING_RD
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_RD
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = tribal
 		}
 	}
 }
@@ -33436,6 +33868,222 @@ defined_text = {
 			has_reform = verkal_ozovar_magocracy
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = LORD_DT
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = KING_DT
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_DT
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+
+	text = {
+		localisation_key = LADY_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}	
+#default_republic
+	text = {
+		localisation_key = MAYOR_DT
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_DT
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_DT
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = republic
+		}
+	}
+
+	text = {
+		localisation_key = MAYOR_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = republic
+		}
+	}	
+#default_theocracy	
+	text = {
+		localisation_key = HIGH_PRIEST_DT
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_DT
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_DT
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+
+	text = {
+		localisation_key = HIGH_PRIESTESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = CHIEF_DT
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = KING_DT
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_DT
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }
 
 defined_text = {
@@ -44576,6 +45224,222 @@ defined_text = {
 			has_reform = verkal_ozovar_magocracy
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = LORD_VN
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = KING_VN
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_VN
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+
+	text = {
+		localisation_key = LADY_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}	
+#default_republic
+	text = {
+		localisation_key = MAYOR_VN
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_VN
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_VN
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = republic
+		}
+	}
+
+	text = {
+		localisation_key = MAYOR_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = republic
+		}
+	}	
+#default_theocracy	
+	text = {
+		localisation_key = HIGH_PRIEST_VN
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_VN
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_VN
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+
+	text = {
+		localisation_key = HIGH_PRIESTESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = CHIEF_VN
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = KING_VN
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_VN
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }
 
 defined_text = {
@@ -55716,6 +56580,222 @@ defined_text = {
 			has_reform = verkal_ozovar_magocracy
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = LORD_TV
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = KING_TV
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_TV
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+
+	text = {
+		localisation_key = LADY_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}	
+#default_republic
+	text = {
+		localisation_key = MAYOR_TV
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_TV
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_TV
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = republic
+		}
+	}
+
+	text = {
+		localisation_key = MAYOR_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = republic
+		}
+	}	
+#default_theocracy	
+	text = {
+		localisation_key = HIGH_PRIEST_TV
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_TV
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_TV
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+
+	text = {
+		localisation_key = HIGH_PRIESTESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = CHIEF_TV
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = KING_TV
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_TV
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }
 
 defined_text = {
@@ -66856,4 +67936,220 @@ defined_text = {
 			has_reform = verkal_ozovar_magocracy
 		}
 	}
+#default_monarchy	
+	text = {
+		localisation_key = LORD_PR
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = KING_PR
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_PR
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}
+
+	text = {
+		localisation_key = LADY_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = QUEEN_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_reform = monarchy_mechanic
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_reform = monarchy_mechanic
+		}
+	}	
+#default_republic
+	text = {
+		localisation_key = MAYOR_PR
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_PR
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_PR
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = republic
+		}
+	}
+
+	text = {
+		localisation_key = MAYOR_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = GRAND_MAYOR_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = republic
+		}
+	}
+	text = {
+		localisation_key = PRESIDENT_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = republic
+		}
+	}	
+#default_theocracy	
+	text = {
+		localisation_key = HIGH_PRIEST_PR
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_PR
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIEST_PR
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+
+	text = {
+		localisation_key = HIGH_PRIESTESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = theocracy
+		}
+	}
+	text = {
+		localisation_key = HIGH_PRIESTESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = theocracy
+		}
+	}
+#default_tribal	
+	text = {
+		localisation_key = CHIEF_PR
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = KING_PR
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPEROR_PR
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			government = tribal
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = QUEEN_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = EMPRESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			government = tribal
+		}
+	}	
 }
