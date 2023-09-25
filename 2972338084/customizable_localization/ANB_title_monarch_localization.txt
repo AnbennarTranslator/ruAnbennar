@@ -6031,7 +6031,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = republic
 			culture_group = kheionai_ruinborn_elf
 			NOT = {
@@ -6168,7 +6167,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = theocracy
 			religion = skaldhyrric_faith
 		}
@@ -6487,9 +6485,105 @@ defined_text = {
 			}
 		}
 	}	
-	
-#adventurer_republic	
 
+#orcish_clan
+	text = {
+		localisation_key = CHIEFTAIN_IM
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_IM
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_IM
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTAIN_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_fem_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}	
+
+#adventurer_government	
 	text = {
 		localisation_key = CAPTAIN_IM
 		trigger = {
@@ -6677,10 +6771,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -6697,10 +6791,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -6716,10 +6810,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -6737,10 +6831,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -6757,10 +6851,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -6776,10 +6870,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 		}
 	}
@@ -17387,7 +17481,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = republic
 			culture_group = kheionai_ruinborn_elf
 			NOT = {
@@ -17524,7 +17617,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = theocracy
 			religion = skaldhyrric_faith
 		}
@@ -17843,6 +17935,102 @@ defined_text = {
 			}
 		}
 	}	
+#orcish_clan
+	text = {
+		localisation_key = CHIEFTAIN_RD
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_RD
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_RD
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTAIN_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_fem_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}	
 	
 #adventurer_republic	
 
@@ -18033,10 +18221,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -18053,10 +18241,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -18072,10 +18260,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -18093,10 +18281,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -18113,10 +18301,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -18132,10 +18320,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 		}
 	}
@@ -28743,7 +28931,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = republic
 			culture_group = kheionai_ruinborn_elf
 			NOT = {
@@ -28880,7 +29067,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = theocracy
 			religion = skaldhyrric_faith
 		}
@@ -29199,6 +29385,102 @@ defined_text = {
 			}
 		}
 	}	
+#orcish_clan
+	text = {
+		localisation_key = CHIEFTAIN_DT
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_DT
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_DT
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTAIN_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_fem_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}	
 	
 #adventurer_republic	
 
@@ -29389,10 +29671,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -29409,10 +29691,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -29428,10 +29710,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -29449,10 +29731,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -29469,10 +29751,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -29488,10 +29770,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 		}
 	}
@@ -40099,7 +40381,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = republic
 			culture_group = kheionai_ruinborn_elf
 			NOT = {
@@ -40236,7 +40517,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = theocracy
 			religion = skaldhyrric_faith
 		}
@@ -40555,6 +40835,102 @@ defined_text = {
 			}
 		}
 	}	
+#orcish_clan
+	text = {
+		localisation_key = CHIEFTAIN_VN
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_VN
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_VN
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTAIN_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_fem_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}	
 	
 #adventurer_republic	
 
@@ -40745,10 +41121,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -40765,10 +41141,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -40784,10 +41160,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -40805,10 +41181,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -40825,10 +41201,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -40844,10 +41220,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 		}
 	}
@@ -51455,7 +51831,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = republic
 			culture_group = kheionai_ruinborn_elf
 			NOT = {
@@ -51592,7 +51967,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = theocracy
 			religion = skaldhyrric_faith
 		}
@@ -51911,6 +52285,103 @@ defined_text = {
 			}
 		}
 	}	
+#orcish_clan
+	text = {
+		localisation_key = CHIEFTAIN_TV
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_TV
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_TV
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTAIN_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_fem_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}	
+
 	
 #adventurer_republic	
 
@@ -52101,10 +52572,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -52121,10 +52592,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -52140,10 +52611,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -52161,10 +52632,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -52181,10 +52652,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -52200,10 +52671,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 		}
 	}
@@ -62811,7 +63282,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = republic
 			culture_group = kheionai_ruinborn_elf
 			NOT = {
@@ -62948,7 +63418,6 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			capital_scope = { superregion = escann_superregion }
 			government = theocracy
 			religion = skaldhyrric_faith
 		}
@@ -63267,6 +63736,102 @@ defined_text = {
 			}
 		}
 	}	
+#orcish_clan
+	text = {
+		localisation_key = CHIEFTAIN_PR
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_PR
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_PR
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+
+	text = {
+		localisation_key = CHIEFTAIN_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARCHIEF_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}
+	text = {
+		localisation_key = WARLORD_fem_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			OR = {
+				has_reform = deepwoods_horde
+				has_reform = brown_orc_horde
+				has_reform = emerald_horde
+				has_reform = graytide_horde
+				is_tribal = yes
+			}
+			culture_group = orcish
+		}
+	}	
 	
 #adventurer_republic	
 
@@ -63457,10 +64022,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -63477,10 +64042,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -63496,10 +64061,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -63517,10 +64082,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -63537,10 +64102,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 
 		}
@@ -63556,10 +64121,10 @@ defined_text = {
 						capital_scope = { superregion = escann_superregion }
 						capital_scope = { region = forlorn_vale_region }
 					}
-					government = monarchy
+					government = republic
 					has_country_flag = adventurer_derived_government
 				}
-				has_reform = adventurer_kingdom_reform
+				has_reform = adventurer_republic_reform
 			}
 		}
 	}
