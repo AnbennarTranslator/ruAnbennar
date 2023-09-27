@@ -1,25 +1,25 @@
 ﻿l_english:
  regent_court.1.t:0 "Ho¢ºþ ±o¬po¢ª²e®¿?"
- regent_court.1.d:0 "‰oc®e ¦ec¾²ª®e²ªþ ªc²o¢o¥o ±o¬®o°e°ª¾, °aŒ [Root.Monarch.GetTitle] c¶ª²ae², ¶²o ±opa °a¶a²¿ ±o¶ª²a²¿ ª°o¥o ¡o¥a. Xo²¿ ¼²o, °ec¯o°e°°o, ª ¯o¨e² ±pª°ec²ª °aŒeþ ¦ep¨a¢e ¡o®¿Œ³½ ±o®¿©³, ²a¬oe peŒe°ªe °e ¯o¨e² °e ª¯e²¿ ±oc®e¦c²¢ªþ cpe¦ª °apo¦a ª ¦³xo¢e°c²¢a."
+ regent_court.1.d:0 "       ‰oc®e ¦ec¾²ª®e²ªþ ªc²o¢o¥o ±o¬®o°e°ª¾, °aŒ[Root.GetMEndA] [Root.GetTitleIM] c¶ª²ae², ¶²o ±opa °a¶a²¿ ±o¶ª²a²¿ ª°o¥o ¡o¥a. Xo²¿ ¼²o, °ec¯o°e°°o, ª ¯o¨e² ±pª°ec²ª °aŒeþ ¦ep¨a¢e ¡o®¿Œ³½ ±o®¿©³, ²a¬oe peŒe°ªe °e ¯o¨e² °e ª¯e²¿ ±oc®e¦c²¢ªþ cpe¦ª °apo¦a ª ¦³xo¢e°c²¢a."
  regent_court.1.a:0 "Mº ±po¦o®¨ª¯ ¶²ª²¿ °aŒe¥o ¡o¥a."
  regent_court.1.b:0 "Bo©¯o¨°o, °ac²a®o ¢pe¯¾ ±epe¯e°"
  
  regent_court.2.t:0 "HaŒ ¢º¡op."
- regent_court.2.d:0 "HaŒ [Root.Monarch.GetTitle] co©¢a® co¡op [Root.GetName] ¢ºcŒªx µep¬o¢°ºx ªepapxo¢, ¶²o¡º peŒª²¿, ¬a¬o¯³ ¶®e°³ Pe¥e°²c¬o¥o ¦¢opa ¯º ¡³¦e¯ ±o¬®o°¾²¿c¾. Ha ¬o¥o ¨e ±a¦e² °aŒ ¢º¡op?\n\n§P(²²ª, ©¦¿ ²¿ ±® ±¬³²¬ª ¦®¾ ±µªþ.)§!"
- regent_court.2.a:0 "Kac²e®®oc, ‚®a¢a Pe¥e°²c¬o¥o ¦¢opa"
- regent_court.2.b:0 "ƒa¯a, €o¥ª°¾ ©°a°ª¾"
- regent_court.2.c:0 "Kopª°, €o¥ª°¾ ¢oþ°º"
- regent_court.2.n:0 "A¦ea°, €o¥ ¡®a¥opo¦c²¢a"
+ regent_court.2.d:0 "       HaŒ[Root.GetMEndA] [Root.GetTitleIM] co©¢a®[Root.GetMEndA] co¡op ¦¨¢º [Root.GetName] ¢ºcŒªx µep¬o¢°ºx ªepapxo¢, ¶²o¡º peŒª²¿, ¬a¬o¯³ ¶®e°³ Pe¥e°²c¬o¥o ¦¢opa ¯º ¡³¦e¯ ±o¬®o°¾²¿c¾. Ha ¬o¥o ¨e ±a¦ž² °aŒ ¢º¡op?\n\n       §P(²²ª, ©¦¿ ²¿ ±® ±¬³²¬ª ¦®¾ ±µªþ.)§!"
+ regent_court.2.a:0 "Kac²e®®oc, ¥®a¢a Pe¥e°²c¬o¥o ¦¢opa"
+ regent_court.2.b:0 "ƒa¯a, ¡o¥ª°¾ ©°a°ª¾"
+ regent_court.2.c:0 "Kopª°, ¡o¥ª°¾ ¢oþ°º"
+ regent_court.2.n:0 "A¦ea°, ¡o¥ ¡®a¥opo¦c²¢a"
  regent_court.2.e:0 "M³°ac, C±acª²e®¿ ¼®¿´o¢"
- regent_court.2.f:0 "Apa, €o¥ª°¾ ¡o¥a²c²¢a ª ³¦a¶ª"
+ regent_court.2.f:0 "Apa, ¡o¥ª°¾ ¡o¥a²c²¢a ª ³¦a¶ª"
  regent_court.2.g:0 "€a®¥ap C²poª²e®¿"
- regent_court.2.h:0 "™c¯apªa®, €o¥ª°¾ ¦o¯aŒ°e¥o o¶a¥a ª ce¯¿ª"
- regent_court.2.i:0 "Pªa®a, €o¥ª°¾ ªc²ª°°oþ ®½¡¢ª"
- regent_court.2.j:0 "Mª°apa, €o¥ª°¾ ±®o²c¬oþ ®½¡¢ª"
- regent_court.2.k:0 "Êa®a, €o¥ª°¾ oxo²º"
- regent_court.2.l:0 "Hepa², C³¦¿¾ Mžp²¢ºx"
- regent_court.2.m:0 "Ha²a®ª°, €o¥ª°¾ Te°eþ"
- regent_court.2.o:0 "€e¥¥a, €o¥ª°¾ ¯ª®ocep¦ª¾"
+ regent_court.2.h:0 "™c¯apªa®, ¡o¥ª°¾ ¦o¯aŒ°e¥o o¶a¥a ª ce¯¿ª"
+ regent_court.2.i:0 "Pªa®a, ¡o¥ª°¾ ªc²ª°°oþ ®½¡¢ª"
+ regent_court.2.j:0 "Mª°apa, ¡o¥ª°¾ ±®o²c¬oþ ®½¡¢ª"
+ regent_court.2.k:0 "Êa®a, ¡o¥ª°¾ oxo²º"
+ regent_court.2.l:0 "Hepa², C³¦¿¾ ¯žp²¢ºx"
+ regent_court.2.m:0 "Ha²a®ª°, ¡o¥ª°¾ ²e°eþ"
+ regent_court.2.o:0 "€e¥¥a, ¡o¥ª°¾ ¯ª®ocep¦ª¾"
  
 
 #THIS NEEDS TO BE KEPT UP TO DATE!!!
