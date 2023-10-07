@@ -1831,462 +1831,462 @@
  NGI_VO_VN:1 "°¥ª ¢" #GetTitleConsortVN 
  
  #Ù¢ª²®¿°ºþ ±¦¨
- HARI_PR:1 "ª" #GetTitleTV 
- GREAT_HARI_PR:1 "¢®ª¬ª¯ ª" #GetTitleTV 
- HARIN_PR:1 "ª°" #GetTitleTV 
- GREAT_HARIN_PR:1 "¢®ª¬þ ª°" #GetTitleTV 
- DUKE_CROSSGUARD_PR:1 "¬°¾©¯-©a¸ª²°ª¬¯" #GetTitleTV 
- KING_CROSSGUARD_PR:1 "¬opo®ž¯-©a¸ª²°ª¬¯" #GetTitleTV 
- EMPEROR_CROSSGUARD_PR:1 "ª¯±epa²op¯-©a¸ª²°ª¬¯" #GetTitleTV 
- DUCHESS_CROSSGUARD_PR:1 "¬°¾¥ª°þ-©a¸ª²°ªµþ" #GetTitleTV 
- QUEEN_CROSSGUARD_PR:1 "¬opo®e¢þ-©a¸ª²°ªµþ" #GetTitleTV 
- EMPRESS_CROSSGUARD_PR:1 "ª¯±epa²pªµþ-©a¸ª²°ªµþ" #GetTitleTV 
- SANCTIFIED_KING_PR:1 "¢¾²º¯ ¬opo®ž¯" #GetTitleTV 
- SANCTIFIED_EMPEROR_PR:1 "¢¾²º¯ ª¯±epa²op¯" #GetTitleTV 
- SANCTIFIED_QUEEN_PR:1 "¢¾²þ ¬opo®e¢þ" #GetTitleTV 
- SANCTIFIED_EMPRESS_PR:1 "¢¾²þ ª¯±²ªµþ" #GetTitleTV 
- PHOENIX_EMPEROR_PR:1 "ª¯±²¯ ´°ª¬" #GetTitleTV 
- PHOENIX_EMPRESS_PR:1 "ª¯±²ªµþ ´°ª¬" #GetTitleTV 
- COMMANDER_PR:1 "¬o¯a°¦ªp¯" #GetTitleTV 
- HERALD_PR:1 "¢ec²°ª¬¯" #GetTitleTV 
- DIVINE_HERALD_PR:1 "¡o¨ec²¢e°°º¯ ¢ec²°ª¬¯" #GetTitleTV 
- COMMANDER_fem_PR:1 "¬o¯a°¦ªpŒþ" #GetTitleTV 
- HERALD_fem_PR:1 "¢ec²°ªµþ" #GetTitleTV 
- DIVINE_HERALD_fem_PR:1 "¡o¨ec²¢e°°þ ¢ec²°ªµþ" #GetTitleTV 
- SORCERER_KING_PR:1 "¬®ž¯-¬®¦³°¯" #GetTitleTV 
- SORCERER_QUEEN_PR:1 "¬®¢þ-¬®¦³°¿þ" #GetTitleTV 
- BLACK_ACOLYTE_PR:1 "¶ž°º¯ ¬®ª²¯" #GetTitleTV 
- BLACK_ACOLYTE_fem_PR:1 "¶ž°þ ¬®ª²" #GetTitleTV 
- GRAY_DUKE_PR:1 "epº¯ ¬°¾©¯" #GetTitleTV 
- GRAY_KING_PR:1 "epº¯ ¬opo®ž¯" #GetTitleTV 
- GRAY_EMPEROR_PR:1 "epº¯ ª¯±epa²op¯" #GetTitleTV 
- GRAY_DUCHESS_PR:1 "epþ ¬°¾¥ª°þ" #GetTitleTV 
- GRAY_QUEEN_PR:1 "epþ ¬opo®e¢þ" #GetTitleTV 
- GRAY_EMPRESS_PR:1 "epþ ª¯±epa²pªµþ" #GetTitleTV 
- MAGISTER_PR:1 "¯¥ª²¯" #GetTitleTV 
- MAGISTRIX_PR:1 "¯¥ª²¯" #GetTitleTV 
- KNIGHT_CAPTAIN_PR:1 "ºµap¯-¬a±ª²a°¯" #GetTitleTV 
- KNIGHT_CAPTAIN_fem_PR:1 "ºµap¯-¬a±ª²a°Œþ" #GetTitleTV 
- LORD_CRIER_PR:1 "®op¦¯ ¥®aŒa²a¯" #GetTitleTV 
- LADY_CRIER_PR:1 "®¦ª ¥®aŒa²a¯" #GetTitleTV 
- PACK_LORD_PR:1 "±o¢e®ª²e®¯ ²aª" #GetTitleTV 
- CORSAIR_KING_PR:1 "¬opo®ž¯ ¬opcapo¢" #GetTitleTV 
- SEA_SCOURGE_PR:1 "¥po©þ ¯opeþ" #GetTitleTV 
- PACK_MISTRESS_PR:1 "±o¢e®ª²e®¿°ªµþ ²aª" #GetTitleTV 
- CORSAIR_QUEEN_PR:1 "¬®¢þ ¬opcapo¢" #GetTitleTV 
- TLUUKT_KING_PR:1 "¬®³°¬®¯" #GetTitleTV 
- TLUUKT_EMPEROR_PR:1 "¬³°¬®¯" #GetTitleTV 
- TLUUKT_QUEEN_PR:1 "¬®³°¬®ª" #GetTitleTV 
- TLUUKT_EMPRESS_PR:1 "¬³°¬®ª" #GetTitleTV 
- JARL_PR:1 "¾®¯" #GetTitleTV 
- KONUNGR_PR:1 "¬°³°¥¯" #GetTitleTV 
- OZTRKONUNGR_PR:1 "©²o¬o°³°¥¯" #GetTitleTV 
- DROTTNING_PR:1 "¦po²²°ª°¥" #GetTitleTV 
- OZTRDROTTNING_PR:1 "©¦po²²°ª°¥" #GetTitleTV 
- MASTER_SKALD_PRIEST_PR:1 "¢e®ª¬ª¯ ¬a®¿¦-¨peµ¯" #GetTitleTV 
- MASTER_SKALD_PRIESTESS_PR:1 "¢e®ª¬þ ¬a®¿¦-¨pªµþ" #GetTitleTV 
- EXALTED_COMPANION_PR:1 "¢o©¢ºŒe°°º¯ ±³²°ª¬¯" #GetTitleTV 
- ARD_DRADH_PR:1 "p¦ ¦pa¦¯" #GetTitleTV 
- ARD_BANNDRADH_PR:1 "p¦ ¡a°°¦pa¦¯" #GetTitleTV 
- SHADOW_MALE_PR:1 "²e°e¢º¯ ±pª°µ¯" #GetTitleTV 
- SHADOW_FEMALE_PR:1 "²e°e¢þ ±pª°µeccþ" #GetTitleTV 
- CRYSTAL_QUEEN_PR:1 "¬pªc²a®¿°þ ¬opo®e¢þ" #GetTitleTV 
- CRYSTAL_EMPRESS_PR:1 "¬pªc²a®¿°þ ª¯±epa²pªµþ" #GetTitleTV 
- OBSIDIAN_MALE_PR:1 "¢º¡pa°°º¯ ³°oþ" #GetTitleTV 
- OBSIDIAN_FEMALE_PR:1 "¢º¡pa°°þ ³°oþ" #GetTitleTV 
- OBSIDIAN_INVASION_MALE_PR:1 "³°°º¯ ¢²°ª¬¯" #GetTitleTV 
- OBSIDIAN_INVASION_FEMALE_PR:1 "³°°þ ¢²°ªµþ" #GetTitleTV 
- COUNCILLOR_PR:1 "¬o°c³®¯" #GetTitleTV 
- FIRST_COUNCILLOR_PR:1 "±¢º¯ ¬°³®¯" #GetTitleTV 
- HIGH_COUNCILLOR_PR:1 "¢¢°º¯ ¬°³®¯" #GetTitleTV 
- MARSHAL_PR:1 "¯Œ®¯" #GetTitleTV 
- GRAND_MARSHAL_PR:1 "¥°¦-¯Œ®¯" #GetTitleTV 
- GANG_LEADER_PR:1 "®ª¦ep¯ ¡a°¦º" #GetTitleTV 
- GREY_EMINENCE_PR:1 "º¯ ¬¦ª°®¯" #GetTitleTV 
- MENGURKHA_PR:1 "¯e°¥³p¬a" #GetTitleTV 
- MENGARKHA_PR:1 "¯e°¥ap¬a" #GetTitleTV 
- BAOZH_PR:1 "¡¨¯" #GetTitleTV 
- BAOZHA_PR:1 "¡¨þ" #GetTitleTV 
- BIIGH_BAOZH_PR:1 "¡ªª¥ ¡¨¯" #GetTitleTV 
- BIIGH_BAOZHA_PR:1 "¡ªª¥ ¡¨þ" #GetTitleTV 
- OJKAGMA_PR:1 "þ¬¥¯" #GetTitleTV 
- MENGURM_PR:1 "¯°¥³'¯" #GetTitleTV 
- MENGURKHA_PR:1 "¯e°¥³p¬a" #GetTitleTV 
- OJKODIRD_PR:1 "þ¬¦ª¦þ" #GetTitleTV 
- MENGURMA_PR:1 "¯°¥³'¯" #GetTitleTV 
- MENGARKHA_PR:1 "¯e°¥ap¬þ" #GetTitleTV 
- GHALRDON_PR:1 "¥®'¦°¯" #GetTitleTV 
- GHALRDAL_PR:1 "¥®'¦®þ" #GetTitleTV 
- BATTLEKING_PR:1 "µž¯-¢¢¦þ" #GetTitleTV 
- BOYACSAR_PR:1 "¡µž¯" #GetTitleTV 
- BATTLEQUEEN_PR:1 "µªµþ-¢¢¦þ" #GetTitleTV 
- BOYACSARA_PR:1 "¡µªµþ" #GetTitleTV 
- VALADR_PR:1 "¢®¦¯" #GetTitleTV 
- VIZVALADR_PR:1 "¢ª©¢®¦¯" #GetTitleTV 
- VALATKA_PR:1 "¢®²¬þ" #GetTitleTV 
- VIZVALATKA_PR:1 "¢ª©¢®²¬þ" #GetTitleTV 
- VYRISAR_PR:1 "¢ºª¯" #GetTitleTV 
- VYRISETA_PR:1 "¢ºª²þ" #GetTitleTV 
- VITSAR_PR:1 "¢ª²¯" #GetTitleTV 
- YRIDAM_PR:1 "ªª¦¯þ" #GetTitleTV 
- BARON_PR:1 "¡°¯" #GetTitleTV 
- BARONESS_PR:1 "¡°þ" #GetTitleTV 
- VENERATOR_PR:1 "¢°²¯" #GetTitleTV 
- VENERATOR_HIGH_PR:1 "¢¢°º¯ ¢°²¯" #GetTitleTV 
- RASHENBIR_PR:1 "Œ°¡ª¯" #GetTitleTV 
- HWALBAEJ_PR:1 "¢®¡¯" #GetTitleTV 
- KAJAENG_PR:1 "¬¦¨°¯" #GetTitleTV 
- DAKAJAENG_PR:1 "¦¬¦¨°¯" #GetTitleTV 
- HWALEI_PR:1 "¢®þ" #GetTitleTV 
- KUSHAEN_PR:1 "¬³Œ°þ" #GetTitleTV 
- DAKUSHAEN_PR:1 "¦¬³Œ°þ" #GetTitleTV 
- ZHU_PR:1 "¶¨³" #GetTitleTV 
- TONGZHE_PR:1 "²°¶¨¼" #GetTitleTV 
- DIANGDI_PR:1 "¦ª°¥¦ª" #GetTitleTV 
- SHUN_PR:1 "Œ³°¿" #GetTitleTV 
- NUWANG_PR:1 "°³¢°¥" #GetTitleTV 
- HANGHO_PR:1 "°¥" #GetTitleTV 
- MANSAROM_PR:1 "¯°¯" #GetTitleTV 
- MONGOR_PR:1 "¯°¥¯" #GetTitleTV 
- TAMONGOR_PR:1 "²¯°¥¯" #GetTitleTV 
- RENDA_PR:1 "°¦" #GetTitleTV 
- JOLDO_PR:1 "¦¨®¦" #GetTitleTV 
- TAJOLDO_PR:1 "²¦¨®¦" #GetTitleTV 
- HIGH_LORD_PR:1 "¢¢°º¯ ®¦¯" #GetTitleTV 
- GREAT_LORD_PR:1 "¢®ª¬ª¯ ®¦¯" #GetTitleTV 
- HIGH_LADY_PR:1 "¢¢°þ ®¦ª" #GetTitleTV 
- GREAT_LADY_PR:1 "¢®ª¬þ ®¦ª" #GetTitleTV 
- HIGH_CONVOCATIONARY_PR:1 "¢ºŒª¯ ©º¢¯" #GetTitleTV 
- GREAT_CONVOCATIONARY_PR:1 "¢®ª¬ª¯ ©º¢¯" #GetTitleTV 
- SUPREME_CONVOCATIONARY_PR:1 "¢¢°º¯ ©º¢¯" #GetTitleTV 
- MYKX_PR_CHIEF_ADMIRAL_PR:1 "²Œª¯ ¦¯ª®¯" #GetTitleTV 
- MYKX_PR_GRAND_ADMIRAL_PR:1 "¥°¦-¦¯ª®¯" #GetTitleTV 
- MYKX_PR_SCOURGE_MAN_PR:1 "±®²¿²µ¯" #GetTitleTV 
- MYKX_PR_SCOURGE_WOMAN_PR:1 "±®²¿¯²¿½" #GetTitleTV 
- LORD_MAYOR_PR:1 "®op¦-¯¼p¯" #GetTitleTV 
- GRAND_MAYOR_PR:1 "¢e®ª¬ª¯ ¯¼p¯" #GetTitleTV 
- IRON_KING_PR:1 "¨®©°º¯ ¬®ž¯" #GetTitleTV 
- IRON_QUEEN_PR:1 "¨®©°þ ¬®¢þ" #GetTitleTV 
- GRAND_PRINCE_PR:1 "¢e®ª¬ª¯ ¬°¾©¯" #GetTitleTV 
- GRAND_PRINCESS_PR:1 "¢e®ª¬þ ¬°¾¥ª°þ" #GetTitleTV 
- OLDKING_PR:1 "²º¯ ¬®ž¯" #GetTitleTV 
- OLDQUEEN_PR:1 "²þ ¬®¢þ" #GetTitleTV 
- ELDER_PR:1 "¦¢°ª¯" #GetTitleTV 
- HIGH_ELDER_PR:1 "¢¢°º¯ ¦¢°ª¯" #GetTitleTV 
- PARAMOUNT_ELDER_PR:1 "±¢²±°°º¯ ¦¢°ª¯" #GetTitleTV 
- AMBER_KING_PR:1 "¾°²°º¯ ¬®ž¯" #GetTitleTV 
- AMBER_QUEEN_PR:1 "¾°²°þ ¬®¢þ" #GetTitleTV 
- BRIGHT_KING_PR:1 "¾¬ª¯ ¬®ž¯" #GetTitleTV 
- BRIGHT_QUEEN_PR:1 "¾¬þ ¬®¢þ" #GetTitleTV 
- FLAME_CUSTODIAN_PR:1 "°ª²®¯" #GetTitleTV 
- FIRELORD_PR:1 "±¢®ª²®¯ ¥°¾" #GetTitleTV 
- FIRELADY_PR:1 "±¢®ª²®¿°ªµþ ¥°¾" #GetTitleTV 
- CRIMSON_REVEREND_PR:1 "¡¥¢º¯ ±±¦¡°º¯" #GetTitleTV 
- CRIMSON_REVEREND_fem_PR:1 "¡¥¢þ ±±¦¡°þ" #GetTitleTV 
- SKY_CAPTAIN_PR:1 "°¡°º¯ ¬±ª²°¯" #GetTitleTV 
- GRAND_SKY_CAPTAIN_PR:1 "¢®ª¬ª¯ °¡°º¯ ¬±ª²°¯" #GetTitleTV 
- DRAGON_PRINCE_PR:1 "¦¬°¿ª¯ ±ª°µ¯" #GetTitleTV 
- DRAGON_KING_PR:1 "¦¬°¿ª¯ ¬®ž¯" #GetTitleTV 
- DRAGON_EMPEROR_PR:1 "¦¬°¿ª¯ ª¯±²¯" #GetTitleTV 
- DRAGON_PRINCESS_PR:1 "¦¬°¿þ ±ª°µþ" #GetTitleTV 
- DRAGON_QUEEN_PR:1 "¦¬°¿þ ¬®¢þ" #GetTitleTV 
- DRAGON_EMPRESS_PR:1 "¦¬°¿þ ª¯±²ªµþ" #GetTitleTV 
- LIANGZHU_PR:1 "®ª°¶¨³" #GetTitleTV 
- KEGLORD_PR:1 "¬¥®¦¯" #GetTitleTV 
- HIGH_KEGLORD_PR:1 "¢¢°º¯ ¬¥®¦¯" #GetTitleTV 
- KEGQUEEN_PR:1 "¬¥®¢þ" #GetTitleTV 
- HIGH_KEGQUEEN_PR:1 "¢¢°þ ¬¥®¢þ" #GetTitleTV 
- LESSER_KING_PR:1 "¯°¿Œª¯ ¬®ž¯" #GetTitleTV 
- KING_OF_KINGS_PR:1 "¬®ž¯ ¬®þ" #GetTitleTV 
- LESSER_QUEEN_PR:1 "¯°¿Œþ ¬®¢þ" #GetTitleTV 
- QUEEN_OF_QUEENS_PR:1 "¬®¢þ ¬®¢" #GetTitleTV 
- FIRST_STEWARD_PR:1 "±¢º¯ ³±¢®¾½¸ª¯" #GetTitleTV 
- HIGH_STEWARD_PR:1 "¢¢°º¯ ³±¢®¾½¸ª¯" #GetTitleTV 
- FIRST_STEWARD_fem_PR:1 "±¢þ ³±¢®¾½¸þ" #GetTitleTV 
- HIGH_STEWARD_fem_PR:1 "¢¢°þ ³±¢®¾½¸þ" #GetTitleTV 
+ HARI_TV:1 "ª" #GetTitleTV 
+ GREAT_HARI_TV:1 "¢®ª¬ª¯ ª" #GetTitleTV 
+ HARIN_TV:1 "ª°" #GetTitleTV 
+ GREAT_HARIN_TV:1 "¢®ª¬þ ª°" #GetTitleTV 
+ DUKE_CROSSGUARD_TV:1 "¬°¾©¯-©a¸ª²°ª¬¯" #GetTitleTV 
+ KING_CROSSGUARD_TV:1 "¬opo®ž¯-©a¸ª²°ª¬¯" #GetTitleTV 
+ EMPEROR_CROSSGUARD_TV:1 "ª¯±epa²op¯-©a¸ª²°ª¬¯" #GetTitleTV 
+ DUCHESS_CROSSGUARD_TV:1 "¬°¾¥ª°þ-©a¸ª²°ªµþ" #GetTitleTV 
+ QUEEN_CROSSGUARD_TV:1 "¬opo®e¢þ-©a¸ª²°ªµþ" #GetTitleTV 
+ EMPRESS_CROSSGUARD_TV:1 "ª¯±epa²pªµþ-©a¸ª²°ªµþ" #GetTitleTV 
+ SANCTIFIED_KING_TV:1 "¢¾²º¯ ¬opo®ž¯" #GetTitleTV 
+ SANCTIFIED_EMPEROR_TV:1 "¢¾²º¯ ª¯±epa²op¯" #GetTitleTV 
+ SANCTIFIED_QUEEN_TV:1 "¢¾²þ ¬opo®e¢þ" #GetTitleTV 
+ SANCTIFIED_EMPRESS_TV:1 "¢¾²þ ª¯±²ªµþ" #GetTitleTV 
+ PHOENIX_EMPEROR_TV:1 "ª¯±²¯ ´°ª¬" #GetTitleTV 
+ PHOENIX_EMPRESS_TV:1 "ª¯±²ªµþ ´°ª¬" #GetTitleTV 
+ COMMANDER_TV:1 "¬o¯a°¦ªp¯" #GetTitleTV 
+ HERALD_TV:1 "¢ec²°ª¬¯" #GetTitleTV 
+ DIVINE_HERALD_TV:1 "¡o¨ec²¢e°°º¯ ¢ec²°ª¬¯" #GetTitleTV 
+ COMMANDER_fem_TV:1 "¬o¯a°¦ªpŒþ" #GetTitleTV 
+ HERALD_fem_TV:1 "¢ec²°ªµþ" #GetTitleTV 
+ DIVINE_HERALD_fem_TV:1 "¡o¨ec²¢e°°þ ¢ec²°ªµþ" #GetTitleTV 
+ SORCERER_KING_TV:1 "¬®ž¯-¬®¦³°¯" #GetTitleTV 
+ SORCERER_QUEEN_TV:1 "¬®¢þ-¬®¦³°¿þ" #GetTitleTV 
+ BLACK_ACOLYTE_TV:1 "¶ž°º¯ ¬®ª²¯" #GetTitleTV 
+ BLACK_ACOLYTE_fem_TV:1 "¶ž°þ ¬®ª²" #GetTitleTV 
+ GRAY_DUKE_TV:1 "epº¯ ¬°¾©¯" #GetTitleTV 
+ GRAY_KING_TV:1 "epº¯ ¬opo®ž¯" #GetTitleTV 
+ GRAY_EMPEROR_TV:1 "epº¯ ª¯±epa²op¯" #GetTitleTV 
+ GRAY_DUCHESS_TV:1 "epþ ¬°¾¥ª°þ" #GetTitleTV 
+ GRAY_QUEEN_TV:1 "epþ ¬opo®e¢þ" #GetTitleTV 
+ GRAY_EMPRESS_TV:1 "epþ ª¯±epa²pªµþ" #GetTitleTV 
+ MAGISTER_TV:1 "¯¥ª²¯" #GetTitleTV 
+ MAGISTRIX_TV:1 "¯¥ª²¯" #GetTitleTV 
+ KNIGHT_CAPTAIN_TV:1 "ºµap¯-¬a±ª²a°¯" #GetTitleTV 
+ KNIGHT_CAPTAIN_fem_TV:1 "ºµap¯-¬a±ª²a°Œþ" #GetTitleTV 
+ LORD_CRIER_TV:1 "®op¦¯ ¥®aŒa²a¯" #GetTitleTV 
+ LADY_CRIER_TV:1 "®¦ª ¥®aŒa²a¯" #GetTitleTV 
+ PACK_LORD_TV:1 "±o¢e®ª²e®¯ ²aª" #GetTitleTV 
+ CORSAIR_KING_TV:1 "¬opo®ž¯ ¬opcapo¢" #GetTitleTV 
+ SEA_SCOURGE_TV:1 "¥po©þ ¯opeþ" #GetTitleTV 
+ PACK_MISTRESS_TV:1 "±o¢e®ª²e®¿°ªµþ ²aª" #GetTitleTV 
+ CORSAIR_QUEEN_TV:1 "¬®¢þ ¬opcapo¢" #GetTitleTV 
+ TLUUKT_KING_TV:1 "¬®³°¬®¯" #GetTitleTV 
+ TLUUKT_EMPEROR_TV:1 "¬³°¬®¯" #GetTitleTV 
+ TLUUKT_QUEEN_TV:1 "¬®³°¬®ª" #GetTitleTV 
+ TLUUKT_EMPRESS_TV:1 "¬³°¬®ª" #GetTitleTV 
+ JARL_TV:1 "¾®¯" #GetTitleTV 
+ KONUNGR_TV:1 "¬°³°¥¯" #GetTitleTV 
+ OZTRKONUNGR_TV:1 "©²o¬o°³°¥¯" #GetTitleTV 
+ DROTTNING_TV:1 "¦po²²°ª°¥" #GetTitleTV 
+ OZTRDROTTNING_TV:1 "©¦po²²°ª°¥" #GetTitleTV 
+ MASTER_SKALD_PRIEST_TV:1 "¢e®ª¬ª¯ ¬a®¿¦-¨peµ¯" #GetTitleTV 
+ MASTER_SKALD_PRIESTESS_TV:1 "¢e®ª¬þ ¬a®¿¦-¨pªµþ" #GetTitleTV 
+ EXALTED_COMPANION_TV:1 "¢o©¢ºŒe°°º¯ ±³²°ª¬¯" #GetTitleTV 
+ ARD_DRADH_TV:1 "p¦ ¦pa¦¯" #GetTitleTV 
+ ARD_BANNDRADH_TV:1 "p¦ ¡a°°¦pa¦¯" #GetTitleTV 
+ SHADOW_MALE_TV:1 "²e°e¢º¯ ±pª°µ¯" #GetTitleTV 
+ SHADOW_FEMALE_TV:1 "²e°e¢þ ±pª°µeccþ" #GetTitleTV 
+ CRYSTAL_QUEEN_TV:1 "¬pªc²a®¿°þ ¬opo®e¢þ" #GetTitleTV 
+ CRYSTAL_EMPRESS_TV:1 "¬pªc²a®¿°þ ª¯±epa²pªµþ" #GetTitleTV 
+ OBSIDIAN_MALE_TV:1 "¢º¡pa°°º¯ ³°oþ" #GetTitleTV 
+ OBSIDIAN_FEMALE_TV:1 "¢º¡pa°°þ ³°oþ" #GetTitleTV 
+ OBSIDIAN_INVASION_MALE_TV:1 "³°°º¯ ¢²°ª¬¯" #GetTitleTV 
+ OBSIDIAN_INVASION_FEMALE_TV:1 "³°°þ ¢²°ªµþ" #GetTitleTV 
+ COUNCILLOR_TV:1 "¬o°c³®¯" #GetTitleTV 
+ FIRST_COUNCILLOR_TV:1 "±¢º¯ ¬°³®¯" #GetTitleTV 
+ HIGH_COUNCILLOR_TV:1 "¢¢°º¯ ¬°³®¯" #GetTitleTV 
+ MARSHAL_TV:1 "¯Œ®¯" #GetTitleTV 
+ GRAND_MARSHAL_TV:1 "¥°¦-¯Œ®¯" #GetTitleTV 
+ GANG_LEADER_TV:1 "®ª¦ep¯ ¡a°¦º" #GetTitleTV 
+ GREY_EMINENCE_TV:1 "º¯ ¬¦ª°®¯" #GetTitleTV 
+ MENGURKHA_TV:1 "¯e°¥³p¬a" #GetTitleTV 
+ MENGARKHA_TV:1 "¯e°¥ap¬a" #GetTitleTV 
+ BAOZH_TV:1 "¡¨¯" #GetTitleTV 
+ BAOZHA_TV:1 "¡¨þ" #GetTitleTV 
+ BIIGH_BAOZH_TV:1 "¡ªª¥ ¡¨¯" #GetTitleTV 
+ BIIGH_BAOZHA_TV:1 "¡ªª¥ ¡¨þ" #GetTitleTV 
+ OJKAGMA_TV:1 "þ¬¥¯" #GetTitleTV 
+ MENGURM_TV:1 "¯°¥³'¯" #GetTitleTV 
+ MENGURKHA_TV:1 "¯e°¥³p¬a" #GetTitleTV 
+ OJKODIRD_TV:1 "þ¬¦ª¦þ" #GetTitleTV 
+ MENGURMA_TV:1 "¯°¥³'¯" #GetTitleTV 
+ MENGARKHA_TV:1 "¯e°¥ap¬þ" #GetTitleTV 
+ GHALRDON_TV:1 "¥®'¦°¯" #GetTitleTV 
+ GHALRDAL_TV:1 "¥®'¦®þ" #GetTitleTV 
+ BATTLEKING_TV:1 "µž¯-¢¢¦þ" #GetTitleTV 
+ BOYACSAR_TV:1 "¡µž¯" #GetTitleTV 
+ BATTLEQUEEN_TV:1 "µªµþ-¢¢¦þ" #GetTitleTV 
+ BOYACSARA_TV:1 "¡µªµþ" #GetTitleTV 
+ VALADR_TV:1 "¢®¦¯" #GetTitleTV 
+ VIZVALADR_TV:1 "¢ª©¢®¦¯" #GetTitleTV 
+ VALATKA_TV:1 "¢®²¬þ" #GetTitleTV 
+ VIZVALATKA_TV:1 "¢ª©¢®²¬þ" #GetTitleTV 
+ VYRISAR_TV:1 "¢ºª¯" #GetTitleTV 
+ VYRISETA_TV:1 "¢ºª²þ" #GetTitleTV 
+ VITSAR_TV:1 "¢ª²¯" #GetTitleTV 
+ YRIDAM_TV:1 "ªª¦¯þ" #GetTitleTV 
+ BARON_TV:1 "¡°¯" #GetTitleTV 
+ BARONESS_TV:1 "¡°þ" #GetTitleTV 
+ VENERATOR_TV:1 "¢°²¯" #GetTitleTV 
+ VENERATOR_HIGH_TV:1 "¢¢°º¯ ¢°²¯" #GetTitleTV 
+ RASHENBIR_TV:1 "Œ°¡ª¯" #GetTitleTV 
+ HWALBAEJ_TV:1 "¢®¡¯" #GetTitleTV 
+ KAJAENG_TV:1 "¬¦¨°¯" #GetTitleTV 
+ DAKAJAENG_TV:1 "¦¬¦¨°¯" #GetTitleTV 
+ HWALEI_TV:1 "¢®þ" #GetTitleTV 
+ KUSHAEN_TV:1 "¬³Œ°þ" #GetTitleTV 
+ DAKUSHAEN_TV:1 "¦¬³Œ°þ" #GetTitleTV 
+ ZHU_TV:1 "¶¨³" #GetTitleTV 
+ TONGZHE_TV:1 "²°¶¨¼" #GetTitleTV 
+ DIANGDI_TV:1 "¦ª°¥¦ª" #GetTitleTV 
+ SHUN_TV:1 "Œ³°¿" #GetTitleTV 
+ NUWANG_TV:1 "°³¢°¥" #GetTitleTV 
+ HANGHO_TV:1 "°¥" #GetTitleTV 
+ MANSAROM_TV:1 "¯°¯" #GetTitleTV 
+ MONGOR_TV:1 "¯°¥¯" #GetTitleTV 
+ TAMONGOR_TV:1 "²¯°¥¯" #GetTitleTV 
+ RENDA_TV:1 "°¦" #GetTitleTV 
+ JOLDO_TV:1 "¦¨®¦" #GetTitleTV 
+ TAJOLDO_TV:1 "²¦¨®¦" #GetTitleTV 
+ HIGH_LORD_TV:1 "¢¢°º¯ ®¦¯" #GetTitleTV 
+ GREAT_LORD_TV:1 "¢®ª¬ª¯ ®¦¯" #GetTitleTV 
+ HIGH_LADY_TV:1 "¢¢°þ ®¦ª" #GetTitleTV 
+ GREAT_LADY_TV:1 "¢®ª¬þ ®¦ª" #GetTitleTV 
+ HIGH_CONVOCATIONARY_TV:1 "¢ºŒª¯ ©º¢¯" #GetTitleTV 
+ GREAT_CONVOCATIONARY_TV:1 "¢®ª¬ª¯ ©º¢¯" #GetTitleTV 
+ SUPREME_CONVOCATIONARY_TV:1 "¢¢°º¯ ©º¢¯" #GetTitleTV 
+ MYKX_PR_CHIEF_ADMIRAL_TV:1 "²Œª¯ ¦¯ª®¯" #GetTitleTV 
+ MYKX_PR_GRAND_ADMIRAL_TV:1 "¥°¦-¦¯ª®¯" #GetTitleTV 
+ MYKX_PR_SCOURGE_MAN_TV:1 "±®²¿²µ¯" #GetTitleTV 
+ MYKX_PR_SCOURGE_WOMAN_TV:1 "±®²¿¯²¿½" #GetTitleTV 
+ LORD_MAYOR_TV:1 "®op¦-¯¼p¯" #GetTitleTV 
+ GRAND_MAYOR_TV:1 "¢e®ª¬ª¯ ¯¼p¯" #GetTitleTV 
+ IRON_KING_TV:1 "¨®©°º¯ ¬®ž¯" #GetTitleTV 
+ IRON_QUEEN_TV:1 "¨®©°þ ¬®¢þ" #GetTitleTV 
+ GRAND_PRINCE_TV:1 "¢e®ª¬ª¯ ¬°¾©¯" #GetTitleTV 
+ GRAND_PRINCESS_TV:1 "¢e®ª¬þ ¬°¾¥ª°þ" #GetTitleTV 
+ OLDKING_TV:1 "²º¯ ¬®ž¯" #GetTitleTV 
+ OLDQUEEN_TV:1 "²þ ¬®¢þ" #GetTitleTV 
+ ELDER_TV:1 "¦¢°ª¯" #GetTitleTV 
+ HIGH_ELDER_TV:1 "¢¢°º¯ ¦¢°ª¯" #GetTitleTV 
+ PARAMOUNT_ELDER_TV:1 "±¢²±°°º¯ ¦¢°ª¯" #GetTitleTV 
+ AMBER_KING_TV:1 "¾°²°º¯ ¬®ž¯" #GetTitleTV 
+ AMBER_QUEEN_TV:1 "¾°²°þ ¬®¢þ" #GetTitleTV 
+ BRIGHT_KING_TV:1 "¾¬ª¯ ¬®ž¯" #GetTitleTV 
+ BRIGHT_QUEEN_TV:1 "¾¬þ ¬®¢þ" #GetTitleTV 
+ FLAME_CUSTODIAN_TV:1 "°ª²®¯" #GetTitleTV 
+ FIRELORD_TV:1 "±¢®ª²®¯ ¥°¾" #GetTitleTV 
+ FIRELADY_TV:1 "±¢®ª²®¿°ªµþ ¥°¾" #GetTitleTV 
+ CRIMSON_REVEREND_TV:1 "¡¥¢º¯ ±±¦¡°º¯" #GetTitleTV 
+ CRIMSON_REVEREND_fem_TV:1 "¡¥¢þ ±±¦¡°þ" #GetTitleTV 
+ SKY_CAPTAIN_TV:1 "°¡°º¯ ¬±ª²°¯" #GetTitleTV 
+ GRAND_SKY_CAPTAIN_TV:1 "¢®ª¬ª¯ °¡°º¯ ¬±ª²°¯" #GetTitleTV 
+ DRAGON_PRINCE_TV:1 "¦¬°¿ª¯ ±ª°µ¯" #GetTitleTV 
+ DRAGON_KING_TV:1 "¦¬°¿ª¯ ¬®ž¯" #GetTitleTV 
+ DRAGON_EMPEROR_TV:1 "¦¬°¿ª¯ ª¯±²¯" #GetTitleTV 
+ DRAGON_PRINCESS_TV:1 "¦¬°¿þ ±ª°µþ" #GetTitleTV 
+ DRAGON_QUEEN_TV:1 "¦¬°¿þ ¬®¢þ" #GetTitleTV 
+ DRAGON_EMPRESS_TV:1 "¦¬°¿þ ª¯±²ªµþ" #GetTitleTV 
+ LIANGZHU_TV:1 "®ª°¶¨³" #GetTitleTV 
+ KEGLORD_TV:1 "¬¥®¦¯" #GetTitleTV 
+ HIGH_KEGLORD_TV:1 "¢¢°º¯ ¬¥®¦¯" #GetTitleTV 
+ KEGQUEEN_TV:1 "¬¥®¢þ" #GetTitleTV 
+ HIGH_KEGQUEEN_TV:1 "¢¢°þ ¬¥®¢þ" #GetTitleTV 
+ LESSER_KING_TV:1 "¯°¿Œª¯ ¬®ž¯" #GetTitleTV 
+ KING_OF_KINGS_TV:1 "¬®ž¯ ¬®þ" #GetTitleTV 
+ LESSER_QUEEN_TV:1 "¯°¿Œþ ¬®¢þ" #GetTitleTV 
+ QUEEN_OF_QUEENS_TV:1 "¬®¢þ ¬®¢" #GetTitleTV 
+ FIRST_STEWARD_TV:1 "±¢º¯ ³±¢®¾½¸ª¯" #GetTitleTV 
+ HIGH_STEWARD_TV:1 "¢¢°º¯ ³±¢®¾½¸ª¯" #GetTitleTV 
+ FIRST_STEWARD_fem_TV:1 "±¢þ ³±¢®¾½¸þ" #GetTitleTV 
+ HIGH_STEWARD_fem_TV:1 "¢¢°þ ³±¢®¾½¸þ" #GetTitleTV 
  
- HIGH_RECTOR_PR:1 "¢¢°º¯ ¬²¯" #GetTitleTV 
- FIRST_MASTER_PR:1 "±¢º¯ ¯²¯" #GetTitleTV 
- RIGHTEOUS_MASTER_PR:1 "±¢¦°º¯ ¯²¯" #GetTitleTV 
- SUPREME_MASTER_PR:1 "¢¢°º¯ ¯²¯" #GetTitleTV 
- MARQUIS_PR:1 "¯¬ª©¯" #GetTitleTV 
- GRAND_MARQUIS_PR:1 "¢®ª¬ª¯ ¯¬ª©¯" #GetTitleTV 
- MARQUISA_PR:1 "¯¬ª©þ" #GetTitleTV 
- GRAND_MARQUISA_PR:1 "¢®ª¬þ ¯¬ª©þ" #GetTitleTV 
- LUMINARY_PR:1 "¢²ª®¯" #GetTitleTV 
+ HIGH_RECTOR_TV:1 "¢¢°º¯ ¬²¯" #GetTitleTV 
+ FIRST_MASTER_TV:1 "±¢º¯ ¯²¯" #GetTitleTV 
+ RIGHTEOUS_MASTER_TV:1 "±¢¦°º¯ ¯²¯" #GetTitleTV 
+ SUPREME_MASTER_TV:1 "¢¢°º¯ ¯²¯" #GetTitleTV 
+ MARQUIS_TV:1 "¯¬ª©¯" #GetTitleTV 
+ GRAND_MARQUIS_TV:1 "¢®ª¬ª¯ ¯¬ª©¯" #GetTitleTV 
+ MARQUISA_TV:1 "¯¬ª©þ" #GetTitleTV 
+ GRAND_MARQUISA_TV:1 "¢®ª¬þ ¯¬ª©þ" #GetTitleTV 
+ LUMINARY_TV:1 "¢²ª®¯" #GetTitleTV 
  FIRST_HIERARCH_IM:1 "±¢ª¯" #GetTitleTV 
- GENERAL_GOV_PR:1 "¥°®¯" #GetTitleTV 
- LOT_DEKKHANG_PR:1 "®² ¦¬¬°¥¯" #GetTitleTV 
- GOVERNOR_GENERAL_PR:1 "¥°®-¥³¡°²¯" #GetTitleTV 
- CHANCELLOR_PR:1 "¬°µ®¯" #GetTitleTV 
- SUPREME_CHANCELLOR_PR:1 "¢¢°ºþ ¬°µ®¯" #GetTitleTV 
- WITCH_KING_PR:1 "¬opo®ž¯-¶apo¦e¯" #GetTitleTV 
- WITCH_EMPEROR_PR:1 "ª¯±epa²op¯-¶apo¦e¯" #GetTitleTV 
- WITCH_QUEEN_PR:1 "¬®¢þ-¶¦þ¬þ" #GetTitleTV 
- WITCH_EMPRESS_PR:1 "ª¯±²ªµþ-¶¦þ¬þ" #GetTitleTV 
- KYLAKAS_PR:1 "¬ª®a¬ac¯" #GetTitleTV 
- DEGA_KYLAKAS_PR:1 "¦e¥a ¬ª®a¬ac¯" #GetTitleTV 
- WIZARD_KING_PR:1 "¬opo®ž¯-¢®Œ¡°ª¬¯" #GetTitleTV 
- WIZARD_QUEEN_PR:1 "¬opo®e¢þ-¢®Œ¡°ªµþ" #GetTitleTV 
- SKALD_PRIEST_PR:1 "¬®¿¦¯-¨µ¯" #GetTitleTV 
- SKALD_PRIESTESS_PR:1 "¬®¿¦¯-¨ªµþ" #GetTitleTV 
- RECLAIMER_PR:1 "²¢¢²®¯" #GetTitleTV 
- RECLAIMER_fem_PR:1 "²¢¢²®¿°ªµþ" #GetTitleTV 
- VICEROY_PR:1 "¢ªµ-¬®ž¯" #GetTitleTV 
- VICERINE_PR:1 "¢ªµ-¬®¢þ" #GetTitleTV 
- ESBAGG_PR:1 "¼c¡a¥¥¯" #GetTitleTV 
- SGARRT_PR:1 "¥app²¯" #GetTitleTV 
- DECANN_PR:1 "¦e¬a°°¯" #GetTitleTV 
- ESBAGG_fem_PR:1 "¼c¡a¥¥þ" #GetTitleTV 
- SGARRT_fem_PR:1 "¥app²þ" #GetTitleTV 
- DECANN_fem_PR:1 "¦e¬a°°þ" #GetTitleTV 
- CLANBOSS_PR:1 "¬®°¡¯" #GetTitleTV 
- OVERBOSS_PR:1 "°¦¡¯" #GetTitleTV 
- SUPREME_BOSS_PR:1 "¢¢°º¯ ¡¯" #GetTitleTV 
- CLANBOSSESS_PR:1 "¬®°¡¯" #GetTitleTV 
- OVERBOSSESS_PR:1 "°¦¡¯" #GetTitleTV 
- SUPREME_BOSSESS_PR:1 "¢¢°º¯ ¡¯" #GetTitleTV 
- CHIEFTAIN_PR:1 "¢¨¦ž¯" #GetTitleIM 
- WARCHIEF_PR:1 "¢e®ª¬ª¯ ¢¨¦ž¯" #GetTitleIM 
- WARLORD_PR:1 "¢oe°a¶a®¿°ª¬¯" #GetTitleIM 
- WARLORD_fem_PR:1 "¢oe°a¶a®¿°ªµþ" #GetTitleIM   
- CAPTAIN_PR:1 "¬±ª²°¯" #GetTitleTV 
- CAPTAIN_fem_PR:1 "¬±ª²°¯" #GetTitleTV 
- PETTY_KING_PR:1 "¯®¬ª¯ ¬opo®ž¯" #GetTitleTV 
- PETTY_QUEEN_PR:1 "¯®¬þ ¬®¢þ" #GetTitleTV 
- GRAND_MAGISTER_PR:1 "¢®ª¬ª¯ ¯¥ª²¯" #GetTitleTV 
- FIRST_MAGISTER_PR:1 "±¢º¯ ¯¥ª²¯" #GetTitleTV 
- HIGH_MAGE_PR:1 "¢¢°º¯ ¯¥¯" #GetTitleTV 
- ARCHMAGE_PR:1 "ª¯¥¯" #GetTitleTV 
- PRINCE_ELECTOR_PR:1 "¬°¾©¯-¢º¡¸ª¬¯" #GetTitleTV 
- PRINCESS_ELECTOR_PR:1 "¬°¾¥ª°þ-¢º¡¸ª¬¯" #GetTitleTV 
- GRAND_ELECTRESS_PR:1 "¢®ª¬ª¯ ¢º¡¸ª¬¯" #GetTitleTV 
- LORD_ELECTOR_PR:1 "®¦¯-¢º¡¸ª¬¯" #GetTitleTV 
- HIGH_KING_PR:1 "¢¢°º¯ ¬®ž¯" #GetTitleTV 
- HIGH_QUEEN_PR:1 "¢¢°þ ¬®¢þ" #GetTitleTV 
- DUKE_ELECTOR_PR:1 "¥µ¥¯-¢º¡¸ª¬¯" #GetTitleTV 
- GRAND_ELECTOR_PR:1 "¢®ª¬ª¯ ¢º¡¸ª¬¯" #GetTitleTV 
- DUCHESS_ELECTOR_PR:1 "¥µ¥ª°þ-¢º¡¸ª¬¯" #GetTitleTV 
- PRIEST_ELECTOR_PR:1 "¨µ¯-¢º¡¸ª¬¯" #GetTitleTV 
- IMPERIAL_GRANDMASTER_PR:1 "ª¯±epc¬ª¯ ¥°¦¯²¯" #GetTitleTV 
- IMPERIAL_GRANDMISTRESS_PR:1 "ª¯±epc¬ª¯ ¥°¦¯²¯" #GetTitleTV 
- MARCHER_LORD_PR:1 "®¦¯ ±¥°ª¶¿¾" #GetTitleTV 
- MOOR_KING_PR:1 "¡®²°º¯ ¬®ž¯" #GetTitleTV 
- MOOR_EMPEROR_PR:1 "¡®²°þ ¬®¢þ" #GetTitleTV 
- MOOR_QUEEN_PR:1 "¡®²°º¯ ª¯±²¯" #GetTitleTV 
- MOOR_EMPRESS_PR:1 "¡®²°þ ª¯±²ªµþ" #GetTitleTV 
- AKAL_PR:1 "¬®¯" #GetTitleTV 
- AKALUNAKAL_PR:1 "¬®³°¬®¯" #GetTitleTV 
- AKALI_PR:1 "¬®ª" #GetTitleTV 
- AKALUNAKALI_PR:1 "¬®³°¬®ª" #GetTitleTV 
- MARAS_PR:1 "¯Œ¯" #GetTitleTV 
- GRAND_MARAS_PR:1 "¢®ª¬ª¯ ¯Œ¯" #GetTitleTV 
- GREAT_MARAS_PR:1 "¢¢°º¯ ¯Œ¯" #GetTitleTV 
- KASHRA_PR:1 "¬Œ" #GetTitleTV 
- AKAL_KASHRA_PR:1 "¬® ¬Œ" #GetTitleTV 
- ISIAK_SURAKEL_PR:1 "ªŒª¬¯ Ô³¬®¾" #GetTitleTV 
- PACK_LORD_PR:1 "±o¢e®ª²e®¯ ²aª" #GetTitleTV 
- PACK_MISTRESS_PR:1 "±o¢e®ª²e®¿°ªµþ ²aª" #GetTitleTV 
- SONAD_PR:1 "o°a¦¯" #GetTitleTV 
- FALT_PR:1 "´a®¿²¯" #GetTitleTV 
- ARD_FALT_PR:1 "p¦-´a®¿²¯" #GetTitleTV 
- SURCAG_PR:1 "³p¬a¥þ" #GetTitleTV 
- BANRAG_PR:1 "¡a°pa¥þ" #GetTitleTV 
- ARD_BANRAG_PR:1 "p¦-¡a°pa¥þ" #GetTitleTV 
- COMHAIR_PR:1 "¬o¯xþp¯" #GetTitleTV 
- LABRAR_PR:1 "®a¡pap¯" #GetTitleTV 
- CANSUDD_PR:1 "¬a°c³¦¦¯" #GetTitleTV 
- PROVOST_PR:1 "±¬²¯" #GetTitleTV 
- ARCH_PROVOST_PR:1 "ª±¬²¯" #GetTitleTV 
- IMPERIAL_PROVOST_PR:1 "ª¯±¬ª¯ ª±¬²¯" #GetTitleTV 
- GRANDMASTER_PR:1 "¥°¦¯²¯" #GetTitleTV 
- FIRST_ORACLE_MALE_PR:1 "¢¢°º¯ ¢¥³¯" #GetTitleTV 
- FIRST_ORACLE_FEMALE_PR:1 "¢¢°þ ¢¥³þ" #GetTitleTV 
- SENAPTI_PR:1 "°±²ª" #GetTitleTV 
- PRABHI_PR:1 "±¡ª" #GetTitleTV 
- GRAND_VIZIER_PR:1 "¢®ª¬ª¯ ¢ª©ªž¯"
- CAEHN_PR:1 "¬¼°¯" #GetTitleTV 
- GREAT_CAEHN_PR:1 "¥²ª¥ ¬¼°¯" #GetTitleTV 
- CAEHTEN_PR:1 "¬a¼²e°þ" #GetTitleTV 
- GREAT_CAEHTEN_PR:1 "¥²ª¥ ¬a¼²e°þ" #GetTitleTV 
- IZHUUN_PR:1 "ª¨³³°¯" #GetTitleTV 
- KAASHEG_PR:1 "¬Œ¥¯" #GetTitleTV 
- GREAT_KAASHEG_PR:1 "¢®ª¬ª¯ ¬Œ¥¯" #GetTitleTV 
- KHUSHAI_PR:1 "³Œþ" #GetTitleTV 
- KUSHENG_PR:1 "¬³Œ¼°þ" #GetTitleTV 
- GREAT_KUSHENG_PR:1 "¢®ª¬þ ¬³Œ¼°þ" #GetTitleTV 
- HWALBAEJ_PR:1 "¢®¡¯" #GetTitleTV 
- JAENG_PR:1 "¶¨¼°¯" #GetTitleTV 
- DAEJAENG_PR:1 "¦¼¶¨¼°¯" #GetTitleTV 
- HWALEI_PR:1 "¢®þ" #GetTitleTV 
- WAENBU_PR:1 "¢¼°¡³" #GetTitleTV 
- DAEWAENBU_PR:1 "¦¼¢¼°¡³" #GetTitleTV 
- FIRST_MARSHAL_PR:1 "±¢º¯ ¯Œ®¯" #GetTitleTV 
- GRAND_MARSHAL_PR:1 "¥°¦-¯Œ®¯" #GetTitleTV 
- VRYDAL_PR:1 "¢ª¦®¯" #GetTitleTV 
- VYRISAR_PR:1 "¢ºª¯" #GetTitleTV 
- VRYDALVA_PR:1 "¢ª¦®¢þ" #GetTitleTV 
- VYRISETA_PR:1 "¢ºª²þ" #GetTitleTV 
- VYLEDAR_PR:1 "¢º®¦¯" #GetTitleTV 
- VYLYENDAR_PR:1 "¢º®¿°¦¯" #GetTitleTV 
- VYLEDAM_PR:1 "¢º®¦¯þ" #GetTitleTV 
- VYLYENDAM_PR:1 "¢º®¿°¦¯þ" #GetTitleTV 
- DHAVANA_PR:1 "¦¢°" #GetTitleTV 
- ARYACAN_PR:1 "¿¾¬°¯" #GetTitleTV 
- CAMRAYACAN_PR:1 "¬¯þ¬°¯" #GetTitleTV 
- ELAVI_PR:1 "¼®¢ª" #GetTitleTV 
- ARACI_PR:1 "ª" #GetTitleTV 
- CAMRAYANI_PR:1 "¬¯¾°ª" #GetTitleTV 
- YODHAN_PR:1 "þ¦°¯" #GetTitleTV 
- RAYODHAN_PR:1 "þ¦°¯" #GetTitleTV 
- CAKRAYODHANTI_PR:1 "¬¬þ¦°²ª" #GetTitleTV 
- YODHENGASU_PR:1 "þ¦°¥³" #GetTitleTV 
- RAYODANI_PR:1 "þ¦°ª" #GetTitleTV 
- CAKRAMAHISI_PR:1 "¬¬¯ªª" #GetTitleTV 
- DANNUKA_PR:1 "¦°°³¬" #GetTitleTV 
- ADHIPAYAV_PR:1 "¦ª±¾¢¯" #GetTitleTV 
- ADHIVAMRATT_PR:1 "¦ª¢¯²²¯" #GetTitleTV 
- VENITA_PR:1 "¢°ª²þ" #GetTitleTV 
- ADHIPAYAVNI_PR:1 "¦ª±¾¢°ª" #GetTitleTV 
- ADHIVAMRAHANI_PR:1 "¦ª¢¯°ª" #GetTitleTV 
- VRAKKA_PR:1 "¢¬¬" #GetTitleTV 
- POVRAKKA_PR:1 "±¢¬¬" #GetTitleTV 
- RASVRAPAKKA_PR:1 "¢±¬¬" #GetTitleTV 
- VRAKKANI_PR:1 "¢¬¬°ª" #GetTitleTV 
- POVRAKKANI_PR:1 "±¢¬¬°ª" #GetTitleTV 
- RASVRAPAKKANI_PR:1 "¢±¬¬°ª" #GetTitleTV 
- DHEKKA_PR:1 "¦¬¬" #GetTitleTV 
- AMARYARU_PR:1 "¯¿¾³" #GetTitleTV 
- AMARAWOR_PR:1 "¯¢" #GetTitleTV 
- ESTRI_PR:1 "¼²ª" #GetTitleTV 
- AMARYARNI_PR:1 "¯¿¾°ª" #GetTitleTV 
- AMARAWORNI_PR:1 "¯¢°ª" #GetTitleTV 
- DOOKANIST_SHAMAN_MALE_PR:1 "²¡²°¯" #GetTitleTV 
- DOOKANIST_SHAMAN_FEMALE_PR:1 "²¡²°¯" #GetTitleTV 
- GOLDSCALE_SAGE_MALE_PR:1 "©®²º¯ ¯³¦µ¯" #GetTitleTV 
- GOLDSCALE_SAGE_FEMALE_PR:1 "©®²º¯ ¯³¦µ¯" #GetTitleTV 
- MATRIARCH_PR:1 "¯²ª¯" #GetTitleTV 
- HIGH_MATRIARCH_PR:1 "¢¢°º¯ ¯²ª¯" #GetTitleTV 
- PUNGIPEA_PR:1 "±³°¥ª±" #GetTitleTV 
- QASHLAIKIM_PR:1 "¬Œ®¬ª¯¯" #GetTitleTV
- KHOIDARG_PR:1 "þ¦¥¯" #GetTitleTV
- FIRST_COMMANDER_PR:1 "±¢º¯ ¬¯°¦³½¸ª¯" #GetTitleTV
- DAKOCRACY_DUKE_PR:1 "¯¥-®¦¯" #GetTitleTV
- DAKOCRACY_KING_PR:1 "¢¢®Œ¡°ª¬¯" #GetTitleTV
- DAKOCRACY_EMPEROR_PR:1 "¢¢°º¯ ª¯±²¯" #GetTitleTV
- DIARCH_PR:1 "¦ª¯" #GetTitleTV
- GRAND_DIARCH_PR:1 "¢®ª¬ª¯ ¦ª¯" #GetTitleTV
+ GENERAL_GOV_TV:1 "¥°®¯" #GetTitleTV 
+ LOT_DEKKHANG_TV:1 "®² ¦¬¬°¥¯" #GetTitleTV 
+ GOVERNOR_GENERAL_TV:1 "¥°®-¥³¡°²¯" #GetTitleTV 
+ CHANCELLOR_TV:1 "¬°µ®¯" #GetTitleTV 
+ SUPREME_CHANCELLOR_TV:1 "¢¢°ºþ ¬°µ®¯" #GetTitleTV 
+ WITCH_KING_TV:1 "¬opo®ž¯-¶apo¦e¯" #GetTitleTV 
+ WITCH_EMPEROR_TV:1 "ª¯±epa²op¯-¶apo¦e¯" #GetTitleTV 
+ WITCH_QUEEN_TV:1 "¬®¢þ-¶¦þ¬þ" #GetTitleTV 
+ WITCH_EMPRESS_TV:1 "ª¯±²ªµþ-¶¦þ¬þ" #GetTitleTV 
+ KYLAKAS_TV:1 "¬ª®a¬ac¯" #GetTitleTV 
+ DEGA_KYLAKAS_TV:1 "¦e¥a ¬ª®a¬ac¯" #GetTitleTV 
+ WIZARD_KING_TV:1 "¬opo®ž¯-¢®Œ¡°ª¬¯" #GetTitleTV 
+ WIZARD_QUEEN_TV:1 "¬opo®e¢þ-¢®Œ¡°ªµþ" #GetTitleTV 
+ SKALD_PRIEST_TV:1 "¬®¿¦¯-¨µ¯" #GetTitleTV 
+ SKALD_PRIESTESS_TV:1 "¬®¿¦¯-¨ªµþ" #GetTitleTV 
+ RECLAIMER_TV:1 "²¢¢²®¯" #GetTitleTV 
+ RECLAIMER_fem_TV:1 "²¢¢²®¿°ªµþ" #GetTitleTV 
+ VICEROY_TV:1 "¢ªµ-¬®ž¯" #GetTitleTV 
+ VICERINE_TV:1 "¢ªµ-¬®¢þ" #GetTitleTV 
+ ESBAGG_TV:1 "¼c¡a¥¥¯" #GetTitleTV 
+ SGARRT_TV:1 "¥app²¯" #GetTitleTV 
+ DECANN_TV:1 "¦e¬a°°¯" #GetTitleTV 
+ ESBAGG_fem_TV:1 "¼c¡a¥¥þ" #GetTitleTV 
+ SGARRT_fem_TV:1 "¥app²þ" #GetTitleTV 
+ DECANN_fem_TV:1 "¦e¬a°°þ" #GetTitleTV 
+ CLANBOSS_TV:1 "¬®°¡¯" #GetTitleTV 
+ OVERBOSS_TV:1 "°¦¡¯" #GetTitleTV 
+ SUPREME_BOSS_TV:1 "¢¢°º¯ ¡¯" #GetTitleTV 
+ CLANBOSSESS_TV:1 "¬®°¡¯" #GetTitleTV 
+ OVERBOSSESS_TV:1 "°¦¡¯" #GetTitleTV 
+ SUPREME_BOSSESS_TV:1 "¢¢°º¯ ¡¯" #GetTitleTV 
+ CHIEFTAIN_TV:1 "¢¨¦ž¯" #GetTitleIM 
+ WARCHIEF_TV:1 "¢e®ª¬ª¯ ¢¨¦ž¯" #GetTitleIM 
+ WARLORD_TV:1 "¢oe°a¶a®¿°ª¬¯" #GetTitleIM 
+ WARLORD_fem_TV:1 "¢oe°a¶a®¿°ªµþ" #GetTitleIM   
+ CAPTAIN_TV:1 "¬±ª²°¯" #GetTitleTV 
+ CAPTAIN_fem_TV:1 "¬±ª²°¯" #GetTitleTV 
+ PETTY_KING_TV:1 "¯®¬ª¯ ¬opo®ž¯" #GetTitleTV 
+ PETTY_QUEEN_TV:1 "¯®¬þ ¬®¢þ" #GetTitleTV 
+ GRAND_MAGISTER_TV:1 "¢®ª¬ª¯ ¯¥ª²¯" #GetTitleTV 
+ FIRST_MAGISTER_TV:1 "±¢º¯ ¯¥ª²¯" #GetTitleTV 
+ HIGH_MAGE_TV:1 "¢¢°º¯ ¯¥¯" #GetTitleTV 
+ ARCHMAGE_TV:1 "ª¯¥¯" #GetTitleTV 
+ PRINCE_ELECTOR_TV:1 "¬°¾©¯-¢º¡¸ª¬¯" #GetTitleTV 
+ PRINCESS_ELECTOR_TV:1 "¬°¾¥ª°þ-¢º¡¸ª¬¯" #GetTitleTV 
+ GRAND_ELECTRESS_TV:1 "¢®ª¬ª¯ ¢º¡¸ª¬¯" #GetTitleTV 
+ LORD_ELECTOR_TV:1 "®¦¯-¢º¡¸ª¬¯" #GetTitleTV 
+ HIGH_KING_TV:1 "¢¢°º¯ ¬®ž¯" #GetTitleTV 
+ HIGH_QUEEN_TV:1 "¢¢°þ ¬®¢þ" #GetTitleTV 
+ DUKE_ELECTOR_TV:1 "¥µ¥¯-¢º¡¸ª¬¯" #GetTitleTV 
+ GRAND_ELECTOR_TV:1 "¢®ª¬ª¯ ¢º¡¸ª¬¯" #GetTitleTV 
+ DUCHESS_ELECTOR_TV:1 "¥µ¥ª°þ-¢º¡¸ª¬¯" #GetTitleTV 
+ PRIEST_ELECTOR_TV:1 "¨µ¯-¢º¡¸ª¬¯" #GetTitleTV 
+ IMPERIAL_GRANDMASTER_TV:1 "ª¯±epc¬ª¯ ¥°¦¯²¯" #GetTitleTV 
+ IMPERIAL_GRANDMISTRESS_TV:1 "ª¯±epc¬ª¯ ¥°¦¯²¯" #GetTitleTV 
+ MARCHER_LORD_TV:1 "®¦¯ ±¥°ª¶¿¾" #GetTitleTV 
+ MOOR_KING_TV:1 "¡®²°º¯ ¬®ž¯" #GetTitleTV 
+ MOOR_EMPEROR_TV:1 "¡®²°þ ¬®¢þ" #GetTitleTV 
+ MOOR_QUEEN_TV:1 "¡®²°º¯ ª¯±²¯" #GetTitleTV 
+ MOOR_EMPRESS_TV:1 "¡®²°þ ª¯±²ªµþ" #GetTitleTV 
+ AKAL_TV:1 "¬®¯" #GetTitleTV 
+ AKALUNAKAL_TV:1 "¬®³°¬®¯" #GetTitleTV 
+ AKALI_TV:1 "¬®ª" #GetTitleTV 
+ AKALUNAKALI_TV:1 "¬®³°¬®ª" #GetTitleTV 
+ MARAS_TV:1 "¯Œ¯" #GetTitleTV 
+ GRAND_MARAS_TV:1 "¢®ª¬ª¯ ¯Œ¯" #GetTitleTV 
+ GREAT_MARAS_TV:1 "¢¢°º¯ ¯Œ¯" #GetTitleTV 
+ KASHRA_TV:1 "¬Œ" #GetTitleTV 
+ AKAL_KASHRA_TV:1 "¬® ¬Œ" #GetTitleTV 
+ ISIAK_SURAKEL_TV:1 "ªŒª¬¯ Ô³¬®¾" #GetTitleTV 
+ PACK_LORD_TV:1 "±o¢e®ª²e®¯ ²aª" #GetTitleTV 
+ PACK_MISTRESS_TV:1 "±o¢e®ª²e®¿°ªµþ ²aª" #GetTitleTV 
+ SONAD_TV:1 "o°a¦¯" #GetTitleTV 
+ FALT_TV:1 "´a®¿²¯" #GetTitleTV 
+ ARD_FALT_TV:1 "p¦-´a®¿²¯" #GetTitleTV 
+ SURCAG_TV:1 "³p¬a¥þ" #GetTitleTV 
+ BANRAG_TV:1 "¡a°pa¥þ" #GetTitleTV 
+ ARD_BANRAG_TV:1 "p¦-¡a°pa¥þ" #GetTitleTV 
+ COMHAIR_TV:1 "¬o¯xþp¯" #GetTitleTV 
+ LABRAR_TV:1 "®a¡pap¯" #GetTitleTV 
+ CANSUDD_TV:1 "¬a°c³¦¦¯" #GetTitleTV 
+ PROVOST_TV:1 "±¬²¯" #GetTitleTV 
+ ARCH_PROVOST_TV:1 "ª±¬²¯" #GetTitleTV 
+ IMPERIAL_PROVOST_TV:1 "ª¯±¬ª¯ ª±¬²¯" #GetTitleTV 
+ GRANDMASTER_TV:1 "¥°¦¯²¯" #GetTitleTV 
+ FIRST_ORACLE_MALE_TV:1 "¢¢°º¯ ¢¥³¯" #GetTitleTV 
+ FIRST_ORACLE_FEMALE_TV:1 "¢¢°þ ¢¥³þ" #GetTitleTV 
+ SENAPTI_TV:1 "°±²ª" #GetTitleTV 
+ PRABHI_TV:1 "±¡ª" #GetTitleTV 
+ GRAND_VIZIER_TV:1 "¢®ª¬ª¯ ¢ª©ªž¯"
+ CAEHN_TV:1 "¬¼°¯" #GetTitleTV 
+ GREAT_CAEHN_TV:1 "¥²ª¥ ¬¼°¯" #GetTitleTV 
+ CAEHTEN_TV:1 "¬a¼²e°þ" #GetTitleTV 
+ GREAT_CAEHTEN_TV:1 "¥²ª¥ ¬a¼²e°þ" #GetTitleTV 
+ IZHUUN_TV:1 "ª¨³³°¯" #GetTitleTV 
+ KAASHEG_TV:1 "¬Œ¥¯" #GetTitleTV 
+ GREAT_KAASHEG_TV:1 "¢®ª¬ª¯ ¬Œ¥¯" #GetTitleTV 
+ KHUSHAI_TV:1 "³Œþ" #GetTitleTV 
+ KUSHENG_TV:1 "¬³Œ¼°þ" #GetTitleTV 
+ GREAT_KUSHENG_TV:1 "¢®ª¬þ ¬³Œ¼°þ" #GetTitleTV 
+ HWALBAEJ_TV:1 "¢®¡¯" #GetTitleTV 
+ JAENG_TV:1 "¶¨¼°¯" #GetTitleTV 
+ DAEJAENG_TV:1 "¦¼¶¨¼°¯" #GetTitleTV 
+ HWALEI_TV:1 "¢®þ" #GetTitleTV 
+ WAENBU_TV:1 "¢¼°¡³" #GetTitleTV 
+ DAEWAENBU_TV:1 "¦¼¢¼°¡³" #GetTitleTV 
+ FIRST_MARSHAL_TV:1 "±¢º¯ ¯Œ®¯" #GetTitleTV 
+ GRAND_MARSHAL_TV:1 "¥°¦-¯Œ®¯" #GetTitleTV 
+ VRYDAL_TV:1 "¢ª¦®¯" #GetTitleTV 
+ VYRISAR_TV:1 "¢ºª¯" #GetTitleTV 
+ VRYDALVA_TV:1 "¢ª¦®¢þ" #GetTitleTV 
+ VYRISETA_TV:1 "¢ºª²þ" #GetTitleTV 
+ VYLEDAR_TV:1 "¢º®¦¯" #GetTitleTV 
+ VYLYENDAR_TV:1 "¢º®¿°¦¯" #GetTitleTV 
+ VYLEDAM_TV:1 "¢º®¦¯þ" #GetTitleTV 
+ VYLYENDAM_TV:1 "¢º®¿°¦¯þ" #GetTitleTV 
+ DHAVANA_TV:1 "¦¢°" #GetTitleTV 
+ ARYACAN_TV:1 "¿¾¬°¯" #GetTitleTV 
+ CAMRAYACAN_TV:1 "¬¯þ¬°¯" #GetTitleTV 
+ ELAVI_TV:1 "¼®¢ª" #GetTitleTV 
+ ARACI_TV:1 "ª" #GetTitleTV 
+ CAMRAYANI_TV:1 "¬¯¾°ª" #GetTitleTV 
+ YODHAN_TV:1 "þ¦°¯" #GetTitleTV 
+ RAYODHAN_TV:1 "þ¦°¯" #GetTitleTV 
+ CAKRAYODHANTI_TV:1 "¬¬þ¦°²ª" #GetTitleTV 
+ YODHENGASU_TV:1 "þ¦°¥³" #GetTitleTV 
+ RAYODANI_TV:1 "þ¦°ª" #GetTitleTV 
+ CAKRAMAHISI_TV:1 "¬¬¯ªª" #GetTitleTV 
+ DANNUKA_TV:1 "¦°°³¬" #GetTitleTV 
+ ADHIPAYAV_TV:1 "¦ª±¾¢¯" #GetTitleTV 
+ ADHIVAMRATT_TV:1 "¦ª¢¯²²¯" #GetTitleTV 
+ VENITA_TV:1 "¢°ª²þ" #GetTitleTV 
+ ADHIPAYAVNI_TV:1 "¦ª±¾¢°ª" #GetTitleTV 
+ ADHIVAMRAHANI_TV:1 "¦ª¢¯°ª" #GetTitleTV 
+ VRAKKA_TV:1 "¢¬¬" #GetTitleTV 
+ POVRAKKA_TV:1 "±¢¬¬" #GetTitleTV 
+ RASVRAPAKKA_TV:1 "¢±¬¬" #GetTitleTV 
+ VRAKKANI_TV:1 "¢¬¬°ª" #GetTitleTV 
+ POVRAKKANI_TV:1 "±¢¬¬°ª" #GetTitleTV 
+ RASVRAPAKKANI_TV:1 "¢±¬¬°ª" #GetTitleTV 
+ DHEKKA_TV:1 "¦¬¬" #GetTitleTV 
+ AMARYARU_TV:1 "¯¿¾³" #GetTitleTV 
+ AMARAWOR_TV:1 "¯¢" #GetTitleTV 
+ ESTRI_TV:1 "¼²ª" #GetTitleTV 
+ AMARYARNI_TV:1 "¯¿¾°ª" #GetTitleTV 
+ AMARAWORNI_TV:1 "¯¢°ª" #GetTitleTV 
+ DOOKANIST_SHAMAN_MALE_TV:1 "²¡²°¯" #GetTitleTV 
+ DOOKANIST_SHAMAN_FEMALE_TV:1 "²¡²°¯" #GetTitleTV 
+ GOLDSCALE_SAGE_MALE_TV:1 "©®²º¯ ¯³¦µ¯" #GetTitleTV 
+ GOLDSCALE_SAGE_FEMALE_TV:1 "©®²º¯ ¯³¦µ¯" #GetTitleTV 
+ MATRIARCH_TV:1 "¯²ª¯" #GetTitleTV 
+ HIGH_MATRIARCH_TV:1 "¢¢°º¯ ¯²ª¯" #GetTitleTV 
+ PUNGIPEA_TV:1 "±³°¥ª±" #GetTitleTV 
+ QASHLAIKIM_TV:1 "¬Œ®¬ª¯¯" #GetTitleTV
+ KHOIDARG_TV:1 "þ¦¥¯" #GetTitleTV
+ FIRST_COMMANDER_TV:1 "±¢º¯ ¬¯°¦³½¸ª¯" #GetTitleTV
+ DAKOCRACY_DUKE_TV:1 "¯¥-®¦¯" #GetTitleTV
+ DAKOCRACY_KING_TV:1 "¢¢®Œ¡°ª¬¯" #GetTitleTV
+ DAKOCRACY_EMPEROR_TV:1 "¢¢°º¯ ª¯±²¯" #GetTitleTV
+ DIARCH_TV:1 "¦ª¯" #GetTitleTV
+ GRAND_DIARCH_TV:1 "¢®ª¬ª¯ ¦ª¯" #GetTitleTV
 
  #°®¦°ª¬ª
- HOLY_CHOSEN_PR:1 "¢¾²º¯ ª©¡pa°°ª¬¯" #GetTitleHeirTV
- PHOENIX_PRINCE_PR:1 "±ª°µ¯-´°ª¬" #GetTitleHeirTV
- PHOENIX_PRINCESS_PR:1 "±ª°µþ-´°ª¬" #GetTitleHeirTV
- GRAY_LORD_PR:1 "epº¯ ®op¦¯" #GetTitleHeirTV
- GRAY_PRINCE_PR:1 "epº¯ ±pª°µ¯" #GetTitleHeirTV
- GRAY_LADY_PR:1 "epþ ®e¦ª" #GetTitleHeirTV
- GRAY_PRINCESS_PR:1 "epþ ±pª°µeccþ" #GetTitleHeirTV
- KARAKHUR_PR:1 "¬¬³¯" #GetTitleHeirTV
- KARADURZK_PR:1 "¬¦³©¬" #GetTitleHeirTV
- SER_HEIR_PR:1 "¯" #GetTitleHeirTV
- YELLER_APPARENT_PR:1 "¢±¾¸ª¯ ¶¢ª¦µ¯" #GetTitleHeirTV
- TLUUKT_PRINCE_PR:1 "¯¨¯" #GetTitleHeirTV
- TLUUKT_PRINCESS_PR:1 "¯¨ª" #GetTitleHeirTV
- JARLSSON_PR:1 "¾p®cco°¯" #GetTitleHeirTV
- KONUNGSSON_PR:1 "¬o°³°¥cco°¯" #GetTitleHeirTV
- OZTRKONUNGSSON_PR:1 "©²p¬o°³°¥cco°¯" #GetTitleHeirTV
- JARLSDOTTIR_PR:1 "¾p®c¦o²²ªp" #GetTitleHeirTV
- KONUNGSDOTTIR_PR:1 "¬o°°³°¥c¦o²²ªp" #GetTitleHeirTV
- OZTRKONUNGSDOTTIR_PR:1 "©²¬o°°³°¥c¦o²²ªp" #GetTitleHeirTV
- PRANT_PR:1 "±pa°²¯" #GetTitleHeirTV
- SHADOW_HEIR_PR:1 "½°º¯ ¥±¦ª°¯" #GetTitleHeirTV
- SHADOW_HEIRESS_PR:1 "½°þ ¥±¨þ" #GetTitleHeirTV
- BATTLEPRINCE_PR:1 "¬°¾©¯-¢¢¦þ" #GetTitleHeirTV
- BATTLEPRINCESS_PR:1 "¬°¾¥ª°þ-¢¢¦þ" #GetTitleHeirTV
- RASHOKUDEI_PR:1 "Œ¬³¦¯" #GetTitleHeirTV
- BOJAEJ_PR:1 "¡¦¨¯" #GetTitleHeirTV
- KHUNZHE_PR:1 "³°¿µ©" #GetTitleHeirTV
- DAKHUNZE_PR:1 "¦³°¿µ©" #GetTitleHeirTV
- BOJEI_PR:1 "¡¦¨¼þ" #GetTitleHeirTV
- GONJE_PR:1 "¥°¿µ©" #GetTitleHeirTV
- DAGONJE_PR:1 "¦¥°¿µ©" #GetTitleHeirTV
- XANSHEN_PR:1 "¾°¿Œ°¿" #GetTitleHeirTV
- TONZHI_PR:1 "²°¶¨ª" #GetTitleHeirTV
- DATONZHI_PR:1 "¦²°¶¨ª" #GetTitleHeirTV
- DANSHEN_PR:1 "¦°¿Œ°¿" #GetTitleHeirTV
- GONZHI_PR:1 "¥°¿¶¨ª" #GetTitleHeirTV
- DAGONZHI_PR:1 "¦¥°¶¿¨ª" #GetTitleHeirTV
- AROMO_PR:1 "¯" #GetTitleHeirTV
- TOJIS_PR:1 "²¦©ª" #GetTitleHeirTV
- RENDA_PR:1 "°¦" #GetTitleHeirTV
- RONTOS_PR:1 "°²" #GetTitleHeirTV
- PRINCE_APPARENT_PR:1 "¾¢°º¯ ±pª°µ¯" #GetTitleHeirTV
- PRINCESS_APPARENT_PR:1 "¾¢°þ ±pª°µeccþ" #GetTitleHeirTV
- HEIR_APPARENT_PR:1 "¾¢°º¯ °ac®e¦°ª¬¯" #GetTitleHeirTV
- DRAGON_LORD_PR:1 "¦¬°¿ª¯ ®¦¯" #GetTitleHeirTV
- DRAGON_PRINCE_PR:1 "¦¬°¿ª¯ ±ª°µ¯" #GetTitleHeirTV
- DRAGON_LADY_PR:1 "¦¬°¿þ ®¦ª" #GetTitleHeirTV
+ HOLY_CHOSEN_TV:1 "¢¾²º¯ ª©¡pa°°ª¬¯" #GetTitleHeirTV
+ PHOENIX_PRINCE_TV:1 "±ª°µ¯-´°ª¬" #GetTitleHeirTV
+ PHOENIX_PRINCESS_TV:1 "±ª°µþ-´°ª¬" #GetTitleHeirTV
+ GRAY_LORD_TV:1 "epº¯ ®op¦¯" #GetTitleHeirTV
+ GRAY_PRINCE_TV:1 "epº¯ ±pª°µ¯" #GetTitleHeirTV
+ GRAY_LADY_TV:1 "epþ ®e¦ª" #GetTitleHeirTV
+ GRAY_PRINCESS_TV:1 "epþ ±pª°µeccþ" #GetTitleHeirTV
+ KARAKHUR_TV:1 "¬¬³¯" #GetTitleHeirTV
+ KARADURZK_TV:1 "¬¦³©¬" #GetTitleHeirTV
+ SER_HEIR_TV:1 "¯" #GetTitleHeirTV
+ YELLER_APPARENT_TV:1 "¢±¾¸ª¯ ¶¢ª¦µ¯" #GetTitleHeirTV
+ TLUUKT_PRINCE_TV:1 "¯¨¯" #GetTitleHeirTV
+ TLUUKT_PRINCESS_TV:1 "¯¨ª" #GetTitleHeirTV
+ JARLSSON_TV:1 "¾p®cco°¯" #GetTitleHeirTV
+ KONUNGSSON_TV:1 "¬o°³°¥cco°¯" #GetTitleHeirTV
+ OZTRKONUNGSSON_TV:1 "©²p¬o°³°¥cco°¯" #GetTitleHeirTV
+ JARLSDOTTIR_TV:1 "¾p®c¦o²²ªp" #GetTitleHeirTV
+ KONUNGSDOTTIR_TV:1 "¬o°°³°¥c¦o²²ªp" #GetTitleHeirTV
+ OZTRKONUNGSDOTTIR_TV:1 "©²¬o°°³°¥c¦o²²ªp" #GetTitleHeirTV
+ PRANT_TV:1 "±pa°²¯" #GetTitleHeirTV
+ SHADOW_HEIR_TV:1 "½°º¯ ¥±¦ª°¯" #GetTitleHeirTV
+ SHADOW_HEIRESS_TV:1 "½°þ ¥±¨þ" #GetTitleHeirTV
+ BATTLEPRINCE_TV:1 "¬°¾©¯-¢¢¦þ" #GetTitleHeirTV
+ BATTLEPRINCESS_TV:1 "¬°¾¥ª°þ-¢¢¦þ" #GetTitleHeirTV
+ RASHOKUDEI_TV:1 "Œ¬³¦¯" #GetTitleHeirTV
+ BOJAEJ_TV:1 "¡¦¨¯" #GetTitleHeirTV
+ KHUNZHE_TV:1 "³°¿µ©" #GetTitleHeirTV
+ DAKHUNZE_TV:1 "¦³°¿µ©" #GetTitleHeirTV
+ BOJEI_TV:1 "¡¦¨¼þ" #GetTitleHeirTV
+ GONJE_TV:1 "¥°¿µ©" #GetTitleHeirTV
+ DAGONJE_TV:1 "¦¥°¿µ©" #GetTitleHeirTV
+ XANSHEN_TV:1 "¾°¿Œ°¿" #GetTitleHeirTV
+ TONZHI_TV:1 "²°¶¨ª" #GetTitleHeirTV
+ DATONZHI_TV:1 "¦²°¶¨ª" #GetTitleHeirTV
+ DANSHEN_TV:1 "¦°¿Œ°¿" #GetTitleHeirTV
+ GONZHI_TV:1 "¥°¿¶¨ª" #GetTitleHeirTV
+ DAGONZHI_TV:1 "¦¥°¶¿¨ª" #GetTitleHeirTV
+ AROMO_TV:1 "¯" #GetTitleHeirTV
+ TOJIS_TV:1 "²¦©ª" #GetTitleHeirTV
+ RENDA_TV:1 "°¦" #GetTitleHeirTV
+ RONTOS_TV:1 "°²" #GetTitleHeirTV
+ PRINCE_APPARENT_TV:1 "¾¢°º¯ ±pª°µ¯" #GetTitleHeirTV
+ PRINCESS_APPARENT_TV:1 "¾¢°þ ±pª°µeccþ" #GetTitleHeirTV
+ HEIR_APPARENT_TV:1 "¾¢°º¯ °ac®e¦°ª¬¯" #GetTitleHeirTV
+ DRAGON_LORD_TV:1 "¦¬°¿ª¯ ®¦¯" #GetTitleHeirTV
+ DRAGON_PRINCE_TV:1 "¦¬°¿ª¯ ±ª°µ¯" #GetTitleHeirTV
+ DRAGON_LADY_TV:1 "¦¬°¿þ ®¦ª" #GetTitleHeirTV
  
- CHOSEN_DISCIPLE_PR:1 "ª©¡°°º¯ ³¶°ª¬¯" #GetTitleHeirTV
- ASCENDANT_MASTER_PR:1 "¢¦¾¸ª¯ ¯²¯" #GetTitleHeirTV
- MARSAR_PR:1 "¯Œ¯" #GetTitleHeirTV
- MARSARI_PR:1 "¯Œª" #GetTitleHeirTV
- OGHAR_PR:1 "¥ap¯" #GetTitleHeirTV
- BANOGHAR_PR:1 "¡a°o¥ap¯" #GetTitleHeirTV
- IZHUUNAAZUN_PR:1 "ª¨³³°©³°" #GetTitleHeirTV
- KHUSHAAZUN_PR:1 "³Œ©³°¯" #GetTitleHeirTV
- BOJAENG_PR:1 "¡¦¨°¯" #GetTitleHeirTV
- NOPOJAENG_PR:1 "°±¦¨°¯" #GetTitleHeirTV
- BOJAENBU_PR:1 "¡¦¨¼°¡³" #GetTitleHeirTV
- NOPAENBU_PR:1 "°±¼°¡³" #GetTitleHeirTV
- TALDHAVANA_PR:1 "²®¦¢°" #GetTitleHeirTV
- AVALIRIKAN_PR:1 "¢®ªª¬°¯" #GetTitleHeirTV
- TALNIDHAVANA_PR:1 "²®°ª¦¢°" #GetTitleHeirTV
- AVALIKUMARI_PR:1 "¢®ª¬³¯ª" #GetTitleHeirTV
- YODHANNAGUR_PR:1 "þ¦°°¥³" #GetTitleHeirTV
- RAYODHANNAGUR_PR:1 "þ¦°°¥³" #GetTitleHeirTV
- CAKRAYODHANTINAGUR_PR:1 "¶¬þ¦°²ª°¥³" #GetTitleHeirTV
- YODHANNAGULU_PR:1 "þ¦°°¥³®³" #GetTitleHeirTV
- RAYODHANNAGULU_PR:1 "þ¦°°¥³®³" #GetTitleHeirTV
- CAKRAYODHANTINAGULU_PR:1 "¶¬þ¦°²ª°¥³®³" #GetTitleHeirTV
- DANNUKPATRUY_PR:1 "¦°°³¬±²³þ" #GetTitleHeirTV
- ADHIPPATRUY_PR:1 "¦ª±±²³þ" #GetTitleHeirTV
- ADHIVAMPATRUY_PR:1 "¦ª¢¯±²³þ" #GetTitleHeirTV
- DANNUKPATRI_PR:1 "¦°°³¬±²ª" #GetTitleHeirTV
- ADHIPPATRI_PR:1 "¦ª±±²ª" #GetTitleHeirTV
- ADHIVAMPATRI_PR:1 "¦ª¢¯±²ª" #GetTitleHeirTV
- DHEKKAMARUI_PR:1 "¦¬¬¯³¯" #GetTitleHeirTV
- AMARAVARA_PR:1 "¯¢" #GetTitleHeirTV
- AMARAVARAJU_PR:1 "¯¢¦¨³" #GetTitleHeirTV
- DHEKKAMARUTY_PR:1 "¦¬¬¯³²ª" #GetTitleHeirTV
- AMARASURA_PR:1 "¯³þ" #GetTitleHeirTV
- AMARASURUNI_PR:1 "¯³³°ª" #GetTitleHeirTV
- CONRI_BINH_PR:1 "¬°ª ¡ª°¿" #GetTitleHeirTV
- CONGI_BINH_PR:1 "¬°¥ª ¡ª°¿" #GetTitleHeirTV
+ CHOSEN_DISCIPLE_TV:1 "ª©¡°°º¯ ³¶°ª¬¯" #GetTitleHeirTV
+ ASCENDANT_MASTER_TV:1 "¢¦¾¸ª¯ ¯²¯" #GetTitleHeirTV
+ MARSAR_TV:1 "¯Œ¯" #GetTitleHeirTV
+ MARSARI_TV:1 "¯Œª" #GetTitleHeirTV
+ OGHAR_TV:1 "¥ap¯" #GetTitleHeirTV
+ BANOGHAR_TV:1 "¡a°o¥ap¯" #GetTitleHeirTV
+ IZHUUNAAZUN_TV:1 "ª¨³³°©³°" #GetTitleHeirTV
+ KHUSHAAZUN_TV:1 "³Œ©³°¯" #GetTitleHeirTV
+ BOJAENG_TV:1 "¡¦¨°¯" #GetTitleHeirTV
+ NOPOJAENG_TV:1 "°±¦¨°¯" #GetTitleHeirTV
+ BOJAENBU_TV:1 "¡¦¨¼°¡³" #GetTitleHeirTV
+ NOPAENBU_TV:1 "°±¼°¡³" #GetTitleHeirTV
+ TALDHAVANA_TV:1 "²®¦¢°" #GetTitleHeirTV
+ AVALIRIKAN_TV:1 "¢®ªª¬°¯" #GetTitleHeirTV
+ TALNIDHAVANA_TV:1 "²®°ª¦¢°" #GetTitleHeirTV
+ AVALIKUMARI_TV:1 "¢®ª¬³¯ª" #GetTitleHeirTV
+ YODHANNAGUR_TV:1 "þ¦°°¥³" #GetTitleHeirTV
+ RAYODHANNAGUR_TV:1 "þ¦°°¥³" #GetTitleHeirTV
+ CAKRAYODHANTINAGUR_TV:1 "¶¬þ¦°²ª°¥³" #GetTitleHeirTV
+ YODHANNAGULU_TV:1 "þ¦°°¥³®³" #GetTitleHeirTV
+ RAYODHANNAGULU_TV:1 "þ¦°°¥³®³" #GetTitleHeirTV
+ CAKRAYODHANTINAGULU_TV:1 "¶¬þ¦°²ª°¥³®³" #GetTitleHeirTV
+ DANNUKPATRUY_TV:1 "¦°°³¬±²³þ" #GetTitleHeirTV
+ ADHIPPATRUY_TV:1 "¦ª±±²³þ" #GetTitleHeirTV
+ ADHIVAMPATRUY_TV:1 "¦ª¢¯±²³þ" #GetTitleHeirTV
+ DANNUKPATRI_TV:1 "¦°°³¬±²ª" #GetTitleHeirTV
+ ADHIPPATRI_TV:1 "¦ª±±²ª" #GetTitleHeirTV
+ ADHIVAMPATRI_TV:1 "¦ª¢¯±²ª" #GetTitleHeirTV
+ DHEKKAMARUI_TV:1 "¦¬¬¯³¯" #GetTitleHeirTV
+ AMARAVARA_TV:1 "¯¢" #GetTitleHeirTV
+ AMARAVARAJU_TV:1 "¯¢¦¨³" #GetTitleHeirTV
+ DHEKKAMARUTY_TV:1 "¦¬¬¯³²ª" #GetTitleHeirTV
+ AMARASURA_TV:1 "¯³þ" #GetTitleHeirTV
+ AMARASURUNI_TV:1 "¯³³°ª" #GetTitleHeirTV
+ CONRI_BINH_TV:1 "¬°ª ¡ª°¿" #GetTitleHeirTV
+ CONGI_BINH_TV:1 "¬°¥ª ¡ª°¿" #GetTitleHeirTV
  
  #¬°²º
- AKAL_CONSORT_PR:1 "¬®¯-¬°²¯" #GetTitleConsortTV
- AKALI_CONSORT_PR:1 "¬®ª-¬°²¯" #GetTitleConsortTV
- TELJARL_PR:1 "²e®¹¾p®¯" #GetTitleConsortTV
- GREVINNA_PR:1 "¥pe¢ª°°þ" #GetTitleConsortTV
- GRAND_CONSORT_PR:1 "¥pa°¦-¬o°cop²¯" #GetTitleConsortTV
+ AKAL_CONSORT_TV:1 "¬®¯-¬°²¯" #GetTitleConsortTV
+ AKALI_CONSORT_TV:1 "¬®ª-¬°²¯" #GetTitleConsortTV
+ TELJARL_TV:1 "²e®¹¾p®¯" #GetTitleConsortTV
+ GREVINNA_TV:1 "¥pe¢ª°°þ" #GetTitleConsortTV
+ GRAND_CONSORT_TV:1 "¥pa°¦-¬o°cop²¯" #GetTitleConsortTV
  
- FIRST_NOBLE_HUSBAND_PR:1 "±ep¢º¯ ¡®a¥opo¦°º¯ ¯³¨¯" #GetTitleConsortTV
- FIRST_ROYAL_HUSBAND_PR:1 "±ep¢º¯ ¬opo®e¢c¬ª¯ ¯³¨¯" #GetTitleConsortTV
- FIRST_SUPREME_HUSBAND_PR:1 "±ep¢º¯ ¢epxo¢°º¯ ¯³¨¯" #GetTitleConsortTV
- FIRST_NOBLE_WIFE_PR:1 "±ep¢þ ¡®a¥opo¦°þ ¨e°þ" #GetTitleConsortTV
- FIRST_ROYAL_WIFE_PR:1 "±ep¢þ ¬opo®e¢c¬þ ¨e°þ" #GetTitleConsortTV
- FIRST_SUPREME_WIFE_PR:1 "±ep¢þ ¢epxo¢°þ ¨e°þ" #GetTitleConsortTV
- DUKAD_CARD_PR:1 "¦³¬a¦-¬ap¦¯" #GetTitleConsortTV
- RIGAK_CARD_PR:1 "ª¥a¬-¬ap¦¯" #GetTitleConsortTV
- ARDRIGAK_CARD_PR:1 "p¦pª¥a¬-¬ap¦¯" #GetTitleConsortTV
- SURCAG_CARD_PR:1 "³p¬a¥-¬ap¦þ" #GetTitleConsortTV
- BANRAG_CARD_PR:1 "¡a°pa¥-¬ap¦þ" #GetTitleConsortTV
- ARDBANRAG_CARD_PR:1 "p¦¡a°pa¥-¬ap¦þ" #GetTitleConsortTV
- HENGASU_PR:1 "þ¦°¥³" #GetTitleConsortTV
- DANI_PR:1 "¦°ª" #GetTitleConsortTV
- MAHISI_PR:1 "¯ªª" #GetTitleConsortTV
- NGI_HONG_PR:1 "°¥ª °" #GetTitleConsortTV
- NGI_VO_PR:1 "°¥ª ¢" #GetTitleConsortTV 
+ FIRST_NOBLE_HUSBAND_TV:1 "±ep¢º¯ ¡®a¥opo¦°º¯ ¯³¨¯" #GetTitleConsortTV
+ FIRST_ROYAL_HUSBAND_TV:1 "±ep¢º¯ ¬opo®e¢c¬ª¯ ¯³¨¯" #GetTitleConsortTV
+ FIRST_SUPREME_HUSBAND_TV:1 "±ep¢º¯ ¢epxo¢°º¯ ¯³¨¯" #GetTitleConsortTV
+ FIRST_NOBLE_WIFE_TV:1 "±ep¢þ ¡®a¥opo¦°þ ¨e°þ" #GetTitleConsortTV
+ FIRST_ROYAL_WIFE_TV:1 "±ep¢þ ¬opo®e¢c¬þ ¨e°þ" #GetTitleConsortTV
+ FIRST_SUPREME_WIFE_TV:1 "±ep¢þ ¢epxo¢°þ ¨e°þ" #GetTitleConsortTV
+ DUKAD_CARD_TV:1 "¦³¬a¦-¬ap¦¯" #GetTitleConsortTV
+ RIGAK_CARD_TV:1 "ª¥a¬-¬ap¦¯" #GetTitleConsortTV
+ ARDRIGAK_CARD_TV:1 "p¦pª¥a¬-¬ap¦¯" #GetTitleConsortTV
+ SURCAG_CARD_TV:1 "³p¬a¥-¬ap¦þ" #GetTitleConsortTV
+ BANRAG_CARD_TV:1 "¡a°pa¥-¬ap¦þ" #GetTitleConsortTV
+ ARDBANRAG_CARD_TV:1 "p¦¡a°pa¥-¬ap¦þ" #GetTitleConsortTV
+ HENGASU_TV:1 "þ¦°¥³" #GetTitleConsortTV
+ DANI_TV:1 "¦°ª" #GetTitleConsortTV
+ MAHISI_TV:1 "¯ªª" #GetTitleConsortTV
+ NGI_HONG_TV:1 "°¥ª °" #GetTitleConsortTV
+ NGI_VO_TV:1 "°¥ª ¢" #GetTitleConsortTV 
  
  #‰¦®¨°ºþ ±¦¨
  HARI_PR:1 "ª" #GetTitlePR 
