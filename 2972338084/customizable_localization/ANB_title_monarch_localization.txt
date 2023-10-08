@@ -11257,6 +11257,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -11266,6 +11267,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -11274,6 +11276,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -11284,6 +11287,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -11293,6 +11297,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -11301,6 +11306,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}	
@@ -11311,6 +11317,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -11320,6 +11327,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -11328,6 +11336,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -11338,6 +11347,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -11347,6 +11357,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -11355,6 +11366,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}	
@@ -11365,6 +11377,8 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -11374,6 +11388,8 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -11382,6 +11398,8 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -11392,6 +11410,8 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -11401,6 +11421,8 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -11409,6 +11431,8 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -11419,6 +11443,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -11428,6 +11453,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -11436,6 +11462,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -11446,6 +11473,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -11455,6 +11483,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -11463,6 +11492,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -22707,6 +22737,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -22716,6 +22747,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -22724,6 +22756,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -22734,6 +22767,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -22743,6 +22777,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -22751,6 +22786,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}	
@@ -22761,6 +22797,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -22770,6 +22807,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -22777,7 +22815,8 @@ defined_text = {
 		localisation_key = PRESIDENT_RD
 		trigger = {
 			is_female = no
-			government_rank = 3 
+			government_rank = 3
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -22788,6 +22827,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -22797,6 +22837,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -22805,6 +22846,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}	
@@ -22815,6 +22857,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -22824,6 +22867,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -22832,6 +22876,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -22842,6 +22887,8 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -22851,6 +22898,8 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -22859,6 +22908,8 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			NOT = { has_reform = one_xia }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -22869,6 +22920,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -22878,6 +22930,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -22886,6 +22939,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -22896,6 +22950,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -22905,6 +22960,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -22913,6 +22969,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -32201,6 +32258,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			NOT = { has_reform = one_xia }
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -32211,6 +32269,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			NOT = { has_reform = one_xia }
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -32220,6 +32279,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			NOT = { has_reform = one_xia }
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -34157,6 +34217,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -34166,6 +34227,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -34174,6 +34236,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -34184,6 +34247,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -34193,6 +34257,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -34201,6 +34266,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}	
@@ -34211,6 +34277,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -34220,6 +34287,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -34228,6 +34296,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -34238,6 +34307,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -34247,6 +34317,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -34255,6 +34326,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}	
@@ -34265,6 +34337,8 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
+			NOT = { has_reform = one_xia }
 			government = theocracy
 		}
 	}
@@ -34274,6 +34348,8 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
+			NOT = { has_reform = one_xia }
 			government = theocracy
 		}
 	}
@@ -34282,6 +34358,8 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
+			NOT = { has_reform = one_xia }
 			government = theocracy
 		}
 	}
@@ -34292,6 +34370,8 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
+			NOT = { has_reform = one_xia }
 			government = theocracy
 		}
 	}
@@ -34301,6 +34381,8 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
+			NOT = { has_reform = one_xia }
 			government = theocracy
 		}
 	}
@@ -34309,6 +34391,8 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
+			NOT = { has_reform = one_xia }
 			government = theocracy
 		}
 	}
@@ -34319,6 +34403,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -34328,6 +34413,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -34336,6 +34422,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -34346,6 +34433,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -34355,6 +34443,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -34363,6 +34452,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}	
@@ -45607,6 +45697,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -45616,6 +45707,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -45624,6 +45716,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -45634,6 +45727,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -45643,6 +45737,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -45651,6 +45746,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}	
@@ -45661,6 +45757,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -45670,6 +45767,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -45678,6 +45776,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -45688,6 +45787,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -45697,6 +45797,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -45705,6 +45806,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}	
@@ -45715,6 +45817,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -45724,6 +45827,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -45732,6 +45836,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -45742,6 +45847,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -45751,6 +45857,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -45759,6 +45866,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -45769,6 +45877,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -45778,6 +45887,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -45786,6 +45896,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -45796,6 +45907,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -45805,6 +45917,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -45813,6 +45926,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}	
@@ -49120,8 +49234,11 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			government = republic
-			tag = A16 #Wineport
+			AND ={
+				government = republic
+				tag = A16 #Wineport
+				is_part_of_hre = no
+			}
 		}
 	}
 	text = {
@@ -49612,11 +49729,13 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = A73
-			culture_group = dwarven
-			NOT = { mission_completed = A73_complete_hold }
-			is_elector = yes
-			is_emperor = no   
+			AND = {
+				tag = A73
+				culture_group = dwarven
+				NOT = { mission_completed = A73_complete_hold }
+				is_elector = yes
+				is_emperor = no  
+			}			
 		}
 	}
 	text = {
@@ -49690,10 +49809,14 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = A73
-			culture_group = dwarven
-			government = republic
-			NOT = { mission_completed = A73_complete_hold }  
+			AND= {
+				tag = A73
+				culture_group = dwarven
+				government = republic
+				NOT = { mission_completed = A73_complete_hold }  
+				is_elector = no
+				is_part_of_hre = no
+			}
 		}
 	}
 	text = {
@@ -53764,6 +53887,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			is_a_hold = yes
 			government = republic
 			culture_group = dwarven
@@ -57058,6 +57182,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -57067,6 +57192,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -57075,6 +57201,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -57085,6 +57212,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -57094,6 +57222,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -57102,6 +57231,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}	
@@ -57112,6 +57242,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -57121,6 +57252,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -57129,6 +57261,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -57139,6 +57272,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -57148,6 +57282,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -57156,6 +57291,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}	
@@ -57166,6 +57302,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -57175,6 +57312,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -57183,6 +57321,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -57193,6 +57332,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -57202,6 +57342,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -57210,6 +57351,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -57220,6 +57362,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -57229,6 +57372,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -57237,6 +57381,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -57247,6 +57392,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -57256,6 +57402,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -57264,6 +57411,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}	
@@ -68508,6 +68656,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -68517,6 +68666,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -68525,6 +68675,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -68535,6 +68686,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -68544,6 +68696,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}
@@ -68552,6 +68705,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			has_reform = monarchy_mechanic
 		}
 	}	
@@ -68562,6 +68716,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -68571,6 +68726,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -68579,6 +68735,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -68589,6 +68746,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -68598,6 +68756,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = republic
 		}
 	}
@@ -68606,6 +68765,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = republic
 		}
 	}	
@@ -68616,6 +68776,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -68625,6 +68786,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -68633,6 +68795,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -68643,6 +68806,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -68652,6 +68816,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -68660,6 +68825,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = theocracy
 		}
 	}
@@ -68670,6 +68836,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -68679,6 +68846,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -68687,6 +68855,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -68697,6 +68866,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -68706,6 +68876,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			is_part_of_hre = no
 			government = tribal
 		}
 	}
@@ -68714,6 +68885,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			is_part_of_hre = no
 			government = tribal
 		}
 	}	
