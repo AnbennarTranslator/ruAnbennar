@@ -29,7 +29,7 @@
  adventurers_estate_events.6.b:0 "™² ¢¥ ®ªŒ¿ ®¢. ²±³²ª²¿."
  EST_VAL_UNDERMINED_BY_ADVENTURERS:0 "A¢a°²½pªc²º ¬a¶a½² ®o¦¬³: §Y$VAL$%§!"
  adventurers_estate_events.7.t:0 "$ESTATE_ADVENTURERS$ o²¬a©a®ªc¿ ±epe¦a²¿ ap²e´a¬² [Root.ArtificersDT]"
- adventurers_estate_events.7.d:0 "       $ESTATE_ARTIFICERS$ ±pªŒ®ª ¬ °a¯ ¢ ±a°ª¬e, ©a¾¢ª¢, ¶²o [Root.ArtificersIM], °a°¾²ºe ¦®¾ ¢occ²a°o¢®e°ª¾ ap²e´a¬²a, ³¬pa®ª e¥o! ‰®¦°ª, ¢ ¢½ ¶¦¿, ©a¾¢®¾½², ¶²o ap²e´a¬² — ¼²o °e¶²o, ¶²o °³¨°o coxpa°ª²¿, ³²¢ep¨¦a¾, ¶²o o° ±pª°a¦®e¨ª² ¯³©e½. E¥o °e®¿©¾ ³°ª¶²o¨a²¿ ª®ª ªc±o®¿©o¢a²¿!"
+ adventurers_estate_events.7.d:0 "       $ESTATE_ARTIFICERS$ ±pªŒ®ª ¬ °a¯ ¢ ±a°ª¬e, ©a¾¢ª¢, ¶²o [Root.AdventurersIM], °a°¾²ºe ¦®¾ ¢occ²a°o¢®e°ª¾ ap²e´a¬²a, ³¬pa®ª e¥o! ‰®¦°ª, ¢ ¢½ ¶¦¿, ©a¾¢®¾½², ¶²o ap²e´a¬² — ¼²o °e¶²o, ¶²o °³¨°o coxpa°ª²¿, ³²¢ep¨¦a¾, ¶²o o° ±pª°a¦®e¨ª² ¯³©e½. E¥o °e®¿©¾ ³°ª¶²o¨a²¿ ª®ª ªc±o®¿©o¢a²¿!"
  adventurers_estate_events.7.a:0 "C¦a²¿ ¢ ¯³©eþ!"
  adventurers_estate_events.7.b:0 "O²°¾²¿ ap²e´a¬² cª®oþ."
  EST_VAL_EXPLOITING_ARTIFACTS:0 "†c±o®¿©o¢a® ap²e´a¬²: §Y$VAL$%§!"
