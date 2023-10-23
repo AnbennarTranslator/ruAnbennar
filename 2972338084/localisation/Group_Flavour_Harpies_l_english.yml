@@ -1,0 +1,56 @@
+﻿l_english:
+
+ #Decisions
+ build_our_roost_title:0 "‰²ª²¿ °Œ ¥°©¦"
+ build_our_roost_desc:0 "€®¿Œª°²¢  Û®¬°° ²¾² ¢ª ²®ªµº ° ´¯, ¥¦ ±¡®ª©²ª ²¿ ¯°¥ ±ª¸ª. ¦°¬ ¯º ¡º®ª ¡®¥®¢®°º ¬º®¿¾¯ª, ±¡°º¯ª ³°²ª °Œª ¦¶þ ¦®¬ ª °¦®¥. ‰¼²¯³ ¯º ¶² ²ª®ª ¢ª ¦¯ ¢ ¥ ª ®¯, ¥¦ ¯¨° ¡º® ¢ª²¿ ¥°©¦ ¢ ¡©±°²ª. ‰ªŒ® ¢¯¾ ¦®²¿ ¼² °¢, ¦¢þ² ±²ª¯ °Œª ¥¦, °¦²³±°º ¦®¾ ¢¨¦¡°º ª®, ¢º¬ ¢ ¬®, ¥¦ ²®¿¬ ¬º®¿¾ ¯¥³² ¦²²¿ ¦ °ª!"
+ 
+ #Events
+ harpy_events.1.t:0 "‚¦ ¡³¦¯ ²ª²¿ ¥°©¦?"
+ harpy_events.1.d:0 "       Ïª°²¢ ±®¨°ª¾ ¥°ž©¦ ¯¨² ¡º²¿ ¬¬ ¦ª°, ²¬ ª °¬®¿¬. °ª ¯¥³² ¡º²¿ ±²°º ¢ °Œª ±¢ª°µª¾ ¥±ªþ ° ®¯, °¥¿¾ ª®ª ¥  ³¢°¯ ¬±²ª ° °ª¨ 1. Ï ¬¨¦¯ ¥ª° ¯¨² ¡º²¿ ²®¿¬ ¦° ¥°©¦."
+ harpy_events.1.a:0 "Ï ²®ªµ"
+ harpy_events.1.b:0 "Ï ¥ª° [harpy_roost_region1.GetRegionName] "
+ harpy_events.1.c:0 "Ï ¥ª° [harpy_roost_region2.GetRegionName] "
+ harpy_events.1.dd:0 "Ï ¥ª° [harpy_roost_region3.GetRegionName] "
+ harpy_events.1.e:0 "Ï ¥ª° [harpy_roost_region4.GetRegionName] "
+ harpy_events.1.f:0 "Ï ¥ª° [harpy_roost_region5.GetRegionName] "
+ harpy_events.1.g:0 "Ï ¥ª° [harpy_roost_region6.GetRegionName] "
+ harpy_events.1.h:0 "Ï ¥ª° [harpy_roost_region7.GetRegionName] "
+ harpy_events.1.i:0 "Ï ¥ª° [harpy_roost_region8.GetRegionName] "
+ harpy_events.1.j:0 "Ï ¥ª° [harpy_roost_region9.GetRegionName] "
+ harpy_events.1.k:0 "Ï ¥ª° [harpy_roost_region10.GetRegionName] "
+ harpy_events.1.x:0 "¢¨°"
+ harpy_events.2.t:0 "‚¦ ¡³¦¯ ²ª²¿ ¥°©¦?"
+ harpy_events.2.d:0 "Ïª°²¢ ±®¨°ª¾ ¥°ž©¦ ¯¨² ¡º²¿ °¬®¿¬ ª®ª ¯°¥. °ª ¯¥³² ¡º²¿ ±²°º ¢ °Œª ±¢ª°µª¾ ¥±ªþ ° ®¯, °¥¿¾ ª®ª ¥  ³¢°¯ ¬±²ª ° °ª¨ 1. Ï ¬¨¦¯ ¥ª° ¯¨² ¡º²¿ ²®¿¬ ¦° ¥°©¦."
+ harpy_events.2.a:0 "Ï [harpy_roost1.GetName]"
+ harpy_events.2.b:0 "Ï [harpy_roost2.GetName]"
+ harpy_events.2.c:0 "Ï [harpy_roost3.GetName]"
+ harpy_events.2.dd:0 "Ï [harpy_roost4.GetName]"
+ harpy_events.2.e:0 "Ï [harpy_roost5.GetName]"
+ harpy_events.2.f:0 "Ï [harpy_roost6.GetName]"
+ harpy_events.2.g:0 "Ï [harpy_roost7.GetName]"
+ harpy_events.2.h:0 "Ï [harpy_roost8.GetName]"
+ harpy_events.2.x:0 "©¦"
+ 
+ harpy_events.100.t:0 "ƒ¶ª [Root.Monarch.GetName]"
+ harpy_events.100.desc:0 "       Ïº¬¶²ª¯¾ [Root.GetTitleIM] [Root.Monarch.GetName], ¯²¿ [Root.Monarch.Dynasty.GetName] ²ª, °±¡¦ª¯¾ ¢ ¡¾ ª °¢¦¾¸¾ ³¨ ° ¢¥¢, ª¯² ±³²µª½ ¦°þ ª© ¢®ª¶þŒª ¥±ªþ ¢¥ ¢¯°ª ª ¾¢®¾²¾ °±ª¯þ ±¢ª²®¿°ªµþ.\n       ¬ ª ±¦¡² ±¢ª²®¿°ªµ ²¬¥ ³¢°¾ ª ±®¨°ª¾, [Root.GetTitleIM] ¦ª® ¯°¥ ±¡°º ¦²þ, °¬²º ª© ¬²º ±¦½² ¡®¿Œª °¦¨¦º ¬¬ ¡³¦³¸ª ±¢ª²®ª. ¦°¬, ¬¬ ª©¢²° ª ¯ª¯ ¦²¾¯, ª °Œª¯ ±¢ª²®¿²¢°°º¯ ¶ª°¢°ª¬¯, °®¦¢²¿ ¯¨² ²®¿¬ ¦ª°,  ³²Œª²®¿°º ±ª©¢ ±¬²ª¶¬ª °². Œª ¶ª°¢°ª¬ª ³¡¨¦°º, ¶² [Root.Monarch.GetName] ± °©¢²¿ ´¢ª² ¦ª ¢©¯¨°º ±¯°ª¬¢. ™² ¢¾¦ ®ª ±®¨ª² ¬°µ ±°ª¶²¢³ © [Root.GetMEgoEyo] ¡®¥¬®°°²¿, °, °¦½¿, ²°¢ª² ³¦Œ³½ ¡¿¡³ © ±²®, ¬²¾ ¯¨² ±®¦¢²¿, ®ª °Œ [Root.GetTitleIM] ³¯ž², ²¬ ª ° ¢º¡¢ ¾¢°¥ ±¯°ª¬."
+ harpy_events.100.a:0 "€®¥¶²ª¢¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.100.b:0 "Ôª®¿°þŒ¾ ¦¶¿ - °Œ ´¢ª²."
+ harpy_events.100.c:0 "‹¶ž°þŒ¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.100.d:0 "Ô¦¡®¿°¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.100.e:0 "‰ª¨¦ž°°ºþ ®ª¦ — °Œ ´¢ª²."
+ harpy_events.100.f:0 "Ô¯¾ ¬ª¢¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.100.g:0 "‰¦±ªª¯¶ª¢¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.100.h:0 "ˆ½¡©°²®¿°¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.100.i:0 "Ô¯¾ ¦ž°°¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.100.j:0 "•¦¾ ¦¶¿ — °Œ ´¢ª²."
+ harpy_events.101.t:0 "ª®ª¶ ®þª"
+ harpy_events.101.d:0 "An Ottoman coronation ceremony is the most grand thing many will see in their lifetime and the coronation of [Root.Monarch.GetName] is no exception. As the Sword of Osman is girded upon [Root.Monarch.GetName] by the Sharif of Konya, however, our Viziers look upon [Root.Monarch.GetHerHim] with some amount of dread. [Root.Monarch.GetSheHeCap] was never the most likely of candidates and would likely never have taken the throne if a clear favorite had existed.\nSome would go as far as to say that it was [Root.Monarch.GetHerHis] mediocrity that allowed [Root.Monarch.GetName] to triumph. Greater men never considered [Root.Monarch.GetHerHim] a threat and others hoped to control the Empire through [Root.Monarch.GetHerHim]. One thing our new [Root.Monarch.GetTitle] has clearly demonstrated: When the need arises [Root.Monarch.GetSheHe] will not shy away from sinking a dagger in the back of those that trust [Root.Monarch.GetHerHim]."
+ harpy_events.101.a:0 "Long live the [Root.Monarch.GetTitle]!"
+ harpy_events.101.a.tt:0 "Ù®¿¬ ¢¯¾ ±¬¨², ¬¬ª¯ ±¢ª²®¯ ²°² §Y[Root.Monarch.GetName]§!."
+ 
+ # #Other
+ harpy_matriarchy_reform:0 "²ª² ¥±ªþ"
+ harpy_matriarchy_reform_desc:0 "Ù¦ªµª°° ¡¸²¢ ¥±ªþ ²ª² ª© ¯®¬ª ²þ, ³±¢®¾¯º ¯þ°º¯ª ¯²ª¯ª, ¬²º, ¢ ¢½ ¶¦¿, ³±¢®¾½²¾ ¦°ª¯ ¥®¢°º¯ ¯²ª¯ ª ¶ª²½²¾ ¶²¿½ ¡® ¬³±°þ ²ª. Ô¯µº ° ¡®¦½² ¢®²¿½ ¢ ¼²þ µª®¿°þ ²³¬²³."
+ 
+ #tooltips
+ too_many_roosts_tt:0 "° 20 ¥°ž©¦"
