@@ -2299,7 +2299,7 @@
   has_dwarovkron_agate_tooltip:0 "§Y¥²§! ¢ °Œª ³¬"
 
   PEACE_po_steal_dwarovkron_gems:0 "§D‰²°©ªª ° ´¥¯°² ƒ¢¢¬°§!"
-  po_steal_dwarovkron_gems_desc:0 "§Y[Root.GetName]§! ¢©¿¯ž² ¬¨¦ºþ ´¥¯°² §Dƒ¢¢¬°§! ¢ §Y[From.GetName]§! ³¬ª."
+  po_steal_dwarovkron_gems_desc:0 "§Y[Root.GetName]§! ¢©¿¯ž² ¬¨¦ºþ ´¥¯°² §Dƒ¢¢¬°§! ª© ³¬ §Y[From.GetName]§!."
 
   PEACE_po_steal_dwarovkron_reforged:0 "§D‰²°©ª¾ ° ƒ¢¢¬°!§!"
   po_steal_dwarovkron_reforged_desc:0 "§Y[Root.GetName]§! ±®³¶ª² ±²°©ªª ° §Dƒ¢¢¬°§! ¦®¾ §Y[From.GetName]§! ¥®¢º."
