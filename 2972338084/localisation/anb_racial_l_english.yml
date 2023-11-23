@@ -1,5 +1,5 @@
 ﻿l_english:
- racial_military_menu_title:0 "£icon_pop_small£  §m†©¯°ª²¿ ³ ¢³¨ž°°º ª®§!"
+ racial_military_menu_title:0 "£icon_pop_small£  †©¯°ª²¿ ³ ¢³¨ž°°º ª®"
  racial_military_menu_desc:0 "®ª ³ ¢ ²¿ ¡® 30% ©¢ª²ª¾ ª°²¥ª¢°°þ º, ¬²¾ ° ¾¢®¾²¾ ¢Œþ ¡²¢°°þ, ¢º ¯¨² ª©¯°ª²¿ ¦¯ª°ª³½¸³½ ³ ¢ ¢ª ¢³¨ž°°º ª®."
  
  restructuring_administration:0 "Ð²³¬²³ª©µª¾ ¢þ ¦¯ª°ª²µªª"
@@ -43,6 +43,10 @@
  desc_ogre_administration:0 ""
  hobgoblin_administration:0 "Û¡¥¡®ª°¬¾ ¦¯ª°ª²µª¾"
  desc_hobgoblin_administration:0 ""
+ lizardfolk_administration:0 "×¸®½¦¬¾ ¦¯ª°ª²µª¾"
+ desc_lizardfolk_administration:0 ""
+ old_racial_administration_tt:0 "§Y[old_racial_administration_tt]§! ¡³¦² ³¦®° ª© ¦¨¢º [Root.GetName].\n" 
+ 
  
  dwarven_military:0 "ƒ¢´ªþ¬¾ ¯ª¾"
  desc_dwarven_military:0 ""
@@ -80,6 +84,13 @@
  desc_ogre_military:0 ""
  hobgoblin_military:0 "Û¡¥¡®ª°¬¾ ¯ª¾"
  desc_hobgoblin_military:0 ""
+ lizardfolk_military:0 "×¸®½¦¬¾ ¯ª¾"
+ desc_lizardfolk_military:0 ""
+ spirit_military:0 "¯ª¾ ¦³¢"
+ desc_spirit_military:0 "§O†¶©°² ±® ¬°¶°ª¾ Ð¬® µ²¢§!"
+ 
+ elven_military_no_dlc:0 "²¬®½¶°°ºþ ¬¯±°² DlC"
+ hobgoblin_military_no_dlc:0 "²¬®½¶°°ºþ ¬¯±°² DlC" 
  
  ruler_is_half_elven_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y‰®³¼®¿´¯§!"
  ruler_is_elven_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y™®¿´¯§!"
@@ -90,7 +101,8 @@
  ruler_is_orcish_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y¬¯§!"
  ruler_is_goblin_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y‚¡®ª°¯§!"
  ruler_is_gnollish_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y‚°®®¯§!"
- ruler_is_kobold_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y¡®¿¦§!"
+ ruler_is_kobold_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y¡®¿¦¯§!"
+ ruler_is_lizardfolk_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §Y×¸®½¦¯§!"
  ruler_is_halfling_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §YÛ®´®ª°¥¯§!"
  ruler_is_harimari_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §YÛª¯¯§!"
  ruler_is_hobgoblin_tt:0 "‰¢ª²®¿ ¾¢®¾²¾ §YÛ¡¥¡®ª°¯§!"
@@ -110,6 +122,7 @@
  consort_is_goblin_tt:0 "°² ¾¢®¾²¾ §Y‚¡®ª°¯§!"
  consort_is_gnollish_tt:0 "°² ¾¢®¾²¾ §Y‚°®®¯§!"
  consort_is_kobold_tt:0 "°² ¾¢®¾²¾ §Y¡®¿¦¯§!"
+ consort_is_lizardfolk_tt:0 "°² ¾¢®¾²¾ §Y×¸®½¦¯§!" 
  consort_is_halfling_tt:0 "°² ¾¢®¾²¾ §YÛ®´®ª°¥¯§!"
  consort_is_harimari_tt:0 "°² ¾¢®¾²¾ §YÛª¯¯§!"
  consort_is_hobgoblin_tt:0 "°² ¾¢®¾²¾ §YÛ¡¥¡®ª°¯§!"
@@ -129,6 +142,7 @@
  heir_is_goblin_tt:0 "®¦°ª¬ ¾¢®¾²¾ §Y‚¡®ª°¯§!"
  heir_is_gnollish_tt:0 "®¦°ª¬ ¾¢®¾²¾ §Y‚°®®¯§!"
  heir_is_kobold_tt:0 "®¦°ª¬ ¾¢®¾²¾ §Y¡®¿¦¯§!"
+ heir_is_lizardfolk_tt:0 "®¦°ª¬ ¾¢®¾²¾ §Y×¸®½¦¯§!" 
  heir_is_halfling_tt:0 "®¦°ª¬ ¾¢®¾²¾ §YÛ®´®ª°¥¯§!"
  heir_is_harimari_tt:0 "®¦°ª¬ ¾¢®¾²¾ §YÛª¯¯§!"
  heir_is_hobgoblin_tt:0 "®¦°ª¬ ¾¢®¾²¾ §YÛ¡¥¡®ª°¯§!"
@@ -141,6 +155,9 @@
  culture_is_ruinborn_tt:0 "³®¿²³ §Y³ª°¨¦ž°°ºþ ¼®¿´§!"
  culture_is_not_ruinborn_tt:0 "³®¿²³  §Y³ª°¨¦ž°°ºþ ¼®¿´§!"
  culture_is_human_tt:0 "³®¿²³ ¾¢®¾²¾ §Y®½¦¬þ§!"
+ 
+ change_primary_culture_tt:0 "§Y[Root.Culture.GetName]§! ²°¢ª²¾ °¢þ °¢°þ ¬³®¿²³þ."
+
  
  has_centaur_advisor_tt: "°ª¯² §Y°²¢§! Ô¢²°ª¬"
  has_centaur_advisor_ADM_tt: "°ª¯² §Y°²¢ ¦¯ª°ª²²§! Ô¢²°ª¬"
@@ -195,9 +212,13 @@
  has_human_advisor_DIP_tt: "°ª¯² §YÌ®¢¬ ƒª±®¯²§! Ô¢²°ª¬"
  has_human_advisor_MIL_tt: "°ª¯² §YÌ®¢¬ Ï°°¥§! Ô¢²°ª¬"
  has_kobold_advisor_tt: "°ª¯² §Y¡®¿¦§! Ô¢²°ª¬"
- has_kobold_advisor_ADM_tt: "°ª¯² §Y¡®¿¦ ¦¯ª°ª²²§! Ô¢²°ª¬"
- has_kobold_advisor_DIP_tt: "°ª¯² §Y¡®¿¦ ƒª±®¯²§! Ô¢²°ª¬"
- has_kobold_advisor_MIL_tt: "°ª¯² §Y¡®¿¦ Ï°°¥§! Ô¢²°ª¬"
+ has_kobold_advisor_adm_tt: "°ª¯² §Y¡®¿¦ ¦¯ª°ª²²§! Ô¢²°ª¬"
+ has_kobold_advisor_dip_tt: "°ª¯² §Y¡®¿¦ ƒª±®¯²§! Ô¢²°ª¬"
+ has_kobold_advisor_mil_tt: "°ª¯² §Y¡®¿¦ Ï°°¥§! Ô¢²°ª¬"
+ has_lizardfolk_advisor_tt: "°ª¯² §Y×¸®½¦§! Ô¢²°ª¬"
+ has_lizardfolk_advisor_adm_tt: "°ª¯² §Y×¸®½¦ ¦¯ª°ª²²§! Ô¢²°ª¬"
+ has_lizardfolk_advisor_dip_tt: "°ª¯² §Y×¸®½¦ ƒª±®¯²§! Ô¢²°ª¬"
+ has_lizardfolk_advisor_mil_tt: "°ª¯² §Y×¸®½¦ Ï°°¥§! Ô¢²°ª¬" 
  has_ogre_advisor_tt: "°ª¯² §Y¥§! Ô¢²°ª¬"
  has_ogre_advisor_ADM_tt: "°ª¯² §Y¥ ¦¯ª°ª²²§! Ô¢²°ª¬"
  has_ogre_advisor_DIP_tt: "°ª¯² §Y¥ ƒª±®¯²§! Ô¢²°ª¬"
@@ -225,6 +246,7 @@
  integrated_goblin_people_tooltip:0 "§Y‚¡®ª°¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_gnollish_people_tooltip:0 "§Y‚°®®¿¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_kobold_people_tooltip:0 "§Y¡®¿¦¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
+ integrated_lizardfolk_people_tooltip:0 "§Y×¸®½¦¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!" 
  integrated_halfling_people_tooltip:0 "§YÛ®´®ª°¥¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_harimari_people_tooltip:0 "§YÛª¯¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
  integrated_hobgoblin_people_tooltip:0 "§YÛ¡¥¡®ª°¬ªþ§! ³¢°¿ ²±ª¯²ª: §T†°²¥ª¢°º§!"
@@ -244,6 +266,7 @@
  coexisting_goblin_people_tooltip:0 "§Y‚¡®ª°¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_gnollish_people_tooltip:0 "§Y‚°®®¿¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_kobold_people_tooltip:0 "§Y¡®¿¦¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
+ coexisting_lizardfolk_people_tooltip:0 "§Y×¸®½¦¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!" 
  coexisting_halfling_people_tooltip:0 "§YÛ®´®ª°¥¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_harimari_people_tooltip:0 "§YÛª¯¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
  coexisting_hobgoblin_people_tooltip:0 "§YÛ¡¥¡®ª°¬ªþ§! ³¢°¿ ²±ª¯²ª: §GÔ³¸²¢¢°ª§!"
@@ -263,6 +286,7 @@
  oppressed_goblin_people_tooltip:0 "§Y‚¡®ª°¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_gnollish_people_tooltip:0 "§Y‚°®®¿¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_kobold_people_tooltip:0 "§Y¡®¿¦¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
+ oppressed_lizardfolk_people_tooltip:0 "§Y×¸®½¦¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!" 
  oppressed_halfling_people_tooltip:0 "§YÛ®´®ª°¥¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_harimari_people_tooltip:0 "§YÛª¯¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
  oppressed_hobgoblin_people_tooltip:0 "§YÛ¡¥¡®ª°¬ªþ§! ³¢°¿ ²±ª¯²ª: §R‹¥°²°º§!"
@@ -276,7 +300,7 @@
  elven_military_cradle:0 "™®¿´ªþ¬¾ ¯ª¾ — ±¦¦¨ª¢² ¡®° ¬®º¡®ª µª¢ª®ª©µªª"
  
  racial_modifiers.5.t:0 "†©¯°°ª ¢þ ¦¯ª°ª²µªª"
- racial_modifiers.5.d:0 "†©-© ª©¯°°ª¾ °Œþ °¢°þ ¬³®¿²³º ¢ °Œþ ¦¯ª°ª²µªª ²±¿ ¡³¦² ¦¯ª°ª¢²¿ °¢¾ , ª ¼² ±¢®ª¾² ° °Œª ¢¨¦ž°°º ¬®°°²ª ª ±ªª²²º. ¦°¬ ¦®¨° ±þ²ª ±¦°ºþ ±ª¦, ±¨¦ ¶¯ °Œ °¢¾ ¦¯ª°ª²µª¾ ©¡²² °ª®³¶Œª¯ ¡©¯."
+ racial_modifiers.5.d:0 "       †©-© ª©¯°°ª¾ °Œþ °¢°þ ¬³®¿²³º ¢ °Œþ ¦¯ª°ª²µªª ²±¿ ¡³¦² ¦¯ª°ª¢²¿ °¢¾ , ª ¼² ±¢®ª¾² ° °Œª ¢¨¦ž°°º ¬®°°²ª ª ±ªª²²º. ¦°¬ ¦®¨° ±þ²ª ±¦°ºþ ±ª¦, ±¨¦ ¶¯ °Œ °¢¾ ¦¯ª°ª²µª¾ ©¡²² °ª®³¶Œª¯ ¡©¯."
  racial_modifiers.5.a:0 "×, °±ª¯, ±ª¢²²¢³½ °Œª °¢º ±¢®ª²®þ!"
  
  
@@ -284,7 +308,7 @@
  racial_modifiers_majority_unrest10.tt:0 "¨¦¾ ±¢ª°µª¾, ª¯½¸¾ ¯¦ª´ª¬² §Y¢ ¡®¿Œª°²¢§! ¼²þ º, ±®³¶ª² §R10§! ¬ ¡±¾¦¬¯."
  
  racial_modifiers.3.t:0 "Ð¢º ¢°°º ¬³¥"
- racial_modifiers.3.d:0 "‹¥°²°ª °º°Œ°þ ¦¯ª°ª³½¸þ º ¢ °Œª ¢³¨ž°°º ª® ±ª¢® ¬ ±¢¯²°¯³ ¦©²ª²¢³ ª ¦¨ ¬ ³¥© ¢²°ª¾! °¢°¾ ¥³±±, ²¾¸¾ ª© °Œþ °¢°þ º, ¢²®, ¶²¡º ¢°³²¿ ¡ ¯² ¦¯ª°ª³½¸ª ®¦² °Œþ ²°º."
+ racial_modifiers.3.d:0 "       ‹¥°²°ª °º°Œ°þ ¦¯ª°ª³½¸þ º ¢ °Œª ¢³¨ž°°º ª® ±ª¢® ¬ ±¢¯²°¯³ ¦©²ª²¢³ ª ¦¨ ¬ ³¥© ¢²°ª¾! °¢°¾ ¥³±±, ²¾¸¾ ª© °Œþ °¢°þ º, ¢²®, ¶²¡º ¢°³²¿ ¡ ¯² ¦¯ª°ª³½¸ª ®¦² °Œþ ²°º."
  racial_modifiers.3.a:0 "º ¦®¨°º ¡º®ª ²°ª²¿¾ ¬ °ª¯ ®³¶Œ..."
  
  #------# Racial Ï°°¥ Menu #------#
@@ -338,6 +362,7 @@
  HobgoblinMilOption:0 "[Root.GetMilAvailableHobgoblin]"
  HumanMilOption:0 "[Root.GetMilAvailableHuman]"
  KoboldMilOption:0 "[Root.GetMilAvailableKobold]"
+ LizardfolkMilOption:0 "[Root.GetMilAvailableLizardfolk]" 
  LizardmenMilOption:0 "[Root.GetMilAvailableLizardmen]"
  MechanismMilOption:0 "[Root.GetMilAvailableMechanism]"
  OgreMilOption:0 "[Root.GetMilAvailableOgre]"
@@ -359,6 +384,7 @@
  MilCurrentHobgoblin:0 "£event_option_hidder_173££pop_name_hobgoblins£[Root.GethobgoblinPopPercentage][Root.GetMilMenuToleranceAvailableHobgoblin]£pop_current_button£"
  MilCurrentHuman:0 "£event_option_hidder_173££pop_name_humans£[Root.GethumanPopPercentage][Root.GetMilMenuToleranceAvailableHuman]£pop_current_button£"
  MilCurrentKobold:0 "£event_option_hidder_173££pop_name_kobolds£[Root.GetkoboldPopPercentage][Root.GetMilMenuToleranceAvailableKobold]£pop_current_button£"
+ MilCurrentLizardfolk:0 "£event_option_hidder_173££pop_name_lizardfolks£[Root.GetlizardfolkPopPercentage][Root.GetMilMenuToleranceAvailableLizardfolk]£pop_current_button£" 
  MilCurrentLizardmen:0 "£event_option_hidder_173££pop_name_lizardmen£[Root.GetlizardmenPopPercentage][Root.GetMilMenuToleranceAvailableLizardmen]£pop_current_button£"
  MilCurrentMechanism:0 "£event_option_hidder_173££pop_name_mechanism£[Root.GetmechanismPopPercentage][Root.GetMilMenuToleranceAvailableMechanism]£pop_current_button£"
  MilCurrentOgre:0 "£event_option_hidder_173££pop_name_ogres£[Root.GetogrePopPercentage][Root.GetMilMenuToleranceAvailableOgre]£pop_current_button£"
@@ -380,6 +406,7 @@
  MilAvailableHobgoblin:0 "£event_option_hidder_173££pop_name_hobgoblins£[Root.GethobgoblinPopPercentage][Root.GetMilMenuToleranceAvailableHobgoblin]£pop_switch_button£"
  MilAvailableHuman:0 "£event_option_hidder_173££pop_name_humans£[Root.GethumanPopPercentage][Root.GetMilMenuToleranceAvailableHuman]£pop_switch_button£"
  MilAvailableKobold:0 "£event_option_hidder_173££pop_name_kobolds£[Root.GetkoboldPopPercentage][Root.GetMilMenuToleranceAvailableKobold]£pop_switch_button£"
+ MilAvailableLizardfolk:0 "£event_option_hidder_173££pop_name_lizardfolks£[Root.GetlizardfolkPopPercentage][Root.GetMilMenuToleranceAvailableLizardfolk]£pop_switch_button£" 
  MilAvailableLizardmen:0 "£event_option_hidder_173££pop_name_lizardmen£[Root.GetlizardmenPopPercentage][Root.GetMilMenuToleranceAvailableLizardmen]£pop_switch_button£"
  MilAvailableMechanism:0 "£event_option_hidder_173££pop_name_mechanism£[Root.GetmechanismPopPercentage][Root.GetMilMenuToleranceAvailableMechanism]£pop_switch_button£"
  MilAvailableOgre:0 "£event_option_hidder_173££pop_name_ogres£[Root.GetogrePopPercentage][Root.GetMilMenuToleranceAvailableOgre]£pop_switch_button£"
@@ -401,6 +428,7 @@
  MilNotAvailableHobgoblin:0 "£event_option_hidder_173££pop_name_hobgoblins_r£[Root.GethobgoblinPopPercentageNotAvailable][Root.GetMilMenuToleranceNotAvailableHobgoblin]£pop_switch_button_g£"
  MilNotAvailableHuman:0 "£event_option_hidder_173££pop_name_humans_r£[Root.GethumanPopPercentageNotAvailable][Root.GetMilMenuToleranceNotAvailableHuman]£pop_switch_button_g£"
  MilNotAvailableKobold:0 "£event_option_hidder_173££pop_name_kobolds_r£[Root.GetkoboldPopPercentageNotAvailable][Root.GetMilMenuToleranceNotAvailableKobold]£pop_switch_button_g£"
+ MilNotAvailableLizardfolk:0 "£event_option_hidder_173££pop_name_lizardfolks_r£[Root.GetlizardfolkPopPercentageNotAvailable][Root.GetMilMenuToleranceNotAvailableLizardfolk]£pop_switch_button_g£" 
  MilNotAvailableLizardmen:0 "£event_option_hidder_173££pop_name_lizardmen_r£[Root.GetlizardmenPopPercentageNotAvailable][Root.GetMilMenuToleranceAvailableLizardmen]£pop_switch_button_g£"
  MilNotAvailableMechanism:0 "£event_option_hidder_173££pop_name_mechanism_r£[Root.GetmechanismPopPercentageNotAvailable][Root.GetMilMenuToleranceAvailableMechanism]£pop_switch_button_g£"
  MilNotAvailableOgre:0 "£event_option_hidder_173££pop_name_ogres_r£[Root.GetogrePopPercentageNotAvailable][Root.GetMilMenuToleranceNotAvailableOgre]£pop_switch_button_g£"
@@ -529,10 +557,29 @@
  #----------------------------------#
  
  racial_modifiers.6.t:0 "Ï²°¢ª²¿ ¢³½ ¯ª½"
- racial_modifiers.6.d:0 "Œ ¢°°ºþ ¯¦ª´ª¬² ¡®¿Œ ° ²¢²²¢³² ½°ª²¯, ¬²º ¯º ¢º²¢®¾¯ ¢ ¡½. ™² ¦®¨° ¡º²¿ ª±¢®°!"
+ racial_modifiers.6.d:0 "       Œ ¢°°ºþ ¯¦ª´ª¬² ¡®¿Œ ° ²¢²²¢³² ½°ª²¯, ¬²º ¯º ¢º²¢®¾¯ ¢ ¡½. ™² ¦®¨° ¡º²¿ ª±¢®°!"
+ racial_modifiers.6.a:0 "‰¬®½¶ª²¿¾ ° §Y¶¿ª§! ¢þ¬"
+ racial_modifiers.6.b:0 "‰¬®½¶ª²¿¾ ° §Y®½¦¬ª§! ¢þ¬"
+ racial_modifiers.6.c:0 "‰¬®½¶ª²¿¾ ° §Y¼®¿´ªþ¬ª§! ¢þ¬"
+ racial_modifiers.6.dd:0 "‰¬®½¶ª²¿¾ ° §Y±®³¼®¿´ªþ¬ª§! ¢þ¬"
+ racial_modifiers.6.e:0 "‰¬®½¶ª²¿¾ ° §Y±®³¶¿ª§! ¢þ¬"
+ racial_modifiers.6.f:0 "‰¬®½¶ª²¿¾ ° §Y²®¿¬ª§! ¢þ¬"
+ racial_modifiers.6.g:0 "‰¬®½¶ª²¿¾ ° §Y¥°®®¿¬ª§! ¢þ¬"
+ racial_modifiers.6.h:0 "‰¬®½¶ª²¿¾ ° §Y¥¡®ª°¬ª§! ¢þ¬"
+ racial_modifiers.6.i:0 "‰¬®½¶ª²¿¾ ° §Y¥°¯¿ª§! ¢þ¬"
+ racial_modifiers.6.j:0 "‰¬®½¶ª²¿¾ ° §Y¦¢´ªþ¬ª§! ¢þ¬"
+ racial_modifiers.6.k:0 "‰¬®½¶ª²¿¾ ° §Y¬¡®¿¦¬ª§! ¢þ¬"
+ racial_modifiers.6.l:0 "‰¬®½¶ª²¿¾ ° §Y³ª°¨¦ž°°º§! ¢þ¬"
+ racial_modifiers.6.m:0 "‰¬®½¶ª²¿¾ ° §Y¥±ªþ¬ª§! ¢þ¬"
+ racial_modifiers.6.n:0 "‰¬®½¶ª²¿¾ ° §Y®´®ª°¥¬ª§! ¢þ¬"
+ racial_modifiers.6.o:0 "‰¬®½¶ª²¿¾ ° §Y¥¬ª§! ¢þ¬"
+ racial_modifiers.6.p:0 "‰¬®½¶ª²¿¾ ° §Y¬°²¢¬ª§! ¢þ¬"
+ racial_modifiers.6.q:0 "‰¬®½¶ª²¿¾ ° §Yª¯¬ª§! ¢þ¬"
+ racial_modifiers.6.r:0 "‰¬®½¶ª²¿¾ ° §Y¡¥¡®ª°¬ª§! ¢þ¬"
+ racial_modifiers.6.s:0 "‰¬®½¶ª²¿¾ ° §Y¾¸®½¦¬ª§! ¢þ¬" 
  
  racial_modifiers.8.t:0 "º ° ¯¨¯ ²¬©²¿¾ ² ¢ª ¬°þ"
- racial_modifiers.8.d:0 "Œ °µª¾ °©º¢° ¢¾©°  °Œþ ¬³®¿²³þ ª þ. º ° ¯¨¯ ²¬©²¿¾ ² ¼²¥ °®¦ª¾!"
+ racial_modifiers.8.d:0 "       Œ °µª¾ °©º¢° ¢¾©°  °Œþ ¬³®¿²³þ ª þ. º ° ¯¨¯ ²¬©²¿¾ ² ¼²¥ °®¦ª¾!"
  racial_modifiers.8.a:0 "°¶°."
  locked_racial_administration_tt:0 "º ¡®¿Œ ° ¯¨¯ ª©¯°ª²¿ °Œ³ °¢°³½ ¬³®¿²³³ ª®ª ¢³½ ¦¯ª°ª²µª½."
  locked_culture_no_exploit_tt:0 "Œª ®½¦ª ³¨¦½² °Œª ±±º²¬ª ª±®¿©¢²¿ ª ¬³®¿²³³."
