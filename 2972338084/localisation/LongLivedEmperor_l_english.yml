@@ -1,0 +1,43 @@
+﻿l_english:
+ war_of_the_throne_tooltip:0 "™² ¯¨² ±¢µª¢²¿ §R¢þ°³§! ±²ª¢ §Y¢º¡¸ª¬¢§!."
+ rule_for_50years_tooltip:0 "º ¡³¦¯ §Y±¢ª²¿ ª¯±ªþ§! ¢ ²¶°ª §Y50-²ª ®²§!."
+ enforce_the_elder_pact_tooltip:0 "º §Y±ª¢¦ž¯ ¢ ª±®°°ª ‰¬² Ô²þŒª°§!, ©¢¢ §Y¬¨¦¥ ¢º¡¸ª¬§! ¬ °¯, ª ¯²ª¯ ª¯±² ¶© §R¢þ°³§!."
+ broke_elder_pact_tooltip:0 "°°ª §Y¬¨¦¥ ¶®° †§!  §Y[Root.GetName]§! ª©¯°ª²¾ ° §R-50§!."
+ 
+ PEACE_po_enforce_elder_pact:0 "§Y‰ª¢²ª ¢ ª±®°°ª ‰¬² Ô²þŒª°§!"
+ PEACE_po_revoke_electorship_elder_pact:0 "§Y®ªŒª²¿ ²ª²³® ¢º¡¸ª¬§!"
+ po_revoke_electorship_elder_pact_desc:0 "§Y[From.GetName]§! ±²¾² ²ª²³® ¢º¡¸ª¬. ™² µ° ¢º²³±®°ª¾ ±²ª¢ §Y[Root.Monarch.GetName]§!."
+ po_enforce_elder_pact_desc:0 "§Y[From.Monarch.GetName]§! ¡³¦² ¢º°³¨¦° §Y²¶¿¾ ² ±²®§!, ª©¡¢ª¢ ²¯ ¯º¯ ª¯±ª½ ² ¢¥ °©¬°°¥ ±¢®°ª¾."
+ cb_enforce_elder_pact:0 "‰ª¢²ª ¢ ª±®°°ª ‰¬² Ô²þŒª°."
+ cb_enforce_elder_pact_desc:0 "°ª °³Œª®ª ‰¬² Ô²þŒª°."
+ ELDER_PACT_WAR_NAME:0 "Ïþ° ¦ª ±ª¢¦°ª¾ ¢ ª±®°°ª ‰¬² Ô²þŒª°."
+ 
+ elder_pact_broken:0 "³Œª® ‰¬² Ô²þŒª°."
+ 
+ long_lived_emperor.1.t:0 "‰¬² Ô²þŒª°"
+ long_lived_emperor.1.d:0 "       ‰¬² Ô²þŒª° — ¼² ²ºþ ¦¥¢, ¥°²ª³½¸ªþ, ¶² ¼®¿´º ª ¦³¥ª ¦®¥¨ª¢³¸ª º ° ¡³¦³² ±¢ª²¿ ª¯±ªþ °¡°° ¢ ²¶°ª ²° ®²."
+ long_lived_emperor.1.a:0 "‰¯²ª¯."
+ 
+ long_lived_emperor.2.t:0 "‰¬² Ô²þŒª°"
+ long_lived_emperor.2.d:0 "       [Root.Monarch.GetName] ±¢ª® ³¨ ¢ ²¶°ª 50 ®², ª ° ¦®¨° ¡®½²ª ±¢ª® ‰¬² Ô²þŒª°."
+ long_lived_emperor.2.a:0 "º ²¦¦ª¯ ¬°³."
+ long_lived_emperor.2.b:0 "‰ª¦ª² ª ©¡ª²!"
+ long_lived_emperor.2.c:0 "Ïº¡¸ª¬ª ¢ž ¸ž ¥®³½² © ¯°¾."
+ 
+ long_lived_emperor.3.t:0 "‰ª¢²ª ¢ ª±®°°ª ‰¬² Ô²þŒª°"
+ long_lived_emperor.3.d:0 "       [From.Monarch.GetName], ±¢ª²®¿ ¦¨¢º [From.GetName] ²¬©®¾ ¦²¿ ¬°³ ª ¡®½²ª ±¢ª® ‰¬² Ô²þŒª°! Ù±¿ °¯ ±¦²ª² ±ª¢²ª ¢ ª±®°°ª ©¬°º ª¯±ªª °¡°°!"
+ long_lived_emperor.3.a:0 " ³¨ª½!"
+ long_lived_emperor.3.b:0 "Ôþ¶ ª¯±ªª ° °³¨° ¢þ°..."
+ 
+ long_lived_emperor.4.t:0 "‰ª¢¦°ª ¢ ª±®°°ª ‰¬² Ô²þŒª°"
+ long_lived_emperor.4.d:0 "       [From.GetName] ±ª©¢® ° ¬ ¢þ° ±²ª¢ [Emperor.Monarch.GetName], ¬²ºþ ²¬©º¢²¾ ¦²¿ ¬°³ ±® ¡® ¶¯ 50-®²°¥ ±¢®°ª¾! ƒ®¨°º ®ª ¯º ±®¦¢²¿ © °ª¯ª?"
+ long_lived_emperor.4.a:0 "°¶°!"
+ long_lived_emperor.4.b:0 "ˆ³¶Œ ° ¡³¦¯..."
+ 
+ long_lived_emperor.5.t:0 "‰¢ª® ¢º¡¸ª¬¢"
+ long_lived_emperor.5.d:0 "       Ïº¡¸ª¬ª ³±Œ° ±ª¢®ª ¢ ª±®°°ª ‰¬² Ô²þŒª°, ¢²°¢ª¢ ©¬°° ±¢ª²®¿²¢ ª¯±ªª °¡°°, ©²¢ª¢ [Root.Monarch.GetName] ²¶¿¾!"
+ long_lived_emperor.5.a:0 "‰¬®¾²ª!"
+ 
+ long_lived_emperor.6.t:0 "‚°¢ †¯±²"
+ long_lived_emperor.6.d:0 "       [From.Monarch.GetName], ±¢ª²®¿ [From.GetName] ª °©¬°°ºþ ª¯±² ª¯±ªª °¡°° ®ªŒª® ° ²ª²³® ¢º¡¸ª¬! €³¦¿ ° ±¬®¾²!"
+ long_lived_emperor.6.a:0 "‰¬®¾²ª!"

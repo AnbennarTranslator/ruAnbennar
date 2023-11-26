@@ -1,8 +1,10 @@
 ﻿l_english:
- anb_miscevents.0.t:0 "Ù²\n£empty_menu_window£"
- anb_miscevents.0.d:0 "§wÏ ±¦©¯®¿¾ ¥®³¡¬ª ª ¢ ³ª° ²º ¯º ª¸¯ ¡º®³½ ®¢³, ¡¥¢ ª ©®²!\n¡°¢®°ª °¡°°° §y'ƒ²ª ³ª°'§! ³¨ ¢ºŒ®!\nExplore the Dwarovar in the new §yExpeditions system§!, lead your adventurers into §ylegendary Dungeons§!, find the fabled §yGems of the Dwarovkron§! and experience dozens of new flavor events that bring life to the Serpentspine.\nTo enjoy these systems, try out some new MT's — as §yHul-az-krakazol§!, take drinking and monster hunting to new depths; as §yRailskulker§!, embrace speed and claim the road.\nThe Ruinborn Elves of the Ynn and Kheionai have received major attention with events, religious mechanics, and Mission Trees — as §yArverynn§!, recreate an old empire; as §yAmeion§!, forge a new one.\nDozens of new §y3D Models§!, §yadvisor portraits§!, §ymonument pictures§!, and other works of art!\n\n\n\n\n\n\n\n"
+ anb_miscevents.0.t:0 "Cool Title\n£empty_menu_window£"
+ anb_miscevents.0.d:0 "§wCool Text.\n\n\n\n\n\n\n\n"
  anb_miscevents.0.a:0 "‰©¥³©ª²¿"
  anb_miscevents.0.b:0 "…¬º²¿"
+ anb_miscevents.0_tt:0 ""
+ 
  anb_miscevents.1.t:0 "‰¿¡  ±®³¶°ªª ²²³ ¥µ¥²¢"
  anb_miscevents.1.d:0 "       ƒ¨¢ [Root.GetName] ²® ª®¿°þ ª ±µ¢²½¸þ, ° ¦ ª ± °ª² ¨®¬ªþ ²ª²³® [Root.GetTitleRD]. ‰ªŒ® ¢¯¾ ¢©¢ºª²¿¾ ¦ ¥©¦ ¡® ¦²þ°¥ °¥, ª ², ¬² ¢ºŒ °, °¢°¾¬  ¼²ª¯ ¥®¾²¾!"
  anb_miscevents.1.a:0 "€³¦¯ °¦¾²¿¾, ¶² °ª ±ª¯³² °Œ³ ±¿¡³."
