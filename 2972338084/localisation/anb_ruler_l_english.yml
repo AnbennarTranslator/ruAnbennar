@@ -7,6 +7,8 @@
  legacy_of_great_conqueror:0 "®¦ª ¢®ª¬¥ ©¢¢²®¾"
  mythical_conqueror_personality:0 "ª´ª¶¬ªþ ©¢¢²®¿"
  mythical_conqueror_modifier:0 "ª´ª¶¬ªþ ©¢¢²®¿"
+ xhazobs_chosen_personality:0 "Xhazob's Chosen"
+ xhazobs_chosen_modifier:0 "Xhazob's Chosen"
  anb_ruler.0.t:0 "ƒ®¥¨ª¢³¸ªþ ±¢ª²®¿"
  anb_ruler.0.d:0 "       [Root.Monarch.GetTitle] [Root.Monarch.GetName] ±¦²¢ª²®¿[Root.GetMEndTsaL] ¦®¥¨ª¢³¸þ º, ª ±¼²¯³ ¶ª²º¢² ° ¬¨³¸¾ ¦®¾ ¯°¥ª ¡¯²°º¯ ³¸²¢¢°ª."
  anb_ruler.0.a:0 "€®¥®¢°ª... ª®ª ¨ ±¬®¾²ª?"
@@ -24,9 +26,27 @@
  ruler_is_elven_tooltip:0 "§T¨ª¦¯¾ ±¦®¨ª²®¿°²¿ ¨ª©°ª: ¬® 400 ®²§!"
  ruler_is_wood_elven_tooltip:0 "§T¨ª¦¯¾ ±¦®¨ª²®¿°²¿ ¨ª©°ª: ¬® 250 ®²§!"
  ruler_is_half_elven_tooltip:0 "§T¨ª¦¯¾ ±¦®¨ª²®¿°²¿ ¨ª©°ª: ¬® 100 ®²§!"
- anb_ruler.4.t:0 "[Root.Monarch.GetTitle] ³¯[Root.GetMEndLA] ² ²²ª"
- anb_ruler.4.d:0 "       [Root.Monarch.GetTitle] [Root.Monarch.GetName] ±¨ª®[Root.GetMEndA] ¦®¥³½ ¨ª©°¿, °¯°¥ ±¢ºŒ½¸³½ ¨ª©°¿ ®½¡¥ ¡º¶°¥ ¶®¢¬, ª ²±¿ °[Root.GetMEndA] ±¬ª°³®[Root.GetMEndA] ¼²² ¯ª."
- anb_ruler.4.a:0 "‰¬þ¾  ¯ª¯"
+ 
+ anb_ruler.4.t:0 "[Root.Monarch.GetTitle] Dies of Old Age"
+ anb_ruler.4.d:0 "[Root.Monarch.GetTitle] [Root.Monarch.GetName] has lived a long life far beyond any natural human's, witnessing the coming and passing of ages, innumerable triumphs, and the overwhelming grief and loss that seeps into the cracks of the mind, eroding it beyond measure. Yet [Root.Monarch.GetName] never wavered, [Root.GetFirstRulerExploit]. As the ever-turning cogs of time churn ever-further, we shall remember [Root.GetSecondRulerExploit]. While [Root.Monarch.GetHerHis] body may crumble to dust, [Root.Monarch.GetHerHis] memory and legacy shall live on through the lasting impact [Root.Monarch.GetSheHe] has left upon [Root.GetName]."
+ anb_ruler.4.a:0 "Rest in Peace."
+ anb_ruler.4.b:0 "[Root.Monarch.GetSheHeCap]'s finally dead!"
+ anb_ruler.4.tt.1:0 "[Root.GetName] mourns the loss of [Root.Monarch.GetName], the truly masterful [Root.Monarch.GetTitle]."
+ anb_ruler.4.tt.2:0 "[Root.GetName] mourns the loss of [Root.Monarch.GetName], the unparalleled administrator."
+ anb_ruler.4.tt.3:0 "[Root.GetName] mourns the loss of [Root.Monarch.GetName], the sole arbiter of the battlefield."
+ anb_ruler.4.tt.4:0 "[Root.GetName] mourns the loss of [Root.Monarch.GetName], the silver-tongued fox."
+ anb_ruler.4.tt.5:0 "[Root.GetName] mourns the loss of [Root.Monarch.GetName], a remnant of an age long-gone."
+ anb_ruler.4.tt.6:0 "[Root.GetName] mourns the loss of [Root.Monarch.GetName]."
+ anb_ruler.4.tt.7:0 "[Root.GetName] celebrates the loss of [Root.Monarch.GetName] [Root.Dynasty.GetName]."
+ first_ruler_exploit_expansionist:0 "becoming a single-minded expansionist, relentlessly expanding the nation's borders in accordance with [Root.Monarch.GetHerHis] vision"
+ first_ruler_exploit_stable_hand:0 "becoming a stable hand to guide the nation through trial and tribulation, acting as a stabilizing force and becoming synanymous with the rule of law"
+ first_ruler_exploit_dumbass:0 "bringing yet further ruin to the already rocky foundations of our once great nation"
+ first_ruler_exploit_lived_long:0 "becoming the single constant in our nation over the centuries"
+ second_ruler_exploit_iron_fist:0 "the iron fist, looming over our heads, even as its wielder passes on from this life"
+ second_ruler_exploit_popular:0 "the great charisma wielded by the late [Root.Monarch.GetTitle]. We can only hope that [Root.Monarch.GetHerHis] successor inherits but a fraction of [Root.Monarch.GetHerHis] vast personality"
+ second_ruler_exploit_reputable:0 "the great ease by which the late [Root.Monarch.GetTitle] made friends and allies, wielding a spectacular reputation like a blade"
+ second_ruler_exploit_dumbass:0 "the great ease by which the late [Root.Monarch.GetTitle] squandered [Root.Monarch.GetHerHis] potential, riling the masses against [Root.Monarch.GetHerHim] even in death"
+ second_ruler_exploit_lived_long:0 "the great length of [Root.Monarch.GetHerHis] rule, if nothing else"
 
  anb_ruler.5.t:0 "[Root.Consort.GetTitle] ³¯[Root.GetCEndLA] ² ²²ª"
  anb_ruler.5.d:0 "       [Root.Consort.GetTitle] [Root.Consort.GetName] ±¨ª®[Root.GetCEndA] ¦®¥³½ ¨ª©°¿, °¯°¥ ±¢ºŒ½¸³½ ¨ª©°¿ ®½¡¥ ¡º¶°¥ ¶®¢¬, ª ²±¿ °[Root.GetCEndA] ±¬ª°³®[Root.GetCEndA] ¼²² ¯ª."
@@ -74,7 +94,7 @@
 
  Y58_lot_dekkhang_harimari_ruler:0 "‰¢ª²®¿ — ¢²¶°ºþ ª¯ª"
 
- Y58_lot_dekkhang_feng_ruler:0 "‰¢ª²®¿ — ´° ¥±ª¾"
+ Y58_lot_dekkhang_pezarang_ruler:0 "‰¢ª²®¿ - ¥±ª¾ ‰'¼©°¥ª"
 
  Y58_lot_dekkhang_goldbold_ruler:0 "‰¢ª²®¿ — ©®²¶Œ³þ¶²ºþ ¬¡®¿¦"
 
@@ -82,7 +102,7 @@
 
  Y58_lot_dekkhang_orc_ruler:0 "‰¢ª²®¿ — ¬"
 
- Y58_lot_dekkhang_goblin_ruler:0 "‰¢ª²®¿ — ±¸°ºþ ¥¡®ª°"
+ Y58_lot_dekkhang_goblin_ruler:0 "‰¢ª²®¿ — ¥¡®ª°"
 
  Y58_lot_dekkhang_horc_ruler:0 "‰¢ª²®¿ — ±®³¬"
 
