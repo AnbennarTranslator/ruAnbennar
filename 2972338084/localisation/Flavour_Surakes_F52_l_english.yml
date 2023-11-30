@@ -29,9 +29,10 @@ l_english:
  SURAKES_all_bahari_tooltip:0 "º ¦®¨°º ¢®¦²¿ ¢¯ª §Y¡¬ª¯ª§! ±¢ª°µª¾¯ª ¢ §Y¡³®¢¬¯ ³±¥ª°§!"
  SURAKES_all_gelkar_tooltip:0 "º ¦®¨°º ¢®¦²¿ ¢¯ª §Y¥®¿¬¬ª¯ª§! ±¢ª°µª¾¯ª ¢ §Y¡³®¢¬¯ ³±¥ª°§!"
  SURAKES_all_sadnatu_tooltip:0 "º ¦®¨°º ¢®¦²¿ ¢¯ª §YŒ¦°²³¢¬ª¯ª§! ±¢ª°µª¾¯ª ¢ §Y¡³®¢¬¯ ³±¥ª°§!"
- SURAKES_river_garden_tooltip:0 "§YÐ¶°º ¥¦ €³®¢§!: Re'uyel, Aqatbar, Brasan, Medurubar, Anzabad, Zanšap, Kalib, Kumarkand, Bulwar, Azkabar, Harklum, Traz Avamezan, Eduz-Vacyn, Hašr, Azka-Sur."
+ SURAKES_all_kuzarami_tooltip:0 "º ¦®¨°º ¢®¦²¿ ¢¯ª §Y¬³©¯¬ª¯ª§! ±¢ª°µª¾¯ª ¢ §Y¡³®¢¬¯ ³±¥ª°§!"
+ SURAKES_river_garden_tooltip:0 "§YÐ¶°º ¥¦ €³®¢§!: Re-uyel, Aqatbar, Brasan, Medurubar, Anzabad, Zanšap, Kalib, Kumarkand, Bulwar, Azkabar, Harklum, Traz Avamezan, Eduz-Vacyn, Hašr, Azka-Sur."
  SURAKES_desert_garden_tooltip:0 "§Y‰³²º°°º ¥¦ €³®¢§!: Harrabad, Grarrir, Ilzin Zokka, Shimlardu, Edešukeru, Subkaliss, Ardumu, Ebbušubtu, Davharral."
- SURAKES_mountain_garden_tooltip:0 "§Y‚°º ¥¦ €³®¢§!: Azka-szel-Azka, Akal-Uak, Harpylen, Gelkalis, Firanyalen, Šad Sur, Ekluzagnu, Anzakalis, Siadan's Nest, Esamod."
+ SURAKES_mountain_garden_tooltip:0 "§Y‚°º ¥¦ €³®¢§!: Azka-szel-Azka, Akal-Uak, Heunthume, Gelkalis, Firanyalen, Šad Sur, Ekluzagnu, Anzakalis, Siadúnaiún, Larfíra."
  
  ##########
  #Missions#
@@ -156,7 +157,7 @@ l_english:
  surakes_missions.2.i:0 "Ù°ª¬ ²¥¢®ª €°."
  surakes_missions.2.j:0 "¦°º ²°ª¬ª ƒ²¬¥¦ª¯."
  surakes_missions.2.k:0 "‚°¦° ¢°²¢ ‚®¿¬®ª."
- surakes_missions.2.l:0 "ƒª±®¯²ª¶¬ª ¯²¦º Ð'³þ®¾."
+ surakes_missions.2.l:0 "ƒª±®¯²ª¶¬ª ¯²¦º Ð-³þ®¾."
  surakes_missions.2.m:0 "Ù¬²ª¬ ¥°ª©µªª €."
  surakes_missions.2.n:0 "€¦¢¬ª ²¦ªµªª ³©¯."
  surakes_missions.2.o:0 "¬ª ²²¥ªª °©¡¦."
@@ -353,7 +354,7 @@ l_english:
  surakes_education9_modifier:0 "€°°¬ ¡©¢°ª"
  surakes_education10_modifier:0 "ƒ²¬¥¦ª¯¬ ¡©¢°ª"
  surakes_education11_modifier:0 "‚®¿¬®¿¬ ¡©¢°ª"
- surakes_education12_modifier:0 "Ð'³þ®¿¬ ¡©¢°ª"
+ surakes_education12_modifier:0 "Ð-³þ®¿¬ ¡©¢°ª"
  surakes_education13_modifier:0 "€¬ ¡©¢°ª"
  surakes_education14_modifier:0 "³©¯¬ ¡©¢°ª"
  surakes_education15_modifier:0 "°©¡¦¬ ¡©¢°ª"
