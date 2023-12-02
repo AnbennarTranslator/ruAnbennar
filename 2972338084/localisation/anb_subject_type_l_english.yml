@@ -12,6 +12,15 @@
  cancel_autonomous_vassal_title:0 "Ô©¦²¿ ¢®"
  cancel_autonomous_vassal_tooltip:0 "º ®ªŒª¯ §Y[From.GetName]§! ¢ª ±ª¢ª®¥ªþ ª ¦®¯ ¡º¶°º¯ª ¢®¯ª. ™² ©©®ª² ª."
  cancel_autonomous_vassal_desc:0 "Ïº ²ª² ¦®²¿ §Y[From.GetName]§! °¢ ¢®¯? ° °¢ ²°² ¡º¶°º¯ª ¢®¯ ª ±®³¶ª² §R65.0§! ¨®°ª¾ ¢¡¦º.\n\n™² ¡³¦² ²ª²¿ ¢¯ §R-1§! ²¡ª®¿°²ª."
+ 
+ cancel_tributary_anb_title:0 "²¯°ª²¿ ¦°¿"
+ cancel_tributary_anb_tooltip:0 "²¯°ª² °Œ ¥®Œ°ª  ¢º±®² ¦°ª."
+ cancel_tributary_anb_desc:0 "Ïº ²ª² ©¢²¿ ¦¥¢  ¢º±®² ¦°ª  ¦¨¢þ §Y[From.GetName]§!? ™² ±ª¢¦² ¬ ³³¦Œ°ª½ °Œª ²°Œ°ªþ ª ³²°¢ª² ±¯ªª ¯¨¦³ °¯ª ° ®¦³½¸ª 5 ®²."
+
+ cancel_tributary_anb_subject_title:0 "‰²²¿ ¡º²¿ ¦°°ª¬¯"
+ cancel_tributary_anb_subject_tooltip:0 "²¯°ª² °Œ ¥®Œ°ª  ¢º±®² ¦°ª."
+ cancel_tributary_anb_subject_desc:0 "Ïº ²ª² ©¢²¿ ¦¥¢  ¢º±®² ¦°ª  ¦¨¢þ §Y[From.GetName]§!? ™² ±ª¢¦² ¬ °ª¨°ª½ °Œþ ²¡ª®¿°²ª ° §R1§! ª ³³¦Œ°ª½ °Œª ²°Œ°ªþ."
+ 
 
  slave_state:0 "Ð¡¬ ¥³¦²¢"
  slave_state_title:0 "¡¬ª¯ ¥³¦²¢¯"
@@ -56,7 +65,7 @@
  gylikheion:0 "‚ª®ªþ°"
  gylikheion_title:0 "¥ª®ªþ°¯"
  gylikheion_title_plural:0 "¥ª®ªþ°¯ª"
- gylikheion_is_our:0 "$NAME|Y$ — °Œ ‚ª®ªþ°"
+ gylikheion_is_our:0 "$NAME|Y$ — °Œ ¥ª®ªþ°"
  gylikheion_long_desc:0 "…±¦°º þ°µº ¯¬°³² ° ´° — °Œþ ¯þ°¬þ °µªª. ¬ ¢®ª¶þŒª ª© þ°¢, ¯º ¡¾©°º ¢²ª — °Œª ¯°¿Œª ¡²¿¢, ¶²¡º ±ª¢²ª þ°¬³½ ¬³®¿²³³ ¬ ±µ¢²°ª½."
 
  patronate:0 "‰²°²"
@@ -65,3 +74,9 @@
  patronate_is_our:0 "$NAME|Y$ — °Œ ±²°²"
  patronate_long_desc:0 "‰²°²º ±®²¾² ¦°¿ ‚°¯³ ¬®½."
  patronate_no_overlord_dow:0 "º ° ¯¨¯ ¡¹¾¢®¾²¿ ¢þ°³ °Œª¯ ±²°²¯."
+ 
+ tributary_state_anb:0 "ƒ°°ª¬"
+ tributary_state_anb_title:0 "¦°°ª¬¯"
+ tributary_state_anb_title_plural:0 "¦°°ª¬¯ª"
+ tributary_state_anb_is_our:0 "§Y$NAME$§! — °Œ ¦°°ª¬."
+ tributary_state_anb_long_desc:1 "ƒ°°ª¬ ¦®¨° ¨¥¦° ±®²ª²¿ ¦°¿ ¢¯³ ±¢®ª²®½ ¢ ¡¯° ° ©¸ª²³ ±¢®ª²®¾ ² ¢þ° °©¢ªª¯º ¥³¦²¢. ƒ°°ª¬ª ° ®¦³½² © ¢ª¯ ±¢®ª²®¯ ¢ ¢þ° ª ¯¥³² ¢²ª ¡²¢°°³½ ¦ª±®¯²ª½." 

@@ -276,7 +276,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsRD
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -284,7 +284,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojRD
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -702,7 +702,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsRD
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -710,7 +710,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojRD
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -952,7 +952,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsTV
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -960,7 +960,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojTV
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -1378,7 +1378,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsTV
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -1386,7 +1386,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojTV
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -1627,7 +1627,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsDT
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -1635,7 +1635,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojDT
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -2053,7 +2053,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsDT
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -2061,7 +2061,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojDT
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -2303,7 +2303,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsIM
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -2311,7 +2311,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojIM
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -2729,7 +2729,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsIM
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -2737,7 +2737,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojIM
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -2979,7 +2979,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsIM_CAP
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -2987,7 +2987,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojIM_CAP
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	
@@ -3404,7 +3404,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_eunuchsIM_CAP
 		trigger = {
-		has_estate = estate_eunuchs
+		has_estate = estate_eunuchs_anb
 		NOT = { culture_group = goblin }
 		}
 
@@ -3412,7 +3412,7 @@ defined_text = {
 	text = {
         localisation_key = EST_estate_voltojIM_CAP
         trigger = {
-			has_estate = estate_eunuchs
+			has_estate = estate_eunuchs_anb
 			culture_group = goblin
 		}
     }	

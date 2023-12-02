@@ -504,7 +504,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "area_name"
-				position = { x = 112 y = 0} #Сдвинул влево
+				position = { x = 100 y = 0} #Сдвинул влево
 				textureFile = ""
 				font = "vic_22s"
 				borderSize = {x = 2 y = 2}
@@ -516,7 +516,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "region_name"
-				position = { x = 230 y = 19} # Сдвинул влево
+				position = { x = 220 y = 19} # Сдвинул влево
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 2 y = 2}
@@ -3552,8 +3552,8 @@ guiTypes = {
 			windowType = {
 				name = "natives_buildings_window_large"
 				backGround=""
-				position = {  x=1 y=150 }
-				size = { x=475 y=270 }
+				position = {  x=1 y=150 } #1.35 was y=-157
+				size = { x=475 y=270 } #1.35 was y=480
 				dontRender = ""
 				horizontalBorder= ""
 				verticalBorder= ""
@@ -3564,13 +3564,13 @@ guiTypes = {
 				iconType =
 				{
 					name ="provinceview_native_building_bg_large"
-					spriteType = "GFX_select_building_small_bg2"
+					spriteType = "GFX_select_building_small_bg2" #1.35 was "GFX_select_building_large_bg"
 					position = { x= 6 y = 0 }
 				}
 
 				guiButtonType = {
 					name = "sort_name"
-					position = { x = 70 y = 40 }
+					position = { x = 70 y = 40 } #1.35 was y=92
 					tooltip = ""
 					tooltipText =""
 					delayedTooltipText = ""
@@ -3582,7 +3582,7 @@ guiTypes = {
 
 				guiButtonType = {
 					name = "sort_cost"
-					position = { x = 230 y = 42 }
+					position = { x = 230 y = 42 } #1.35 was y=94
 					tooltip = ""
 					tooltipText =""
 					delayedTooltipText = ""
@@ -3594,7 +3594,7 @@ guiTypes = {
 
 				guiButtonType = {
 					name = "sort_time"
-					position = { x = 295 y = 42 }
+					position = { x = 295 y = 42 } #1.35 was y=94
 					tooltip = ""
 					tooltipText =""
 					delayedTooltipText = ""
@@ -3606,9 +3606,9 @@ guiTypes = {
 
 				listboxType = {
 					name = "buildings"
-					position = { x = 12 y = 67 }
+					position = { x = 12 y = 67 } #1.35 was y=119
 					backGround=""
-					size = { x=365 y = 210}
+					size = { x=365 y = 210} #1.35 was y=520
 					Orientation = "UPPER_LEFT"
 					horizontal = 0
 					spacing = 0
@@ -3621,7 +3621,7 @@ guiTypes = {
 				windowType = {
 					name = "province_values_window"
 					backGround=""
-					position = { x=0 y=-310 }
+					position = { x=0 y=-310 } #1.35 was y=52
 					size = { x=475 y=586 }
 					dontRender = ""
 					horizontalBorder= ""
