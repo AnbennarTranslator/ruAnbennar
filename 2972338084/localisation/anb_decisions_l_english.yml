@@ -66,7 +66,7 @@
  golden_highway_far_bulwar_resume_construction_title:0 "Ï©¡°¢®°ª ²ª²®¿²¢ ©®²¥ ±³²ª, ƒ®¿°ªþ €³®¢"
  golden_highway_far_bulwar_resume_construction_desc:0 "Ð¬°²³¬µª¾ …®²¥ ±³²ª ¢ ƒ®¿°¯ €³®¢ ©²±ª®¿, ¦¢þ² ¢©¡°¢ª¯ ž."
  golden_highway_far_salahad_resume_construction_title:0 "Ï©¡°¢®°ª ²ª²®¿²¢ ©®²¥ ±³²ª, ƒ®¿°ªþ Ô®¦"
- golden_highway_far_salahad_resume_construction_desc:0 "Ð¬°²³¬µª¾ …®²¥ ±³²ª ¢ the ƒ®¿°¯ Ô®¦ ©²±ª®¿, ¦¢þ² ¢©¡°¢ª¯ ž."
+ golden_highway_far_salahad_resume_construction_desc:0 "Ð¬°²³¬µª¾ …®²¥ ±³²ª ¢ ƒ®¿°¯ Ô®¦ ©²±ª®¿, ¦¢þ² ¢©¡°¢ª¯ ž."
  golden_highway_rahen_coast_resume_construction_title:0 "Ï©¡°¢®°ª ²ª²®¿²¢ ©®²¥ ±³²ª, Ð°¬ ±¡¨¿"
  golden_highway_rahen_coast_resume_construction_desc:0 "Ð¬°²³¬µª¾ …®²¥ ±³²ª ¢ Ð°¬¯ ±¡¨¿ ©²±ª®¿, ¦¢þ² ¢©¡°¢ª¯ ž."
  golden_highway_dhujat_resume_construction_title:0 "Ï©¡°¢®°ª ²ª²®¿²¢ ©®²¥ ±³²ª, ƒ³¦¨²"
@@ -158,10 +158,10 @@
  lupulan_appeasement_tt:0 "¨¦¾ ±¢ª°µª¾  §Y²±ª¶¬ª¯ ¬®ª¯²¯§! ª®ª §Y¦¨³°¥®¾¯ª§! ±®³¶ª² ¦±®°ª²®¿°ºþ ®² ¦®¾ ²ª²®¿²¢,  ®ª ¼² ¢Œ ±¢ ³¯ª²¢°ª, ² ¦¢ ¦±®°ª²®¿°º ®² ¦®¾ ²ª²®¿²¢."
  rending_debug_title:0 "°½ ²®¦¬ª — ‹¡° ±® ²²ª¢°ª¾"
  rending_debug_desc:0 "TODO\n\n²¢Œ¾¾ ±¦®¨ª²®¿°²¿ Ð¬®: §G[4559.rendingMonthsLeft.GetValue]§! ¯."
- rending_appease_choice_tt:0 "®ª ¢º ¬°²®ª³² ²¾ ¡º ¦°³ ±¢ª°µª½ ¢ ¦¯° ¦³ ª© ¶ª® ° ³¯ª²¢°°º, ¢º ¯¨² °¶²¿ ³¯ª²¢°ª  ±¯¸¿½ ¼²¥ Œ°ª¾."
+ rending_appease_choice_tt:0 "®ª ¢º ¬°²®ª³² ²¾ ¡º ¦°³ ±¢ª°µª½ ¢ ¦¯° ¦³ ª© ¶ª® ° ³¯ª²¢ž°°º, ¢º ¯¨² °¶²¿ ³¯ª²¢°ª  ±¯¸¿½ ¼²¥ Œ°ª¾."
  
 #MA Quests
  rending_quest_title:0 "°½ ©¦°ªþ Ð¬®"
  rending_quest_desc:0 "²¬º¢² ¯°½ ¦®¾ ¢º±®°°ª¾ ©¦°ªþ, ¬²º ¦ž² ¢®ª¬ªþ ¦³, ¬²¥ ¢º ±º²²¿ ³¯ª²¢ª²¿\n\n²¢Œ¾¾ ±¦®¨ª²®¿°²¿ Ð¬®: §G[4559.rendingMonthsLeft.GetValue]§! ¯."
- rending_gehet_ketine_scorch_title:0 "Ïº¨¶¿ ¢®¦°ª¾ ‚² ²ª°"
+ rending_gehet_ketine_scorch_title:0 "Ïº¨¶¿ ¢®¦°ª¾ ‚² ²ª°"
  rending_gehet_ketine_scorch_desc:0 "º ¨¨ž¯ ¢ ¦¯ ª ¦¢°ª, ©º±¯ ®¿½ ©¯®½ ª ¢º³¡ª¯ ¦¨³°¥®ª. ƒ ²°²¾ ®ªŒ¿ ±³²º°¾." 
