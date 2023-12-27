@@ -1,0 +1,26 @@
+﻿l_english:
+
+ NO_NATIVES_BLACK_FLAG:1 "§R¢©¯¨° ²¬¢²¿ ²³©¯µ¢, °¦¾¿ ¢ ª©¥°°ªª§!"
+ NO_SELECT_LEADER_SHIP:1 "§R™²² ®ª¦ ±¥³¨° ° ¬¡®¿ ª ° ¯¨² ¡º²¿ ±°©°¶°.§!"
+ NATIVE_TRIBE_VAL:0 "™² ²° ° ª±®¿©³² ¯°ª¬³ ®¥ª²ª¯°²ª"
+ DIPLO_RIVAL_ENEMIES_TOO_FAR_AWAY:0 "²¦®ž°°¾ ¢þ° ±²ª¢ ±°ª¬: "
+ can_upgrade_trade_centre_instant:0 "§YË°² ²¥¢®ª ¯¨² ¡º²¿ ³®³¶Œ°§!"
+ can_upgrade_trade_centre_delayed:0 "Ô®¦³½¸ª µ°²º ²¥¢®ª ¯¥³² ¡º²¿ ³®³¶Œ°º:\n$LIST$"
+ TRADE_CENTRE_UP_WHERE:1 "$NAME|Y$ (‹¢°¿ $LEVEL$)"
+ can_estate_interaction_instant:0 "§Yƒ²³±° ¢©ª¯¦þ²¢ª  ®¢ª¯§!"
+ can_estate_interaction_delayed:0 "Ï©¯¨°º ®¦³½¸ª ¢ª°²º ¢©ª¯¦þ²¢ª¾  ®¢ª¯:\n$LIST|Y$"
+ COUNTRIES_CAUSING_CALL_TO_PEACE:0 "Ô®¦³½¸ª ²°º ±¢µª³½² ² ¢°°¥ ª²¸°ª¾:\n$LIST|Y$"
+ can_estate_seize_land_instant:0 "§YÏº ¯¨² ²¡²¿ ©¯®ª§!"
+ can_estate_seize_land_delayed:0 "Ïº ¯¨² ©¢²ª²¿ ©¯®ª ³ ®¢ªþ, ²¯ ¯º¯ µ°²®ª©¢¢ ¢½ ¦¨¢³."
+ can_estate_call_diet_instant:0 "§YÏº ¯¨² ©¢²¿ ¢²§!"
+ can_estate_call_diet_delayed:0 "Ïº ¯¨² ©¢²¿ ¢², ¶²¡º ±®³¶ª²¿ ±¦®¨°ª¾ ² ®¢ªþ."
+ can_estate_sell_land_instant:0 "§YÏº ¯¨² ±¦²¿ ²ª²³®º§!"
+ can_estate_sell_land_delayed:0 "Ïº ¯¨² ±¦²¿ ©¯®ª ¬°º ®¢ª¾¯ ¢ ¡¯° ° ¬°º"
+ NAVAL_DOCTRINE_CHANGE_COST:0 "™² ¡³¦² ²ª²¿ ¢¯ $COST|Y2$¤, ±¬®¿¬³ ®ª¯ª² ¯¾¬¢ ° ¢Œ¯ ´®² ²¢®¾² $SAILORS|Y0$, ª ¦² ¢¯ ®¦³½¸ªþ ±²¾°°ºþ ¼´´¬²:"
+ SHIFT_SPEND_MANPOWER_TO_BOOST_PROGRESS:0 "§Y¨¯ª² Shift+ˆ§! ¶²¡º ±²²ª²¿ $NUMBER|Y$ ¬³²¢ ¦®¾ ³¬°ª¾ ²ª²®¿²¢ ±¬² ° $DAYS|Y$ ¦°þ"
+ SHIFT_SPEND_MONEY_TO_BOOST_PROGRESS:0 "§Y¨¯ª² Shift+ˆ§! ¶²¡º ±²²ª²¿ $COST|Y$¤ ¬° ¦®¾ ³¬°ª¾ ²ª²®¿²¢ ±¬² ° $DAYS|Y$ ¦°þ"
+ THREATENED_ATTITUDE_CANNOT_SET_TOOFAR:0 "§Rƒ¨¢ $COUNTRY|Y$ °¦ª²¾ ®ªŒ¬¯ ¦®¬, ¶²¡º ³¥¨²¿ $PLAYER|Y$.§!"
+ LIBERTY_DESIRE_MAX:0 "§R- $SUBJECT$ ¡® °¢©¯¨° ³±¬ª²¿.§!"
+ GOTO_TRADENODE_DISABLED:0 "§RÏº ¸ž ° ¡°³¨ª®ª ²¥¢ºþ ³©® $NAME$§!"
+ want_your_and_subject_provinces:0 "„®² ¢Œª ±¢ª°µªª ª ±¢ª°µªª ¢Œª ¢®¢"
+ HAVE_CORE_PROVINCE_IN: "†¯² ±²°©ªª ° ±¢ª°µª½ $PROVINCE$"
