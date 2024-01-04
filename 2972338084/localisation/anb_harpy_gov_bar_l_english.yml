@@ -1,0 +1,59 @@
+﻿l_english:
+ harpy_march_bonuses:0 "†©¡°°ºþ ³¡¹¬² ¬®¢º ¥±ªþ"
+ ability_harpylen_queendom_claim_mechanic: "®¢¬ª ²¡¢°ª¾"
+ harpylen_queendom_power: "®¢¬ª ²¡¢°ª¾"
+ monthly_harpylen_queendom_power: "¨¯¾¶° ¬®¢¬ ²¡¢°ª"
+ harpy_queendom_button_1:0 "‰¦¢ª°³²¿ ¢²°ª¬ ª© ¯®¬þ ²þ"
+ harpy_queendom_button_1_desc:0 "º ±¢ºª¯ ¢²°ª¬ ¦°þ ª© ¯®¬ª ²þ ¦ ¬®¢¬¥ ¦¢."
+ harpy_queendom_button_2:0 "‰¢ºª²¿ ¢°°³½ ±¦¥²¢¬³ ³¡¹¬²."
+ harpy_queendom_button_2_desc:0 "º ³ª®ª¯ ³¡¹¬², ¶²¡º ° ¯¥ ®³¨ª²¿ °¯ ¡® ¼´´¬²ª¢°."
+ harpy_queendom_button_3:0 "‰¦¢ª°³²¿ ¥°® ª© ¯®¬ª ²þ"
+ harpy_queendom_button_3_desc:0 "º ±¢ºª¯ ¥°® ¦°þ ª© ¯®¬ª ²þ ¦ ¬®¢¬ª ¢þ¬."
+ harpylen_queendom_claim_advisor_rng_tt:0 "‰®³¶ª² §Y®³¶þ°¥ ¢²°ª¬ ± °ª¨°°þ µ°§! ¦°þ ª© ¯®¬þ ²þ."
+ harpylen_queendom_claim_march_rng_tt:0 "ƒþ² §Y®³¶þ°¯³ ³¡¿¬²³ °µªª§! ¯Œ-¡°³º ° §Y10 ®²§!."
+ harpylen_queendom_claim_general_rng_tt:0 "‰®³¶ª² §Y®³¶þ°¥ ¥°®§! ¦°þ ª© ¯®¬þ ²þ."
+ harpy_queendom_ui_custom_tt:0 "§Y®¢¬ª ²¡¢°ª¾§!: §Y[Root.QueendomOverallVar.GetValue]§!\n--------------\nº ±®³¶ª¯ [Root.queendom_addition_var_tt_left][Root.QueendomAdditionVar.GetValue][Root.queendom_addition_var_tt_right] §Y¬®¢¬ª ²¡¢°ª¾§! ¬¨¦ºþ ¯¾µ, ¯¬ª¯³¯ §Y100.00§!\n€©: §R-1.00§!\n² §Y³¡¨ª¸ ¥±ªþ§!: [Root.queendom_roost_count_var_tt_left][Root.QueendomRoostCountVar.GetValue][Root.queendom_roost_count_var_tt_right]\n² ³¡¹¬²¢ ¯°°ª ¢ºŒ §Y100§!: [Root.queendom_subject_positive_var_tt_left][Root.QueendomSubjectPositiveVar.GetValue][Root.queendom_subject_positive_var_tt_right]\n² ³¡¹¬²¢ ¯°°ª °ª¨ §Y-100§!: [Root.queendom_subject_negative_var_tt_left][Root.QueendomSubjectNegativeVar.GetValue][Root.queendom_subject_negative_var_tt_right]\n² ±¢ª°µªþ  §Y°¢°þ ¬³®¿²³þ§! °ª¨ §Y20§! ©¢ª²ª¾: [Root.queendom_primary_culture_var_tt_left][Root.QueendomPrimaryCultureVar.GetValue][Root.queendom_primary_culture_var_tt_right]\n² ±¢ª°µªþ  §Y¬³®¿²³°þ ¥³±±þ§! °ª¨ §Y10§! ©¢ª²ª¾: [Root.queendom_culture_group_var_tt_left][Root.QueendomCultureGroupVar.GetValue][Root.queendom_culture_group_var_tt_right]\n² ³¢°¾ ¯°³¯°² §Y¬®¢¬¥ ²°§!: [Root.queendom_monument_var_tt_left][Root.QueendomMonumentVar.GetValue][Root.queendom_monument_var_tt_right]\n\n‰ª ¯¬ª¯®¿°þ ª®, §Y¬®¢¬ª ²¡¢°ª¾§! ±®³¶² ®¦³½¸ª ¼´´¬²º:\n‹±¦¬ ¯³Œ²º: §G-25%§!\nÏ®ª¾°ª ¥ª¢°¥ Œª°ª¾: §G-10.0%§!\nƒª±®¯²ª¶¬¾ ±³²µª¾: §G+2.00§!"
+
+ queendom_addition_var_tt_left_positive:0 "§G"
+ queendom_addition_var_tt_left_neutral:0 "§Y"
+ queendom_addition_var_tt_left_negative:0 "§R"
+
+ queendom_addition_var_tt_right_positive:0 "§!"
+ queendom_addition_var_tt_right_neutral:0 "§!"
+ queendom_addition_var_tt_right_negative:0 "§!"
+
+ queendom_roost_count_var_tt_left_positive:0 "§G "
+ queendom_roost_count_var_tt_left_neutral:0 "§Y"
+
+ queendom_roost_count_var_tt_right_positive:0 "§!"
+ queendom_roost_count_var_tt_right_neutral:0 "§!"
+
+ queendom_subject_positive_var_tt_left_positive:0 "§G"
+ queendom_subject_positive_var_tt_left_neutral:0 "§Y"
+
+ queendom_subject_positive_var_tt_right_positive:0 "§!"
+ queendom_subject_positive_var_tt_right_neutral:0 "§!"
+
+ queendom_subject_negative_var_tt_left_neutral:0 "§Y"
+ queendom_subject_negative_var_tt_left_negative:0 "§R"
+
+ queendom_subject_negative_var_tt_right_neutral:0 "§!"
+ queendom_subject_negative_var_tt_right_negative:0 "§!"
+
+ queendom_primary_culture_var_tt_left_neutral:0 "§Y"
+ queendom_primary_culture_var_tt_left_negative:0 "§R"
+
+ queendom_primary_culture_var_tt_right_neutral:0 "§!"
+ queendom_primary_culture_var_tt_right_negative:0 "§!"
+
+ queendom_culture_group_var_tt_left_neutral:0 "§Y"
+ queendom_culture_group_var_tt_left_negative:0 "§R"
+
+ queendom_culture_group_var_tt_right_neutral:0 "§!"
+ queendom_culture_group_var_tt_right_negative:0 "§!"
+
+ queendom_monument_var_tt_left_positive:0 "§G"
+ queendom_monument_var_tt_left_neutral:0 "§Y"
+
+ queendom_monument_var_tt_right_positive:0 "§!"
+ queendom_monument_var_tt_right_neutral:0 "§!"
