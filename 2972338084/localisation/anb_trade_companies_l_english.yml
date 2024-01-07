@@ -59,7 +59,7 @@
  trade_company_frost_forest:0 "©®°þ ¥ª°"
  TRADE_COMPANY_FROST_FOREST_Root_GetName:0 "[Root.GetAdjective]¾ ©®°¾ ¬¯±°ª¾"
  TRADE_COMPANY_FROST_FOREST_Frost_Forest_Trade_Company:0 "©®°¾ ¬¯±°ª¾"
- trade_company_bianfang:0 "€¾°¿´°¬ªþ ¥ª°"
+ trade_company_bianfang:0 "€¿¾°´°¬ªþ ¥ª°"
  TRADE_COMPANY_BIANFANG_Root_GetName:0 "[Root.GetAdjective]¾ €¿¾°´°¬¾ ¬¯±°ª¾"
  TRADE_COMPANY_BIANFANG_Bianfang_Trade_Company:0 "€¿¾°´°¬¾ ¬¯±°ª¾"
  trade_company_yanzhong:0 "†°¶¨¼°¿¬ªþ ¥ª°"
@@ -101,9 +101,9 @@
  trade_company_khaashalg:0 "ÛŒ®¥¬ªþ ¥ª°"
  TRADE_COMPANY_KHAASHALG_Root_GetName:0 "[Root.GetAdjective]¾ ÛŒ®¥¬¾ ¬¯±°ª¾"
  TRADE_COMPANY_KHAASHALG_Khaashalg_Trade_Company:0 "ÛŒ®¥¬¾ ¬¯±°ª¾"
- trade_company_jade_mines:0 "Ð¥ª° ´ª²¢º ³¦°ª¬¢"
- TRADE_COMPANY_JADE_MINES_Root_GetName:0 "[Root.GetAdjective]¾ ¬¯±°ª¾ ´ª²¢º ³¦°ª¬¢"
- TRADE_COMPANY_JADE_MINES_Jade_Mines_Trade_Company:0 "¯±°ª¾ ´ª²¢º ³¦°ª¬¢"
+ trade_company_jade_mines:0 "Ð¥ª° „¦ª²¢º ¬±þ"
+ TRADE_COMPANY_JADE_MINES_Root_GetName:0 "[Root.GetAdjective]¾ ¬¯±°ª¾ „¦ª²¢º ¬±þ"
+ TRADE_COMPANY_JADE_MINES_Jade_Mines_Trade_Company:0 "¯±°ª¾ „¦ª²¢º ¬±þ"
  trade_company_tree_of_stone:0 "Ð¥ª° ¯°°¥ ¦¢"
  TRADE_COMPANY_TREE_OF_STONE_Root_GetName:0 "[Root.GetAdjective]¾ ¬¯±°ª¾ ¯°°¥ ¦¢"
  TRADE_COMPANY_TREE_OF_STONE_Tree_Of_Stone_Trade_Company:0 "¯±°ª¾ ¯°°¥ ¦¢"
