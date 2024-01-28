@@ -6,11 +6,11 @@
  merc_442nd:0 "§J442-þ§!"
  merc_aakhetan_dragonguard:0 "²°¬¾ ¦¬°¿¾ ²¨"
  merc_aldresian_knights:0 "®¿¦ª°¬ª ºµª"
- merc_amber_band:0 "×°²°¾ ¥³±±"
+ merc_amber_band:0 "×°²°¾ ¡°¦"
  merc_arbaran_free_company:0 "¡°¬¾ ¢®¿°¾ ¬¯±°ª¾"
  merc_asra_cartel_mercenaries:0 "ž¯°ª¬ª ¬²®¾ "
  merc_auvukonyr:0 "³¢³¬°º"
- merc_auvukonyr_desc:0 "³¢³¬°º - ±®¯¾ ¼±¦°¬ª ¢¦°ª¬¢, ¬²º ©¡²º¢½² ° ¨ª©°¿, ±¦®¥¾ ¢ª ³®³¥ª ª°°µ¯ ¢ ¬¶²¢ °ž¯°ª¬¢. † °¡®¿Œª ®Œ¦ª, ¢©¯¨°, ° ²¬ ¯²°°º ¢ ²¬, °, ¢³¨ž°°º ®³¬¯ª, ¯²²®¿°º¯ª ¬±¿¾¯ª ª ¦®ª°°º¯ª ¬±¿¾¯ª, °ª ±¦²¢®¾½² ¡þ ¯²°°º ²¾¦º, ¬²º ¢¥¦ ²½²¾ ° ²¾°ªª ¢º²¾°³²þ ³¬ª. ˆž¥¬ °¾¨°ª ±©¢®¾² ª¯ ¡© ²³¦ ¡¥°¾²¿ ±²ª¢°ª¬,  ° ¡®¿Œª ²¾°ª¾ °ª ª ±¦¢° ¡º²º." 
+ merc_auvukonyr_desc:0 "³¢³¬°º — ±®¯¾ ¼±¦°¬ª ¢¦°ª¬¢, ¬²º ©¡²º¢½² ° ¨ª©°¿, ±¦®¥¾ ¢ª ³®³¥ª ª°°µ¯ ¢ ¬¶²¢ °ž¯°ª¬¢. † °¡®¿Œª ®Œ¦ª, ¢©¯¨°, ° ²¬ ¯²°°º ¢ ²¬, °, ¢³¨ž°°º ®³¬¯ª, ¯²²®¿°º¯ª ¬±¿¾¯ª ª ¦®ª°°º¯ª ¬±¿¾¯ª, °ª ±¦²¢®¾½² ¡þ ¯²°°º ²¾¦º, ¬²º ¢¥¦ ²½²¾ ° ²¾°ªª ¢º²¾°³²þ ³¬ª. ˆž¥¬ °¾¨°ª ±©¢®¾² ª¯ ¡© ²³¦ ¡¥°¾²¿ ±²ª¢°ª¬,  ° ¡®¿Œª ²¾°ª¾ °ª ª ±¦¢° ¡º²º." 
  merc_bardswood_hunter_company:0 "Ï®¿°¾ ²°ª¶¿¾ ¬¯±°ª¾ €¦¢³¦"
  merc_batallion_of_the_beard:0 "€²®¿° ¡¦¶þ"
  merc_battlemages:0 "€¢º ¯¥ª"
@@ -53,7 +53,7 @@
  merc_greentide_early_arquebusiers:0 "Ð°°ª ¬¡³©ªº …®ž°þ ®¢ª°º"
  merc_harafe_mercenaries:0 "ž¯°ª¬ª Û´'°"
  merc_harpy_mercenaries:0 "ž¯°ª¬ª-¥±ªª"
- merc_havoral_band:0 "Û¢®¿¬¾ ¥³±±"
+ merc_havoral_band:0 "Û¢®¿¬¾ ¡°¦"
  merc_heartland_guard:0 "Ô²¨ Ô¦µ©¯¿¾"
  merc_hired_bandits:0 "€°¦ª²º Ùª³°ª¬"
  merc_independent_bladedancers:0 "©¢ªª¯º Ù°µº ¬®ª°¬"
@@ -126,8 +126,8 @@
  merc_whiteforge_vanguard:0 "¢°¥¦ ¡®þ ¬³©°ªµº"
  merc_wineport_watchers:0 "Ïª°¶±ªª"
  merc_wolves_of_crovis:0 "§JÏ®¬ª ¢ª§!"
- merc_carver_cartel_guns:0 "§J³¦ª¾ ¬²®¾ ¢§!"
- merc_carver_cartel_corps:0 "§J²®¿°ºþ ¬±³ ¢§!"
+ merc_carver_cartel_guns:0 "§J³¨þ°ª¬ª ¬²®¾ ©¶ª¬¢§!"
+ merc_carver_cartel_corps:0 "§J²®¿°ºþ ¬±³ ©¶ª¬¢§!"
  merc_elizna_elven_legionnaires:0 "™®¿´ªþ¬ª ®¥ª°º"
  merc_wood_elven_hunters:0 "ˆ°º ¼®¿´ªþ¬ª ²°ª¬ª"
  merc_azkare_daulophs:0 "ƒ³®´º"
@@ -187,7 +187,7 @@
  merc_young_mongooses:0 "®¦º ¯°¥³²º"
  merc_rhino_riders:0 "©¦°ª¬ª ° °¥"
  merc_yeteferen_chain_band:0 "€°¦ ‡²´°¬þ µ±ª"
- merc_fieldstalker_sellclaws:0 "‰¯º®¢º ²°ª¬ª" #Fieldstalker  Sellclaws - ±¦³¯²¿ °¦ ±¢¦¯
+ merc_fieldstalker_sellclaws:0 "‰¯º®¢º ²°ª¬ª" #Fieldstalker  Sellclaws — ±¦³¯²¿ °¦ ±¢¦¯
  merc_beastclaw_swordmasters:0 "² ¯¶  ¬¥²¾¯ª ©¢¾"
  merc_skybows:0 "¡°º ®³¬ª"
  merc_shadowmarked_deathsworn:0 "Ù°¿, ²¯¶°°¾ ¯²¿½"

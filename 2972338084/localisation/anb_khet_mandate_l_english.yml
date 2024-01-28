@@ -6,281 +6,281 @@
 ####################
 #####Reforms#####
 ####################
- ahat_rebllion_crushed_vague_tooltip:0 "The Ahati have sworn eternal loyalty to the Steward"
+ ahat_rebllion_crushed_vague_tooltip:0 "²ª ±¬®¾®ª¿ ¢ ¢¶°þ ¢°²ª °¯²°ª¬³"
 
- establish_ahati_reform_title:0 "§JEstablish the Ahati§!"
- establish_ahati_reform_emperor:0 "Establish the Ahati"
- establish_ahati_reform_desc:0 "The Ahati, composed of powerful military brotherhoods in the north, and influential merchant-warrior brotherhoods in the south, are often considered upholders of the mandate. Due to this their influence reaches all across the Mother's Sorrow; so much so that both they and a common citizen will consider them equal to nobility. Upholding virtue, justice, and proper rule, they will be vigilant enforcers of our whim and that of the Khets. On the other hand should we demonstrate ourselves to be unfit for the throne, it will be neither their first nor last regicide." 
- establish_ahati_reform_tooltip:0 "Enables the §YAhati§! estate"
+ establish_ahati_reform_title:0 "§J‹¶¦ª²¿ ²ª§!"
+ establish_ahati_reform_emperor:0 "‹¶¦ª²¿ ²ª"
+ establish_ahati_reform_desc:0 "²ª, ²¾¸ª ª© ¯¥³¸²¢°°º ¢°°º ¡²²¢ ° ¢ ª ¢®ª¾²®¿°º ¡²²¢ ²¥¢µ¢-¢ª°¢ ° ½¥, ¶² ¶ª²½²¾ °ª²®¾¯ª ¯°¦². €®¥¦¾ ¼²¯³ ª ¢®ª¾°ª ±²°¾²¾ ° ¢½ ²ª²ªª ²ª°¬þ Ô¬¡ª; ° °²®¿¬ ¢®ª¬, ¶² ª °ª, ª ±²º ¥¨¦° ±ª¢°ª¢½² ª ¬ ¦¢¾°¯. ‰¦¦¨ª¢¾ ¦¡¦²®¿, ±¢¦®ª¢²¿ ª ±¢ª®¿° ±¢®°ª, °ª ¡³¦³² ¡¦ª²®¿°º¯ª ª±®°ª²®¾¯ª °Œª ±ª²þ ª ±ª²þ ¬²²¢. Ô ¦³¥þ ²°º, ®ª ¯º ±¬¨¯, ¶² ° ¥¦ª¯¾ ¦®¾ ²°, ¼² ¡³¦² ° ±¢ ª ° ±®¦° ª µ³¡ªþ²¢." 
+ establish_ahati_reform_tooltip:0 "ƒ®² ¦²³±°º¯ ®¢ª §Y²ª§!"
 
 
- lessons_aakhet_reform_title:0 "§JLessons of Aakhet§!"
- lessons_aakhet_reform_emperor:0 "Lessons of Aakhet"
- lessons_aakhet_reform_desc:0 "Aakhet the Bronze: Where he walked, the earth trembled both from his footsteps alone, and multiplied by the legions behind him. Spending much of his time living in human form as we mortals do, he led Kheteratan armies to Bulwar and expanded the borders of the Khet as far as Azka-szel-Azka under his command. By emulating warriors of old, those who served the great dragon, we can make legionaries out of our regiments. May Aakhet guide their blades."
- lessons_aakhet_reform_tooltip:0 "\n§WOur §YAhati§! regiments will gain the following modifiers:\nDiscipline: §G+5.0%§!\nRecover Army Morale Speed: §G+20.0%§!§!"
- lessons_aakhet_reform_modifier:0 "Lessons of Aakhet"
+ lessons_aakhet_reform_title:0 "§J‹¬ª ¬²§!"
+ lessons_aakhet_reform_emperor:0 "‹¬ª ¬²"
+ lessons_aakhet_reform_desc:0 "¬² €°©¢ºþ: ²¯, ¥¦ ° ²³±®, ©¯®¾ ¦¥®¿ ¬¬ ² ¥ Œ¥¢, ²¬ ª ² ®¥ª°¢, ²¾¢Œª © °ª¯. ‰¢¦¾ ¡®¿Œ³½ ¶²¿ ¢¯°ª ¢ ¶®¢¶¬¯ ¡®ª¬, ¬¬ ª ¯º, ¯²°º, ° ±ª¢® ¬²²¬ª ¯ªª ¢ €³®¢ ª Œªª® ¥°ªµº ² ¦ ©¬-©®¿-©¬ª ±¦ ¢ª¯ ¬¯°¦¢°ª¯. ‰¦¨¾ ¢ª°¯ ¦¢°²ª, ²¯, ¬² ®³¨ª® ¢®ª¬¯³ ¦¬°³, ¯º ¯¨¯ ¢º²ª²¿ ª© °Œª ±®¬¢ ®¥ª°¢. † ¦ °±¢ª² ¬² ª ¬®ª°¬ª."
+ lessons_aakhet_reform_tooltip:0 "\n§WŒª ±®¬ª §Y²ª§! ±®³¶² ®¦³½¸ª ¯¦ª´ª¬²º:\nƒªµª±®ª°: §G+5.0%§!\nÔ¬²¿ ¢²°¢®°ª¾ ¡¢¥ ¦³: §G+20.0%§!§!"
+ lessons_aakhet_reform_modifier:0 "‹¬ª ¬²"
 
- lessons_dameria_reform_title:0 "§JLessons of Dameria§!"
- lessons_dameria_reform_emperor:0 "Lessons of Dameria"
- lessons_dameria_reform_desc:0 "When one speaks of the empires of antiquity, one that often shines above the rest is the Damerian Republic, and for good reason. This massive empire stretched across the Dameshead, even controlling the Mother's Sorrow. Since then, we've assimilated and mastered their ability to administer large swaths of land. Now our government works better than ever, from the state to local level. Every corner of our empire will feel the blessing of the Mandate."
- lessons_dameria_reform_tooltip:0 "\n§WEnable the estate decision §YAhati: Leverage Authority§!\nThis Estate Action allows us to automatically complete an §YAhati§! estate agenda.§!"
+ lessons_dameria_reform_title:0 "§J‹¬ª ƒ¯ªª§!"
+ lessons_dameria_reform_emperor:0 "‹¬ª ƒ¯ªª"
+ lessons_dameria_reform_desc:0 "¥¦ ¥¢¾² ¡ ª¯±ª¾ ¦¢°²ª, ¶² ³±¯ª°½² ƒ¯ªþ¬³½ ±³¡®ª¬³, ª ° ©¾. ™² ¥¯°¾ ª¯±ª¾ ±²ª®¿ ± ¢¯³ ƒ¯¦³, ¬°²®ª³¾ ¦¨ ²ª°¬³½ Ô¬¡¿. Ô ² ± ¯º ±°¾®ª ª ¢ª®ª ª ±¡°²¿ ³±¢®¾²¿ ¡®¿Œª¯ª ²ª²ª¾¯ª. Ù±¿ °Œ ±¢ª²®¿²¢ ¡²² ®³¶Œ, ¶¯ ¬¥¦-®ª¡, — ² ¥³¦²¢°°¥ ¦ ¯²°¥ ³¢°¾. ¨¦ºþ ³¥®¬ °Œþ ª¯±ªª ±¶³¢²¢³² ¡®¥®¢°ª °¦²."
+ lessons_dameria_reform_tooltip:0 "\n§Wƒ®² ¦²³±°º¯ ®¢° Œ°ª §Y²ª: Ðº¶¥ ¢®²ª§!\n™² ®¢° ¢©ª¯¦þ²¢ª ±©¢®ª² °¯ ¢²¯²ª¶¬ª ©¢Œª²¿ ©¦°ª ² ®¢ª¾ §Y²ª§!.§!"
 
- unite_brotherhoods_reform_title:0 "§JUnite the Brotherhoods§!"
- unite_brotherhoods_reform_desc:0 "Since the time of Aakhet, the brotherhoods of the Ahati have been divided into the northern and southern brotherhoods. While the warriors of the north have served us well, and the merchants of Irsmahap, or the southern Sorrow, have too, the division of the two has too long been a strain on our administration. Rather than having to appease one or the other, we can simply unite them once more and let the Mandate, and its enforcers, stand in unity."
- unite_brotherhoods_reform_tooltip:0 "\n§WThe §YNorthern§! and §YSouthern§! Brotherhoods will be merged together. This will enable the §YSupport the Brotherhoods§! privilege, which combines the effects of both related privileges.§!"
+ unite_brotherhoods_reform_title:0 "§J¡¹¦ª°ª²¿ ¡²²¢§!"
+ unite_brotherhoods_reform_desc:0 "Ô ¢¯° ¬² ¡²²¢ ²ª ¡º®ª ©¦®°º ° ¢°º ª ½¨°º. Û²¾ ¢ª°º ¢ Œ ®³¨ª®ª °¯, ¬¬ ª ¬³±µº †¯±, ª®ª ½¨°þ Ô¬¡ª, ©¦®°ª ¼²ª ¦¢³ ¡²²¢ ®ªŒ¬¯ ¦®¥ ¢¯¾ ¡º® ²¾¨®º¯ ¡¯°¯ ¦®¾ °Œþ ¦¯ª°ª²µªª. Ï¯² ²¥ ¶²¡º ³¯ª²¢¾²¿ ² ª®ª ¦³¥ª, ¯º ¯¨¯ ±² ¡¹¦ª°ª²¿ ª °¢ ª ±©¢®ª²¿ °¦²³ ª ¥ ª±®°ª²®¾¯ ¡¹¦ª°ª²¿¾."
+ unite_brotherhoods_reform_tooltip:0 "\n§W§YÔ¢°§! ª §Y½¨°§! ¡²²¢ ¡³¦³² ¡¹¦ª°°º. ™² ±©¢®ª² ª±®¿©¢²¿ ±ª¢ª®¥ª½ §Y‰¦¦¨¬ ¡²²¢§! ¬²¾ ¶²² ¢ ¡ ¼´´¬²º ¡ª ¢¾©°°º ±ª¢ª®¥ªþ.§!"
 
- dragonfire_reform_title:0 "§JCreate Dragonfire§!"
- dragonfire_reform_emperor:0 "Create Dragonfire"
- dragonfire_reform_desc:0 "The advent of the cannon came with great machines of bronze. This surely was a sign that we were destined to use this power to expand the borders of the Khet as Aakhet did. We can take these bronze destroyers and take them to the next level, by putting powder in the barrel so that when the cannonball fires it appears as if it was done so by a dragon. Creating large billows of smoke and a blazing cannonball, this will be a fearsome tool in war."
+ dragonfire_reform_title:0 "§JÔ©¦²¿ ¦¬°¿ ±®¯¾§!"
+ dragonfire_reform_emperor:0 "Ô©¦²¿ ¦¬°¿ ±®¯¾"
+ dragonfire_reform_desc:0 "‰¾¢®°ª ±³Œ¬ ±¢¨¦®¿ ±¾¢®°ª¯ ¥¯°º ¯Œª° ª© ¡°©º. ™², °¯°°°, ¡º® ©°¬¯ ²¥, ¶² °¯ ³¨¦° ª±®¿©¢²¿ ¼²³ ª®³ ¦®¾ Œª°ª¾ ¥°ªµ ², ¬¬ ¼² ¦®® ¬². º ¯¨¯ ¢©¾²¿ ¼²ª ¡°©¢º ©³Œª²®ª ª ±¦°¾²¿ ª ° °¢ºþ ³¢°¿, °º±¢ ¢ ²¢® ±, ¶²¡º ±ª ¢º²® ¾¦ ¬©®¿, ¡³¦² ¼² ¦®® ¦¬°. Ïº±³¬¾ ¡®¿Œª ¬®³¡º ¦º¯ ª ±º®½¸ ¾¦, ²¬ ³¦ª ¡³¦² ¢°³Œ²¿ ² ¢ ¢¯¾ ¢þ°º."
 
- establish_medasi_reform_title:0 "§MEstablish the Medasi§!"
- establish_medasi_reform_emperor:0 "Establish the Medasi"
- establish_medasi_reform_desc:0 "The influence of the Khet has always reached far from the Mother's Sorrow, even if they are constrained to its beautiful shores. As our borders too expand, this develops an increasing strain on the part of our administration that is directly under the Khet. Established to expand the Kheteratan hold on the continent, such as Horashesh in the past, the Medasi will serve us faithfully. They will be able to autonomously function while serving the whim of the Khet, as the Mandate intended."
- establish_medasi_reform_tooltip:0 "\n§WWe can now convert our §YSatrapies§! into §YMedasi§! subjects.§!"
+ establish_medasi_reform_title:0 "§M‹¶¦ª²¿ ¦ª§!"
+ establish_medasi_reform_emperor:0 "‹¶¦ª²¿ ¦ª"
+ establish_medasi_reform_desc:0 "Ï®ª¾°ª ² ¢¥¦ ±²ª®¿ ¦®¬ ² ²ª°¬þ Ô¬¡ª, ¦¨ ®ª °ª ¡º®ª ¥°ª¶°º  ±¬°º¯ª ¡¥¯ª. ‰ ¯ Œª°ª¾ °Œª ¥°ªµ ¢©²² °¥³©¬ ° ²³ ¶²¿ ¦¯ª°ª²µªª, ¬²¾ °¦ª²¾ ¢ °±¦²¢°°¯ ±¦¶ª°°ªª ². ‹¶¨¦°°º ¦®¾ Œª°ª¾ ¬²²¬ª ¢®¦°ªþ ° ¬°²ª°°², ¬¬ ¼² ¡º® ¢ ±Œ®¯ ¢ ÛŒŒ, ¦ª ¡³¦³² ¢° ®³¨ª²¿ °¯. °ª ¯¥³² ´³°¬µª°ª¢²¿ ¢²°¯°, ®³¨ ±ª ¼²¯ ±ª²¾¯ ², ¬¬ ª ¡º® ©¦³¯° °¦²¯."
+ establish_medasi_reform_tooltip:0 "\n§WÙ±¿ ¯º ¯¨¯ ±¢²ª²¿ °Œª §Y²±ªª§! ¢ ±¦¦°°º §Y¯¦ª§!.§!"
 
- medasi_legions_reform_title:0 "§MFormalize Medasi Legions§!"
- medasi_legions_reform_desc:0 "Though the Medasi are autonomous, they are still our subjects and this has never not been evident. They are expected to fend for themselves, yet they fall under our protection. Given that they often border more powerful entities, it seems only right that they should be given what they need to raise sufficient banners to pose a threat to outside nations. The Medasi Legions will be second only to our own."
- medasi_legions_reform_tooltip:0 "\n§WOur §YMedasi§! will gain the following modifiers:\nRegiment Costs: §G-10.0%§!\nLand Force Limit Modifier: §G+10.0%§!§!"
- medasi_legions_reform_medasi_modifier:0 "Formalize Medasi Legions"
+ medasi_legions_reform_title:0 "§M´¯ª²¿ ®¥ª°º ¦ª§!"
+ medasi_legions_reform_desc:0 "Û²¾ ¦ª ¢²°¯°º, °ª ¢ ¸ž °Œª ±¦¦°°º, ª ¼² °ª¬¥¦ ° ¡º® °¯°°°º¯. ² °ª ¨ª¦½², ¶² °ª ¡³¦³² ¯ª  ¡ ©¡²ª²¿¾, ° ±ª ¼²¯ °ª °¦¾²¾ ±¦ °Œþ ©¸ª²þ. ‹¶ª²º¢¾, ¶² °ª ¶² ¥°ª¶²  ¡® ¯¥³¸²¢°°º¯ª ¡©¢°ª¾¯ª, ¬¨²¾ ±¢ª®¿°º¯, ¶² ª¯ ¦®¨° ¡º²¿ ±¦²¢®° ¢ °¡¦ª¯, ¶²¡º °ª ¯¥®ª ±¦°¾²¿ ¦²²¶° ©°¯°, ¶²¡º ±¦²¢®¾²¿ ³¥©³ ¦®¾ ¢°Œ°ª ¥³¦²¢. ˆ¥ª°º ¦ª ¡³¦³² ³²³±²¿ ²®¿¬ °Œª¯ ¡²¢°°º¯."
+ medasi_legions_reform_tooltip:0 "\n§WŒª §Y¯¦ª§! ±®³¶² ®¦³½¸ª ¯¦ª´ª¬²º:\nÔ²ª¯²¿ ±®¬¢: §G-10.0%§!\n¦ª´ª¬² ®ª¯ª² ³±³²°º ¢þ¬: §G+10.0%§!§!"
+ medasi_legions_reform_medasi_modifier:0 "´¯ª²¿ ®¥ª°º ¦ª"
 
- medasi_minds_reform_title:0 "§MMedasi Minds§!"
- medasi_minds_reform_emperor:0 "Medasi Minds"
- medasi_minds_reform_desc:0 "Far from the great schools and universities along the Mother's Sorrow, our Medasi's have been producing notable scholars as of recent. Perhaps, as our Mandate is strengthened and our administration expanded, these scholars appear to in fact be not just notable but common in those regions and we simply hadn't noticed before. Regardless, they are becoming increasingly frequent and as our Medasis advance so do we."
- medasi_minds_reform_tooltip:0 "\n§WOur §YMedasi§! will gain the following modifier:\nAdvisor Costs: §G-10.0%§!§!"
- medasi_minds_reform_medasi_modifier:0 "Medasi Minds"
+ medasi_minds_reform_title:0 "§M‹¯º ¯¦ª§!"
+ medasi_minds_reform_emperor:0 "‹¯º ¯¦ª"
+ medasi_minds_reform_desc:0 "Ï¦®ª ² ¢®ª¬ª Œ¬® ª ³°ª¢ª²²¢, ±®¨°°º ¢¦®¿ ¡¥¢ ²ª°¬þ Ô¬¡ª, °Œª ¦ª ¢ ±®¦° ¢¯¾ ¢º±³¬½² ¢º¦½¸ª¾ ³¶°º. Ï©¯¨°, ± ¯ ³¬±®°ª¾ °Œ¥ ¯°¦² ª Œª°ª¾ ¦¯ª°ª²µªª ¼²ª ³¶°º ²°¢¾²¾ ° ±² ¢º¦½¸ª¯ª¾,  ¡º¶°º¯ª ¢ ² ¬¾, ª ¯º ±² ° ©¯¶®ª ª °¿Œ. ¬ ¡º ² °ª ¡º®, °ª ²°¢¾²¾ ¢ ¡® ¶²º¯ª, ª ± ¯ ²¥, ¬¬ °Œª ¦ª ©¢ª¢½²¾, ©¢ª¢¯¾ ª ¯º."
+ medasi_minds_reform_tooltip:0 "\n§WŒª §Y¯¦ª§! ±®³¶² ®¦³½¸ª ¯¦ª´ª¬²º:\nÔ²ª¯²¿ ¢²°ª¬¢: §G-10.0%§!§!"
+ medasi_minds_reform_medasi_modifier:0 "‹¯º ¯¦ª"
 
- medasi_trade_reform_title:0 "§MRestrict Foreign Trade§!"
- medasi_trade_reform_desc:0 "The Mandate is the right to rule, it is the authority of the Steward over the Sorrow. As such, our control of the Mother's Sorrow has also fortified our authority over our Medasis and it only stands to reason then that they should rely on us more as we rely on them. By restricting foreign trade from their borders, and some of our own, we can solidify this relationship while expanding all markets under our influence. A market for the Khet, under the Khet."
- medasi_trade_reform_tooltip:0 "\n§WOur §YMedasi§! will gain the following modifier:\nTrade Efficiency: §G+15.0%§!\n\n§Y[Root.GetName]§! will receive the following modifier for every §YMedasi§! subject:\nGlobal Trade Power: §G+10.0%§!§!"
- medasi_trade_reform_medasi_modifier:0 "Restrict Foreign Trade"
- medasi_trade_reform_overlord_modifier:0 "Restrict Foreign Trade"
+ medasi_trade_reform_title:0 "§M¥°ª¶ª²¿ ²¥¢®½§!"
+ medasi_trade_reform_desc:0 "°¦² — ¼² ±¢ ±¢ª²¿, ¼² ¢®²¿ °¯²°ª¬ °¦ Ô¬¡¿½. Œ ¬°²®¿ °¦ ²ª°¬þ Ô¬¡¿½ ³¬±ª® °Œ³ ¢®²¿ °¦ °Œª¯ª ¦ª, ª ¢±®° ®¥ª¶°, ¶² °ª ¦®¨°º ±®¥²¿¾ ° ° ¡®¿Œ, ¶¯ ¯º ° °ª. ¥°ª¶ª¢ ¢°Œ°½½ ²¥¢®½  ª ¥°ªµ,  ²¬¨ °¬²º ª© °Œª ¡²¢°°º, ¯º ¯¨¯ ³¬±ª²¿ ¼²ª ²°Œ°ª¾, ¦°¢¯°° Œª¾¾ ¢ º°¬ª ±¦ °Œª¯ ¢®ª¾°ª¯. Ðº°¬ ¦®¾ ², ±¦ ¢®²¿½ ²."
+ medasi_trade_reform_tooltip:0 "\n§WŒª §Y¯¦ª§! ±®³¶² ®¦³½¸ª ¯¦ª´ª¬²º:\nTrade Efficiency: §G+15.0%§!\n\n§Y[Root.GetName]§! ±®³¶ª² ®¦³½¸ªþ ¯¦ª´ª¬² © ¬¨¦ºþ ³¡¹¬² ²ª± §Y¯¦ª§!:\nGlobal Trade Power: §G+10.0%§!§!"
+ medasi_trade_reform_medasi_modifier:0 "¥°ª¶ª²¿ ²¥¢®½"
+ medasi_trade_reform_overlord_modifier:0 "¥°ª¶ª²¿ ²¥¢®½"
 
- integrate_medasi_reform_title:0 "§MSteward's Authority§!"
- integrate_medasi_reform_emperor:0 "Steward's Authority"
- integrate_medasi_reform_desc:0 "Medasi each have their purpose, yet with our growing administration and expanding empire, we've come to the realization that perhaps a Medasi doesn't quite fill the niche it used to anymore. Those lands that paid tribute to us can now do so in the form of taxes, as a part of our state. After all, they are but extensions of us, and now that the body has grown, it seems only fitting to assimilate them into the whole."
- integrate_medasi_reform_tooltip:0 "\n§W§YMedasi§! can now be §Yannexed§!§!"
+ integrate_medasi_reform_title:0 "§MÏ®²¿ °¯²°ª¬§!"
+ integrate_medasi_reform_emperor:0 "Ï®²¿ °¯²°ª¬"
+ integrate_medasi_reform_desc:0 "‹ ¬¨¦¥ ¯¦ª ²¿ ¢ ±¦°©°¶°ª, °  ²¯ °Œþ ¦¯ª°ª²µªª ª Œª°ª¯ ª¯±ªª ¯º ±ªŒ®ª ¬ ±°ª¯°ª½, ¶², ¢©¯¨°, ¯¦ª ¡®¿Œ ° ©°ª¯½² ²³ °ªŒ³, ¬²³½ ©°ª¯®ª °¿Œ. Ù ©¯®ª, ¬²º ±®²ª®ª °¯ ¦°¿, ²±¿ ¯¥³² ¦®²¿ ¼² ¢ ¢ª¦ °®¥¢, ¬¬ ¶²¿ °Œ¥ ¥³¦²¢. Ï ¬°µ ¬°µ¢, °ª — ®ªŒ¿ ±¦®¨°ª °, ª ²±¿, ¬¥¦ ²® ©®¿, ¬¨²¾ ¢±®° ³¯²°º¯ ª°²¥ª¢²¿ ª ¢ ¦ª° µ®."
+ integrate_medasi_reform_tooltip:0 "\n§W§Y¦ª§! ²±¿ ¯¥³² ¡º²¿ §Y°°¬ª¢°º§!§!"
 
- ceremonial_barges_reform_title:0 "Ceremonial Pleasure Barges"
- ceremonial_barges_reform_emperor:0 "Ceremonial Pleasure Barges"
- ceremonial_barges_reform_desc:0 "Oh great Eldkhet, your majestic barges fill the rivers with such wonder and amazement, they enlighten the people with a glimpse of the Khetarch! However, some can not handle their presence so often! Perhaps it would then be better to make them even grander, more superfluous, though this would take more time to prepare. The barges may be less frequent, but they'll be more pleasurable than ever!"
- ceremonial_barges_reform_tooltip:0 "\n§W§YPleasure Barge§! events will become §Yless common§!. They will now also have §Gpositive effects§! on us.§!"
+ ceremonial_barges_reform_title:0 "€¨ª ³¦¢®¿²¢ª¾"
+ ceremonial_barges_reform_emperor:0 "€¨ª ³¦¢®¿²¢ª¾"
+ ceremonial_barges_reform_desc:0 " ¢®ª¬ªþ ™®¦¬², ²¢ª ¢®ª¶²¢°°º ¡¨ª °±®°¾½² ¬ª ²¬ª¯ ¶³¦¯ ª ª©³¯®°ª¯, °ª ±¢¸½² ®½¦þ, ±©¢®¾¾ ª¯ ¢©¥®¾°³²¿ ° ¬²! ¦°¬ °¬²º ° ¯¥³² ¢º°²ª ²®¿ ¶²¥ ª ±ª³²²¢ª¾! ¨² ¡º²¿, ²¥¦ ®³¶Œ ¦®²¿ ª ¸ž ¡® ¢®ª¶²¢°°º¯ª, ¸ž ¡® ª©®ªŒ°ª¯ª, ²¾ ¼² ±²¡³² ¡®¿Œ ¢¯°ª ° ±¦¥²¢¬³. Ï©¯¨°, ¡¨ª ¡³¦³² ¦ª²¿ ¨, ° °ª ¡³¦³² ±ª¾²°, ¶¯ ¬¥¦-®ª¡!"
+ ceremonial_barges_reform_tooltip:0 "\n§WÔ¡º²ª¾ §Y¡¨ ³¦¢®¿²¢ª¾§! ²°³² §Y¯° ¶²º¯ª§!. Ù±¿ °ª ¡³¦³² ¬©º¢²¿ ° ° ª §G±®¨ª²®¿° ¢®ª¾°ª§!.§!"
 
- mend_broken_reform_title:0 "Mend the Broken"
- mend_broken_reform_emperor:0 "Mend the Broken"
- mend_broken_reform_desc:0 "Oh great Eldkhet, our people have bled for you as they always have, but a history of conquest has paid its toll, and the people are weary. Some, try their best, can not even hold a sword anymore though they try! Perhaps then the powerful Khetarch could grant them renewal, to worship and serve you better for the rest of their lifetime; to mend their broken bones and allow them to wield sword once more."
- mend_broken_reform_tooltip:0 "\n§WProvinces along the §YMother's Sorrow River§! will gain:\nLocal Unrest: §G-2§!§!"
- mend_broken_reform_modifier:0 "Mend the Broken"
+ mend_broken_reform_title:0 "Ï±¢ª²¿ ®¯°°º ¬²ª"
+ mend_broken_reform_emperor:0 "Ï±¢ª²¿ ®¯°°º ¬²ª"
+ mend_broken_reform_desc:0 " ¢®ª¬ªþ ™®¦¬², °Œ °¦ ±®ª¢® ¬¢¿ © ²¡¾, ¬¬ ¦®® ¼² ¢¥¦, ° ª²ª¾ ©¢¢°ªþ ±ª°® ¢ª ±®¦º, ª ®½¦ª ³²®ª. ¬²º, ²¾¿ ª© ¢ ª®, ³¨ ¦¨ ° ¯¥³² ¦¨²¿ ¯¶, ²¾ ª ²½²¾! Ï©¯¨°, ²¥¦ ¯¥³¸²¢°°ºþ ¬² ¯¨² ¦¢²¿ ª¯ ¡°¢®°ª, ¶²¡º °ª ¯¥®ª ±¬®°¾²¿¾ ª ®³¨ª²¿ ²¡ ®³¶Œ ¦ ¬°µ ¢ª ¦°þ; ªµ®ª²¿ ª ®¯°°º ¬²ª ª ±©¢®ª²¿ ª¯ °¢ ¢®¦²¿ ¯¶¯."
+ mend_broken_reform_tooltip:0 "\n§W‰¢ª°µªª, ±®¨°°º ¢¦®¿ §Y¬ª ²ª°¬¾ Ô¬¡¿§! ±®³¶²:\n²°º ¡±¾¦¬ª: §G-2§!§!"
+ mend_broken_reform_modifier:0 "Ï±¢ª²¿ ®¯°°º ¬²ª"
 
- enlighten_future_reform_title:0 "Enlighten the Future"
- enlighten_future_reform_emperor:0 "Enlighten the Future"
- enlighten_future_reform_desc:0 "Oh great Eldkhet, you council of wise Khets, we ask that the sage Khetarch share some of their infinite wisdom with the Steward's heir. The Steward, who has served you faithfully, beseeches the Khetarch for just a grain of their knowledge, so that they can better serve you and fulfil your wishes. The greater the heir, the greater the future steward, the greater the Mandate."
- enlighten_future_reform_tooltip:0 "\n§W§YHeirs§! with a §YNegative Personality§! trait have a chance of losing it.§!"
+ enlighten_future_reform_title:0 "‰¢²ª²¿ ¡³¦³¸"
+ enlighten_future_reform_emperor:0 "‰¢²ª²¿ ¡³¦³¸"
+ enlighten_future_reform_desc:0 " ¢®ª¬ªþ ™®®¦¬², ¯³¦ºþ ¢² ¬²¢, ¯º ±ª¯ ¯³¦µ Û² ±¦®ª²¿¾  °®¦°ª¬¯ °¯²°ª¬ ¶²¿½ ¢þ ¡¬°¶°þ ¯³¦²ª. ¯²°ª¬, ¢° ®³¨ª¢Œªþ ²¡, ±ª² ³ ¬² ²¾ ¡º ¬³±ªµ³ ©°°ªþ, ¶²¡º ° ¯¥ ®³¶Œ ®³¨ª²¿ ²¡ ª ª±®°¾²¿ ²¢ª ¨®°ª¾. Ì¯ ¡® ¢®ª¬ °®¦°ª¬, ²¯ ¡® ¢®ª¬ ¡³¦³¸ªþ °¯²°ª¬, ²¯ ¡® ¢®ª¬ ¯°¦²."
+ enlighten_future_reform_tooltip:0 "\n§W§Y®¦°ª¬§!  §Y°¥²ª¢°º¯ª ¶²¯ª§! ª¯² Œ° ±²¾²¿ ª.§!"
 
- khet_day_reform_title:0 "Day of the Khet"
- khet_day_reform_emperor:0 "Day of the Khet"
- khet_day_reform_desc:0 "One should of course celebrate the Khet every day of the year, but on occasion, much like a Khet, we enjoy particular days of pleasure. To that end, all believers in the Mandate can celebrate the Day of the Khet, a united holiday amongst all our people! This holiday will be filled with luxuries and pleasures, so that we may celebrate with the Khet!"
- khet_day_reform_tooltip:0 "\n§WThe §YDay of the Khet§! event will be unlocked, which gives various bonuses.§!"
+ khet_day_reform_title:0 "ƒ°¿ ²"
+ khet_day_reform_emperor:0 "ƒ°¿ ²"
+ khet_day_reform_desc:0 "°¶°, ±©¦°²¢ ¢ ¶²¿ ² ¦®¨°º ±¢¦ª²¿¾ ¬¨¦ºþ ¦°¿ ¢ ¥¦³, ° ª°¥¦, ±¦¡° ²³, ¯º °®¨¦¯¾ ¡º¯ª ¦°¾¯ª ³¦¢®¿²¢ª¾. Ï ¢¾©ª  ¼²ª¯ ¢ ¢³½¸ª ¢ °¦² ¯¥³² ²¯²ª²¿ ƒ°¿ ², ¦ª°ºþ ±©¦°ª¬ ¢¥ °Œ¥ °¦! ™²² ±©¦°ª¬ ¡³¦² °±®°° ¬Œ¿½ ª ³¦¢®¿²¢ª¾¯ª, ¶²¡º ¯º ¯¥®ª ±©¦°¢²¿ ¢¯²  ¬²¯ª!"
+ khet_day_reform_tooltip:0 "\n§W€³¦² ©¡®¬ª¢° ¡º²ª §Yƒ°¿ ²§!, ¦½¸ ©®ª¶°º ¡°³º..§!"
 
- taste_magic_reform_title:0 "Taste of Magic"
- taste_magic_reform_emperor:0 "Taste of Magic"
- taste_magic_reform_desc:0 "Halann is a world of magic and power. From the mages of Arakeprun in the west, to Verkal Ozovar in the east, magic has shaped societies. The Steward of the Sorrow should then too be able to wield such a mighty tool, and luckily the Khet have seen it the same way. They have decided to gift the Steward's bloodline with a taste of magic, so that they may enforce the Khet's will with a tool of nature."
- taste_magic_reform_tooltip:0 "\n§WOur §YRulers§! and §YHeirs§! have a higher chance to become §YPowerful Mages§!. They will also learn §Yone additional School of Magic.§!§!"
+ taste_magic_reform_title:0 "Ï¬³ª²¿ ¯¥ª½"
+ taste_magic_reform_emperor:0 "Ï¬³ª²¿ ¯¥ª½"
+ taste_magic_reform_desc:0 "Û®°° — ¯ª ¯¥ªª ª ª®º. ² ¯¥¢ ¬±³° ° ©±¦ ¦ Ï¬® ©¢ ° ¢²¬ — ¯¥ª¾ ´¯ª¢® ¡¸²¢. …°¶ª², ª °¯²°ª¬ Ô¬¡ª ¦®¨° ³¯²¿ ¢®¦²¿ ²®¿ ¯¥³¸²¢°°º¯ ª°²³¯°²¯, ª, ¬ ¶²¿½, ¬²º ¢ª¦¾² ¢ ¼²¯ ² ¨ ¯. °ª Œª®ª ±¦ª²¿ °¯²°ª¬³ ¢¬³ ¬ ¯¥ªª, ¶²¡º ° ¯¥ °¢¾©º¢²¿ ¢®½ ²  ±¯¸¿½ ª°²³¯°² ±ª¦º."
+ taste_magic_reform_tooltip:0 "\n§WŒª §Y±¢ª²®ª§! ª §Y°®¦°ª¬ª§! ±®³¶² ¡®¿Œ Œ°¢ ²²¿ §Y¯¥³¸²¢°°º¯ª ¯¥¯ª§!. °ª ²¬¨ ª©³¶² §Y¦°³ ¦±®°ª²®¿°³½ Œ¬®³ ¯¥ªª§!§!"
 
- starfall_reform_title:0 "Starfall"
- starfall_reform_desc:0 "People often say you'd do best not to stare into the night sky for too long or too hard, there's even rumors it's the hobby of lunatics. Even so, one must appreciate its beauty from time to time; that beautiful danger. To a Khet of course, it's merely beauty. To them, a damestear shower is a matter of will and not luck. Perhaps then they can be so gracious as to will the occasional shower in a particular spot for us to harvest."
+ starfall_reform_title:0 "…¢©¦±¦"
+ starfall_reform_desc:0 "ˆ½¦ª ¶² ¥¢¾², ¶² ®³¶Œ ° ¯²²¿ ¢ °¶° °¡ ®ªŒ¬¯ ¦®¥ ª®ª ®ªŒ¬¯ ±ª²®¿°, ª ¦¨ ¦¾² ®³ª, ¶² ¼² ¡¡ª ³¯Œ¦Œª.  ¢ ¨ ¢¯¾ ² ¢¯°ª °³¨° µ°ª²¿ ¥ ¬²³, ¼²³ ±¬°³½ ±°²¿. ƒ®¾ ¬², ¬°¶°, ¼² ¢¥ ®ªŒ¿ ¬². ƒ®¾ °ª ¦¨¦¿ ª© ¦¯²ª — ¼² ¢± ¢®ª,  ° ³¦¶ª. ¨² ¡º²¿, ²¥¦ °ª ¡³¦³² °²®¿¬ ¯ª®²ª¢º, ¶² ©¡®¥¦¾² ° ¡ª²¿ ³¨þ ¢ ±¦®°°¯ ¯²."
 
- empower_priesthood_reform_title:0 "Empower the Priesthood"
- empower_priesthood_reform_emperor:0 "Empower the Priesthood"
- empower_priesthood_reform_member:0 "Empower the Priesthood"
- empower_priesthood_reform_desc:0 "The Steward and the Khet hold power over the common man, especially the zealous, that is no doubt. The priests however, they've fallen into a more figurehead position. The priesthood has always had limited power compared to the Steward. Let the people fear the priests once more, for they are the will of the Khet."
- empower_priesthood_reform_tooltip:0 "\n§WOur §YMedasi§! will also gain the member bonus.§!"
- empower_priesthood_reform_medasi_modifier:0 "Empower the Priesthood"
+ empower_priesthood_reform_title:0 "‹ª®ª²¿ ¢¾¸°²¢"
+ empower_priesthood_reform_emperor:0 "‹ª®ª²¿ ¢¾¸°²¢"
+ empower_priesthood_reform_member:0 "‹ª®ª²¿ ¢¾¸°²¢"
+ empower_priesthood_reform_desc:0 "¯²°ª¬ ª ¬² ª¯½² ¢®²¿ °¦ ±²º¯ª ®½¦¿¯ª, ¡°° ¢°²°º¯ª, ¼² °¯°°°. ¦°¬ ¨µº ©°ª¯½² ¡® ¢º¬ ±®¨°ª. „¶²¢ ¢¥¦ ª¯® ¥°ª¶°°³½ ¢®²¿ ± ¢°°ª½  °¯²°ª¬¯. ‰³²¿ ¢ ¢°¢¿ ³¡¾²¾ ¨µ¢, ª¡ °ª — ¢®¾ ²."
+ empower_priesthood_reform_tooltip:0 "\n§WŒª §Y¯¦ª§! ²¬¨ ±®³¶² ¡°³ © ¶®°²¢.§!"
+ empower_priesthood_reform_medasi_modifier:0 "‹ª®ª²¿ ¢¾¸°²¢"
 
- five_cities_reform_title:0 "Five Cities of Kheterata"
- five_cities_reform_desc:0 "Kheterat, Nirat, Koroshesh, Golkorra, and Niramit; The five cities of Kheterata. A great five cities concept is common in Sarhal, it is so in Khetapera and so in the Suran, yet these do not compare to the great five of Kheterata. These metropolises are the heart of Kheterata as they pump trade through its veins, and those views are as majestic as the phoenix of Bulwar. Down the Mother's Sorrow these are cities of the Khet."
- five_cities_reform_tooltip:0 "\n§WThe §YFive Cities§! will receive the following modifiers:\nLocal Development Cost: §G-20.0%§!\nLocal Goods Produced Modifier: §G+10.0%§!\nStatewide Governing Cost: §G-20.0%§!§!"
- five_cities_reform_modifier:0 "Five Cities of Kheterata"
+ five_cities_reform_title:0 "‰¾²¿ ¥¦¢ ²²º"
+ five_cities_reform_desc:0 "²², ª², ŒŒ, ‚®¬ ª ª¯ª² — ±¾²¿ ¥¦¢ ²²º. °µ±µª¾ ¢®ª¬þ ±¾²¬ª ¥¦¢ ±²°° ¢ Ô®, ° ²¿ ª ¢ Û²±, ª ¢ Ô³°, ° ¢ °ª ° ª¦³² °ª ¢ ¬¬ ¢°°ª  ¢®ª¬þ ±¾²¬þ ²²º. ™²ª ¯¥±®ªº — ¦µ ²°º, °ª ¬¶½² ²¥¢®½ ±  ¢°¯, ª ¼²ª ¢ª¦º ²¬ ¨ ¢®ª¶²¢°°º, ¬¬ ´°ª¬ €³®¢. ƒ ¯þ ¯²ª°¬þ Ô¬¡ª ¼² ¥¦ ²."
+ five_cities_reform_tooltip:0 "\n§W§Y‰¾²¿ ¥¦¢§! ±®³¶² ®¦³½¸ª ¯¦ª´ª¬²º:\n²°¾ µ° ©¢ª²ª¾: §G-20.0%§!\nLocal Goods Produced Modifier: §G+10.0%§!\nStatewide Governing Cost: §G-20.0%§!§!"
+ five_cities_reform_modifier:0 "‰¾²¿ ¥¦¢ ²²º"
 
- feed_land_reform_title:0 "§OFeed the Land§!"
- feed_land_reform_desc:0 "Often the Mother's Sorrow is the object of admiration for trade, for the Khet, for its cities, but people frequently forget just what its true strength is: food. Let us remind them now, the Mother's Sorrow grows grain and provides water for livestock aplenty, enough to feed all of Kheterata and more. By focusing on producing food and spreading it across the land we will demonstrate the strength of the Mandate in full stomachs and happy people."
- feed_land_reform_tooltip:0 "\n§WEvery Province along the §YMother's Sorrow River§! producing §YLivestock§! will change to §YGrain§!.\nThen every §YGrain§! province will receive the following modifiers:\nLocal Development Cost: §G-10.0%§!\nLocal Manpower Modifier: §G+50.0%§!§!"
- feed_land_reform_modifier:0 "Feed the Land"
- khet_land_reform_trigger_tooltip:0 "Neither §YFeed the Land§! or §YExploit the Land§! have ever been enacted before"
+ feed_land_reform_title:0 "§O¬¯ª²¿ ©¯®½§!"
+ feed_land_reform_desc:0 "Ì²°¿¬ ±¦¯²¯ ¢ª¸°ª¾ ²ª°¬þ Ô¬¡ª ²°¢ª²¾ ²¥¢®¾, ², ž ¥¦, ° ®½¦ª ¶² ©¡º¢½², ¢ ¶ž¯ ž ª²ª°°¾ ª®: ¢ ¦. ƒ¢þ² °±¯°ª¯ ª¯ ¡ ¼²¯: ° Ô¬¡ª ²ª ¢º¸ª¢½² ©° ª ¦½² ¢¦³ ¦®¾ ¬² ¢ ¥¯°º ¬®ª¶²¢, ¬²º ¢²ª², ¶²¡º ±¬¯ª²¿ ¢½ ²²³ ª ¦¨ ¡®¿Œ. Ô¦²¶ª¢Œª¿ ° ±ª©¢¦²¢ ¦º ª ±²°°ªª  ± ¢þ ©¯®, ¯º ±¦¯°²ª³¯ ª®³ °¦² ° º²º ¨®³¦¬ ª ¶²®ª¢º ®½¦¾."
+ feed_land_reform_tooltip:0 "\n§WÏ ±¢ª°µªª ¢¦®¿ §Y¬ª ²ª°¬¾ ¬¡¿§! ±ª©¢¦¾¸ª §Y¦¯Œ°ªþ ¬²§! ª©¯°¾² ¢þ ²¢ ° §Y©°§!.\n‰® ¼²¥ ¬¨¦¾ ±¢ª°µª¾, ±ª©¢¦¾¸¾ §Y©°§! ±®³¶ª² ®¦³½¸ª ¯¦ª´ª¬²º:\n²°¾ µ° ©¢ª²ª¾: §G-10.0%§!\nLocal Manpower Modifier: §G+50.0%§!§!"
+ feed_land_reform_modifier:0 "¬¯ª²¿ ©¯®½"
+ khet_land_reform_trigger_tooltip:0 "ª §Y¬¯ª²¿ ©¯®½§!, °ª §Y™¬±®³²ª¢²¿ ©¯®½§! °ª¬¥¦ ° ° ±ª°ª¯®ª¿."
 
- exploit_land_reform_title:0 "§OExploit the Land§!"
- exploit_land_reform_desc:0 "On the other hand of feeding the people, perhaps they'd do better to buy their own food from markets with the coins we could make by focusing the Mother's Sorrow on cash crops such as cotton and sugar. These fertile banks could produce these goods in abundance, traders from across the Divenhal would turn their boats to Kheterata the moment they heard of our stock. We will demonstrate the strength of the Mandate with a full treasury and wealthy people."
- exploit_land_reform_tooltip:0 "\n§WEvery Province along the §YMother's Sorrow River§! producing §YLivestock§! will change to either §YSugar§! or §YCotton§!.\nThen 5 §YGrain§! provinces will change to either §YSugar§! or §YCotton§!.\nFinally every §YSugar§! or §YCotton§! province will receive the following modifier:\nLocal Goods Produced Modifier: §G+20.0%§!§!"
- exploit_land_reform_modifier:0 "Exploit the Land"
+ exploit_land_reform_title:0 "§O™¬±®³²ª¢²¿ ©¯®½§!"
+ exploit_land_reform_desc:0 "®ª ¨ ¥¢ª²¿  ±±ª²°ªª ®½¦þ, ², ¢©¯¨°, ª¯ ®³¶Œ ±¬³±²¿ ±¦³¬²º ° º°¬ ° ² ¯°²º, ¬²º ¯º ¯¥®ª ¡º ©¡²²¿, °±¢ª¢ Ô¬¡¿ ²ª ° ¢º¸ª¢°ª ²¢°º ¬³®¿²³, ²¬ª ¬¬ ®±¬ ª . ‰®¦¦°º ¡¥ ¯¥³² ±ª©¢¦ª²¿ ¼²ª ²¢º ¢ ª©¡ª®ªª, ª ²¥¢µº  ¢¥ ƒª¢°® ±¢°³² ¢ª ³¦ ¬ ²², ¬¬ ²®¿¬ ³®ºŒ²  °Œª ©±. º ±¦¯°²ª³¯ ª®³ °¦²  ±®°þ ¬©°þ ª ¡¥²º¯ª ®½¦¿¯ª."
+ exploit_land_reform_tooltip:0 "\n§WÏ ±¢ª°µªª ¢¦®¿ §Y¬ª ²ª°¬¾ ¬¡¿§!, ±ª©¢¦¾¸ª §Y¦¯Œ°ªþ ¬²§! ª©¯°¾² ¢þ ²¢ ®ª¡ ° §Y§!, ®ª¡ ° §Y®±¬§!.\n…²¯ 5 ±¢ª°µªþ, ±ª©¢¦¾¸ª §Y©°§! ª©¯°¾² ¢þ ²¢ ®ª¡ ° §Y§!, ®ª¡ ° §Y®±¬§!.\n¬°µ, ¬¨¦¾ ±¢ª°µª¾, ±ª©¢¦¾¸¾ §Y§! ª®ª §Y®±¬§! ‰®³¶² ®¦³½¸ªþ ¯¦ª´ª¬²:\n²° ±ª©¢¦²¢: §G+20.0%§!§!"
+ exploit_land_reform_modifier:0 "™¬±®³²ª¢²¿ ©¯®½"
 
- beyond_akasik_reform_title:0 "Beyond Akasik"
- beyond_akasik_reform_emperor:0 "Beyond Akasik"
- beyond_akasik_reform_desc:0 "Standing atop the Akasik mountains and overlooking the Bay of Ekha and the Divengate Sea, the Mother's Sorrow can seem so small compared to the wide ocean before, a wide ocean of untapped potential. Why should our borders stop where the Akasik ends? Why should the Khet be limited to Halcann? Let us look to the seas now, beyond Akasik, to reveal the Mandate to a new world."
- beyond_akasik_reform_tooltip:0 "§WUnlocks the §YAhati Outposts§! estate privilege§!"
+ beyond_akasik_reform_title:0 "… ±¦®¯ª ¬Œª¬"
+ beyond_akasik_reform_emperor:0 "… ±¦®¯ª ¬Œª¬"
+ beyond_akasik_reform_desc:0 "Ô²¾ ° ¢Œª° ¥ ¬Œª¬,  ¢ª¦¯ ° ©®ª¢ ™ ª ƒª¢°®¿¬ ¯, ²ª°¬¾ ¬¡¿ ¯¨² ±¬©²¿¾ ²¬þ ¯®°¿¬þ ± ¢°°ª½  Œª¬ª¯ ¬°¯, ®¨¸ª¯ ±¦ °þ, — Œª¬ª¯ ¬°¯ °ª±®¿©¢°°¥ ±²°µª®. ‰¶¯³ °Œª ¥°ªµº ¦®¨°º ©¬°¶ª¢²¿¾ ²¯, ¥¦ ©¬°¶ª¢²¾ ¬Œª¬? ‰¶¯³ ² ¦®¨° ¥°ª¶ª¢²¿¾ Û®¬°°¯? ƒ¢þ² ¡²ª¯¾ ¬ ¯¾¯ © ±¦®¯ª ¬Œª¬, ¶²¡º ²¬º²¿ °¦² °¢¯³ ¯ª³."
+ beyond_akasik_reform_tooltip:0 "§W€³¦² ©¡®¬ª¢° ®¢°¾ ±ª¢ª®¥ª¾ §Y…²¢º ²ª§!§!"
 
- reign_satrapy_reform_title:0 "Reign in Satrapies"
- reign_satrapy_reform_emperor:0 "Reign in Satrapies"
- reign_satrapy_reform_member:0 "Reign in Satrapies"
- reign_satrapy_reform_desc:0 "Satrapies are not always as loyal and competent as we would want them to be, and sadly it is not rare for greedy, corrupt or overly ambitious lords to skimp on their due tribute or conspire with our enemies in pursuit of a mistaken idea of freedom. We can reduce these unfortunate incidents to the minimum by assigning them permanent supervisors, placing loyalists in key positions of their governments and ensuring any dissidents are swiftly dealt with. Loyalty and excellence are not options for our subjects, but requirements."
+ reign_satrapy_reform_title:0 "‰¢®°ª ¢ ²±ª¾"
+ reign_satrapy_reform_emperor:0 "‰¢®°ª ¢ ²±ª¾"
+ reign_satrapy_reform_member:0 "‰¢®°ª ¢ ²±ª¾"
+ reign_satrapy_reform_desc:0 "Ô²±ªª ° ¢¥¦ ²¬ ®¾®¿°º ª ¬¯±²°²°º, ¬¬ °¯ ²®¿ ¡º, ª, ¬ ¨®°ª½, °¦¬ª ®³¶ª, ¬¥¦ ¨¦°º, ¬³¯±ª¢°°º ª®ª ®ªŒ¬¯ ¯¡ªµª©°º ¢®²ª²®ª ³±³¬½² ±®¨°°³½ ¦°¿ ª®ª ¢²³±½² ¢ ¥¢  °Œª¯ª ¢¥¯ª ¢ ±¥° © Œª¡¶°þ ª¦þ ¢¡¦º. º ¯¨¯ ¢²ª ¼²ª ¦¦°º ª°µª¦°²º ¬ ¯ª°ª¯³¯³, °©°¶ª¢ ª¯ ±²¾°°º °¶®¿°ª¬¢, ±²¢ª¢ ®¾®ª²¢ ° ¬®½¶¢º ±²º ¢ ª ±¢ª²®¿²¢ ª ¡±¶ª¢ ¡º² ³²°°ª ®½¡º ¦ªª¦°²¢. ‰¦°°²¿ ª ±¢¦²¢ — ¼² ° ¢º¡ ¦®¾ °Œª ±¦¦°°º,  ²¡¢°ª."
 
- build_pyramid_reform_title:0 "Great Pyramid of Elikhet"
- build_pyramid_reform_desc:0 "The Tomb of Elikhet is of great importance to the Kheteratan people. Erecting a large pyramid above it in reverence of him would be a great asset to earn the support of the populace, and the respect of those beyond as well."
+ build_pyramid_reform_title:0 "Ï®ª¬¾ ±ª¯ª¦ ™®ª¬²"
+ build_pyramid_reform_desc:0 "‚¡°ªµ ™®ª¬² ª¯² ¥¯° ©°¶°ª ¦®¾ ²²¬¥ °¦. Ï©¦¢ª¥°³¢ °¦ °þ ¡®¿Œ³½ ±ª¯ª¦³ ¢ ©°¬ ³¢¨°ª¾ ¬ °¯³, ¢º ¯¨² ©³¶ª²¿¾ ±¦¦¨¬þ °®°ª¾ ª ³¢¨°ª¯ ², ¬² °¦ª²¾ ¦®¬ ©  ±¦®¯ª."
 
- build_academy_reform_title:0 "Bronze Dragon Academy"
- build_academy_reform_desc:0 "The Ahati still think fondly of the days of Aakhet's reign, seeing him as the ideal chosen, one who ruled with both wisdom and strength. In honor of this dragon conqueror, we could construct a military academy in his name to attempt to teach the Ahati to be like him; in part, to tame their inner dragon."
+ build_academy_reform_title:0 "¬¦¯ª¾ ƒ¬°"
+ build_academy_reform_desc:0 "²ª ¦ ª ±  °¨°²¿½ ¢±¯ª°½² ¦°ª ±¢®°ª¾ ¬² €°©¢¥, ¶ª²¾ ¥ ª¦®¿°º¯ ª©¡°°ª¬¯, ±¢¾¸ª¯  ¯³¦²¿½ ª ª®þ. Ï ¶²¿ ¼²¥ ±¬ª²®¾ ¦¬°¢ ¯º ¯¥®ª ¡º ±²ª²¿ ¢°°³½ ¬¦¯ª½ ¥ ª¯°ª, ¶²¡º ±±º²²¿¾ °³¶ª²¿ ²ª ¡º²¿ ±¨ª¯ª ° °¥; ²¶²ª, ¶²¡º ³¬²ª²¿ ¢¥ ¢°³²°°¥ ¦¬°."
 
- build_statues_reform_title:0 "The Decadent Twins"
- build_statues_reform_desc:0 "The Khets' ability to manipulate the world around them poses problems at times when they use their powers for things we really would not prefer they do. Perhaps it would be prudent to designate a "play area" for them, to lessen the collateral damage that may occur from their exploits."
+ build_statues_reform_title:0 "€®ª©°µº-¦¬¦°²º"
+ build_statues_reform_desc:0 "Ô±¡°²¿ ¬²¢ ¯°ª±³®ª¢²¿ ¬³¨½¸ª¯ ¯ª¯ ª°¥¦ ©¦² ±¡®¯º, ®ª °ª ª±®¿©³½² ¢ª ª®º ¦®¾ ¢¸þ, ¬²º °¯ ¢¯ ° ± ¦³Œ. Ï©¯¨°, ¡º® ¡º ©³¯° ¢º¦®ª²¿ ¦®¾ °ª "ª¥¢³½ ©°³", ¶²¡º ³¯°¿Œª²¿ ±¡¶°ºþ ³¸¡, ¬²ºþ ¯¨² ¢©°ª¬°³²¿ ¢ ©³®¿²² ª ¦þ²¢ªþ."
 
 ####################
 #####Decrees#####
 ####################
- plenty_decree:0 "Decree of Plenty"
- plenty_decree_title:0 "Decree of Plenty"
- plenty_decree_desc:0 "The Khetarch can bestow the lands touching the Sorrow with life, creating a bountiful harvest for us to cultivate.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nLocal Tax Modifier: §G+10.0%§!\nLocal Goods Produced Modifier: §G+10.0%§!"
- plenty_decree_modifier:0 "Decree of Plenty"
+ plenty_decree:0 "‹¬© ¡ ª©¡ª®ªª"
+ plenty_decree_title:0 "‹¬© ¡ ª©¡ª®ªª"
+ plenty_decree_desc:0 "Û² ¯¨² °¦®ª²¿ ©¯®ª, ±ª¬½¸ª¾  Ô¬¡¿½, ¨ª©°¿½, ©¦¢ ¸¦ºþ ³¨þ ¦®¾ °.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nLocal Tax Modifier: §G+10.0%§!\nLocal Goods Produced Modifier: §G+10.0%§!"
+ plenty_decree_modifier:0 "‹¬© ¡ ª©¡ª®ªª"
 
- prosperity_decree:0 "Decree of Prosperity"
- prosperity_decree_title:0 "Decree of Prosperity"
- prosperity_decree_desc:0 "Through their powerful magics, the Khetarch can heal lands once touched by war, allowing them to rebuild and recover faster than they otherwise would.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nLocal Development Cost: §G-10.0%§!\nLocal Construction Time: §G-20.0%§!\nYearly Prosperity Growth: §G+0.75§!"
- prosperity_decree_modifier:0 "Decree of Prosperity"
+ prosperity_decree:0 "‹¬©  ±µ¢²°ªª"
+ prosperity_decree_title:0 "‹¬©  ±µ¢²°ªª"
+ prosperity_decree_desc:0 "Ô ±¯¸¿½ ¢þ ¯¥³¸²¢°°þ ¯¥ªª Û² ¯¨² ªµ®¾²¿ ©¯®ª, ¬²º ¬°³®¿ ¢þ°, ±©¢®¾¾ ª¯ ±²ª¢²¿¾ ª ¢²°¢®ª¢²¿¾ ¡º², ± ¢°°ª½  ª°º¯ª ±¡¯ª.\n\nProvinces along the §YMother's Sorrow River§! will gain:\n²°¾ µ° ©¢ª²ª¾: §G-10.0%§!\nLocal Construction Time: §G-20.0%§!\nYearly Prosperity Growth: §G+0.75§!"
+ prosperity_decree_modifier:0 "‹¬©  ±µ¢²°ªª"
 
- knowledge_decree:0 "Decree of Knowledge"
- knowledge_decree_title:0 "Decree of Knowledge"
- knowledge_decree_desc:0 "The Mother's Sorrow is the vein through which knowledge and ideas flow across Kheterata, and with a little help from the Khetarch that flow can become a lot quicker. Boats carrying books and innovations swiftly travel across the river pushed by magically created currents, libraries and universities are erected with the mere movement of a hand, and even the most recalcitrant reactionaries submit to the will of the Khetarch and resign themselves to accept the rapid change.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nInstitution Spread: §G+50.0%§!"
- knowledge_decree_modifier:0 "Decree of Knowledge"
+ knowledge_decree:0 "‹¬©  ©°°ªª"
+ knowledge_decree_title:0 "‹¬©  ©°°ªª"
+ knowledge_decree_desc:0 "²ª°¬¾ Ô¬¡¿ — ¼² ¢°, ± ¬²þ ©°°ª¾ ª ª¦ª ²¬³² ± ²², ª  °¡®¿Œþ ±¯¸¿½ Û² ¼²² ±²¬ ¯¨² ²²¿ °¯°¥ ¡º². ˆ¦¬ª  ¬°ª¥¯ª ª °¢ª°¬¯ª ²¯ª²®¿° °³²¾ ± ¬, ±¦²®¬ª¢¯º ¯¥ª¶¬ª¯ª ²¶°ª¾¯ª, ¡ª¡®ª²¬ª ª ³°ª¢ª²²º ¢©¢¦¾²¾ ¦°ª¯ ¦¢ª¨°ª¯ ³¬ª, ª ¦¨ ¯º °±¬°º ¬µª°º ±¦¶ª°¾½²¾ ¢® Û² ª ¯ª¾½²¾  ¡º²º¯ª ±¯°¯ª.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nInstitution Spread: §G+50.0%§!"
+ knowledge_decree_modifier:0 "‹¬©  ©°°ªª"
 
- salvation_decree:0 "Decree of Salvation"
- salvation_decree_title:0 "Decree of Salvation"
- salvation_decree_desc:0 "The Khetarch can, with enough convincing, assist in pacifying the people along the Sorrow, calming emotions and making them easier to control.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nMonthly Autonomy Change: §G-0.15§!\nLocal Unrest: §G-2§!"
- salvation_decree_modifier:0 "Decree of Salvation"
+ salvation_decree:0 "‹¬©  ±°ªª"
+ salvation_decree_title:0 "‹¬©  ±°ªª"
+ salvation_decree_desc:0 "‰ª ¦²²¶°¯ ³¡¨¦°ªª Û² ¯¨² ±¯¶¿ ³¯ª²¢ª²¿ ®½¦þ ¢¦®¿ Ô¬¡ª, ³¯ªª²¿ ¼¯µªª ª ¡®¥¶ª²¿ ¬°²®¿ °¦ °ª¯ª.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nMonthly Autonomy Change: §G-0.15§!\nLocal Unrest: §G-2§!"
+ salvation_decree_modifier:0 "‹¬©  ±°ªª"
 
- defiance_decree:0 "Decree of Defiance"
- defiance_decree_title:0 "Decree of Defiance"
- defiance_decree_desc:0 "Through a variety of means, the Khetarch can impede the progress of our enemies, whether it be leading them astray with mirages on their marches across our deserts, increasing our food stores to allow for larger garrisons, or whipping up huge sandstorms to stall their approach.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nLocal Hostile Attrition: §G+3§!\nLocal Max Hostile Attrition: §G+2§!\nLocal Garrison Size: §G+25.0%§!"
- defiance_decree_modifier:0 "Decree of Defiance"
+ defiance_decree:0 "‹¬©  °±¬°²ª"
+ defiance_decree_title:0 "‹¬©  °±¬°²ª"
+ defiance_decree_desc:0 "Ô ±¯¸¿½ ©®ª¶°º ¦²¢ Û² ¯¨² ±±¾²²¢¢²¿ ±¦¢ª¨°ª½ °Œª ¢¥¢, ¡ª¢¾ ª  ±³²ª ¯ª¨¯ª ¢ ¢¯¾ ª ¯Œ ± °Œª¯ ±³²º°¾¯, ³¢®ª¶ª¢¾ °Œª ©±º ±¦¢®¿²¢ª¾, ¶²¡º ±©¢®ª²¿ ³¢®ª¶ª²¿ ¥°ª©°º, ª®ª ¢º©º¢¾ ¥¯°º ±¶°º ¡³ª, ¶²¡º ©¦¨²¿ ª ±ª¡®ª¨°ª.\n\nProvinces along the §YMother's Sorrow River§! will gain:\nLocal Hostile Attrition: §G+3§!\nLocal Max Hostile Attrition: §G+2§!\nLocal Garrison Size: §G+25.0%§!"
+ defiance_decree_modifier:0 "‹¬©  °±¬°²ª"
 
- friendship_decree:0 "Decree of Friendship"
- friendship_decree_title:0 "Decree of Friendship"
- friendship_decree_desc:0 "Through a show of good faith, we can remind the estates that we are the ones in the Khetarch's good graces, not them; that we, and thus the Khetarch, are willing to work with them, if they are willing to work with us."
+ friendship_decree:0 "‹¬©  ¦³¨¡"
+ friendship_decree_title:0 "‹¬©  ¦³¨¡"
+ friendship_decree_desc:0 "‰¾¢ª¢ ¦¡³½ ¢®½, ¯º ¯¨¯ °±¯°ª²¿ ®¢ª¾¯, ¶² ¼² ¯º °¦ª¯¾ ¢ ¡®¥¢®°ªª ³ Û²,  ° °ª; ¶² ¯º,  ©°¶ª², ª Û², ¥²¢º ¡²²¿  °ª¯ª, ®ª °ª ¥²¢º ¡²²¿  °¯ª."
 
- conquest_decree:0 "Decree of Conquest"
- conquest_decree_title:0 "Decree of Conquest"
- conquest_decree_desc:0 "The Khetarch values our prosperous rule, and wishes to see a larger buffer created between the Sorrow and the world beyond. They are willing to assist us in the integration of new lands to accomplish this goal."
+ conquest_decree:0 "‹¬©  ©¢¢°ªª"
+ conquest_decree_title:0 "‹¬©  ©¢¢°ªª"
+ conquest_decree_desc:0 "Û² µ°ª² °Œ ±µ¢²½¸ ±¢®°ª ª ¨®², ¶²¡º ¯¨¦³ Ô¬¡¿½ ª ¯ª¯ ©  ±¦®¯ª ¡º® ©¦° ¡® Œª¬ªþ ¡³´. °ª ¥²¢º ±¯¶¿ °¯ ¢ ª°²¥µªª °¢º ©¯®¿ ¦®¾ ¦²ª¨°ª¾ ¼²þ µ®ª."
 
- magic_decree:0 "Decree of Spellpower"
- magic_decree_title:0 "Decree of Spellpower"
- magic_decree_desc:0 "Through the use of his powers the Khetarch can significantly increase the knowledge and power of our country's mages, be it by telepathically implanting some of his extensive magical wisdom into their minds, providing the materials and environments necessary for magical experimentation or even lending them a fraction of his power to massively strengthen their spells.\n\nMagic Study Experience: §G+20.0%§!"
+ magic_decree:0 "‹¬©  ª® ©¬®ª°°ªþ"
+ magic_decree_title:0 "‹¬©  ª® ©¬®ª°°ªþ"
+ magic_decree_desc:0 "†±®¿©³¾ ¢ª ±¡°²ª, Û² ¯¨² ©°¶ª²®¿° ³¢®ª¶ª²¿ ©°°ª¾ ª ª®³ ¯¥¢ °Œþ ²°º, ²®±²ª¶¬ª ¢°¦¾¾ ¢ ª ©³¯ ¶²¿ ¢þ ¡Œª°þ ¯¥ª¶¬þ ¯³¦²ª, ±¦²¢®¾¾ ¯²ª®º ª ¦³, °¡¦ª¯º ¦®¾ ¯¥ª¶¬ª ¼¬±ª¯°²¢, ª®ª ¦¨ ¦®¨ª¢¾ ª¯ ¶²ªµ³ ¢þ ª®º, ¶²¡º ©°¶ª²®¿° ³ª®ª²¿ ª ©¬®ª°°ª¾.\n\nMagic Study Experience: §G+20.0%§!"
 
 ####################
 #####Events#####
 ####################
- khet_mandate.01.t:0 "The Khet"
- khet_mandate.01.d:0 "We have managed to claim the favor of the Khetarch from those unworthy of holding it, and now our [Root.Monarch.GetTitle] is the Steward of the Sorrow, ruling the bountiful land at the shores of the river in the name of the Khet. These cat-headed beings are as fickle and hedonistic as they are powerful, however, and if the state is not able to provide for their whims and desires, we run the risk of suffering the same fate as our predecessor, replaced by the next ambitious conqueror that shows up at our doorstep. Because of this we will dedicate a section of our administration to ensure they are properly pampered, and in return they will officially support our state, facilitating the establishment of full control over the area and even lending us their godlike powers in moments of need. Our relationship with the Khet promises to be one of great mutual benefit, as long as we keep the pleasure barges moving through the river."
- khet_mandate.01.a:0 "I hope they do not become too debauched."
+ khet_mandate.01.t:0 "²"
+ khet_mandate.01.d:0 "¯ ³¦®¿ ²¢¢²¿ ¡®¥¬®°°²¿ ² ³ ², ¬² °¦²ª°  ª¯²¿, ª ²±¿ °Œ [Root.Monarch.GetTitle] — °¯²°ª¬ Ô¬¡ª, ±¢¾¸ªþ ¸¦º¯ª ©¯®¾¯ª ° ¡¥ ¬ª ¢ ª¯¾ ². ¦°¬ ¼²ª ¬Œ¬¥®¢º ³¸²¢ ²®¿ ¨ °±²¾°°º ª ¥¦°ª²ª¶°º, ¬®¿ ª ¯¥³¸²¢°°º, ª ®ª ¥³¦²¢ ° ¯¨² ¡±¶ª²¿ ª ±ª²ª ª ¨®°ª¾, ¯º ª¬³¯ ±²ª¥°³²¿ ²³ ¨ ³¶²¿, ¶² ª °Œ ±¦Œ²¢°°ª¬, — ° ¯°ª² ¶¦°þ ¯¡ªµª©°ºþ ©¢¢²®¿, ±¾¢ª¢Œªþ¾ ° °Œ¯ ±¥. ‰¼²¯³ ¯º ¢º¦®ª¯ ¶²¿ °Œþ ¦¯ª°ª²µªª, ¶²¡º ¡±¶ª²¿ ª¯ ¦®¨°ºþ ³¦,  ¢©¯° °ª ¡³¦³² ´ªµª®¿° ±¦¦¨ª¢²¿ °Œ ¥³¦²¢, ±¡²¢³¾ ³²°¢®°ª½ ±®°¥ ¬°²®¾ °¦ ²ª²ªþ ª ¦¨ ±¦²¢®¾¾ °¯ ¢ª ¡¨²¢°°º ª®º ¢ ¯¯°²º °¡¦ª¯²ª. Œª ²°Œ°ª¾  ²¯ª ¡¸½² ¡º²¿ ¢©ª¯¢º¥¦°º¯ª, ®ª ²®¿¬ ¯º ¡³¦¯ ±¦¦¨ª¢²¿ ¦¢ª¨°ª ±¥³®¶°º ¡¨ ± ¬."
+ khet_mandate.01.a:0 "¦½¿, °ª ° ²°³² ®ªŒ¬¯ ©¢²°º¯ª."
 
  khet_mandate.50.t:0 "Lessons from the Wise"
  khet_mandate.50.d:0 " For some time our [Root.Heir.GetTitle] was exhibiting shameful conduct, and many in the court were worried about the effects this could have in the state after [Root.Heir.GetHerHis] ascension to the throne. Recently, however, [Root.Heir.GetHerHis] behavior has improved significantly, and surprisingly the one responsible for this change is no other than a Khet infamous for sharing our heir's flaw and carrying it to extreme degrees. Apparently he approached [Root.Heir.GetName] in private and convinced [Root.Heir.GetHerHim] to change [Root.Heir.GetHerHis] conduct. He explained that while in a Khet like himself such behavior is tolerated, that is only because of the divine blood flowing through their veins and the amazing powers they can use to favor the realm as compensation. Mortals, on the other hand, have both the duty of living a virtuous life and the privilege of having wills strong enough to do so, as most of the Khet simply are unable to overcome the decadent tendencies that come with their nature."
  khet_mandate.50.a:0 "Do as they say, not as they do."
 
- khet_mandate.51.t:0 "Day of the Khet"
- khet_mandate.51.d:0 "When we established the Day of the Khet as an official holiday, we sought to allow our people to experience just once a year the great pleasure and celebration that is everyday life for the Khet. Great festivals are celebrated in every part of our realm, during which an immense quantity and variety of luxuries and diversions are available to everyone, from the poorest of the beggars to the divine Khetarch himself. This year the celebrations have been particularly magnificent, which has resulted in some additional benefits for the state."
- khet_mandate.51.a:0 "I wish we could do this everyday."
+ khet_mandate.51.t:0 "ƒ°¿ ²"
+ khet_mandate.51.d:0 "‹²°¢®ª¢¾ ƒ°¿ ² ¢ ¬¶²¢ ´ªµª®¿°¥ ±©¦°ª¬, ¯º ²¯ª®ª¿ ¦²¿ °Œ¯³ °¦³ ¢©¯¨°²¿ ²¾ ¡º © ¢ ¥¦ ª±º²²¿ ¢®ª¬ °®¨¦°ª ª ±©¦°ª¬, ¬²º ¾¢®¾½²¾ ±¢¦°¢°þ ¨ª©°¿½ ². Ï ¢ ³¥®¬ °Œ¥ ¬®¢²¢ ²¯¶½²¾ ¢®ª¬ª ±©¦°ª¬ª, ¢ ¢¯¾ ¬²º ¥¯° ¬®ª¶²¢ ª ©°¡©ª ¬Œª ª ©¢®¶°ªþ ¦²³±° ¢¯, ² ¯º ¡¦°º °ª¸ª ¦ ¯¥ ¡¨²¢°°¥ ². Ï ¼²¯ ¥¦³ ²¨²¢ ¡º®ª ¡°° ±ºŒ°º¯ª, ¶² ±ª°® ¥³¦²¢³ ¦±®°ª²®¿°º ¢º¥¦º."
+ khet_mandate.51.a:0 "„®¿, ¶² ¯º ° ¯¨¯ ¦®²¿ ¼² ¬¨¦ºþ ¦°¿."
 
- khet_mandate.52.t:0 "Pleasure Barge on the Move"
- khet_mandate.52.d:0 "The Khet spend the majority of their time aboard their Pleasure Barges, great moving temples of luxury and debauchery that slowly move through the Mother's Sorrow. In these barges the Khet are pampered by hundreds of servants and given access to the most luxurious and exotic goods available. It is in the state's best interest that nothing interrupts the pleasures of the Khet or the movement of their barges, but sometimes this requires steep sacrifices. It's unclear what happened this time; perhaps something offended a Khet, causing them to retaliate with terrible magic, or else it was necessary to strip the land of valuable resources or to conscript the locals as servants to satisfy the whims of the cat-headed beings. Maybe it was all just an unfortunate accident. Whatever it was, the province through which the barge passed has suffered greatly, and now it falls to us to mend this damage while the Khet continue their journey down the river."
- khet_mandate.52.d2:0 "In the past the arrival of a Pleasure Barge was a cause of panic for those living on the shores of the Sorrow, as the Khet's whim could mean ruin and suffering. Our new barges, more luxurious and splendorous but less frequent, do not elicit this feeling anymore, and now the barges are received with merriment and celebration when they pass by a population center. This has made the Khet feel more loved than ever before, and their enjoyment of the pleasures of the barges has increased now that they are greater but more infrequent. Recently a great party was organized by local authorities to celebrate the passing of a barge, and the Khet were happy to participate and accept the honors and gifts the locals offered them, after which they publicly announced their satisfaction with our administration."
- khet_mandate.52.a:0 "An unfortunate circumstance"
- khet_mandate.52.b:0 "I never thought I would hear good news about a Pleasure Barge journey."
+ khet_mandate.52.t:0 "€¨ ³¦¢®¿²¢ªþ ¢ ¦¢ª¨°ªª"
+ khet_mandate.52.d:0 "²º ±¢¦¾² ¡®¿Œ³½ ¶²¿ ¢¯°ª ° ¡²³ ¡¨ ³¦¢®¿²¢ªþ — ¥¯°º ¦¢ª¨³¸ª¾ ¯¢ ¬Œª ª ©¢², ¬²º ¯¦®°° ±¯¸½²¾ ± Ô¬¡ª ²ª.  ¼²ª ¡¨ ² ³¡®¨½² ²°ª ®³¥ ª ±¦²¢®¾½² ¦²³± ¬ ¯º¯ ¬Œ°º¯ ª ¼¬©²ª¶¬ª¯ ²¢¯. ‚³¦²¢ ©ª°²¢° ¢ ²¯, ¶²¡º °ª¶² ° ¯Œ® ³¦¢®¿²¢ª¾¯ ¬²¢ ª ¦¢ª¨°ª½ ª ¡¨, ° ª°¥¦ ¼² ²¡³² ¿©°º ¨²¢. ª©¢²°, ¶² ®³¶ª®¿ ° ¼²² ©: ¢©¯¨°, ¶²-² ¡ª¦® ¬²¢, ©²¢ª¢ ª ²¢²ª²¿ ³¨°þ ¯¥ªþ, ª®ª ±ªŒ®¿ ®ªŒª²¿ ©¯®½ µ°°º ³¢ ª®ª ±ª©¢²¿ ¯²°º ¨ª²®þ ¢ ¬¶²¢ ®³¥, ¶²¡º ³¦¢®²¢ª²¿ ±ª²ª ¬Œ¬¥®¢º ³¸²¢.  ¯¨², ¢ ¼² ¡º® ±² ¦¦°þ ®³¶þ°²¿½. ¬ ¡º ² °ª ¡º®, ±¢ª°µª¾, ¶© ¬²³½ ±¦ª® ¡¨, ª®¿° ±²¦®, ª ²±¿ °¯ ±¦²ª² ³²°ª²¿ ¼²² ³¸¡, ±¬ ¬²º ±¦®¨½² ¢þ ±³²¿ ¢°ª© ± ¬."
+ khet_mandate.52.d2:0 "Ð°¿Œ ±ª¡º²ª ¡¨ª ³¦¢®¿²¢ªþ ¢º©º¢® ±°ª¬³ ³ ², ¬² ¨ª® ° ¡¥ Ô¬¡ª, ¢¦¿ ±ª²¿ ² ¯¥® ©°¶²¿ ©°ª ª ²¦°ª¾. Œª °¢º ¡¨ª, ¡® ¬Œ°º ª ¢®ª¬®±°º, ° ±¾¢®¾½¸ª¾ ¨, ¡®¿Œ ° ¢º©º¢½² ²¬¥ ¶³¢²¢, ª ²±¿ ¡¨ª ¢²¶½²  ¢®¿¯ ª ±©¦°ª¬¯, ¬¥¦ °ª ±±®º¢½² ¯ª¯ °®°°¥ ±³°¬². €®¥¦¾ ¼²¯³ ¬²º ¶³¢²¢³½² ¡¾ ¡® ®½¡ª¯º¯ª, ¶¯ ¬¥¦-®ª¡ ±¨¦, ª ª °®¨¦°ª ³¦¢®¿²¢ª¾¯ª ² ¡¨ ¢©®, ¬¥¦ ª ²® ¡®¿Œ, ° °ª ²®ª ¡® ¦¬ª¯ª. ¦¢° ¯²°º ¢®²ª ³²ª®ª ¡®¿Œþ ±©¦°ª¬ ¢ ¶²¿ ±¦ ¡¨ª, ª ¬²º  ¦²¿½ ±ª°¾®ª ³¶²ª ¢ °¯ ª ±ª°¾®ª ±¶²ª ª ±¦¬ª, ¬²º ª¯ ±±¦°®ª ¯²°º ¨ª²®ª, ±® ¶¥ °ª ±³¡®ª¶° ©¾¢ª®ª  ¢¯ ³¦¢®²¢°ªª °Œþ ¦¯ª°ª²µªþ."
+ khet_mandate.52.a:0 "‰ª¬¡° ¡²¾²®¿²¢"
+ khet_mandate.52.b:0 "ª¬¥¦ ° ¦³¯®, ¶² ³®ºŒ³ Œª °¢²ª  ±³²Œ²¢ªª ¡¨ª ³¦¢®¿²¢ª¾."
 
 
- khet_mandate.61.t:0 "A Tough Customer"
- khet_mandate.61.d:0 "A member of the merchants' guild approached [Root.Monarch.GetName] today about an incident from a week ago. Allegedly, a local Khet was caught “confiscating” a whole stand from a wandering cabbage merchant. The merchant is penniless and requests help from the state, tormented over the gods' punishment."
- khet_mandate.61.a:0 "Pay the salesman"
- khet_mandate.61.b:0 "A normal sacrifice to the Khet"
+ khet_mandate.61.t:0 "±²þ ¬®ª°²"
+ khet_mandate.61.d:0 "Ô¥¦°¾ ¬ [Root.Monarch.GetName] ¡²ª®¾ ¶®° ¥ª®¿¦ªª ²¥¢µ¢ ± ±¢¦³ ª°µª¦°² °¦®¿°þ ¦¢°²ª. ‹²¢¨¦²¾, ¶² ¯²°ºþ ¬² ¡º® ³®ª¶° ¢ "¬°´ª¬µªª" µ®¥ ±ª®¢¬ ³ ²°²¢³½¸¥ ²¥¢µ ¬±³²þ. ³±µ ²®¾ ¡© ¥Œ ¢ ¬¯° ª ±ª² ±¯¸ª ³ ¥³¦²¢, ¯³¶¾¿ ª©-© °¬©°ª¾ ¡¥¢."
+ khet_mandate.61.a:0 "…±®²ª² ²¥¢µ³"
+ khet_mandate.61.b:0 "¡º¶° ¨²¢±ª°Œ°ª ¬²³"
 
- khet_mandate.62.t:0 "Go With The Flow"
- khet_mandate.62.d:0 "A word has caught the Steward's ear about another Khet feat in the country. It seems the Khet has caused a flood on plantations producing his favourite commodity, causing a boom of this good's production. The farmers appreciate the boons provided by the Khet, as they both appreciate the symbiotic relationship they found themselves in, where one gives fertile land and the other gives fresh produce."
- khet_mandate.62.a:0 "Neat"
- khet_mandate.62.b:0 "Actually, didn't you also love this?"
+ khet_mandate.62.t:0 "‰®º²¿ ± ²¶°ª½"
+ khet_mandate.62.d:0 "ƒ °¯²°ª¬ ¦Œ®ª ®³ª ¡ ¶¦°¯ ±¦¢ª¥ ² ¢ ²°. ¨²¾, ² ¢º©¢® °¢¦°°ª ° ±®°²µª¾, ±ª©¢¦¾¸ª ¥ ®½¡ª¯ºþ ²¢, ¢º©¢¢ ¡³¯ ¥ ±ª©¢¦²¢. Ê¯º µ°¾² ¡®¥¦¾°ª¾ ², ¬¬ ª ¡ °ª µ°¾² ª¯¡ª²ª¶¬ª ²°Œ°ª¾, ¢ ¬²º °ª ¬©®ª¿: ¦ª° ¦² ±®¦¦°³½ ©¯®½,  ¦³¥þ — ¢¨ª ±¦³¬²º."
+ khet_mandate.62.a:0 "ª®"
+ khet_mandate.62.b:0 " ¢¯ ©¢ ¼² ° ±°¢ª®¿?"
 
- khet_mandate.63.t:0 "Harsh Demands"
- khet_mandate.63.d:0 "Sometimes, the Steward of the Sorrow can be overwhelmed with the sheer amount of work that is needed to be done at once. For example, a Khet's thirst for Lorentish wine has been a thing long neglected by the Khetarch, as there were more urgent and mischievous Khets to worry about. Now, he's had enough and the price for it is a blotted sun, causing widespread panic among pretty much everyone in Kheterata apart from the Khets."
- khet_mandate.63.a:0 "Fetch him his wine this instant!"
+ khet_mandate.63.t:0 "Ô³¢º ²¡¢°ª¾"
+ khet_mandate.63.d:0 "†°¥¦ °¯²°ª¬ Ô¬¡ª ¡º¢² ±¥³¨° ¥¯°º¯ ¬®ª¶²¢¯ ¡²º, ¬²³½ °¡¦ª¯ ¢º±®°ª²¿ © ¦ª° ©. ±ª¯, ¨¨¦ ¬² ®°²ªþ¬¥ ¢ª° ¦®¥ ¢¯¾ ²¢®¿ ¡© ¢°ª¯°ª¾ ², ±¬®¿¬³ ³ °¥ ¡º®ª ¡® °³¸°º ª ©°º ¬²º. Ù±¿ ¨  °¥ ¢²ª², ª ±®²þ © ¼² ²® ©±¾²°°° ®°µ, ¢º©¢¢Œ ¢¡¸³½ ±°ª¬³ ±¬²ª¶¬ª ¦ª ¢ ¨ª²®þ ²²º, ¬¯ ¯ª ¬²¢."
+ khet_mandate.63.a:0 "¯¦®°° ±ª°ª² ¯³ ¢ª°!"
 
- khet_mandate.64.t:0 "An Expensive Nap"
- khet_mandate.64.d:0 "One may attribute different adjectives to the race of Khets: moody, mischievous, persistent, lazy. Those would not be the words used by the Khet worshippers, who happened to revere one who has been sleeping for a month in the province of [event_province.GetName]. He positioned himself on a rocky bed of an important trade route leading there and his existence there happened to flock in zealous worshippers of Khet. This amassing of people is blocking the land trade in the province as we speak and merchants would like the Steward to fix it."
- khet_mandate.64.a:0 "Respectfully wake him up"
- khet_mandate.64.b:0 "Send guards to protect his slumber"
+ khet_mandate.64.t:0 "ƒ¥þ °"
+ khet_mandate.64.d:0 "  ¬²¢ ¯¨° ±ª±ª²¿ ©°º ±ª®¥²®¿°º: ³¥½¯ºþ, ©°þ, ³±°ºþ, ®°ª¢ºþ.  ¼² ° ² ®¢, ¬²º ª±®¿©³½² ±¬®°°ª¬ª ¬², ±¶ª²½¸ª ²¥, ¬² ³¨ ¯¾µ ±ª² ¢ ±¢ª°µªª [event_province.GetName]. ° ±®¨ª®¾ ° ¬®ª²¯ ®¨ ¢¦³¸¥ ²³¦ ¢¨°¥ ²¥¢¥ ±³²ª, ª ¥ ³¸²¢¢°ª ²¯ ±ª¢®¬® ¢°²°º ±¬®°°ª¬¢ ². ™² ¬±®°ª ®½¦þ ¯Œ² ³±³²°þ ²¥¢® ¢ ±¢ª°µªª, ª ¬³±µº ²®ª ¡º, ¶²¡º °¯²°ª¬ ª±¢ª® ¼²."
+ khet_mandate.64.a:0 "Ô ¢¯ ±¶²°ª¯ ©¡³¦ª² ¥"
+ khet_mandate.64.b:0 "‰Œ®ª² ²¨³, ¶²¡º °¾²¿ ¥ °."
 
- khet_mandate.65.t:0 "A Rude Sandstorm"
- khet_mandate.65.d:0 "When in company of the Khets, one must behave cautiously and respectfully, as one obviously does not want a god's wrath unleashed upon himself. Unfortunately for him, a notable landowner has knocked over Khet's luggage, causing it to sink in the waters of Sorrow. Least to say, the next day the landowner's residence and its vicinity were met by a huge sandstorm which did not move away from the place it was summoned upon. The Khet is now contemptuous with his retaliation and watches as his creation swirls parts of debris in random directions."
- khet_mandate.65.a:0 "You've got your revenge, please stop now"
- khet_mandate.65.b:0 "I think I've heard this one before"
+ khet_mandate.65.t:0 "€±¸¦°¾ ±¶°¾ ¡³¾"
+ khet_mandate.65.d:0 "Ï ¬¯±°ªª ² °³¨° ¢²ª ¡¾ ²¨° ª ³¢¨ª²®¿°, ¢¦¿ ¶®¢¬ ¾¢° ° ¶², ¶²¡º ° °¥ ¡³Œª®¾ ¥°¢ ¡¥.  °¶²¿½ ¦®¾ °¥, ¦ª° ©°²°ºþ ©¯®¢®¦®µ ±¬ª°³® ¡¥¨ ², ¢ ©³®¿²² ¶¥ ²² ³²°³® ¢ ¢¦ Ô¬¡ª. ® ²¥, ° ®¦³½¸ªþ ¦°¿ ©ª¦°µª½ ©¯®¢®¦®¿µ ª ¥ ¬²°²ª ¢²²ª® ª®¿°þŒ¾ ±¶°¾ ¡³¾, ° ²¦¾¸¾ ² ¯², ° ¬² ° ¡º® ±ª©¢°. Ù±¿ ², ±©¢ ¢ ¢©¯©¦ª, °¡®½¦² © ²¯, ¬¬ ¥ ²¢°ª ©¡º¢² ¡®¯¬ª ¢ ©°º ²°º."
+ khet_mandate.65.a:0 "Ùº ²¯²ª®, ±¨®³þ², ±¬²ª."
+ khet_mandate.65.b:0 "¨²¾, ¾ ³¨ ®ºŒ® ¼²³ ª²ª½."
 
- khet_mandate.66.t:0 "Khet's Delight"
- khet_mandate.66.d:0 "The Khetarch most times is the eldest of the Khets, the one to stand above them as the head of their community. This position in theory bears great responsibilities, but unfortunately in practice most of them are still a specimen of lazy and indifferent species, causing them to drop most of these into mortal appointees like Steward of the Sorrow. In the newest batch of requirements, there is a request from a Khet to get a personal ship and its crew from the navy. It would act as his pleasure barge, shooting cannonballs into the waters to gather fish and giving him the aesthetic he needs."
- khet_mandate.66.a:0 "Grant him his wishes"
- khet_mandate.66.b:0 "Something has to protect the Sorrow"
- khet_mandate.66.tooltip:0 "The §YKhet§! is not amused with our attempt to fool it by moving our ships out of the province..."
+ khet_mandate.66.t:0 "‹®¦ ²"
+ khet_mandate.66.d:0 "Ì¸ ¢¥ ² — ¼² ²Œªþ ª© ¬², ²¾¸ªþ °¦ °ª¯ª ¬¬ ¥®¢ ª ¡¸ª°º. Ù²ª¶¬ª ¼² ¦®¨°²¿ °®¥² ¡®¿Œ³½ ²¢²²¢°°²¿, °, ¬ ¨®°ª½, ° ±¬²ª¬ ¡®¿Œª°²¢ ª© °ª ¢ ¸ž ±¦²¢®¾½² ¡þ ¡©µ ®°ª¢¥ ª ¢°¦³Œ°¥ ¢ª¦, ¶² ©²¢®¾² ª ±³¬²¿ ¡®¿Œª°²¢ ª© °ª ¦ ¯²°º ²¢®°°ª¬¢ ¢¦ °¯²°ª¬ Ô¬¡ª. Ï °¢þ ±µªª ²¡¢°ªþ ²¿ ±¿¡ ¬² ±®³¶ª²¿ ² ´®² ®ª¶°ºþ ¬¡®¿  ¬¯°¦þ. ™² ¡³¦² ¥ ±¥³®¶°¾ ¡¨, ¬²¾ ¡³¦² ²®¾²¿ ±³Œ¶°º¯ª ¾¦¯ª ± ¢¦¯, ¡ª¾ º¡³ ª ±ª¦¢¾ ¯³ °¡¦ª¯³½ ¼²²ª¬³."
+ khet_mandate.66.a:0 "†±®°ª² ¥ ¨®°ª"
+ khet_mandate.66.b:0 "Ì²-² ¦®¨° ©¸ª¸²¿ Ô¬¡¿"
+ khet_mandate.66.tooltip:0 "§Y²§! ° ¢ ¢²¥ ² °Œþ ±±º²¬ª ¡¯°³²¿ ¥, ±¯²ª¢ °Œª ¬¡®ª © ±¦®º ±¢ª°µªª..."
 
- khet_mandate.67.t:0 "Vanity Project"
- khet_mandate.67.d:0 "As [Root.Monarch.GetName] was enjoying his walk across the shores of the Sorrow, a small sand-made visualisation of a temple appeared before himself. It bore a likeness of a Khet and its shape was irregular, but somewhat beautiful. “Um, you hear me?” A voice ringed in his head, as the Steward recognised its bearer instantly. “I'd like to have this built on the Sorrow. Somewhere where people can see me, where people lack a place to worship. Appreciated, Khukhet”"
- khet_mandate.67.a:0 "Sure, we can afford that"
- khet_mandate.67.b:0 "Is it even possible to build such a thing"
- khet_mandate.67.c:0 "Oh, this design can be improved"
+ khet_mandate.67.t:0 "¡¹¬² ²¸®¢ª¾"
+ khet_mandate.67.d:0 "¥¦ [Root.Monarch.GetName] °®¨¦®¾ ±¥³®¬þ ± ¡¥¯ Ô¬¡ª, ±¦ °ª¯ ¢©°ª¬® °¡®¿Œ¾ ¢ª©³®ª©µª¾ ¯, ¦®°°¾ ª© ±¬. ° ¡º® ±¨ ° ¬²,  ¥ ´¯ ¡º® °±¢ª®¿°þ, ° ¦¢®¿° ¬ª¢þ. "™¯¯, ²º ¯°¾ ®ºŒªŒ¿?" ©¦®¾ ¢ ¥®¢ ¥®, ª °¯²°ª¬ ©³ ¨ ³©°® ¥ °ª²®¾. "× ¡º ²®, ¶²¡º ¼² ¡º® ±²° ° Ô¬¡ª. Ù¯, ¥¦ ®½¦ª ¯¥³² ³¢ª¦²¿ ¯°¾, ²¯, ¥¦ ®½¦¾¯ ° ¢²² ¯² ¦®¾ ±¬®°°ª¾. €³¦³ ±ª©°²®°, ³²"."
+ khet_mandate.67.a:0 "°¶°, ¯º ¯¨¯ ¡ ¼² ±©¢®ª²¿."
+ khet_mandate.67.b:0 "¨° ®ª ¢¡¸ ±²ª²¿ °¶² ±¦¡°?"
+ khet_mandate.67.c:0 ", ¼²² ¦ª©þ° ¯¨° ³®³¶Œª²¿."
 
- khet_mandate.68.t:0 "Barging On Through"
- khet_mandate.68.d:0 "While Khets can be mostly correlated to negative events, some of them do not land in the trope of being a menace to society. In this case, an rare case of an extroverted and outgoing Khet is preparing for a tour via the Sorrow, organising several festivities along the way. The people are on the top of their fingertips to receive the Khet, as many pairs are waiting for this exact occasion to gain a blessing for their marriage from a god himself."
- khet_mandate.68.a:0 "Good"
- khet_mandate.68.b:0 "Invite him to the capital instead"
- khet_mandate.68.c:0 "Make sure only the upper classes get access to Khet"
+ khet_mandate.68.t:0 "‰¦°þ ¦¢"
+ khet_mandate.68.d:0 "Û²¾ ²º ¢ °¢°¯ ¢¾©°º  °¥²ª¢°º¯ª ¡º²ª¾¯ª, °¬²º ª© °ª ° ±±¦½² ¢ ¬²¥ª½ ³¥©º ¦®¾ ¡¸²¢. Ï ¦°°¯ ®³¶ ¦¬ªþ ®³¶þ ¼¬²¢²°¥ ª ¡¸ª²®¿°¥ ² ¥²¢ª²¾ ¬ ±³²Œ²¢ª½ ± Ô¬¡ª, ¥°ª©³¾ ± ±³²ª °¬®¿¬ ±©¦°ª¬¢. ˆ½¦ª °±¡þ ±ª°ª¯½² ¥, ¢¦¿ ¯°¥ª ±º ¨¦³² ª¯°° ¼²¥ ®³¶¾, ¶²¡º ±®³¶ª²¿ ¡®¥®¢°ª ° ¢þ ¡¬ ² ¯¥ ¡¥."
+ khet_mandate.68.a:0 "ÛŒ"
+ khet_mandate.68.b:0 "‰ª¥®ª² ¥ ¢ ²®ªµ³ ¢¯² ¼²¥"
+ khet_mandate.68.c:0 "Ô¦®þ² ²¬, ¶²¡º ²®¿¬ ¢º¬¦°º ±®³¶®ª ¦²³± ¬ ²³"
 
- khet_mandate.69.t:0 "The Khetarch Is Not Pleased"
- khet_mandate.69.d:0 "The Khetarch is the head figure of Kheterata. He is the one who leads Khet houses and he is the one source of legitimacy for any Steward of the Sorrow. As of now, he is not happy with [Root.Monarch.GetName] recent handling of the Khets' needs and he threatens to denounce you if this keeps up."
- khet_mandate.69.a:0 "Beg for forgiveness"
- khet_mandate.69.b:0 "Assure him with empty promises"
+ khet_mandate.69.t:0 "² °¦¢®°"
+ khet_mandate.69.d:0 "² — ¥®¢°¾ ´ª¥³ ²²º. †¯°° ° ¢©¥®¢®¾² ¦¯ ¬²¢ ª ¾¢®¾²¾ ¦ª°²¢°°º¯ ª²¶°ª¬¯ ®¥ª²ª¯°²ª ¦®¾ ®½¡¥ °¯²°ª¬ Ô¬¡ª.  ¦°°ºþ ¯¯°² ° °¦¢®° ²¯, ¬¬ [Root.Monarch.GetName] ¢ ±®¦° ¢¯¾ ±¢®¾²¾  °³¨¦¯ª ¬²¢, ª ³¥¨² ¦°²ª ° ¢, ®ª ²¬ ¡³¦² ±¦®¨²¿¾ ª ¦®¿Œ."
+ khet_mandate.69.a:0 "‰±ª²¿ ±¸°ª¾"
+ khet_mandate.69.b:0 "…¢ª²¿ ¥ ±³²º¯ª ¡¸°ª¾¯ª"
 
- khet_mandate.70.t:0 "A Particular Smell"
- khet_mandate.70.d:0 "It is a known thing in the capital city that one of the Khets is friends with a fish stand owner from [event_province.GetName]. This trader's undertaking is easily making money just from the monopoly over his distinguished client's tastes, but as of recent his home has been experiencing almost a curse of abundance. This obviously can be definitely attributed to the Khet's good will, but there is one downside to the new density of fish in the area…"
- khet_mandate.70.a:0 "It smells…smelly"
+ khet_mandate.70.t:0 "¡ºþ ©±"
+ khet_mandate.70.d:0 "Ï ²®ªµ ª©¢²°, ¶² ¦ª° ª© ¬²¢ ¦³¨ª²  ¢®¦®¿µ¯ º¡°þ ®¢¬ª ª© [event_province.GetName]. …²¾ ¼²¥ ²¥¢µ ®¥¬ ±ª°ª² ±ª¡º®¿ ²®¿¬ © ¶² ¯°±®ªª ° ¢¬³º ¢ª ³¢¨¯º ¬®ª°²¢, °  °¦¢°ª ± ¥ ¦¯ ±¨ª¢² ±¶²ª ±¬®¾²ª ª©¡ª®ª¾. ™², ¡©³®¢°, ¯¨° ²°²ª ° ¶² ¦¡þ ¢®ª ², ° ³ ²¬¥ ¡ª®ª¾ º¡º ¢ ¬³¥ ²¿ ª ¡²°¾ ²°..."
+ khet_mandate.70.a:0 "° ±°²... ¦³°"
 
- khet_mandate.71.t:0 "One Khet's Trash"
- khet_mandate.71.d:0 "There once was a lonely shepherd, living in the grasslands of the Sorrow, who tended his sheep and lived a peaceful life. Then one day, the ground around him shook and soon trapped him and his livestock in a cage of solid rock. The shepherd prayed to Khets for forgiveness, as he was a devout man. He tried to seek an escape route for him and his sheep, but he was forced to make a choice: leave the sheep or die with them. He made a dire choice and he stayed alive. On his way out, already mourning his companions, he unexpectedly discovered a deposit of rare metals. Content with his consolation, he thanked the Khets and reported his findings to the authorities."
- khet_mandate.71.a:0 "A faithful's treasure"
+ khet_mandate.71.t:0 "³ ¦°¥ ¬²"
+ khet_mandate.71.d:0 "„ª®-¡º® ° ®³¥ Ô¬¡ª ¦ª°¬ªþ ±²³, ³¨ª¢® © ¢ª¯ª ¢µ¯ª ª ¢® ¯ª°³½ ¨ª©°¿.  ¦°¨¦º ©¯®¾ ¢¬³¥ °¥ ©¦¨® ª ¢¬ ©±® ¥ ª ¥ ¬² ¢ ¬®²¬ ª© ²¢¦þ ±¦º. ‰²³ ¯®ª®¾ ²³  ±¸°ªª, ¢¦¿ ° ¡º® °¡¨°º¯ ¶®¢¬¯. ° ±º²®¾ °þ²ª ¢º¦ ¦®¾ ¡¾ ª ¢ª ¢µ, ° ¯³ ±ªŒ®¿ ¦®²¿ ¢º¡: ²¢ª²¿ ¢µ ª®ª ³¯²¿ ¢¯²  °ª¯ª. ° ¦®® ²¾¨®ºþ ¢º¡ ª ²®¾ ¨ª¢. ‰ ¦¥, ³¨ ±®¬ª¢¾ ¢ª ²¢ª¸þ, ° °¨ª¦°° ¡°³¨ª® ¯²¨¦°ª ¦¬ª ¯²®®¢. ƒ¢®¿°ºþ ¢ª¯ ³²Œ°ª¯, ° ±¡®¥¦ª® ¬²¢ ª ¡¸ª®  ¢þ °¦¬ ¢®²¾¯."
+ khet_mandate.71.a:0 "Ô¬¢ª¸ ¢³½¸¥"
 
- khet_mandate.72.t:0 "Barging into Sorrow"
- khet_mandate.72.d:0 "The pleasure barges are an inseparable part of a Khet's life. Designed specifically for their needs, these constructions are the living testament to the ingeniousness in which Kheteratans try to accommodate their gods' needs. For one of the Khets, this design failed as he raised the Sorrow, so that he could disembark right from the edge of the ship.\nWhat he did not expect was the port he wanted to depart to, sinked into Sorrow, as he promptly brought everything back to normal."
- khet_mandate.72.a:0 "Send out relief"
- khet_mandate.72.b:0 "They can handle themselves"
+ khet_mandate.72.t:0 "Ïþ¦¾ ¢ Ô¬¡¿"
+ khet_mandate.72.d:0 "‰¥³®¶°º ¡¨ª — °²¹¯®¯¾ ¶²¿ ¨ª©°ª ¬². Ô±¬²ª¢°°º ±µª®¿° ¦®¾ ª °³¨¦, ¼²ª ³¨°ª¾ ¾¢®¾½²¾ ¨ª¢º¯ ¢ª¦²®¿²¢¯ ²¥,  ¬¬þ ª©¡²²®¿°²¿½ ¬²º ²½²¾ ³¦¢®²¢ª²¿ ±²¡°²ª ¢ª ¡¥¢. ƒ®¾ ¦°¥ ª© ¬²¢ ¼² ¬°²³¬µª¾ ¬©®¿ °³¦¶°þ: ° ±¦°¾® Ô¬¡¿, ¶²¡º þ²ª ° ¡¥ ±¾¯  ¬¾ ¬¡®¾.\n ° ° ¨ª¦®, ¶² ±², ¢ ¬²ºþ ° ²® þ²ª, ±¥³©ª²¾ ¢ ¢¦º Ô¬¡ª, ª ¡º² ±ª¢® ¢ ¢ °¯³."
+ khet_mandate.72.a:0 "‰®²¿ ±¯¸¿"
+ khet_mandate.72.b:0 "°ª ¯¥³² ±¢ª²¿¾ ¯ª"
 
- khet_mandate.73.t:0 "The Capricious Gods"
- khet_mandate.73.d:0 "Khets are an unpredictable race. What is one day a delight for them, in the other can be an insult to witness. As of now, the Khets have made a surprisingly unilateral decision to reject everything we give out to them in tribute. Even the Khetarch is not willing to communicate with the Steward."
- khet_mandate.73.a:0 "Best to not provoke them any further"
- khet_mandate.73.b:0 "Keep going, something has to work"
+ khet_mandate.73.t:0 "±ª©°º ¡¥ª"
+ khet_mandate.73.d:0 "²º — °±¦¬©³¯¾ . Ù, ¶² ¢ ¦ª° ¦°¿ ¢º©º¢² ³ °ª ¢²¥, ¢ ¦³¥þ ¯¨² ²²¿ ¬¡®°ª¯.  ¦°°ºþ ¯¯°² ¬²º ±ª°¾®ª ³¦ª¢ª²®¿° ¦°²°° Œ°ª ²¢¥²¿ ¢, ¶² ¯º ±¦²¢®¾¯ ª¯ ¢ ¬¶²¢ ¦°ª. ƒ¨ ² ° ¨®² ¡¸²¿¾  °¯²°ª¬¯."
+ khet_mandate.73.a:0 "ˆ³¶Œ ° ±¢µª¢²¿ ª ¦®¿Œ"
+ khet_mandate.73.b:0 "‰¦®¨þ², ¶²-² ¦®¨° ±®³¶ª²¿¾."
 
- khet_mandate.74.t:0 "Mercy of the Khets"
- khet_mandate.74.d:0 "Beautiful news, Steward! The filthy invaders controlling Kheterat have been massacred by the Khets's magical feats, liberating the city for their rightful owners!"
- khet_mandate.74.a:0 "The Khets are with us!"
+ khet_mandate.74.t:0 "ª®¦ª ¬²¢"
+ khet_mandate.74.d:0 "‰¬°º °¢²ª, °¯²°ª¬! ‚¾©°º ©¢²¶ª¬ª, ¬°²®ª³½¸ª Û²², ¡º®ª ³°ª¶²¨°º ¯¥ª¶¬ª¯ª ±¦¢ª¥¯ª ¬²¢, ¢¡¦ª¢ ¥¦ ¦®¾ ¥ ©¬°°º ¢®¦®¿µ¢!"
+ khet_mandate.74.a:0 "²º  °¯ª!"
 
- khet_mandate.99.t:0 "Divine Intervention"
- khet_mandate.99.d:0 "We have breached into Kheterat, the Jewel of the Sorrow, the First Human City, the Elikhet's Legacy and the Khets' home. Daring to plunder its riches, we started to loot the place, as a voice suddenly ringed over the skies:\n“Foreign trespassers, evacuate this city or else, the next sunset shall bring forth the Khets' wrath”. We've naturally ignored this as this wasn't the first time the trick of “The god's imminent wrath” has been used. \nThis was our mistake. Next sunset indeed, a cloud of locusts swept through the city, devouring all our retainers in their path, while leaving Khet's faithful unscathed. The Khets have shown that they are the ones who own the city."
- khet_mandate.99.a:0 "Unbelievable"
+ khet_mandate.99.t:0 "€¨²¢°° ¢¯Œ²®¿²¢"
+ khet_mandate.99.d:0 "º ¢¢®ª¿ ¢ Û²², ¨¯¶³¨ª°³ Ô¬¡ª, ±¢ºþ ¶®¢¶¬ªþ ¥¦, °®¦ª ™®ª² ª ¦¯ ¬²¢. ¯®¢, ¯º °¶®ª ¥¡ª²¿ ¥ ¡¥²²¢, ¬¬ ¢¦³¥ ¢ °¡ ©¦®¾ ¥®:\n"†°²°°º °³Œª²®ª, ±¬ª°¿² ¥¦, ª°¶ ° ®¦³½¸¯ ©¬² ¢ °²ª¥°² ¥°¢ ²". º, ²²¢°°, ±ª¥°ª¢®ª ¼², ²¬ ¬¬ ¼² ¡º® ° ±¢ºþ ®³¶þ ª±®¿©¢°ª¾ ²½¬ "¯ª°³¯ºþ ¥°¢ ¡¥". \n™² ¡º® °Œ Œª¡¬.  ®¦³½¸¯ ©¬² °¦ ¥¦¯ ¦þ²¢ª²®¿° ±°®¿ ²³¶ °¶ª, ±¨¢Œ¾ ° ¢¯ ±³²ª ¢ °Œª ²°°ª¬¢ ª ²¢ª¢Œ¾ ¢°º ²³ °¢¦ª¯º¯ª. ²º ±¬©®ª, ¶² ¥¦ ±ª°¦®¨ª² ª¯."
+ khet_mandate.99.a:0 "¢¾²°"
 
- khet_mandate.75.t:0 "A Trip Abroad" 
- khet_mandate.75.d:0 "Today, an anxious crowd has assembled under the castle. They're fearful for a Khet, who is embarking for a trip abroad across the Sorrow. The Khet obviously can take care of himself with his powers, but the common folk do not share [Root.Monarch.GetName]'s sentiment and they demand an intervention from [Root.Monarch.GetHerHim]."
- khet_mandate.75.a:0 "Let Him Go"
- khet_mandate.75.b:0 "Persuade him to go elsewhere"
+ khet_mandate.75.t:0 "…¥°ª¶° ±³²Œ²¢ª" 
+ khet_mandate.75.d:0 "Ô¥¦°¾ ±¦ ©¯¬¯ ¡®¿ ¢²¢¨°°¾ ²®±. °ª ¡¾²¾ © ¬², ¬²ºþ ²±¢®¾²¾ ¢ ±³²Œ²¢ª ± Ô¬¡ª. ², ¬°¶°, ¯¨² ±©¡²ª²¿¾  ¡  ±¯¸¿½ ¢ª ±¡°²þ, ° ±²º ®½¦ª ° ©¦®¾½² °²°ªþ [Root.Monarch.GetName] ª ²¡³½² [Root.Monarch.GetHerHim] ¢¯Œ²®¿²¢."
+ khet_mandate.75.a:0 "²±³²ª² ¥"
+ khet_mandate.75.b:0 "‹¡¦ª² ¥ ²±¢ª²¿¾ ¢ ¦³¥ ¯²."
 
- khet_mandate.76.t:0 "A Bare Minimum"
- khet_mandate.76.d:0 "Today, when [Root.Monarch.GetName] was washing [Root.Monarch.GetHerHis] face, [Root.Monarch.GetSheHe] received a peculiar note, conjured in a water bowl by one of the Khets.\n\n"Dear Steward, I would like to invite you and your family to accompany us in our barge for a trip across the Sorrow. We're embarking in three days - please make sure your appearance is as natural as possible."\n\nThe royal family showing off their bodies like this would of course be the next hot topic for the next few months, but ignoring the Khet isn't possible either."
- khet_mandate.76.a:0 "Let them bask in our collective glory"
- khet_mandate.76.b:0 "But I have all of these clothes for you, from all of your followers!"
+ khet_mandate.76.t:0 "¡¦ª¯ºþ ¯ª°ª¯³¯"
+ khet_mandate.76.d:0 "Ô¥¦°¾, ¬¥¦ [Root.Monarch.GetName] ³¯º¢®¾, ±¦ °[Root.Monarch.GetSheHe] ±¾¢ª®¿ °¡º¶° ±®°ª, °¬®¦¢°° ¢ ¶Œ  ¢¦þ ¦°ª¯ ª© ¬²¢.\n\n"ƒ¥þ °¯²°ª¬, ¾ ²® ¡º ±ª¥®ª²¿ ¢ ª ¢Œ³ ¯¿½ ²±¢ª²¿¾ ¢¯²  °¯ª ° °Œþ ¡¨ ¢ ±³²Œ²¢ª ± Ô¬¡ª. º ²±¢®¾¯¾ ¢ ±³²¿ ¶© ²ª ¦°¾ — ±¨®³þ², ±©¡²¿²¿  ²¯, ¶²¡º ¢Œ ¢°Œ°ªþ ¢ª¦ ¡º® ¬¬ ¯¨° ¡® ²²¢°°º¯".\n\n°¶°, ², ¶² ¬®¢¬¾ ¯¿¾ ¦¯°²ª³² ¢ª ²® ¢ ²¬¯ ¢ª¦, ²°² ¥¾¶þ ²¯þ ° ¡®ª¨þŒª °¬®¿¬ ¯¾µ¢, ° ª¥°ª¢²¿ ² ²¨ °¢©¯¨°."
+ khet_mandate.76.a:0 "‰³²¿ °ª ¥½²¾ ¢ °Œþ ¡¸þ ®¢"
+ khet_mandate.76.b:0 " ³ ¯°¾ ²¿ ¢¾ ¼² ¦¨¦ ¦®¾ ¢, ² ¢ ¢Œª ±®¦¢²®þ!"
 
- khet_mandate.77.t:0 "A Fine Duel"
- khet_mandate.77.d:0 "As Steward of the Sorrow, [Root.Monarch.GetName] has to withstand the many problems of managing both the Khets and the populace of Kheterata. One of these responsibilities includes being Khets' private secretary, constantly receiving messages about many little inconveniences that need to be fixed or provided.\nIn one of these messages today, the Steward was told by a Khet that he needs fencing lessons and that he only trusts the Steward to be his teacher."
- khet_mandate.77.a:0 "Let him win against you, satisfying his ego"
- khet_mandate.77.b1:0 "Be a proper teacher to him and risk his wrath"
- khet_mandate.77.b2:0 "Stewards have overcome harder problems"
+ khet_mandate.77.t:0 "†©¾¸°¾ ¦³¼®¿"
+ khet_mandate.77.d:0 "¬ °¯²°ª¬³ Ô¬¡ª, [Root.Monarch.GetName] ±ª¦ª²¾ ±¢®¾²¿¾  ¯°¥ª¯ª ±¡®¯¯ª, ¢¾©°°º¯ª  ³±¢®°ª¯ ¬¬ ¬²¯ª, ²¬ ª °®°ª¯ ²²º. ¦° ª© ¼²ª ¡¾©°°²þ — ¡º²¿ ®ª¶°º¯ ¬²¯ ², ±²¾°° ±®³¶¾ ¡¸°ª¾  ¯°¨²¢ ¯®¬ª ®±², ¬²º °¡¦ª¯ ª±¢ª²¿ ª®ª ³¦¢®²¢ª²¿.\nÏ ¦°¯ ª© ¥¦°¾Œ°ª ±®°ªþ °¯²°ª¬ ¡¸ª® ¬²³, ¶² ¯³ °³¨°º ³¬ª ´²¢°ª¾ ª ¶² ° ¦¢¾² °¯²°ª¬³ ¡º²¿ ¥ ³¶ª²®¯."
+ khet_mandate.77.a:0 "‰©¢®¿² ¯³ ¢ºª¥²¿ ³ ¢, ³¦¢®²¢ª¢ ¥ ¼¥."
+ khet_mandate.77.b1:0 "Ô²°¿² ¦®¾ °¥ ¦²þ°º¯ ³¶ª²®¯ ª ª¬°ª² °¢®¶¿ ° ¡¾ ¥ ¥°¢."
+ khet_mandate.77.b2:0 "¯²°ª¬ª ±¦®¢®ª ª ¡® ®¨°º ±¡®¯º"
 
  khet_mandate.78.t:0 "In a Tail's Notice"
  khet_mandate.78.d:0 "It is difficult to be a Khet's subject. Their tastes can be unusual and though they can all be appeased with gold, many other tributes can be as perilous as they can be pleasant.\nThat's a lesson that our newest lizardfolk subject just managed to learn. Their emissaries' newest addition to the tribute were young lizardwomen servants. Unluckily, their beauty did not appease the Khets as they did not appreciate their beauty. In an outraged fit, they turned all of the lizardfolk present into a local type of salamander and promptly started hunting the ones present for amusement.\nThis obviously angered the lizardfolk population, as they are offended both by the rejection of the tribute and the loss of their representatives."
@@ -507,24 +507,24 @@
 ####################
 #####Monuments#####
 ####################
- elikhet_pyramid:0 "Great Pyramid of Elikhet"
- elikhet_pyramid_desc:0 "--------------\nThe Tomb of Elikhet, being the resting place of the most powerful and famous Khet known, is one of the holiest sites in Khetism beyond the Sorrow itself. Atop this tomb a great pyramid has been constructed, acting both as a layer of protection for the tomb itself, as well as a projection of Elikhet's awe inspiring might. It stands as both a reminder of the will of the Khet as well as a monument to their glory."
- elikhet_pyramid_tooltip:0 "Enacting §YSteward Reforms§! will §Grefund the stability§! cost"
+ elikhet_pyramid:0 "Ï®ª¬¾ ±ª¯ª¦ ™®ª¬²"
+ elikhet_pyramid_desc:0 "--------------\n‚¡°ªµ ™®ª¬², ¯² ³±¬°ª¾ ¯¥ ¯¥³¸²¢°°¥ ª ©°¯°ª²¥ ¬², ¾¢®¾²¾ ¦°ª¯ ª© ¯º ¢¾²º ¯² ¢ ¬²ª©¯, ±¯ª¯ ¯þ Ô¬¡ª.  ¢Œª° ¥¡°ªµº ¢©¢¦° ¢®ª¬¾ ±ª¯ª¦, ®³¨¸¾ ¬¬ ©¸ª²þ ¦®¾ ¯þ ¥¡°ªµº, ²¬ ª ±¬µªþ ¢°³Œ½¸þ ¡®¥¥¢°ª ¯¸ª ™®ª¬². ° ®³¨ª² ¬¬ °±¯ª°°ª¯  ¢® ², ²¬ ª ±¯¾²°ª¬¯ ª ®¢º."
+ elikhet_pyramid_tooltip:0 "‰ª°¾²ª §Y´¯ ¯²°ª¬§! §G¢©¯²ª² ©²²º§! ° ²¡ª®¿°²¿"
 
- bronze_dragon_academy:0 "Bronze Dragon Academy"
- bronze_dragon_academy_desc:0 "--------------\nDuring the reign of Aakhet the Bronze, no group was more loyal to the dragon than the Ahati. Their reverence for him went beyond his status as the ruler of Kheterata, attempting to harness the power of a dragon within themselves to increase their fighting power. Although it has been some time since his disappearance, this martial academy has been constructed to give the Ahati renewed purpose; a place for them to hone their skills as they did in centuries past."
- bronze_dragon_academy_tooltip:0 "§YAhati§! regiments will gain:\nLand Fire Damage: §G+15.0%§!" 
- bronze_dragon_academy_modifier:0 "Bronze Dragon Academy"
+ bronze_dragon_academy:0 "¬¦¯ª¾ €°©¢¥ ƒ¬°"
+ bronze_dragon_academy_desc:0 "--------------\nÏ ¢¯° ±¢®°ª¾ ¬² €°©¢¥ °ª ¦° ¥³±± ° ¡º® ²¬ ±¦° ¦¬°³, ¬¬ ²ª. °ª ±¶ª²®ª ¥ ° ²®¿¬ ¬¬ ±¢ª²®¾ ²²º, ° ª ±º²®ª¿ ª±®¿©¢²¿ ª®³ ¦¬° ¦®¾ ±¢ºŒ°ª¾ ¢þ ¡¢þ ¯¸ª. Û²¾  ¯¯°² ¥ ª¶©°¢°ª¾ ±Œ® ³¨ °¯® ¢¯°ª, ¼² ¡¢¾ ¬¦¯ª¾ ¡º® ±²°, ¶²¡º ¦²¿ ²ª °¢³½ µ®¿; ¯², ¥¦ °ª ¯¥®ª ¡º ²²¶ª¢²¿ ¢ ¯²²¢, ¬¬ ¼² ¡º® ¢ ±Œ®º ¢¬."
+ bronze_dragon_academy_tooltip:0 "‰®¬ª §Y²ª§! ±®³¶²:\nLand Fire Damage: §G+15.0%§!" 
+ bronze_dragon_academy_modifier:0 "¬¦¯ª¾ €°©¢¥ ƒ¬°"
  
- decadence_statues:0 "The Decadent Twins"
- decadence_statues_desc:0 "--------------\nTwo large identical statues of muscular Khet flank either side of the Sorrow in the city of Niramit. It is here the Khet gather to partake in more… mortal pleasures… For this reason, as well as the breathtaking sights the statues create, it has resulted in the city becoming a popular place to visit, and thus do trade within."
- decadence_statues_tooltip:0 "The §YKhet§! and their §Yactivities§! will be less disruptive"
+ decadence_statues:0 "€®ª©°µº-¦¬¦°²º"
+ decadence_statues_desc:0 "--------------\nƒ¢ ¡®¿Œª ¦ª°¬¢º ²²³ª ¯³¬³®ª²º ² ²¾² ± ¡ ²°º Ô¬¡ª ¢ ¥¦ ª¯ª². †¯°° ©¦¿ ¬²º ¡ª½²¾, ¶²¡º ±¦²¿¾ ¡®... ¯²°º¯ ³²¯... ‰ ¼²þ ±ª¶ª°,  ²¬¨ ª©-© ©¢²º¢½¸ª ¦³ ¢ª¦¢, ©¦¢¯º ²²³¾¯ª, ¥¦ ²® ±±³®¾°º¯ ¯²¯ ¦®¾ ±¸°ª¾,  ©°¶ª², ª ¦®¾ ²¥¢®ª."
+ decadence_statues_tooltip:0 "§Y²§! ª ª §Y¦þ²¢ª¾§! ¡³¦³² ¯° ©³Œª²®¿°º¯ª"
 
 
 ####################
 #####Subjects#####
 ####################
- medasi_subject:0 "¦Œª"
+ medasi_subject:0 "Medasi"
  medasi_subject_title:0 "Medasi"
  medasi_subject_title_plural:0 "Medasi"
  medasi_subject_is_our:0 "$NAME|Y$ is our Medasi"
@@ -542,7 +542,7 @@
 ####################
 #####Ahati#####
 ####################
- estate_ahati:0 "²ª"
+ estate_ahati:0 "Ahati"
  estate_ahati_desc:0 "The Ahati, split in the Northern and Southern brotherhoods form a unique group within Kheteratan society. They represent the two brotherhoods, Northern and Southern, and offer us their support in a myriad of fields, most of them of a militaristic nature. They do however ask a hefty price, and not one of money…"
  estate_ahati_ownership:0 "Ahati Land Ownership"
  ahati_loyalty_modifier:0 "Ahati Loyalty Equilibrium"
@@ -839,8 +839,8 @@
  ahati_events.114.a:0 "You're still loyal, right? right?!"
 
  ahati_events.115.t:0 "Loosened Grip"
- ahati_events.115.d:0 "Everything seemed unassuming as the messenger approached the fortress.The walls were manned, but not by regular soldiers, they were Ahati. When approaching the gate the military scribe was halted by an Ahati guard. "Those who still remain loyal to the illegitimate steward of the Sorrow will be barred from entrance". These stern words from the guard confused the scribe, and he replied: "I am a loyal soldier of [Root.Monarch.GetTitle] [Root.Monarch.GetName] and I must be let through. We have both sworn to uphold justice in these lands and to protect the Steward of the Sorrow in all capacities." The guard looked unimpressed and simply replied: That is true, yet the fool you follow is no longer the true Steward of the Sorrow. Either you swear loyalty to the true Stewards or you get lost." Angered and irritated, the scribe turned and went back to his outpost to report what had happened.\n\nWe have a myriad of similar occurrences of the Ahati refusing our armies, state merchants, and scribes entrance to towns, forts, or agricultural estates. All of them report that the Ahati have simply stopped acknowledging our [Root.Monarch.GetTitle] as the Steward and seem to claim the title for themselves, foolish as it may be. More and more sectors along the Sorrow seem to have entered a state of de facto independence, as the Ahati refused to pay taxes, send the harvest, or even let non-Ahati merchants do business in the places they occupy."
- ahati_events.115.a:0 "Will there ever be an end to the suffering??"
+ ahati_events.115.d:0 "Everything seemed unassuming as the messenger approached the fortress.The walls were manned, but not by regular soldiers, they were Ahati. When approaching the gate the military scribe was halted by an Ahati guard. "Those who still remain loyal to the illegitimate steward of the Sorrow will be barred from entrance". These stern words from the guard confused the scribe, and he replied: "I am a loyal soldier of [Root.Monarch.GetTitle] [Root.Monarch.GetName] and I must be let through. We have both sworn to uphold justice in these lands and to protect the Steward of the Sorrow in all capacities." The guard looked unimpressed and simply replied: "That is true, yet the fool you follow is no longer the true Steward of the Sorrow. Either you swear loyalty to the true Stewards or you get lost." Angered and irritated, the scribe turned and went back to his outpost to report what had happened.\n\nWe have a myriad of similar occurrences of the Ahati refusing our armies, state merchants, and scribes entrance to towns, forts, or agricultural estates. All of them report that the Ahati have simply stopped acknowledging our [Root.Monarch.GetTitle] as the Steward and seem to claim the title for themselves, foolish as it may be. More and more sectors along the Sorrow seem to have entered a state of de facto independence, as the Ahati refused to pay taxes, send the harvest, or even let non-Ahati merchants do business in the places they occupy."
+ ahati_events.115.a:0 "Will there ever be an end to the suffering?"
 
  ahati_events.116.t:0 "No more Submission"
  ahati_events.116.d:0 "When we asked the Ahati to watch over our subjects and their administrative and military matters, we were ecstatic. The Ahati would on our cost improve the inner workings of our subjects and in return those subjects would remain content under our protection. A more perfect deal seemed to be impossible. Yet, it now seems to actually have backfired. The Ahati hold significant influence over our subjects and tributaries and have started to use this influence to incite rebellion, disloyalty, or outright sedition. We cannot fully rely on our subjects any longer and can expect them to remain at the sidelines when the Ahati decide to make a move. Waiting to see who comes out on top."
@@ -926,7 +926,7 @@
  ahati_events.171.tooltip:0 "With §YAakheta§! crushed, the Ahati have §Ylost considerable influence§!"
 
  ahati_events.172.t:0 "Dragonsworn Victory"
- ahati_events.172.d:0 "A massive crowd gathered on the central market square of Kheterat. In the capital of their vanquished foes, the entire leadership of the Ahati Brotherhoods gathered for the declaration of victory. Standing on a podium, which was normally used for state announcements, the [Root.Monarch.GetTitle] began to speak:\n\n"Fellow denizens of the Sorrow, remember this day! The day on which the true Stewards of the Sorrow, the followers of the great Bronze Dragon Aakhet, assumed their role as protectors of the people's freedom, the guardians of peace and the deliverers of justice and security. This day will go down in history as the day the Dragonsworn liberated the people from the chains, brought upon you by the kings of Kheterata. There will, from now on, be true order, true justice and true freedom. All who can fight, will get fame, all who can work, shall get renown, and all who show honour, shall be immortalised! Do not fear us, for the Ahati are here to serve the people, to guide the people, to enlighten the people! We will bring you all much. In our new realm there will be…"
+ ahati_events.172.d:0 "A massive crowd gathered on the central market square of Kheterat. In the capital of their vanquished foes, the entire leadership of the Ahati Brotherhoods gathered for the declaration of victory. Standing on a podium, which was normally used for state announcements, the [Root.Monarch.GetTitle] began to speak:\n\n"Fellow denizens of the Sorrow, remember this day! The day on which the true Stewards of the Sorrow, the followers of the great Bronze Dragon Aakhet, assumed their role as protectors of the people's freedom, the guardians of peace and the deliverers of justice and security. This day will go down in history as the day the Dragonsworn liberated the people from the chains, brought upon you by the kings of Kheterata. There will, from now on, be true order, true justice and true freedom. All who can fight, will get fame, all who can work, shall get renown, and all who show honour, shall be immortalised! Do not fear us, for the Ahati are here to serve the people, to guide the people, to enlighten the people! We will bring you all much. In our new realm there will be…""
  ahati_events.172.a:0 "Peace, Freedom, Justice, and Security!"
  ahati_events.172.b:0 "Aakheta, Eternal"
 
@@ -945,24 +945,24 @@
 #####Decisions#####
 ####################
 
- kheterata_nation_title:0 "Reform Kheterata"
- kheterata_nation_desc:0 "With our conquest of the cities of Kheterat, Nirat and Anarat we can hold ourselves as the true successor to the Kingdom of Kheterata! Let us adopt this identity as the heirs of Elikhet."
+ kheterata_nation_title:0 "Ð´¯ª¢²¿ ²²³"
+ kheterata_nation_desc:0 "…¢¢¢ ¥¦ ²², ª² ª °², ¯º ¯¨¯ ¶ª²²¿ ¡¾ ª²ª°°º¯ª °®¦°ª¬¯ª ¬®¢²¢ ²²! ƒ¢þ² ±ª¯¯ ¼² ª¯¾ ¬¬ °®¦°ª¬ª ™®ª¬²."
 
- khet_mandate_restore_mandate_title:0 "Claim the Stewardship of the Sorrow"
- khet_mandate_restore_mandate_desc:0 "While the Stewardship was broken, the Khet were not. And now that we have taken these lands, can we restore the Stewardship of the Sorrow once more, giving us the prestige, power, and respect that comes with it!"
- khet_mandate_restore_mandate_tooltip:0 "The §YKhet§! have NOT been exterminated"
+ khet_mandate_restore_mandate_title:0 "‰²°¦¢²¿ ° ¯²°ª¶²¢ Ô¬¡ª"
+ khet_mandate_restore_mandate_desc:0 "Û²¾ °¯²°ª¶²¢ ¡º® °³Œ°, ¬²º ° ±²¦®ª. † ²±¿, ¬¥¦ ¯º ©¢²ª®ª ¼²ª ©¯®ª, ¯º ¯¨¯ °¢ ¢²°¢ª²¿ °¯²°ª¶²¢ Ô¬¡ª, ¶² ¦² °¯ ±²ª¨, ¢®²¿ ª ³¢¨°ª, ¬²º ±³²²¢³½² ¼²¯³!"
+ khet_mandate_restore_mandate_tooltip:0 "§Y²º§!  ¡º®ª ª²¡®°º"
 
- khet_mandate_xhaz_kill_khet_title:0 "Destroy the Khet"
- khet_mandate_xhaz_kill_khet_desc:0 "True power comes from violence, whether one is a god, demon or gnoll. And by taking this land, we have gained the right to wield true power, not these weak and pompous cats who indulge in nothing but pleasures and debauchery. The Khet will be eradicated, none to be spared so as to prevent any of these humans from worshipping them ever again. The citizens of the Sorrow will serve us instead!"
+ khet_mandate_xhaz_kill_khet_title:0 "‹°ª¶²¨ª²¿ ²"
+ khet_mandate_xhaz_kill_khet_desc:0 "†²ª°°¾ ¢®²¿ ±ª¦ª² ¶© °ª®ª, ¡³¦¿ ² ¡¥, ¦¯° ª®ª ¥°®®. …¢²ª¢ ¼²³ ©¯®½, ¯º ±®³¶ª®ª ±¢ ¡®¦²¿ ª²ª°°þ ¢®²¿½,  ° ¼²ª ®¡º ª °±º¸°°º ¬²º, ¬²º ±¦½²¾ ®ªŒ¿ ³¦¢®¿²¢ª¾¯ ª ©¢²³. ²º ¡³¦³² ³°ª¶²¨°º, ª °ª¬² ° ¡³¦² ±¸¨ž°, ¶²¡º °ª¬² ª© ¼²ª ®½¦þ ¡®¿Œ ° ¯¥ ª¯ ±¬®°¾²¿¾. Ï¯² ¼²¥ ¨ª²®ª Ô¬¡ª ¡³¦³² ®³¨ª²¿ °¯!"
 
- khet_mandate_complete_ahati_agenda_title:0 "Ahati: Leverage Authority"
- khet_mandate_complete_ahati_agenda_desc:0 "We have, through giving them privileges and rights, placated the Ahati to such a degree that we can, if we want, change the deals we make with them at a whim. They will, if we pay the right price, forget about any agenda they had set for us."
- khet_mandate_complete_ahati_agenda_tooltip:0 "This Estate Interaction can only be done once every §Y20§! years."
- khet_mandate_complete_ahati_agenda_tooltip2:0 "Automatically complete the Estate Agenda of the §YAhati§!"
+ khet_mandate_complete_ahati_agenda_title:0 "²ª: Ðº¶¥ ¢®²ª"
+ khet_mandate_complete_ahati_agenda_desc:0 "‰¦²¢ª¢ ª¯ ±ª¢ª®¥ªª ª ±¢, ¯º ³¯ª²¢ª®ª ²ª °²®¿¬, ¶² ¯¨¯, ®ª ©²ª¯, ± ¢þ ±ª²ª ª©¯°ª²¿ ©¬®½¶ž°°º  °ª¯ª ¦®¬ª.  ®ª ¯º ©±®²ª¯ °³¨°³½ µ°³, °ª ©¡³¦³² ¡ ¢ ±®°, ¬²º °ª ¦®¾ ° °¯²ª®ª."
+ khet_mandate_complete_ahati_agenda_tooltip:0 "™² ¢©ª¯¦þ²¢ª  Ô®¢ª¯ ¯¨° ³¸²¢®¾²¿ ²®¿¬ © ¢ §Y20§! ®²."
+ khet_mandate_complete_ahati_agenda_tooltip2:0 "¢²¯²ª¶¬ª ¢º±®°ª² ±¦®¨°ª ®¢ª¾ §Y²ª§!"
  ahati_agenda_completion_timer:0 ""
 
- khet_mandate_ai_master_decision_title:0 "AI mandate manager"
- khet_mandate_ai_master_decision_desc:0 "ai so dumb"
+ khet_mandate_ai_master_decision_title:0 "‹±¢®¾½¸ªþ ¯°¦²¯ ††"
+ khet_mandate_ai_master_decision_desc:0 "†† ²¬þ ²³±þ"
 
 
 ####################
@@ -971,115 +971,115 @@
 
 
  #2
- mandate_mt_stabilize_realm_title:0 "Stabilize the Realm"
- mandate_mt_stabilize_realm_desc:0 "The Sorrow has been defiled with blood these past years, and only the maintenance of its inexorable flow will wash out the corruption. We who claim to maintain these lands must rebuild what has been destroyed and set our talents to the mundane tasks of administrative reform, economic development and logistics; or the great edifice of state will collapse before it can assert itself."
+ mandate_mt_stabilize_realm_title:0 "Ô²¡ª®ª ©ª¢²¿ ¥³¦²¢"
+ mandate_mt_stabilize_realm_desc:0 "… ±®¦°ª ¥¦º Ô¬¡¿ ¡º® ¬¢°° ¬¢¿½, ª ²®¿¬ ±¦¦¨°ª ž °³¯®ª¯¥ ±²¬ ¯² ¬³±µª½. º, ±²°¦³½¸ª ° °°ª ¼²ª ©¯®¿, ¦®¨°º ¢²°¢ª²¿ ©³Œ°° ª °±¢ª²¿ ¢ª ²®°²º ° Œ°ª ³²ª°°º ©¦¶ ¦¯ª°ª²²ª¢°þ ´¯º, ¼¬°¯ª¶¬¥ ©¢ª²ª¾ ª ®¥ª²ª¬ª; ª°¶ ¢®ª¬ ¥³¦²¢ ³°², ° ³±¢ ©¾¢ª²¿  ¡."
 
- mandate_mt_destroy_gnolls_title:0 "Destroy the Gnolls"
- mandate_mt_destroy_gnolls_desc:0 "Of all threats on Halann, the gnolls are the most pernicious, the most immediate. The Sorrow must be cleansed from source to delta, and neither the desert nor the mountain can be allowed to harbour their kind. We know from bitter memory that gnolls allowed to lick their wounds will return, again and again."
+ mandate_mt_destroy_gnolls_title:0 "‹°ª¶²¨ª²¿ ¥°®®¢"
+ mandate_mt_destroy_gnolls_desc:0 "†© ¢ ³¥©, °¢ªŒª °¦ Û®°°¯, ¥°®®º — ¯¾ ±¥³¡°¾ ª ¯¾ °±¦²¢°°¾. Ô¬¡¿ ¦®¨° ¡º²¿ ¶ª¸° ² ª²¬¢ ¦ ¦®¿²º, ª °®¿©¾ ±©¢®ª²¿ °ª ±³²º°, °ª ¥¯ ±ª½²ª²¿ ª ¦. º ©°¯ ± ¥¿¬þ ±¯¾²ª, ¶² ¥°®®º, ¬²º¯ ±©¢®ª®ª ©®ª©º¢²¿ ¢ª °º, ¡³¦³² ¢©¢¸²¿¾ °¢ ª °¢."
 
- mandate_mt_faith_and_gold_title:0 "Faith and Gold"
- mandate_mt_faith_and_gold_desc:0 "Any ruler hoping to claim true authority over these lands must show patronage to the Upper Sorrow, and particularly to its great cities, the living memory of our people. Golkorra glimmers in the desert sun, home to one of the largest gold mines in the known world and to a vast, half-dilapidated district of jewellers' workshops and warehouses. Niramit is the holy source, once a place where any figure of consequence would maintain a pleasure villa for their pilgrimages. Let us restore these cities to their ancient glory."
+ mandate_mt_faith_and_gold_title:0 "Ï ª ©®²"
+ mandate_mt_faith_and_gold_desc:0 "ˆ½¡þ ±¢ª²®¿, °¦½¸ªþ¾ ±²°¦¢²¿ ° ª²ª°°³½ ¢®²¿ °¦ ¼²ª¯ª ©¯®¾¯ª, ¦®¨° ¬©º¢²¿ ±¬¢ª²®¿²¢ Ï°þ Ô¬¡ª, ª ¡°° ž ¢®ª¬ª¯ ¥¦¯, ¨ª¢þ ±¯¾²ª °Œ¥ °¦. ‚®¬ ¢¬² ±¦ ®°µ¯ ±³²º°ª, ¥¦ °¦ª²¾ ¦ª° ª© ¬³±°þŒª ©®²º ³¦°ª¬¢ ¢ ª©¢²°¯ ¯ª ª ¥¯°ºþ, ±®³©³Œ°°ºþ þ° ½¢®ª°º ¯²¬ª ª ¬®¦¢. ª¯ª² — ¢¾²þ ª²¶°ª¬, °¬¥¦ ®³¨ª¢Œªþ ¯²¯, ¥¦ ®½¡þ ¢ª¦°ºþ ¦¾²®¿ ¦¨® ³¢®ª²®¿°³½ ¢ª®®³ ¦®¾ ¢ª ±®¯°ª¶²¢. ƒ¢þ² ¢°ž¯ ¼²ª¯ ¥¦¯ ª ¦¢°½½ ®¢³."
 
 
  #3
- mandate_mt_reclaim_kheterata_title:0 "Reclaim Kheterata"
- mandate_mt_reclaim_kheterata_desc:0 "Not in living memory has Kheterata been in such crisis. Tracts of territory ceded to sun cultists, gnolls massing at the gates, authority critically eroded; whichever state seeks to stagger out from all of this must assert control, and do so right now. The heartland of the Khet must be pacified and the Sorrow defended."
+ mandate_mt_reclaim_kheterata_title:0 "²¢¢²¿ ²²³"
+ mandate_mt_reclaim_kheterata_desc:0 "ª¬¥¦ ¸ž ²² ° ±¨ª¢® ²¬¥ ¬ª©ª. Ùª²ªª ²Œ®ª ¬³®¿²ª²¯ Ô®°µ, ¥°®®º ²®±ª®ª¿ ³ ¢², ¢²ª²² ¬ª²ª¶¬ª ±¦¢°; ¬¬ ¡º ¥³¦²¢ °ª ±º²®¿ ¢º¬¡¬²¿¾ ª© ¢¥ ¼²¥, ° ¦®¨° ³²°¢ª²¿ ¬°²®¿, ª ¦®²¿ ¼² °³¨° ±¾¯ þ¶. Ô¦µ©¯¿ ² ¦®¨° ¡º²¿ ³¯ª²¢°,  Ô¬¡¿ — ©¸ª¸°."
 
- mandate_mt_lake_nirakhet_title:0 "Lake Nirakhet"
- mandate_mt_lake_nirakhet_desc:0 "Our great river Sorrow is one soul, one body, birthed from the Lake at its source as Elikhet was birthed from Nirakhet. Mother and child must be reunited, and a single authority asserted from source to delta."
+ mandate_mt_lake_nirakhet_title:0 "© ª²"
+ mandate_mt_lake_nirakhet_desc:0 "Œ ¢®ª¬¾ ¬ Ô¬¡¿ — ¼² ¦° ¦³Œ, ¦° ²®, ¨¦ž°° ª© © ³ ª²¬¢, ¬¬ ™®ª¬² ¡º® ¨¦ž° ª© ª¬². ²¿ ª ¦ª²¾ ¦®¨°º ¢¦ª°ª²¿¾, ª ¦ª°¾ ¢®²¿ ¦®¨° ¡º²¿ ³²¢¨¦° ² ª²¬ ¦ ¦®¿²º."
 
- mandate_mt_fangaula_title:0 "Break Fangaula"
- mandate_mt_fangaula_desc:0 "The full length of the Sorrow is ours, yet threats to the river have always come from just beyond, the hinterlands just out of sight. Gnolls brood in Fangaula, waiting for a chance to strike, while their human neighbours feud and dream of empire. Any power might rise from there, seeking to make itself the next master of the Sorrow. Let us break them before they can do so."
+ mandate_mt_fangaula_title:0 "Ð©¡ª²¿ Ê°¥³®³"
+ mandate_mt_fangaula_desc:0 "Ô¬¡¿ ±ª°¦®¨ª² °¯ ± ¢þ ¦®ª°, ° ³¥©º ¦®¾ ¬ª ¢¥¦ ª¦ª®ª ª©-© ž ±¦®¢, ª© ¥®³¡ª°°º þ°¢. ‚°®®º ©²ª®ª¿ ¢ Ê°¥³®, ¨ª¦¾ ³¦¡°¥ ®³¶¾ ¦®¾ ³¦,  ª ¦ª-®½¦ª ¢¨¦³½² ª ¯¶²½² ¡ ª¯±ªª. ²²³¦ ¯¨² ±¦°¾²¿¾ ®½¡¾ ª®, ²¯¾¸¾¾ ²²¿ ®¦³½¸ª¯ ©¾ª°¯ Ô¬¡ª. ƒ¢þ² ®¯ª¯ ª ±¨¦, ¶¯ °ª ¯¥³² ¼² ¦®²¿."
 
- mandate_mt_lizards_title:0 "Humiliate the Lizards"
- mandate_mt_lizards_desc:0 "Our libraries still hold accounts of those ancient wars with the lizardfolk of the south, at a time when Kheteratan influence spanned across the continent. A truly great Kheterata must take these lizardfolk to task and subject them to our authority, restoring the world-empire of our ancestors."
- mandate_mt_lizards_tooltip:0 "Every existing §YLizard§! country is our §Ysubject§!"
+ mandate_mt_lizards_title:0 "‹°ª©ª²¿ ¾¸¢"
+ mandate_mt_lizards_desc:0 "Ï °Œª ¡ª¡®ª²¬ ¦ ª ± °¾²¾ ¢ª¦²®¿²¢ ² ¦¢°ª ¢þ°  ¾¸®½¦¯ª ½¥, ¬¥¦ ¬²²¬ ¢®ª¾°ª ±²°¾®¿ ° ¢¿ ¬°²ª°°². †²ª°° ¢®ª¬ªþ ²² ¦®¨° ¢©¾²¿ ¼²ª ¾¸¢ ¢ ±®° ª ±¦¶ª°ª²¿ ª °Œþ ¢®²ª, ¢²°¢ª¢ ¯ª¢³½ ª¯±ª½ °Œª ±¦¬¢."
+ mandate_mt_lizards_tooltip:0 "Ï ³¸²¢³½¸ª ²°º §Y¾¸®½¦¢§! ¾¢®¾½²¾ °Œª¯ª §Y³¡¹¬²¯ª§!"
 
  #4
- mandate_mt_anarat_title:0 "Anarat, City of Wealth"
- mandate_mt_anarat_desc:0 "Innumerable starlit desert caravans converge outside Anarat, the resting place. At Anarat's heart, the so-called "indoor trade" of the city's six separate river markets offers any product one could name, while beyond the oft-rebuilt walls of the city-proper a thousand rickety caravanserais rattle in the wind. Each of them is flanked in turn by tented merchants selling provisions, travelling gear and star charts - the "outdoor trade".\n\nThese two great sources of wealth have often battled one another, struggling for recognition and authority, but they need not do so. We should regularise the river markets, roofing one or two to create luxury concourses, and sponsor permanent state-owned brick caravanserais at each of the major municipal gates with formal, spaced plots. The endless hidden wealth of the desert will be gathered here, as one's hands cup the sand."
+ mandate_mt_anarat_title:0 "°², ¥¦ ¡¥²²¢"
+ mandate_mt_anarat_desc:0 "… ±¦®¯ª °², ¯² ²¦º, ¦¾²¾ ¡¶ª®°°º ¬¢°º ª© ±³²º°ª, ¢¸ž°°þ ©¢ž©¦¯ª. Ï ¯¯ µ°² °², ° Œ²ª ²¦®¿°º ¶°º º°¬ ¥¦, ª¦ž² ²¬ °©º¢¯¾ "¢°³²°°¾¾ ²¥¢®¾", ¥¦ ¯¨° ¬³±ª²¿ ®½¡þ ²¢,  © ¦¢° ²²°°º¯ª ²°¯ª ¥¦-¬±²ª ° ¢²³ ¥¶³² ²º¾¶ª Œ²¬ª ¬¢°-¢.  ¬¨¦¯³ ª© °ª ±¶ž¦° ±ª¯º¬½² ±®²¬ª ²¥¢µ¢, ±¦½¸ª ±¢ª©ª½, ¦¨° °¾¨°ª ª ©¢ž©¦°º ¬²º — ¼² "²¥¢®¾ ° ²¬º²¯ ¢©¦³".\n\n™²ª ¦¢ ¢®ª¬ª ª²¶°ª¬ ¡¥²²¢ ¶² ¢¨¦¢®ª ¦³¥  ¦³¥¯, ¡¾¿ © ±ª©°°ª ª ¢²ª²², ° ¢ ¼²¯ °² °¡¦ª¯²ª. º ¦®¨°º ³±¾¦¶ª²¿ ¶°º º°¬ª, ±²ª²¿ ¦ª° ª®ª ¦¢, ¶²¡º ©¦²¿ ¬Œ°º ¬°¥º, ª ±°ª¢²¿ ±²¾°°º ¬ª±ª¶°º ¬¢°-ª, ±ª°¦®¨¸ª ¥³¦²¢³, ³ ¬¨¦º ª© ¥®¢°º ¯³°ªµª±®¿°º ¢²  ´ªµª®¿°º¯ª, ©¦®ž°°º¯ª ³¶²¬¯ª. …¦¿, ±¦¡° ²¯³, ¬¬ ³¬ª °±®°¾½²¾ ±¬¯, ¡³¦³² ¡°º ¡¬°¶°º ¬º²º ¡¥²²¢ ±³²º°ª."
 
- mandate_mt_gnome_scribes_title:0 "Gnomish Scribes"
- mandate_mt_gnome_scribes_desc:0 "Our gnomish population at the very mouth of the Sorrow have long become a part of our society, albeit an unusually urbane, literate and well-educated part. Administration on the delta has been greatly eased by such a large population of literate clerks, and we could greatly benefit from introducing gnomish communities elsewhere, in smaller regional towns, with specific corporate protections and guarantees of state employment. Not only could these clerks aid in making routine administration more efficient, but they can help us implement government policy even when the local nobility proves resistant."
+ mandate_mt_gnome_scribes_title:0 "‚°¯¿ª ±ªµº"
+ mandate_mt_gnome_scribes_desc:0 "Œ ¥°¯¿ °®°ª ¢ ¯¯ ³²¿ Ô¬¡ª ³¨ ¦¢° ²® ¶²¿½ °Œ¥ ¡¸²¢, ²¾ ª °¡º¶þ° ³¡°ª©ª¢°°þ, ¥¯²°þ ª ¡©¢°°þ ¶²¿½. ‹±¢®°ª ¢ ¦®¿² ©°¶ª²®¿° ¡®¥¶ª®¿ ¡®¥¦¾ ²¬¯³ ¡®¿Œ¯³ ¬®ª¶²¢³ ¥¯²°º ¬®¬¢, ª ¯º ¯¥®ª ¡º ª©¢®¶¿ ¡®¿Œ³½ ±®¿©³, ®ª ¡º ¢¢®ª ¥°¯¿ª ¡¸ª°º ¢ ¦³¥ª ¯², ¢ °¡®¿Œª ¥ª°®¿°º ¥¦,  ¡º¯ª ¬±²ª¢°º¯ª ©¸ª²¯ª ª ¥°²ª¾¯ª ¥³¦²¢°°þ ©°¾²²ª. Ù¬ª ¬®¬ª ° ²®¿¬ ±¯¥³² ¦®²¿ ³²ª°° ³±¢®°ª ¡® ¼´´¬²ª¢°º¯, ° ª ±¯¥³² °¯ ±¢¦ª²¿ ¥³¦²¢°°³½ ±®ª²ª¬³, ¦¨ ®ª ¯²° ¦¢¾°²¢ ¡³¦² ±²ª¢®¾²¿¾."
 
- mandate_mt_waters_life_title:0 "Waters of Life"
- mandate_mt_waters_life_desc:0 "It is not enough simply to hold the Sorrow from source to delta - we must also defend it, guard it with our lives. Rulers of the Sorrow fall when they grow complacent in their duty, when the empty desert horizon ceases to inspire the proper respect and wariness. Large communities, well-defended and provisioned, will be the key to our continued rule of the river."
+ mandate_mt_waters_life_title:0 "Ï¦º ¨ª©°ª"
+ mandate_mt_waters_life_desc:0 "¦²²¶° ±² ³¦¨ª¢²¿ Ô¬¡¿ ² ª²¬¢ ¦ ¦®¿²º — ¯º ¦®¨°º ¸ž ª ©¸ª¸²¿ ž, °¾²¿ ž ¢ª¯ª ¨ª©°¾¯ª. ‰¢ª²®ª Ô¬¡ª ±¦½², ¬¥¦ ³±¬ª¢½²¾ ° ¢ž¯ ¦®¥, ¬¥¦ ±³²þ ¥ª©°² ±³²º°ª ±²ž² ¢°³Œ²¿ ¦®¨° ³¢¨°ª ª °²¨°°²¿. ³±°º ±®°ª¾, Œ ©¸ª¸°°º ª ¡±¶°°º ±¢ª©ªþ, ²°³² ©®¥¯ °Œ¥ ¦®¿°þŒ¥ ¢®¦º¶²¢ °¦ ¬þ."
 
 
  #5
- mandate_mt_steward_title:0 "Steward of the Sorrow"
- mandate_mt_steward_desc:0 "It is one thing to claim a throne and quite another to rule. This is true of even the most primitive desert clan, yet alone the Stewardship. We must begin to reassert the Sorrow as the very centre of this world, the fulcrum around which it might be moved. The favour and support of the Khet lies always in a tricky balance with the authority and support base of our temporal state."
+ mandate_mt_steward_title:0 "¯²°ª¬ Ô¬¡ª"
+ mandate_mt_steward_desc:0 "¦° ¦® — ±²°¦¢²¿ ° ²°, ª ¢¯ ¦³¥ — ±¢ª²¿. ™² ¢° ¦¨ ¦®¾ ¯¥ ±ª¯ª²ª¢°¥ ±³²º°°¥ ¬®°, ¶² ³¨ ¥¢ª²¿  °¯²°ª¶²¢. º ¦®¨°º ¢°¢¿ ³²¢¦ª²¿ Ô¬¡¿ ¢ ¬¶²¢ µ°² ¼²¥ ¯ª, ²¶¬ª ±º, ¢¬³¥ ¬²þ ° ¯¨² ¦¢ª¥²¿¾. €®¥¬®°°²¿ ª ±¦¦¨¬ ² ¢¥¦ °¦¾²¾ ¢ ®¨°¯ ¢°¢ªª  ¢²ª²²¯ ª ±¦¦¨¬þ °Œ¥ ¢¯°°¥ ¥³¦²¢."
 
- mandate_mt_subjugate_medasi_title:0 "Subjugate the Medasi"
- mandate_mt_subjugate_medasi_desc:0 "Empires on the Sorrow have long cultivated loyal buffer states to extend their reach; ever since the Gnollish cataclysm, however, these subjects have been lost to us. Let us remind these breakaway children exactly from where their power flows, and reestablish our Medasi in the south."
- mandate_mt_subjugate_medasi_tooltip:0 "Will be converted into a §YMedasi§! subject for free"
+ mandate_mt_subjugate_medasi_title:0 "‰¬ª²¿ ¦ª"
+ mandate_mt_subjugate_medasi_desc:0 "†¯±ªª Ô¬¡ª ª©¦¢° ¡©¢¦ª®ª¿ ®¾®¿°º¯ª ¡³´°º¯ª ¥³¦²¢¯ª, ¶²¡º Œªª²¿ ´³ ¢¥ ¢®ª¾°ª¾; ¦°¬  ¢¯ž° ¥°®®¿¬¥ ¬²¬®ª©¯ ¼²ª ¥³¦²¢ ¡º®ª ±²¾°º ¦®¾ °. ƒ¢þ² °±¯°ª¯ ¼²ª¯ ²¬®¢Œª¯¾ ¦²¾¯, ²¬³¦ ª¯°° ª¦ª² ª ª®, ª ¢²°¢ª¯ °Œ ¦ª ° ½¥."
+ mandate_mt_subjugate_medasi_tooltip:0 "€³¦² ±¢¸ž° ¢ ³¡¹¬² §Y¯¦ª§! ¡±®²°"
 
- mandate_mt_new_kheterata_title:0 "A New Kheterata"
- mandate_mt_new_kheterata_desc:0 "The Sorrow sings. Foreign dignitaries recount a trip to the source as the highlight of their lives. Fishing rafts bedecked with Khet-blessed hauls drift sedately past the river-palaces of the rich, the sole interruptions to a stark, endless horizon. But then one reaches the city, and noise and scent and wealth take over, and one realises one has reached the centre of all things. We no longer merely aspire at Stewardship, but exemplify it. It is time not just to equal our ancestors but to exceed them."
- mandate_mt_new_kheterata_tooltip:0 "For as long as we have this timed modifier, enacting §YSteward Reforms§! will §Grefund the stability§! cost"
+ mandate_mt_new_kheterata_title:0 "¢¾ ²²"
+ mandate_mt_new_kheterata_desc:0 "Ô¬¡¿ ±ž². †°²°°º ¢º¬±²¢®°°º ®ªµ ¬©º¢½²  ±³²Œ²¢ªª ¬ ª²¶°ª¬³ ¬¬  ¯¯ ¾¬¯ ¡º²ªª ¢ ¢þ ¨ª©°ª. Ðº¡µ¬ª ±®²º, ³¬Œ°°º ¡®¥®¢°°º¯ª ¬²¯ª, ±¬þ° ¦þ´³½² ¯ª¯ ¶°º ¦¢µ¢ ¡¥¶þ — ¦ª°²¢°° ±º¢°ª ³¢¥, ¡¬°¶°¥ ¥ª©°².  ¢² ¢º ¦²ª¥² ¥¦, Œ³¯, ©±ª ª ¡¥²²¢ ¡³² ¢, ª ¢º ±°ª¯², ¶² ±±®ª ¢ µ°² ¢¥ ³¸¥. º ¡®¿Œ ° ±² ²¯ª¯¾ ¬ °¯²°ª¶²¢³,  ¾¢®¾¯¾ ¥ ±ª¯¯. ‰ªŒ® ¢¯¾ ° ±² ¢°¾²¿¾  °Œª¯ª ±¦¬¯ª, ° ª ±¢©þ²ª ª."
+ mandate_mt_new_kheterata_tooltip:0 "‰¬ ³ ° ²¿ ¼²² ¯¦ª´ª¬² ¢¯°ª, ±¢¦°ª §Y´¯ ¯²°ª¬§! ¡³¦² §G¬¯±°ª¢²¿ ©²²º§! ° ²¡ª®¿°²¿"
 
- mandate_mt_greatest_empire_title:0 "Greatest of Empires"
- mandate_mt_greatest_empire_desc:0 "We who have inherited the most ancient of titles have become accustomed to view ourselves as restorers, yet no Empire on this river has ever equalled what we have now built - the core of the world, its beating heart, unrivalled in wealth, authority and influence. Our centres of learning are the envy of all, our monuments symbols in and of themselves for the endeavours they were built to fulfil. The era of the Khet is upon the world."
+ mandate_mt_greatest_empire_title:0 "Ï®ª¶þŒ¾ ª© ª¯±ªþ"
+ mandate_mt_greatest_empire_desc:0 "º, ³°®¦¢¢Œª ¦¢°þŒªþ ²ª²³®, ±ª¢º¬®ª ¶ª²²¿ ¡¾ ¥ ¢²°¢ª²®¾¯ª, ¦°¬ °ª ¦° ª¯±ª¾ ° ¼²þ ¬ °ª¬¥¦ ° ¢°ª²¾  ²¯, ¶² ¯º ±²ª®ª, — ¾¦¯ ¯ª, ¥ ¡¿½¸ª¯¾ ¦µ¯, ° ª¯½¸ª¯ ¡ ¢°º ± ¡¥²²¢³, ¢®²ª ª ¢®ª¾°ª½. Œª µ°²º ¡³¶°ª¾ ¢º©º¢½² ©¢ª²¿ ³ ¢, °Œª ±¯¾²°ª¬ª ¯ª ± ¡ ¾¢®¾½²¾ ª¯¢®¯ª ² °¶ª°°ªþ, ¦ª ¬²º °ª ¡º®ª ±²°º. ™± ² °²³±ª® ¦®¾ ¢¥ ¯ª."
 
 
  #1 kheterata
- mandate_mt_kheterata_rebellion_title:0 "Crush the Rebellion"
- mandate_mt_kheterata_rebellion_desc:0 "Just as the stomach does not rule the brain, clergy and officers do not belong on thrones. We have not ruled Kheterata for so long by coincidence, regardless of what a priest or a soldier may believe. Authority must be reasserted - as the Sorrow is at the centre of all things, so must the dynasty be."
+ mandate_mt_kheterata_rebellion_title:0 "‰¦¢ª²¿ ¢²°ª"
+ mandate_mt_kheterata_rebellion_desc:0 "¬ ¨®³¦¬ ° ³±¢®¾² ¯©¥¯, ²¬ ª ¦³¢°²¢³ ª ´ªµ¯ ° ¯² ° ²°. º ±¢ª¯ ²²þ ²¬ ¦®¥ ° ®³¶þ°, °©¢ªª¯ ² ²¥, ¢ ¶² ¯¨² ¢ª²¿ ¢¾¸°°ª¬ ª®ª ®¦². Ï®²¿ ¦®¨° ¡º²¿ ¢²°¢®° — ¬¬ Ô¬¡¿ °¦ª²¾ ¢ µ°² ¢¥ ³¸¥, ²¬ ª ¦ª°²ª¾ ¦®¨° ¡º²¿ ¢ µ°²."
 
- mandate_mt_kheterata_kheterat_title:0 "Kheterat, First City"
- mandate_mt_kheterata_kheterat_desc:0 "The Sorrow is the middle of the world, and Kheterata in turn is its middle. This Elikhet saw when he placed the first bricks of our glorious capital, a city so steeped in history that the humblest of neighbourhoods can regale a traveller with tales going back thousands of years. Through new building projects, reorganisation and commemoration we can write yet another chapter of the First City's story."
+ mandate_mt_kheterata_kheterat_title:0 "²², ‰¢ºþ ¥¦"
+ mandate_mt_kheterata_kheterat_desc:0 "Ô¬¡¿ — ¼² ¦ª° ¯ª,  ²², ¢ ¢½ ¶¦¿, — ¼² ¦ª° ¦ª°º. ™² ©¯²ª® ¸ž ™®ª¬², ¬¥¦ ©¬®¦º¢® ±¢º ¬ª±ª¶ª °Œþ ®¢°þ ²®ªµº — ¥¦  ²¬þ ¥®³¡¬þ ª²ªþ, ¶² ¯º ¬¯°º ¬¢²®º ¯¥³² ±¢¦²¿ ±³²Œ²¢°°ª¬³ ª²ªª ²º¾¶®²°þ ¦¢°²ª. €®¥¦¾ °¢º¯ ²ª²®¿°º¯ ±¬²¯, ¥°ª©µªª ª ±¯¾²°º¯ ¯±ª¾²ª¾¯ ¯º ¯¨¯ °±ª²¿ ¸ž ¦°³ ¥®¢³ ª²ªª ‰¢¥ ¥¦."
 
- mandate_mt_kheterata_colonies_title:0 "Ancient Colonies"
- mandate_mt_kheterata_colonies_desc:0 "Like the Sorrow itself, we return in the end to the sea. In ancient days Elikhet crossed the Divenhal to extend the mastery of his Empire, and so too will we again assert our authority. We will remind our distant children of their true ancestry, and bring them back into the fold."
+ mandate_mt_kheterata_colonies_title:0 "ƒ¢°ª ¬®°ªª"
+ mandate_mt_kheterata_colonies_desc:0 "¬ ª ¯ Ô¬¡¿, ¯º ¢ ¬°µ ¬°µ¢ ¢©¢¸¯¾ ¬ ¯½. Ï ¦¢°ª ¢¯° ™®ª² ±¬® ƒª¢°®, ¶²¡º Œªª²¿ ¢®¦°ª¾ ¢þ ª¯±ªª, ª ¯º ²¨ ¢°¢¿ ³²¢¦ª¯ ¢½ ¢®²¿. º °±¯°ª¯ °Œª¯ ¦®ž¬ª¯ ¦²¾¯ ¡ ª ª²ª°°¯ ±ª¨¦°ªª ª ¢°ž¯ ª ¢ ®°."
 
- mandate_mt_kheterata_influence_title:0 "Kheteratan Influence"
- mandate_mt_kheterata_influence_desc:0 "The Damerians to the west have long claimed that their brief successes against us, long subsumed in history, are proof of their superior stake to civilisation. They are like children who win at cards and think themselves cleverer than their betters. We will show that civilisation has its proper order, and correctly subject the fringe to the centre."
+ mandate_mt_kheterata_influence_title:0 "²²¬ ¢®ª¾°ª"
+ mandate_mt_kheterata_influence_desc:0 "ƒ¯ªþµº ° ©±¦ ³¨ ¦¢° ³²¢¨¦½², ¶² ª ¬²¬ª ³±ª ¢ ¡¿¡  °¯ª, ¦¢° ³Œ¦Œª ¢ ª²ª½, ¾¢®¾½²¾ ¦¬©²®¿²¢¯ ª ±¢¦²¢ °¦ µª¢ª®ª©µªþ. °ª ±¨ª ° ¦²þ, ¬²º ¢ºª¥º¢½² ¢ ¬²º ª ¶ª²½² ¡¾ ³¯° ¢ª ²¢®°°ª¬¢. º ±¬¨¯, ¶² µª¢ª®ª©µª¾ ª¯² ¢þ ±¾¦¬, ª ¦®¨°º¯ ¡©¯ ±¦¶ª°ª¯ ¬ª°º µ°²³."
 
 
  #1 nirat
- mandate_mt_nirat_faith_triumphs_title:0 "Faith Triumphs"
- mandate_mt_nirat_faith_triumphs_desc:0 "The river wears away the rock. The rock, having served its purpose, is no more. This we recognise in the crumbling Crodamos dynasty, whose teetering administration has already ceded immense tracts of land to enemies of our people. Their ignorance of the Divine Mother can no longer be brooked; it is time to assert a new holy government and a state in harmony with her will."
+ mandate_mt_nirat_faith_triumphs_title:0 "Ùª³¯´ ¢º"
+ mandate_mt_nirat_faith_triumphs_desc:0 "Ð¬ ±¦²¶ª¢² ¬¯°¿. Ô¬®, ²®³¨ª¢ ¢ž, ±²ž² ³¸²¢¢²¿. ™² ¯º ¢ª¦ª¯ ° ±ª¯ ³°³¢Œþ ¦ª°²ªª ¦¯¢, ¶¿ž Œ²½¸¾ ±¢®°ª ³¨ ³²³±ª® ¥¯°º ³¶²¬ª ©¯®ª ¢¥¯ °Œ¥ °¦. † °¢¨²¢ ¢ ²°Œ°ªª €¨²¢°°þ ²ª ¡®¿Œ °®¿©¾ ²±²¿; ±ªŒ® ¢¯¾ ³²¢¦ª²¿ °¢ ¢¾² ±¢ª²®¿²¢ ª ¥³¦²¢ ¢ ¥¯°ªª  ž ¢®þ."
 
- mandate_mt_nirat_nirat_title:0 "Nirat, High Temple"
- mandate_mt_nirat_nirat_desc:0 "Faithful from across the watershed flock to our capital Nirat, at once temple, fortress and city. Our holy state begins here. We will clear out the slums and replace them with dormitories of the faithful. New pilgrim hostelries and artisanal districts will be delineated and built. We will renew the Grand Temple at the heart of our city and extend the concentric rings of planned streets which flank it. We will build an ordered capital to stand at the centre of all things, under our Mother's divine gaze."
+ mandate_mt_nirat_nirat_title:0 "ª², ÏºŒªþ ¯"
+ mandate_mt_nirat_nirat_desc:0 "Ï³½¸ª  ¢¥ ¢¦©¦® ²¬½²¾ ¢ °Œ³ ²®ªµ³ ª², ¦°¢¯°° ¯, ¬±²¿ ª ¥¦. Œ ¢¾¸°° ¥³¦²¢ °¶ª°²¾ ©¦¿. º ¶ª²ª¯ ²³¸¡º ª ©¯°ª¯ ª ¡¸¨ª²ª¾¯ª ¦®¾ ¢³½¸ª. €³¦³² ¶¶°º ª ±²°º °¢º ¡¸¨ª²ª¾ ¦®¾ ±®¯°ª¬¢ ª ¯®°°º þ°º. º ¡°¢ª¯ Ï®ª¬ªþ Û¯ ¢ ¦µ °Œ¥ ¥¦ ª Œªª¯ ¬°µ°²ª¶¬ª ¬®¿µ ±®°ª¢°°º ³®ªµ, ¡¯®¾½¸ª ¥. º ±²ª¯ ³±¾¦¶°°³½ ²®ªµ³, ¬²¾ ¡³¦² ²¾²¿ ¢ µ°² ¢¥ ³¸¥ ±¦ ¡¨²¢°°º¯ ¢©¯ °Œþ ²ª."
 
- mandate_mt_nirat_prepare_priests_title:0 "Prepare the Priests"
- mandate_mt_nirat_prepare_priests_desc:0 "The dormitory-complexes of our holy capital are not merely the houses of our priesthoods - they are also barracks, college and armoury. In the doctrinal halls of our Grand Temple we have articulated a new doctrine of war in the name of Nirakhet, one which exhorts the faithful to make war in defence of the truth. Every priest will be a general, and every general a priest, until all under the sky sing the praises of our mother."
+ mandate_mt_nirat_prepare_priests_title:0 "‰¦¥²¢ª²¿ ¢¾¸°°ª¬¢"
+ mandate_mt_nirat_prepare_priests_desc:0 "¡¸¨ª²ª¾-¬¯±®¬º °Œþ ¢¾¸°°þ ²®ªµº — ¼² ° ±² ¦¯ °Œª ¢¾¸°°ª¬¢, ¼² ¬©¯º, ³¶ª®ª¸ ª °®º. Ï ¦¬²ª°®¿°º ©® °Œ¥ Ï®ª¬¥ ¯ ¯º ´¯³®ª¢®ª °¢³½ ¦¬²ª°³ ¢þ°º ¢ ª¯¾ ª¬², ¬²¾ ±ª©º¢² ¢³½¸ª ¬ ¢þ° ¢ ©¸ª²³ ª²ª°º. ¨¦ºþ ¢¾¸°°ª¬ ²°² ¥°®¯,  ¬¨¦ºþ ¥°® — ¢¾¸°°ª¬¯, ±¬ ¢ ±¦ °¡¯ ° ¡³¦³² ±²¿ ¢®³ °Œþ ¯²ª."
 
- mandate_mt_nirat_divine_mother_title:0 "The Divine Mother"
- mandate_mt_nirat_divine_mother_desc:0 "Blessings to Nirakhet who alone bore the divine, as she is with me from my conception, as she is now, as she will be in the hour of my death. Her lantern lights the way to birth and to death, from source to delta, from beginning to end. She is the substance of our homeland, the water of life, the stuff from which Elikhet was made. She is comfort: she rocks the child to sleep, she holds the hand of the dying soldier, she weeps with those left behind. Let her Sorrow fall only upon those who spurn her. "
- mandate_mt_nirat_divine_mother_tooltip:0 "Every province in §YSarhal§! in either the §YTanibic§! or §YHag§! religion groups has a §Y75%§! chance to convert to §YNirakhetist§!"
+ mandate_mt_nirat_divine_mother_title:0 "€¨²¢°°¾ ²¿"
+ mandate_mt_nirat_divine_mother_desc:0 "€®¥®¢°ª¾ ª², ¬²¾ ¦° °ž² ¢ ¡ ¡¨²¢°°, ±¬®¿¬³ °  ¯°þ  ¯¯°² ¯¥ ©¶²ª¾, ¬¬ þ¶, ¬¬ ¡³¦² ¢ ¶ ¯þ ¯²ª. ž ´°¿ ¢¸² ±³²¿ ¬ ¨¦°ª½ ª ¬ ¯²ª, ² ª²¬ ¦ ¦®¿²º, ² °¶® ¦ ¬°µ. ° — ¢¸²¢ °Œþ ¦ª°º, ¢¦ ¨ª©°ª, ², ª© ¶¥ ¡º® ©¦° ™®ª². ° — ³²Œ°ª: ° ³¬¶ª¢² ¡ž°¬ ¢ °, ° ¦¨ª² © ³¬³ ³¯ª½¸¥ ®¦², ° ±®¶² ¢¯²  ²¯ª, ¬² ²®¾ ±©¦ª. ‰³²¿ ž Ô¬¡¿ ±¦ž² ²®¿¬ ° ², ¬² ²¢¥°² ž. "
+ mandate_mt_nirat_divine_mother_tooltip:0 "¨¦¾ ±¢ª°µª¾ ¢ §YÔ®§! ²°¾¸¾¾ ®ª¡ ¬ §Y²°ª¡¬þ§! ª®ª §Y¬¥¬þ§! ®ª¥ª©°þ ¥³±±  §Y75%§! Œ°¯ ¡²ª²¾ ¢ §Y°ª¬²ª©¯§!"
 
 
  #1 aakheta
- mandate_mt_aakheta_service_title:0 "In Service to Aakhet"
- mandate_mt_aakheta_service_desc:0 "To dismiss Aakhet as a mere invader is a failure of judgement typical to the cosseted priests and rulers of this land. We recognise Him for what He was and is - the embodiment of righteous authority, the reincarnation of Elikhet himself. We will prepare for His return by bringing the land under the rule of His servants."
- mandate_mt_aakheta_service_tooltip:0 "§YAakhet§! is with us"
- mandate_mt_aakheta_service_tooltip2:0 "All our §Yheretic subjects§! and their §Yprovinces§! will convert to §YAakhetist§!"
+ mandate_mt_aakheta_service_title:0 "Ï ®³¨°ªª ¬²³"
+ mandate_mt_aakheta_service_desc:0 "²¯°³²¿¾ ² ¬² ¬¬ ² ±²¥ ©¢²¶ª¬ — ¼² Œª¡¬ ¢ ³¨¦°ª¾, ¬²°¾ ¦®¾ ¡®¥¦³Œ°º ¨µ¢ ª ±¢ª²®þ ¼²þ ©¯®ª. º ±ª©°¯ ¥ ²¬ª¯, ¬¬ª¯ ° ¡º® ª ²¿ — ¢±®¸°ª¯ ±¢¦°þ ¢®²ª, ª°¬°µªþ ¯¥ ™®þ². º ±¦¥²¢ª¯¾ ¬ ¥ ¢©¢¸°ª½, ±ª¢¦¾ ©¯®½ ±¦ ¢®²¿ ¥ ®³¥."
+ mandate_mt_aakheta_service_tooltip:0 "§Y¬²§!  °¯ª"
+ mandate_mt_aakheta_service_tooltip2:0 "Ï °Œª §Y±¦¦°°º-²ª¬ª§! ª ª §Y±¢ª°µªª§! ¡²¾²¾ ¢ §Y¬²ª©¯§!"
 
- mandate_mt_aakheta_aakheta_title:0 "Aakheta, Dragon Throne"
- mandate_mt_aakheta_aakheta_desc:0 "Our city is the seat from which Aakhet ruled, and it will be his capital once more. We Ahati are disciplined and unified, well-poised to build a capital for Kheterata along strict lines of efficiency. Mimicking the tessellation of dragonscale, we will build a city of self-contained neighbourhoods and maintained streets, and prepare our people for the wars required to reassert Aakhet's rightful authority."
+ mandate_mt_aakheta_aakheta_title:0 "¬², Ù° ƒ¬°"
+ mandate_mt_aakheta_aakheta_desc:0 "Œ ¥¦ — ¯², ª© ¬²¥ ±¢ª® ¬², ª ° °¢ ²°² ¥ ²®ªµþ. º, ²ª, ¦ªµª±®ª°ª¢°°º ª ±®¶ž°°º, ¥²¢º ±²ª²¿ ²®ªµ³ ²² ± ²¥¯³ ±ª°µª±³. ‰¦¨¾ ¯©ª¬ ¦¬°¿þ ¶Œ³ª, ¯º ±²ª¯ ¥¦ ª© ²¦®¿°º ¬¢²®¢ ª ³¨°°º ³®ªµ ª ±¦¥²¢ª¯ °Œ °¦ ¬ ¢þ°¯, °¡¦ª¯º¯ ¦®¾ ¢²°¢®°ª¾ ©¬°°þ ¢®²ª ¬². "
 
- mandate_mt_aakheta_ashes_title:0 "Return to Ashes"
- mandate_mt_aakheta_ashes_desc:0 "In the claim to uninterrupted history, the Bulwari are perhaps the most brazen. Thousands of years of collapse and fragmentation and discord are handwaved away as continuous civilisation; the Bulwari states always return, or so they say, the phoenix from the ashes. Absurdity. With dragonfire, we will once again make ash of the Bulwari - ash which will carry away on the wind, never to reform. Aakhet's wings will once again shadow the great expanse of his ancient dominion."
+ mandate_mt_aakheta_ashes_title:0 "Ï°³²¿¾ ¢ ‰±®"
+ mandate_mt_aakheta_ashes_desc:0 "€³®¢¬ª ±ª²¾©°ª¾ ° °±º¢°³½ ª²ª½, ±¨®³þ, ¯º °¥®º. Ùº¾¶ª ®² ±¦, ©¦¡®°°²ª ª ©¦¢ ¢º¦½²¾ © ±²¾°°³½ µª¢ª®ª©µª½; ¡³®¢¬ª ¥³¦²¢ ¢¥¦ ¢©¢¸½²¾, ª®ª, ¬¬ °ª ¥¢¾², ¢²½² ®¢° ´°ª¬ ª© ±±®. ¡³¦. Ô ±¯¸¿½ ¦¬°¿¥ ¥°¾ ¯º °¢ ±¢²ª¯ ¡³®¢µ¢ ¢ ±±® — ±±®, ¬²ºþ ³°ž² ¢², ¶²¡º °ª¬¥¦ ° ¢©¦ª²¿¾. º®¿¾ ¬² ¢°¢¿ °¾² ²°¿½ ¢®ª¬ª ±²º ¥ ¦¢°¥ ¢®¦°ª¾."
 
- mandate_mt_aakheta_under_wings_title:0 "Under His Wings"
- mandate_mt_aakheta_under_wings_desc:0 "What is authority? Aakhet. What is Aakhet? Authority. His left wing extends across Khetarata, his right across Bulwar. Through his righteous return our people have been galvanised, restored to greatness, all the better to extend our master's reach. He has come upon Halann and with his four feet taken possession, and as his loyal followers we prosper in his favour."
+ mandate_mt_aakheta_under_wings_title:0 "‰¦ ¥ ¬º®¿¾¯ª"
+ mandate_mt_aakheta_under_wings_desc:0 "Ì² ²¬ ¢®²¿? ¬². Ì² ²¬ ¬²? Ï®²¿. ¥ ®¢ ¬º® ±²ª²¾ ¶© ²²³, ±¢ — ¶© €³®¢. €®¥¦¾ ¥ ±¢¦°¯³ ¢©¢¸°ª½ °Œ °¦ ¢±¾® ¦³¯, ¢°³®¾ ¬ ¢®ª¶ª½, ¶²¡º Œªª²¿ ´³ ¢®ª¾°ª¾ °Œ¥ ¥±¦ª°. ° ±ªŒž® ¢ Û®°° ª ¢®¦® ª¯ ¢ª¯ª ¶²º¿¯¾ °¥¯ª, ª ¯º, ¬¬ ¥ ¢°º ±®¦¢²®ª, ±µ¢²¯ ¢ ¥ ±®¿©³."
 
 
  #1 koroshesh
- mandate_mt_koroshesh_nisetataa_title:0 "The Nisetataa"
- mandate_mt_koroshesh_nisetataa_desc:0 "It is said that the workshops of the gnomish lapidarists are windowless, for even the gentlest sea breeze can disturb the crafting of the Nisetataa, the perfect kingdom-jewel. These gems allow for magical work of extraordinary precision, and are so precious and expensive that their purchasers often send fleets to escort their delivery. Countless secondary industries support and maintain this singular trade; now that we rule ourselves, we can truly invest in this prized export, and bring Koroshesh to the prominence it deserves."
+ mandate_mt_koroshesh_nisetataa_title:0 "ª²²"
+ mandate_mt_koroshesh_nisetataa_desc:0 "‚¢¾², ¶² ¢ ¯²¬ª ¥°¯¿ª ¥°ª®¿¸ª¬¢ °² ¬°, ±²¯³ ¶² ¦¨ ¯ºþ ®¥¬ªþ ¯¬þ ¡ª© ¯¨² ±¯Œ²¿ ª©¥²¢®°ª½ °ª²², ª¦®¿°¥ ¦¥µ°°¥ ¬¯°¾ ¬®¢²¢. ™²ª ¦¥µ°°º ¬¯°ª ±©¢®¾½² ¢º±®°¾²¿ ¯¥ª¶¬³½ ¡²³  °¡º¶þ°þ ²¶°²¿½, ª °ª °²®¿¬ µ°°º ª ¦¥ª, ¶² ±¬³±²®ª ¶² ±º®½² ´®²º, ¶²¡º ±¢¨¦²¿ ª ¦²¢¬³. €¶ª®°°º ¢²²±°°º ²®ª ±¦¦¨ª¢½² ª ±¦¦¨ª¢½² ¼²³ ¦ª°²¢°°³½ ²¥¢®½; ²±¿, ¬¥¦ ¯º ±¢ª¯ ¯ª, ¯º ¯¨¯ ±-°²¾¸¯³ ª°¢²ª¢²¿ ¢ ¼²² µ°°ºþ ¼¬±² ª ±ª¢²ª ŒŒ ¬ ª©¢²°²ª, ¬²þ ° ©®³¨ª¢²."
 
- mandate_mt_koroshesh_koroshesh_title:0 "Koroshesh, Shining Jewel"
- mandate_mt_koroshesh_koroshesh_desc:0 "For centuries our city and its Grand Library have been a centre of learning and exchange. We have never hidden behind endless stretches of desert or cowered behind shields - instead the mouth of the river has hungered for knowledge and experience. We will no longer see our wealth disappear inland, our blended city condemned as decadent for the very tolerance and vitality which makes it rich. Instead, this will be a place of tree-lined boulevards, fabulous marinas and villas of a hundred fashions. Across Halann even our enemies will be forced to admit that there is a good life to be had in Koroshesh."
+ mandate_mt_koroshesh_koroshesh_title:0 "ŒŒ, ª¾½¸¾ ¨¯¶³¨ª°"
+ mandate_mt_koroshesh_koroshesh_desc:0 " ±²¾¨°ªª ¢¬¢ °Œ ¥¦ ª ¥ Ï®ª¬¾ ¡ª¡®ª²¬ ¡º®ª µ°²¯ ¡³¶°ª¾ ª ¡¯° ±º²¯. º °ª¬¥¦ ° ±¾²®ª¿ © ¡¬þ°ª¯ª ±³²º°¾¯ª ª ° ³¬º¢®ª¿ © ¸ª²¯ª — ¢¯² ¼²¥ ³²¿ ¬ª ¨¨¦® ©°°ªþ ª ±º². º ¡®¿Œ ° ¡³¦¯ ¢ª¦²¿, ¬¬ °Œ ¡¥²²¢ ª¶©² ¢ ¥®³¡ª° ²°º, ¬¬ °Œ ¯Œ°°ºþ ¥¦ ³¨¦²¾ ¬¬ ³±¦¶°ºþ © ²³ ¯³½ ²±ª¯²¿ ª ¨ª©°±¡°²¿, ¬²º ¦®½² ¥ ¡¥²º¯. Ï¯² ¼²¥ ©¦¿ ±¾¢¾²¾ ³¨°°º ¦¢¿¾¯ª ¡³®¿¢º, ¬©¶°º ±ª²°ª ª ¢ª®®º ²°ª ¯¦°º °±¢®°ªþ. ‰ ¢¯³ Û®°°³ ¦¨ °Œª ¢¥ª ¡³¦³² ¢º°³¨¦°º ±ª©°²¿, ¶² ¢ ŒŒ ²¿ Œ¾ ¨ª©°¿."
 
- mandate_mt_koroshesh_divenhal_title:0 "Control the Divenhal"
- mandate_mt_koroshesh_divenhal_desc:0 "The people of the Sorrow are a water people, of course, and no civilisation could exist here without intimate manipulation of its flow. Still, past Stewards thought only of what went from source to delta; for them, all commerce, culture and knowledge dissolved into the sea at the mouth of the Sorrow. We will rectify this mistake, and master the salt water as thoroughly as we have the sweet. In doing so, we will create an empire of trade fit to dominate the eastern Divenhal."
+ mandate_mt_koroshesh_divenhal_title:0 "°²®¿ °¦ ƒª¢°®¯"
+ mandate_mt_koroshesh_divenhal_desc:0 "°¶°, Ô¬¡¿ — ¢¦°ºþ °¦, ª °ª¬¬¾ µª¢ª®ª©µª¾ ° ¯¥® ¡º ³¸²¢¢²¿ ©¦¿ ¡© ²¸²®¿°¥ ³±¢®°ª¾ ž ²¶°ª¯. ¦°¬ ±Œ®º °¯²°ª¬ª ¦³¯®ª ²®¿¬  ²¯, ¶² ²¶ž² ² ª²¬ ¦ ¦®¿²º; ¦®¾ °ª ¢¾ ²¥¢®¾, ¬³®¿²³ ª ©°°ª¾ ²¢¾®ª¿ ¢ ¯ ¢ ³²¿ Ô¬¡ª. º ª±¢ª¯ ¼²³ Œª¡¬³ ª ¢®¦¯ ®ž°þ ¢¦þ ²¬ ¨ °¢²®¿°, ¬¬ ª ®¦¬þ. Ù¬ ¯º ©¦¦ª¯ ²¥¢³½ ª¯±ª½, ±¡°³½ ¦¯ª°ª¢²¿ ¢ ¢²¶°¯ ƒª¢°®."
 
- mandate_mt_koroshesh_wealth_title:0 "Wealth Beyond Measure"
- mandate_mt_koroshesh_wealth_desc:0 "We have always looked outward where our rivals looked inward, eyeing the wide world for opportunities like a canny haggler at market. In so doing we have created a network of wealth that crosses not only our continent but two oceans. This network is sturdier than a network of blood, for it binds us in mutual gain; one parts a man more easily from his liege than his wallet. With our thousand connections, we will harvest the crop of wealth from every port on Halann."
- mandate_mt_koroshesh_wealth_tooltip:0 "Gain a §Ypermanent claim§! on every §Ycoastal center of trade§! in §YSarhal§!"
+ mandate_mt_koroshesh_wealth_title:0 "€¥²²¢ ¢ ¯º"
+ mandate_mt_koroshesh_wealth_desc:0 "º ¢¥¦ ¯²®ª ¢¢°, ¢ ² ¢¯¾ ¬¬ °Œª ¬°¬³°²º ¯²®ª ¢¢°³²¿, ¥®¾¦º¢¾ Œª¬ªþ ¯ª ¢ ±ª¬ ¢©¯¨°²þ, ¬¬ ª²ºþ ²¥Œ ° º°¬. Ù¬ ¯º ©¦®ª ²¿ ¡¥²²¢, ¬²¾ ±¬² ° ²®¿¬ °Œ ¬°²ª°°², ° ª ¦¢ ¬°. ™² ²¿ ±¶°, ¶¯ ²¿ ¬¢ª, ª¡ ° ¢¾©º¢² ° ¢©ª¯°þ ¢º¥¦þ; ¶®¢¬³ ®¥¶ ²²¿¾  ¢ª¯ °¿¯, ¶¯  ¬Œ®¿¬¯. Ô °Œþ ²º¾¶þ ¢¾©þ ¯º ¡ž¯ ³¨þ ¡¥²²¢ ª© ¬¨¦¥ ±² Û®°°."
+ mandate_mt_koroshesh_wealth_tooltip:0 "‰®³¶ª¯ §Y¢¶°º ±²°©ªª§! ° ¬¨¦ºþ §Y±ª¡¨°ºþ µ°² ²¥¢®ª§! ¢ §YÔ®§!"
 
 
 
@@ -1151,7 +1151,7 @@
 #####Misc#####
 ####################
 
- khet_mandate_mage_fireworks:0 "ƒ³¥ ¬²"
+ khet_mandate_mage_fireworks:0 "Khet Entertainment"
 
  has_active_ahati_agenda_tooltip:0 "Has an active §YAhati§! Estate Agenda"
  ahati_rebellion_crushed:0 "The §YAhati§! have fully recognized our authority"
