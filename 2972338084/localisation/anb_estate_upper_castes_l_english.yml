@@ -1,0 +1,226 @@
+﻿l_english:
+ ########################
+ ########################
+ ### Upper Castes Estate
+ ########################
+ ########################
+ 
+ #Raheni caste estates
+ caste_races_uppercastes_tt:0 "£icon_trigger_no_in_text£ ª¬¥¦\n\n\n§Y[Root.Country.GetName]: ²¢¾ ¯¡ª®¿°²¿§!\n[caste_fluidity_title_check]\n[Root.casteFluidityBar]\n\nŒ ¬²¢¾ ¯¡ª®¿°²¿ ¦ž² °¯: \n[caste_fluidity_modifier_check]\n\n\n§Y[Root.GetUpper CastesName]: Ðº ¬²§!\n[harimari_in_uppercastes_check]\n[human_in_uppercastes_check]\n\n®ª ¢º ¢®¦² ¦²²¶°º¯ ¬®ª¶²¢¯ ±¢ª°µªþ ¢ ³¡¬°²ª°°², ¢º ¯¨² ¦¡¢ª²¿ ª®ª ³¦®ª²¿ §Tº§! ¢ ¬²¢þ ª²¯, ª±®¿©³¾ Œ°ª §YÐ´¯ª¢²¿ ¬²º§!.\n\n"
+ caste_races_uppercastes_dhenijanraj_tt:0 "£icon_trigger_no_in_text£ ª¬¥¦\n\n\n§Y[Root.Country.GetName]: ²¢¾ ¯¡ª®¿°²¿§!\n[caste_fluidity_title_check]\n[Root.casteFluidityBar]\n\nŒ ¬²¢¾ ¯¡ª®¿°²¿ ¦ž² °¯: \n[caste_fluidity_modifier_check]\n\n\n§Y[Root.GetUpper CastesName]: Ðº ¬²§!\n[harimari_in_uppercastes_check]\n[human_in_uppercastes_check][dwarf_in_uppercastes_check][hobgoblin_in_uppercastes_check]\n\n®ª ¢º ¢®¦² ¦²²¶°º¯ ¬®ª¶²¢¯ ±¢ª°µªþ ¢ ³¡¬°²ª°°², ¢º ¯¨² ¦¡¢ª²¿ ª®ª ³¦®ª²¿ §Tº§! ¢ ¬²¢þ ª²¯, ª±®¿©³¾ Œ°ª §YÐ´¯ª¢²¿ ¬²º§!.\n\n"
+ caste_races_uppercastes_reformed_tt:0 "£icon_trigger_no_in_text£ ª¬¥¦\n\n\n§Y[Root.Country.GetName]: ²¢¾ ¯¡ª®¿°²¿§!\n[caste_fluidity_title_check]\n[Root.casteFluidityBar]\n\nŒ ¬²¢¾ ¯¡ª®¿°²¿ ¦ž² °¯: \n[caste_fluidity_modifier_check]\n\n\nÏ §Y[Root.Country.GetName]§!§T ±®°²¿½ ³±©¦°°º ¬²º! Ï ²° ³¸²¢³² ±®°¾ µª®¿°¾ ¯¡ª®¿°²¿, ª ¢ º ¯¥³² ¢¡¦° ®¦¢²¿ ¢þ ³¦¿¡.§!\n\n"
+ #Caste Organization
+ harimari_in_uppercastes_alone_tt:0 "£icon_trigger_yes_in_text£ £pop_icon_harimari_mi_in_text£ §TÛª¯ª§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_global_autonomy_in_text£ ¨¯¾¶° ª©¯°°ª ¢²°¯ªª"
+ harimari_in_uppercastes_shared_tt:0 "£icon_trigger_yes_in_text£ £pop_icon_harimari_mi_in_text£ §TÛª¯ª§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_global_autonomy_in_text£ ¨¯¾¶° ª©¯°°ª ¢²°¯ªª"
+ harimari_not_in_uppercastes_tt:0 "£icon_trigger_no_in_text£ £pop_icon_harimari_mi_in_text_greyed£ §gÛª¯ª ° ±¦²¢®°º ¢ ¢ºŒª ¬².§!\n      £icon_trigger_no_in_text£ £icon_global_autonomy_in_text£ §g¨¯¾¶° ª©¯°°ª ¢²°¯ªª§!"
+ 
+ human_in_uppercastes:0 "ˆ½¦ª ¢ ¢ºŒª ¬²"
+ harimari_in_uppercastes:0 "Ûª¯ª ¢ ¢ºŒª ¬²"
+
+ human_in_uppercastes_alone_tt:0 "£icon_trigger_yes_in_text£ £pop_icon_human_mi_in_text£ §Tˆ½¦ª§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_technology_cost_in_text£ Ô²ª¯²¿ ²°®¥ªþ"
+ human_in_uppercastes_shared_tt:0 "£icon_trigger_yes_in_text£ £pop_icon_human_mi_in_text£ §Tˆ½¦ª§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_technology_cost_in_text£ Ô²ª¯²¿ ²°®¥ªþ"
+ human_not_in_uppercastes_tt:0 "£icon_trigger_no_in_text£ £pop_icon_human_mi_in_text_greyed£ §gˆ½¦ª ° ±¦²¢®°º ¢ ¢ºŒª ¬².§!\n      £icon_trigger_no_in_text£ £icon_technology_cost_in_text£ §gÔ²ª¯²¿ ²°®¥ªþ§!"
+ 
+ dwarf_in_uppercastes_alone_tt:0 "\n£icon_trigger_yes_in_text£ £pop_icon_dwarf_mi_in_text£ §Tƒ¢´º§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_artillery_power_in_text£ €±¡°²¿ ²ª®®ªª"
+ dwarf_in_uppercastes_shared_tt:0 "\n£icon_trigger_yes_in_text£ £pop_icon_dwarf_mi_in_text£ §Tƒ¢´º§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_artillery_power_in_text£ €±¡°²¿ ²ª®®ªª"
+ dwarf_not_in_uppercastes_tt:0 ""
+ 
+ hobgoblin_in_uppercastes_alone_tt:0 "\n£icon_trigger_yes_in_text£ £pop_icon_hobgoblin_mi_in_text£ §TÛ¡¥¡®ª°º§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_leader_in_text£ Ô²ª¯²¿ ¥°®"
+ hobgoblin_in_uppercastes_shared_tt:0 "\n£icon_trigger_yes_in_text£ £pop_icon_hobgoblin_mi_in_text£ §TÛ¡¥¡®ª°º§! ±¦²¢®°º ¢ ¢ºŒª ¬².\n      £icon_trigger_yes_in_text£ £icon_leader_in_text£ Ô²ª¯²¿ ¥°®"
+ hobgoblin_not_in_uppercastes_tt:0 ""
+ 
+ caste_races_title_check_harimari_tt:0 "§TÛÐ†Ð†§!|§gˆ›ƒ†§!|§g€§!"
+ caste_races_title_check_human_tt:0 "§gÛÐ†Ð†§!|§Tˆ›ƒ†§!|§g€§!"
+ caste_races_title_check_both_tt:0 "§gÛÐ†Ð†§!|§gˆ›ƒ†§!|§T€§!"
+ 
+ caste_races_check_harimari_tt:0 "§Tª¯ª§!"
+ caste_races_check_human_tt:0 "§T®½¦ª§!"
+ caste_races_check_both_tt:0 "§Tª¯ª§! ª §T®½¦ª§!"
+ 
+ caste_races_modifier_check_harimari_tt:0 "£icon_trigger_yes_in_text£ £icon_global_autonomy_in_text£ ¨¯¾¶° ª©¯°°ª ¢²°¯ªª\n£icon_trigger_no_in_text£ £icon_technology_cost_in_text£ §gÔ²ª¯²¿ ²°®¥ªþ§!"
+ caste_races_modifier_check_human_tt:0 "£icon_trigger_no_in_text£ £icon_global_autonomy_in_text£ §g¨¯¾¶° ª©¯°°ª ¢²°¯ªª§!\n£icon_trigger_yes_in_text£ £icon_technology_cost_in_text£ Ô²ª¯²¿ ²°®¥ªþ"
+ caste_races_modifier_check_both_tt:0 "£icon_trigger_yes_in_text£ £icon_global_autonomy_in_text£ ¨¯¾¶° ª©¯°°ª ¢²°¯ªª\n£icon_trigger_yes_in_text£ £icon_technology_cost_in_text£ Ô²ª¯²¿ ²°®¥ªþ"
+ 
+ #---------Caste Fluidity-----------#
+ caste_fluidity_title_check_rigid_tt:0 "     §m¥°ª¶°°¾§!       §gþ²®¿°¾ §!      §g‚ª¡¬¾§!"
+ caste_fluidity_title_check_neutral_tt:0 "     §g¥°ª¶°°¾§!       §mþ²®¿°¾ §!      §g‚ª¡¬¾§!"
+ caste_fluidity_title_check_fluid_tt:0 "     §g¥°ª¶°°¾§!       §gþ²®¿°¾ §!      §m‚ª¡¬¾§!"
+ 
+ caste_fluidity_check_rigid_tt:0 "¥°ª¶°°¾"
+ caste_fluidity_check_neutral_tt:0 "þ²®¿°¾ "
+ caste_fluidity_check_fluid_tt:0 "‚ª¡¬¾"
+ 
+ caste_fluidity_modifier_check_rigid_tt:0 "£icon_trigger_yes_in_text£ £icon_stability_cost_modifier_in_text£ Ô²ª¯²¿ ²¡ª®¿°²ª (§m¥°ª¶°°¾§! ª®ª þ²®¿°¾ )\n£icon_trigger_no_in_text£ £icon_embracement_cost_in_text£ §gÔ²ª¯²¿ ¢°¦°ª¾ ª°²ª²³² (‚ª¡¬¾ ª®ª þ²®¿°¾)§!"
+ caste_fluidity_modifier_check_neutral_tt:0 "£icon_trigger_yes_in_text£ £icon_stability_cost_modifier_in_text£ Ô²ª¯²¿ ²¡ª®¿°²ª (¥°ª¶°°¾ ª®ª §mþ²®¿°¾§!)\n£icon_trigger_yes_in_text£ £icon_embracement_cost_in_text£ Ô²ª¯²¿ ¢°¦°ª¾ ª°²ª²³² (‚ª¡¬¾ ª®ª §mþ²®¿°¾§!)"
+ caste_fluidity_modifier_check_fluid_tt:0 "£icon_trigger_no_in_text£ £icon_stability_cost_modifier_in_text£ §gÔ²ª¯²¿ ²¡ª®¿°²ª (¥°ª¶°°¾ ª®ª þ²®¿°¾)§!\n£icon_trigger_yes_in_text£ £icon_embracement_cost_in_text£ Ô²ª¯²¿ ¢°¦°ª¾ ª°²ª²³² (§m‚ª¡¬¾§! ª®ª þ²®¿°¾)"
+ 
+ casteFluidityBarFull:0 "£casteFluidityBar_100£"
+ casteFluidityBar9:0 "£casteFluidityBar_90£"
+ casteFluidityBar8:0 "£casteFluidityBar_80£"
+ casteFluidityBar7:0 "£casteFluidityBar_70£"
+ casteFluidityBar6:0 "£casteFluidityBar_60£"
+ casteFluidityBar5:0 "£casteFluidityBar_50£"
+ casteFluidityBar4:0 "£casteFluidityBar_40£"
+ casteFluidityBar3:0 "£casteFluidityBar_30£"
+ casteFluidityBar2:0 "£casteFluidityBar_20£"
+ casteFluidityBar1:0 "£casteFluidityBar_10£"
+ casteFluidityBar0:0 "£casteFluidityBar_00£"
+
+ caste_fluidity_increase_minute_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² °©°¶ª²®¿° §GŒª°§!."
+ caste_fluidity_increase_small_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² °¯°¥ §GŒª°§!."
+ caste_fluidity_increase_medium_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ³¯°° §GŒª°§!."
+ caste_fluidity_increase_large_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ª®¿° §GŒª°§!."
+ caste_fluidity_increase_huge_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ¶°¿ ª®¿° §GŒª°§!."
+ caste_fluidity_increase_gargantuan_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ³¸²¢°° §GŒª°§!."
+ 
+ caste_fluidity_neutral_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ° ª©¯°ª²¾"
+ caste_fluidity_neutral_reformed_tt:0 "²º ¡º®ª §Y´¯ª¢°º§!, §m²¢¾ ¯¡ª®¿°²¿§! ° ª©¯°ª²¾."
+
+ caste_fluidity_decrease_minute_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² °©°¶ª²®¿° §R¥°ª¶°§!."
+ caste_fluidity_decrease_small_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² °¯°¥ §R¥°ª¶°§!."
+ caste_fluidity_decrease_medium_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ³¯°° §R¥°ª¶°§!."
+ caste_fluidity_decrease_large_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ª®¿° §R¥°ª¶°§!."
+ caste_fluidity_decrease_huge_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ¶°¿ ª®¿° §R¥°ª¶°§!."
+ caste_fluidity_decrease_gargantuan_tt:0 "§m²¢¾ ¯¡ª®¿°²¿§! ¡³¦² ³¸²¢°° §R¥°ª¶°§!."
+ 
+ #Castes Localisation
+ estate_uppercastes:0 "ÏºŒª ¬²º"
+ estate_uppercastes_desc:0 "™² ®¢ª ±¦²¢®¾² ¢ºŒ³½ ¬²³ ¡¸²¢ Ð°, ¬²¾ ¢¬®½¶² ¢ ¡¾ ¬²º ¨µ¢, ¶ª°¢°ª¬¢ ª ¢ª°¢."
+ estate_uppercastes_ownership:0 "…¯®ª ¢ ¢®¦°ªª ¢ºŒª ¬²"
+ uppercastes_loyalty_modifier:1 "Ð¢°¢°¾ ®¾®¿°²¿ ¢ºŒª ¬²"
+ uppercastes_influence_modifier:0 "Ï®ª¾°ª ¢ºŒª ¬²"
+ uppercastes_privilege_slots:0 "¬ª¯³¯ ±ª¢ª®¥ªþ ¢ºŒª ¬²"
+ 
+ #Uppercastes Privileges
+ estate_uppercastes_organization_caste:0 "¥°ª©µª¾ ¬²: $ESTATE_NAME$"
+ estate_uppercastes_organization_caste_desc:0 ""
+ estate_uppercastes_organization_reformed:0 "‹±©¦°ž°°º ¬²º $ESTATE_NAME$"
+ estate_uppercastes_organization_reformed_desc:0 ""
+ estate_uppercastes_organization_caste_dhenijanraj:0 "¥°ª©µª¾ ¬²: $ESTATE_NAME$"
+ estate_uppercastes_organization_caste_dhenijanraj_desc:0 ""
+ estate_uppercastes_land_rights:0 "…¯®¿°º ±¢ ¦®¾ $ESTATE_NAME$"
+ estate_uppercastes_land_rights_desc:0 "¦®°ª ¢ºŒª ¬² ©¯®žþ ¢ °¥¦³ © ª ©®³¥ª ¦®® ¡º ª ¡® ®¾®¿°º¯ª ¬ ¥³¦²¢³"
+ estate_uppercastes_right_of_counsel:0 "‰¢º ª© ¬²"
+ estate_uppercastes_right_of_counsel_desc:0 "‰ª©°þ² ¢ºŒª ¬²º ¬¬ ±¢³½ ª °¢°³½ ¥³±±³ ¬²."
+ estate_uppercastes_articles_of_war:0 "¦ª´ª¬µª¾ ¢°°º ³²¢¢"
+ estate_uppercastes_articles_of_war_desc: "‰©¢®¾¾ °Œª¯ ¢ºŒª¯ ¬²¯ ¬¦ª´ªµª¢²¿ ±¡º ¢¦°ª¾ ¢þ°º, ¯º ²°¦²ª©ª³¯ °Œª ¢°°º ±µº ª ©¦ž¯ ¼´´¬²ª¢°ºþ ±±² ¦®¾ ¡²º."
+ estate_uppercastes_nobility_primacy:0 "…±²ª²¿ ±²°°ª¯ ©°ª¯²¿ ¦®¨°²ª ¢°°º ¢²°ª¬¢."
+ estate_uppercastes_nobility_primacy_desc:0 "®¿©¾ ¦±³²ª²¿, ¶²¡º ¬²-², ° ±ª°¦®¨¸ªþ ¬ ¬² ¢ª°¢, ¦¢® ¢²º ± ¢°°º¯ ¢±¯, ²¬ ¬¬ ¼² ±²ª¢¶ª² ¥¯°ªª ª ³¸¯®¾² ±¢ ¼²ª ¬²!"
+ estate_uppercastes_supremacy_over_crown:0 "Ô©¢²¿ ¯¨¬²¢ºþ ¢²"
+ estate_uppercastes_supremacy_over_crown_desc:0 "Ô©¢¢ ¯¨¬²¢ºþ ¢², ¯º ¯¨¯ ±¢ºª²¿ ¥¯°ª½ ¢ ²° ª ±©¢®ª²¿ ¬²¯ ¢º²³±²¿  ±¦®¨°ª¾¯ª ¦®¾ °Œ¥ ±¢ª²®¾ ¢ ¼²¯ ¦®."
+ estate_uppercastes_statutory_rights:0 "‰¦²¢®°ª ¢ºŒª¯ ¬²¯ ±®°¥ ¬°²®¾"
+ estate_uppercastes_statutory_rights_desc:0 "Ï ¡®¥¦°²¿ © ±¦¦¨¬³ ¢ ²³¦°³½ ¯ª°³²³ [Root.GetTitleIM] ¥®ª®¾ ±¦²¢ª²¿ ¢ºŒª¯ ¬²¯ ©°¶ª²®¿°º ±¢, ¥°ª¶ª¢½¸ª [Root.GetMEgoEyo] ¢®²¿."
+ estate_uppercastes_advisors:0 "Ô¢²°ª¬ª, ±Œ¦Œª ¡³¶°ª ¢ ¢ºŒª ¬²"
+ estate_uppercastes_advisors_desc:0 " ¯¨² ¡º²¿ ®³¶Œª ¢²¶ª¬¢, ¶¯ ¢ºŒª ¬²º, ¬²º, ¬¬ °ª¬² ¦³¥þ, ±¡°º ±¢¾²ª²¿ ¡¾ ¢Œ°²¢¢°ª½ ¢¥ ³¯."
+ estate_uppercastes_officer_corp:0 "Ô©¦²¿ ¯þ¬ª ¦¯"
+ estate_uppercastes_officer_corp_desc:0 "²¦²¿ ¬¯°¦°º ±²º ±º²°º¯ ¢ª°¯, °ª ©°½², ¶² ®³¶Œ ¦®¾ ¯ªª!"
+ estate_uppercastes_school_tuition:0 "‰¢ºŒ°ª ±®²º © ¡³¶°ª"
+ estate_uppercastes_school_tuition_desc:0 "¨° ®ª, ±¢ºª¢ ±®²³ © ¡³¶°ª ¢ Œ¬®, ¢º²°ª²¿ ¦°ª ª °ª©Œª ¬²º ª© ª²¯º ¡©¢°ª¾, ° ©±¸¾ ª¯ ¢²³±²¿ ¢ °ž"
+ estate_uppercastes_all_school_diplomats:0 "ƒª±®¯°²º ¢ Œ¬®"
+ estate_uppercastes_all_school_diplomats_desc:0 "ž¯ ¦ª±®¯²¢ ª© ¬¨¦þ Œ¬®º ¡³¦² ±¡²¢¢²¿ ³¬±®°ª½ ¦³¨¬ª ²°Œ°ªþ  °Œª¯ª ®ª¥ª©°º¯ª ¡²¿¾¯ª ª ¡®¥¶ª² ¦²³± ¬ ª ³¦¯."
+ estate_uppercastes_eunuchs_in_uppercastes:0 "†°²¥µª¾ ¢°³¢"
+ estate_uppercastes_eunuchs_in_uppercastes_desc:0 "ƒ®¾ µ®þ ¬²¢þ ª²¯º ¢ ¢°³ª ¡³¦³² ±ª¶ª®°º ¬ ¢ºŒª¯ ¬²¯. Ï ³¸°²ª, ¼² ©°¶², ¶² ®½¡þ ¶®¢¬, ¨®½¸ªþ ³®³¶Œª²¿ ¢ž ±®¨°ª ¢ ¨ª©°ª, ¯¨² ²²¿ ¢°³¯, ²¯ ¯º¯ ±¢ºª¢ ¢þ ²²³ ª ±¯¥¾ ¢ ¥¯°þ ¡² ± ³±¢®°ª½ ª¯±ªþ."
+ estate_uppercastes_admiralty:0 "ÏºŒª ¬²º ¢ ¦¯ª®²þ²¢"
+ estate_uppercastes_admiralty_desc:0 "‰¦¶ ¢ºŒª¯ ¬²¯ ¬°²®¾ °¦ ´®²¯ ±©¢®ª² ±ª¦²¿ ¯³ ¢°°³½ °±¢®°°²¿ ª ©°¶ª²®¿° ±¯¨² °¯ ¢ ¡±¶°ªª ¡©±°²ª °Œª ¢¦, ° ¼² ¡³¦² ²ª²¿ °¯ °ª¨°ª¾ °Œª ²¥¢º ¢©¯¨°²þ."
+ estate_uppercastes_intercaste_marriages:0 "€¬ª ¯¨¦³ ¬²¯ª"
+ estate_uppercastes_intercaste_marriages_desc:0 "Ð©Œ¾ ±¦²¢ª²®¾¯ ©°º ¬² ¢²³±²¿ ¢ ¡¬ ¦³¥  ¦³¥¯, ¶®¢¬ ª© °ª©Œþ ª®ª ¦°þ ¬²º ¯¨² ¥©¦ ¡º² ±¦°¾²¿¾ ± µª®¿°þ ªªª."
+ estate_uppercastes_military_achievements:0 "…¯®¿°º ¥°²º © ¢°°º ©®³¥ª"
+ estate_uppercastes_military_achievements_desc:0 "‰¦²¢®¾¾ ¢²°¯ ³¶²¬ ©¯®ª ¢ ¬¶²¢ ¡°³ ¬ ¢°°þ ±°ªª, ¯º ¦ž¯ °Œª¯ ®¦²¯ ²ª¯³® °¾²¿ ¦ªµª±®ª°³ ¢ ¢¯¾ ¨°ªþ, ©°¾, ¶² °ª ¯¥³² ³þ²ª ° ±°ª½ ¢ ±¯²¿, ¬² ¯¥³² °©¢²¿ ¢ª¯ ¡²¢°°º¯."
+ estate_uppercastes_freedom_of_profession:0 "Ô¢¡¦ ±´ªª"
+ estate_uppercastes_freedom_of_profession_desc:0 "²¬º²ª ¢ºŒª ¬² ¦®¾ ¢, ¬² ¯¨² ±¯¶¿ °µªª ±¦¢ª°³²¿¾ ¢±ž¦, ¦® ¡º °¯ ¥¯°º ±ª¯³¸²¢,  ¢ºŒª ¬²º ±®³¶ª®ª ¡º ¢¡¦³ ¦®²¿ ª ¨ª²¿ ²¬, ¬¬ °ª ²¾², ¦¨ ®ª ¼² ²ª¢² ¡® ©¬²°®º ±ª¢¨°µ¢ ¬²¢þ ª²¯º."
+ 
+ estate_uppercastes_supremacy_over_crown_effect_tooltip:0 "§YÔ®¢ª¾§! ¯¥³² ¦¢²¿ §Y©¦°ª¾§! ¡© §Y©º¢§!." 
+ 
+ #Uppercastes Monopoly Localisation
+ estate_uppercastes_monopoly_of_metals:0 "°±®ª¾ ° ¦¡º¶³ ª ¢º±®¢¬³ ¯²®®"
+ estate_uppercastes_monopoly_of_metals_desc:0 "€© ¨®© °Œª ¯ªª ¡º®ª ¡º ¡©©³¡º¯ª. Ù®¿¬ ¢ºŒª¯ ¬²¯ ¯¨° ¦¢ª²¿ ³±¢®°ª ¦¦¯ª, ¢¦¿ ª¯°° °ª ¢°¾² °¢°þ ¢¬®¦ ¢ ©¢ª²ª ¯ªþ °Œþ ²°º."
+ estate_uppercastes_monopoly_of_metals_effect_tooltip:2 "§Rº ±²°¯ ±®³¶²¿ ¦¦ ² §Y„®©§! ª®ª §Y¦ª§!§!"
+ estate_uppercastes_monopoly_of_metals_mod:1 "°±®ª¾ ° ¦¡º¶³ ª ¢º±®¢¬³ ¯²®®"
+ desc_estate_uppercastes_monopoly_of_metals_mod:1 "‚³¦²¢ ±¦²¢ª® ¢ºŒª¯ ¬²¯ ¯°±®¿°º ±¢ ° ±ª©¢¦²¢ ¨®© ª ¯¦ª."
+ estate_uppercastes_monopoly_of_metals_revoke_tooltip:0 "ƒ¦ ² ±ª©¢¦²¢ §Y„®©§! ª §Y¦ª§! ¢²°¢®°"
+ estate_uppercastes_monopoly_of_livestock:0 "°±®ª¾ ° ¬²"
+ estate_uppercastes_monopoly_of_livestock_desc:0 "Œª ¨ª¢²°¢¦º ¢º±®°¾½² µ°°³½ ¡²³, ¬¯¾ °Œ³ ¢®ª¬³½ °µª½. ² ¯¨² ±¾¨²¿¾ ª ¦¦¯ª ®³¶Œ, ¶¯ ¢ºŒª ¬²º, ¬²º ³¨ ¢®¦½² ¡®¿Œþ ¶²¿½ ©¯®ª ¢ ®¿¬ª þ°, ¥¦ ¡²½² ´¯º?"
+ estate_uppercastes_monopoly_of_livestock_effect_tooltip:2 "§Rº ±²°¯ ±®³¶²¿ ¦¦ ² §YÔ¬²§!§!"
+ estate_uppercastes_monopoly_of_livestock_mod:1 "°±®ª¾ ° ¬²"
+ desc_estate_uppercastes_monopoly_of_livestock_mod:1 "‚³¦²¢ ±¦²¢ª® ¢ºŒª¯ ¬²¯º ¯°±®¿° ±¢ ° ¢¦°ª ¨ª¢²°¢¦²¢."
+ estate_uppercastes_monopoly_of_livestock_revoke_tooltip:0 "ƒ¦ ² ±ª©¢¦²¢ §YÔ¬²§! ¢²°¢®°"
+ estate_uppercastes_monopoly_of_gems:0 "°±®ª¾ ° ¯µ¢²º"
+ estate_uppercastes_monopoly_of_gems_desc:0 "ª¢ºþ ¯µ¢² ¯¨² ²ª²¿ ¡®¿Œ, ¶¯ ¥ ¢ ¢ ©®². ‰¼²¯³ °³¦ª¢ª²®¿°, ¶² ¢ºŒª ¬²º ²¾² ¬°²®ª¢²¿ ¦¦º ² ²¥¢®ª."
+ estate_uppercastes_monopoly_of_gems_effect_tooltip:4 "§Rº ±²°¯ ±®³¶²¿ ¦¦ ² §YÔ¯µ¢²¢§!§!."
+ estate_uppercastes_monopoly_of_gems_mod:1 "°±®ª¾ ° ¯µ¢²º"
+ desc_estate_uppercastes_monopoly_of_gems_mod:1 "‚³¦²¢ ±¦²¢ª® ¢ºŒª¯ ¬²¯ ¯°±®¿° ±¢ ° ¦¡º¶³ ¯µ¢²¢ ª ¯®°°º ±µªª."
+ estate_uppercastes_monopoly_of_gems_revoke_tooltip:0 "ƒ¦ ² ±ª©¢¦²¢ §YÔ¯µ¢²¢§! ¢²°¢®°"
+ 
+ monopoly_privileges.5.d.uppercastes:0 "°±®ª¾ ° ¦¡º¶³ ª ¢º±®¢¬³ ¯²®®, ¬²³½ ¯º ¦¢®ª ¢ºŒª¯ ¬²¯, ª²¬®, ª ²±¿ ¯º ¯¨¯ ¢°³²¿ ¡ ¦¦º ² ¦¡º¶ª ª ¢º±®¢¬ª ¯²®®. ¦°¬ °ª ¨®½² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ¢º±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+ monopoly_privileges.6.d.uppercastes:0 "°±®ª¾ ° ±ª©¢¦²¢ ¬², ¬²³½ ¯º ¦¢®ª ¢ºŒª¯ ¬²¯, ª²¬®, ª ²±¿ ¯º ¯¨¯ ¢°³²¿ ¡ ¦¦º ² ±ª©¢¦²¢ ¬². ¦°¬ °ª ²¾² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ¢º±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+ monopoly_privileges.7.d.uppercastes:0 "°±®ª¾ ° ±ª©¢¦²¢ ¯µ¢²¢, ¬²³½ ¯º ¦¢®ª ¢ºŒª¯ ¬²¯, ª²¬®, ª ²±¿ ¯º ¯¨¯ ¢°³²¿ ¡ ¦¦º ² ±ª©¢¦²¢ ¯µ¢²¢. ¦°¬ °ª ²¾² °ª²¿ ¢ª ±ª¢ª®¥ªª ª ±¦®¥½² ¢º±®²ª²¿ °¯ ¦ª°¢¯°°³½ ³¯¯³ ¢ ¡¯° ° ¥°²ª¢°°³½ ¯°±®ª½ ¸ž ° 10 ®²."
+ 
+ #Uppercastes Agendas
+ estate_privileges_and_agendas_events.3.uc:0 "Ïº¡²¿ ±¦®¨°ª ¢ºŒª ¬²"
+ estate_uppercastes_build_army_building_in_y:0 "ÐŒªª²¿ ¢°°³½ ª°´²³¬²³³ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_uppercastes_build_fort_building_in_y:0 "‹¬±ª²¿ [agenda_province.GetName]"
+ estate_uppercastes_build_manufactory_in_y:0 "‰²ª²¿ ¯°³´¬²³³ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_uppercastes_build_university_in_y:0 "‰²ª²¿ ³°ª¢ª²² ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_uppercastes_develop_x:0 "‹¢®ª¶ª²¿ ¬®ª¶²¢ ¬³²¢ ¢ ±¢ª°µªª [agenda_province.GetName]"
+ estate_uppercastes_hire_advisor:0 "°¾²¿ ¢°°¥ ¢²°ª¬"
+ estate_uppercastes_fire_advisor:0 "‹¢®ª²¿ ¢°°¥ ¢²°ª¬"
+ estate_uppercastes_get_allies:0 "Ô©¦þ² ®¿¾°º"
+ estate_uppercastes_befriend_rival_of_rival:1 "‰¦³¨ª²¿¾  ±°ª¬¯ [rival_country.GetUsableName]"
+ estate_uppercastes_restore_legitimacy:1 "Ï²°¢ª²¿ [Root.GetLegitimacyOrMeritocracy]"
+ estate_uppercastes_relations_with_X:0 "‹®³¶Œª²¿ ²°Œ°ª¾  [agenda_country.GetUsableName]"
+ estate_uppercastes_break_coalition:0 "Ð©³Œª²¿ ¬®ªµª½"
+ estate_uppercastes_condottieri_rivals:0 "²±¢ª²¿ ¬°¦²¿¢ ±²ª¢ [agenda_country.GetUsableName]"
+ estate_uppercastes_support_independence:0 "‰¦¦¨¬ [agenda_country.GetAdjective]þ °©¢ªª¯²ª"
+ estate_uppercastes_retake_core:0 "…°¢ ©¢²ª²¿ [agenda_province.GetName]"
+ estate_uppercastes_crush_revolts:0 "‰¦¢ª²¿ ±¢²°µ¢"
+ estate_uppercastes_regain_liberty:0 "Ï°³²¿ ¡ ¢¡¦³"
+ estate_uppercastes_convert_province_culture:0 "Ô¯°ª²¿ ¢ [agenda_province.GetName] ° [Root.Culture.GetName]"
+ estate_uppercastes_protect_our_culture:0 "…¸ª²ª²¿ [Root.GetAdjective] °®°ª ¢ [agenda_province.GetName]"
+ estate_uppercastes_vassalise_vulnerable_country:0 "Ï®ª©µª¾ [agenda_country.GetUsableName]"
+ estate_uppercastes_expand_into_x:0 "ÐŒªª²¿ ¢ [agenda_province.GetAreaName]"
+ estate_uppercastes_complete_conquest_of_x:0 "…¢Œª² ©¢¢°ª [agenda_province.GetAreaName]"
+ estate_uppercastes_annex_subject:0 "°°¬ª¢²¿ [agenda_country.GetUsableName]"
+ estate_uppercastes_build_an_army:0 "Ô©¦²¿ ¯ª½ ¦®¾ ©¸ª²º °Œ¥ ¥³¦²¢"
+ estate_uppercastes_bigger_army_than_rival:0 "…¸ª² ² [agenda_country.GetUsableName]"
+ estate_uppercastes_build_up_manpower_reserves:0 "¸ª¢²¿ °Œª ®½¦¬ª ³º"
+ estate_uppercastes_recover_abysmal_prestige:0 "Ï²°¢ª²¿ °Œ ±²ª¨"
+ estate_uppercastes_improve_prestige:0 "‹®³¶Œª²¿ °Œ ±²ª¨"
+ 
+ #Uppercastes Agenda Descriptions
+ estate_uppercastes_build_army_building_in_y_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ª© [agenda_province.GetName] ±ª©º¢½² ° ±²ª²¿ ¢ ±¢ª°µªª °¢º µ°²º ±¦¥²¢¬ª ª °¡ ¢ ¯ª½, ¶²¡º ¡±¶ª²¿ ¡® °¦¨° °¡¨°ª ¯ªª ¬¢®ª´ªµª¢°°º¯ª ¬³²¯ª."
+ estate_uppercastes_build_fort_building_in_y_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ±ª©º¢½² ° ³¬±ª²¿ °Œª ¡°ª²®¿°º ³¨°ª¾ ¢ [agenda_province.GetName]. °ª ³²¢¨¦½², ¶² °¯ °¡¦ª¯ ©¸ª²ª²¿ ¼²³ ¬®½¶¢³½ ²²¥ª¶¬³½ ²¶¬³ ² °±¦°ª¾."
+ estate_uppercastes_build_manufactory_in_y_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ª© [agenda_province.GetName] ±¾² ° ±´ª°°ª¢²¿ ²ª²®¿²¢ °¢þ [agenda_province.GetManufactory]. °ª ³²¢¨¦½², ¶² ¼² ¡³¦² ¶°¿ ¢º¥¦° ¢®¨°ª, ¬² ³¦¢ª² ¡¹ž¯ ±ª©¢¦²¢ [agenda_province.GetTradeGoodsName] ¢ ±¢ª°µªª."
+ estate_uppercastes_build_university_in_y_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ±¾² ° ±´ª°°ª¢²¿ ©¦°ª °¢¥ ³°ª¢ª²² ¢ [agenda_province.GetName], ¶²¡º ª ±²¯¬ª ¯¥®ª ±®³¶ª²¿ ¯ ®³¶Œ ¡©¢°ª, ¬² ²®¿¬ ¯¨² ±¦®¨ª²¿ [Root.GetUsableName]."
+ estate_uppercastes_develop_x_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ±¾², ¶²¡º ¯º ª°¢²ª¢®ª ¢ ©¢ª²ª ª ©¯®¿ ¢ [agenda_province.GetName]."
+ estate_uppercastes_hire_advisor_desc:0 "ÏºŒª ¬²º ¨®½², ¶²¡º [Root.Monarch.GetTitle] °°¾® °¢¥ ¢°°¥ ¢²°ª¬."
+ estate_uppercastes_fire_advisor_desc:0 "[Root.Mil_Advisor.GetTitle] [Root.Mil_Advisor.GetName] ¬¡ª® [Root.GetUpperCastesName]. °ª ²¡³½², ¶²¡º ¯º ³¢®ª®ª [Root.Mil_Advisor.GetAMEgoEyo]!"
+ estate_uppercastes_get_allies_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¡±¬°º ¦ª±®¯²ª¶¬þ ª©®¾µªþ [Root.GetUsableName]. °ª ¢º²³±½² © ², ¶²¡º ¯º °Œ®ª ¡®¿Œ ½©°ª¬¢ ¦®¾ °Œþ ²°º."
+ estate_uppercastes_befriend_rival_of_rival_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¡±¬°º ³¥©þ, ª¦¾¸þ ² °Œª ±°ª¬¢ ¢ [rival_country.GetUsableName]. °ª ¬¯°¦³½² °¯ ±¦³¨ª²¿¾  ª ¢¥¯ª, [²°_±°ª¬.GetUsableName], ¶²¡º ¢¯² ±²ª¢²¾²¿ ª¯."
+ estate_uppercastes_restore_legitimacy_desc:0 "ÏºŒª ¬²º ¡±¬°º ²¯, ¶² [Root.Monarch.GetTitle] ° ¯¨² ±®¿©¢²¿¾ ³¢¨°ª¯ [Root.Monarch.GetMEgoEyo]¥ °¦. °ª ²¡³½² ¢²°¢ª²¿ ®¥ª²ª¯°²¿ [Root.Monarch.GetTitle] — ²¯ ª®ª ª°º¯ ±¡¯..."
+ estate_uppercastes_relations_with_X_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¯²ª¢½² [agenda_country.GetUsableName] ¬¬ µ°°¥ ±²°µª®¿°¥ ½©°ª¬. °ª ¬¯°¦³½² °¯ ª¬²¿ ¡® ²°º ¢¾©þ  °ª¯."
+ estate_uppercastes_break_coalition_desc:0 "Ô½© °µªþ, ¡¹¦ª°ª¢Œª¾ ±²ª¢ °, ¢º©º¢² ¿ž©° ¡±¬þ²¢ ³ [Root.GetUpper CastesName]. °ª ³¯®¾½² ° ¦®²¿ ¢ž ¢©¯¨°, ¶²¡º ¯¾¥¶ª²¿ ±°ª¾ ², ¬² ¢º²³±ª² ±²ª¢ °, ª®ª, ®ª ¼² ° ³¦²¾, ®¯ª²¿ ª ±²ª¢®°ª, ©¡ª¢ ª ¢ ¡½."
+ estate_uppercastes_condottieri_rivals_desc:0 "Œª ±°ª¬ª ¢ [agenda_country.GetUsableName] ²¯¾²¾ Œªª²¿ ¢½ ¢®²¿ © ¶ž² ¢þ°º  [agenda_enemy_country.GetUsableName]. ÏºŒª ¬²º ±ª©º¢½² ° ±¯Œ²¿ ª¯ ±¢²¿¾ ¬ °¯, °±¢ª¢ ª®º ° ±¦¦¨¬³ ¦® [agenda_enemy_country.GetAdjective]þ."
+ estate_uppercastes_support_independence_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¡¸½² ¢°ª¯°ª ° ¡¦²¢°° ±®¨°ª [agenda_country.GetUsableName], °¦, ¡©¨®²° ±¡¸ž°°¥ °Œª¯ª ±°ª¬¯ª, [agenda_rival_country.GetUsableName]. °ª ±ª©º¢½² ° ¢²²¿ ° ©¸ª²³ ±¢¦®ª¢²ª ª ±¦¦¨²¿ °©¢ªª¯²¿ [agenda_country.GetAdjective]þ."
+ estate_uppercastes_retake_core_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ²³½² ° ², ¶² [agenda_province.GetName], °²¹¯®¯¾ ¶²¿ °Œþ °µªª, ° °¦ª²¾ ±¦ °Œª¯ ¬°²®¯. °ª ²¡³½², ¶²¡º ¯º ¢°³®ª ¡ ©¯®ª, ¬²º ±ª°¦®¨² °¯ ± ±¢³!"
+ estate_uppercastes_crush_revolts_desc:0 "ÏºŒª ¬²º ²¡³½², ¶²¡º ¯º ¢²°¢ª®ª ±¾¦¬ ª ±¦¢ª®ª ¢²°ª¾, ±¬²ª¢Œª¾ ± °Œþ ²°."
+ estate_uppercastes_regain_liberty_desc:0 "ˆ½¦ª ¢ºŒª ¬² ²¦½² ±¦ ¢®²¿½ °Œª [agenda_country.GetAdjective]ª ±¢®ª²®þ. °ª ²¡³½² ¦þ²¢ªþ ¦®¾ ¢²°¢®°ª¾ [Root.GetAdjective]þ ¢¡¦º!"
+ estate_uppercastes_convert_province_culture_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ª¸³² °¢º ©¯®ª ¦®¾ ¢¥ °¦. °ª ¶ª²½² [agenda_province.GetName] ª¦®¿°º¯ ¯²¯ ¦®¾ ±®°ª¾ [Root.Culture.GetName], ®ª ¯²°º ¨ª²®þ ³¦²¾ ³¡¦ª²¿ ¢ ±ª¯³¸²¢ °Œ¥ ±³²ª."
+ estate_uppercastes_protect_our_culture_desc:0 "ÏºŒª ¬²º ³²¢¨¦½², ¶² °Œª [Root.Culture.GetName]ª ¡²¿¾ ¢ [agenda_province.GetName] ±¦¢¥½²¾ ©°¶ª²®¿°¯³ ³¥°²°ª½  ²°º ¢ª [agenda_country.GetAdjective]ª ©¾¢. °ª ²¡³½², ¶²¡º ¯º ©¢²ª®ª ±¢ª°µª½ ª ±ª°¾®ª ª ¢ ²¢ °Œ¥ ¥³¦²¢!"
+ estate_uppercastes_vassalise_vulnerable_country_desc:0 "ÏºŒª ¬²º ° ¯¥³² ° ¡®©°ª²¿¾ ³¾©¢ª¯þ ¯ªŒ°¿½, ¬²³½ ±¦²¢®¾½² °Œª ¦ª ¢ [agenda_country.GetUsableName]. °ª °²ª¢½² ° ¢°°þ ¬¯±°ªª, ¶²¡º ±¦¶ª°ª²¿ ª °Œ¯³ ¥±¦²¢³!"
+ estate_uppercastes_expand_into_x_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬²  ©¢ª²¿½ ¯²¾² ° [agenda_province.GetAreaName], ¡®²¿, ¬²¾, ± ª ¯°°ª½, ²°² ±¬°º¯ ¦±®°°ª¯ ¬ °Œþ °µªª. °ª ±ª©º¢½² ¬ ¢°°þ ¬¯±°ªª, ¶²¡º ©¬±ª²¿ ¶²¿ ¼²þ ²ª²ªª © ¡þ."
+ estate_uppercastes_complete_conquest_of_x_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¯²ª¢½² [agenda_province.GetAreaName] ¬¬ °²¹¯®¯³½ ¶²¿ [Root.GetUsableName] ª ¢©¯³¸°º ²¯, ¶² ° ° ±®°²¿½ ±ª°¦®¨ª² °¯. °ª ±ª©º¢½² ° ©¬±ª²¿ © ¡þ ²®¿°³½ ²ª²ª½!"
+ estate_uppercastes_annex_subject_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¨¨¦³² ©¯®¿ °Œª ±¦¦°°º [agenda_country.GetAdjective]ª. °ª ²¡³½², ¶²¡º ¯º ±®°²¿½ ª°²¥ª¢®ª ª ¢ °Œ³ ²°³."
+ estate_uppercastes_build_an_army_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¶ª²½² °Œ³ ¯ª½ ±©¯ ¦®¾ °µªª. °ª ²¡³½² ¶° ³¢®ª¶ª²¿ ž ¶ª®°°²¿, ¶²¡º °Œª ¢þ¬ ¯¥®ª ²²¿ ¦²²¶°º¯ ¦¨ª¢½¸ª¯ ´¬²¯ ¦®¾ ¢¥¢, ¨®½¸ª ©±®³¶ª²¿ °Œª ©¯®ª."
+ estate_uppercastes_bigger_army_than_rival_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¡±¬°º ²¯, ¶² °Œ ¯ª¾ ¡³¦² ±® ±²ª¢²¾²¿ [agenda_country.GetAdjective]þ ¢ ¢þ°. °ª °²ª¢½² ° ²¯, ¶² ¯º ¦®¨°º ³¢®ª¶ª²¿ °¡ ¢ ¯ª½, ¶²¡º °Œª ¢³¨ž°°º ª®º ¡®¿Œ ° ³²³±®ª ±°ª¬¯."
+ estate_uppercastes_build_up_manpower_reserves_desc:0 "†²¸°ª °Œª ®½¦¬ª ©¢¢ ¢º©º¢² ¡±¬þ²¢ ³ ¢ºŒª ¬², ¬²º ±¦³±¨¦½², ¶² [Root.GetUsableName] ²°²¾ ¡©©¸ª²°º¯, ®ª °Œª ¢¥ª ±±º²½²¾ ¢±®¿©¢²¿¾ ª²³µªþ. °ª ¢º²³±½² © ², ¶²¡º ¯º ° ¢¯¾ ¬°®ª¦ª¢®ª¿ ª ±©¢®ª®ª °Œª¯ ©¢¯ ¢²°¢ª²¿¾."
+ estate_uppercastes_recover_abysmal_prestige_desc:0 "‰¦²¢ª²®ª ¢ºŒª ¬² ¢²¢¨°º ²¯, ¦ ¬¬¥ ³¢°¾ ¯º ±©¢®ª®ª ±³²ª²¿¾ ±³²µªª °Œþ ²°º. °ª ²¡³½² ¢¯²°º ³ª®ªþ ± ¢²°¢®°ª½ °Œþ ±³²µªª ±¦ ¦¾¯ª!"
+ estate_uppercastes_improve_prestige_desc:0 "ÏºŒª ¬²º ¨®½², ¶²¡º ¯º ³®³¶Œª®ª ¢ž ±®¨°ª ¦ª ®½¦þ, ³¢®ª¶ª¢ ¢®ª¬®±ª ¦¢ [Root.Monarch.GetTitle]."
+ 
+ estate_uppercastes_protect_our_culture_effect_tooltip:0 "Ï ®³¶ ©¢¢°ª¾ §Y[agenda_province.GetName]§! ±²¾² §G5§! ®² ±²ª©¯."
+ caste_fluidity_is_fluid_tt:0 "§Y²¢¾ ¯¡ª®¿°²¿§! — §m‚ª¡¬¾§!"
+ caste_fluidity_is_neutral_tt:0 "§Y²¢¾ ¯¡ª®¿°²¿§! — §mþ²®¿°¾§!"
+ caste_fluidity_is_rigid_tt:0 "§Y²¢¾ ¯¡ª®¿°²¿§! — §m¥°ª¶°°¾§!"
+ 
+ #Caste Agenda modifiers and stuff
+ local_uppercastes_displeased:0 "²°º ¢ºŒª ¬²º °¦¢®¿°º"
+ EST_VAL_UPPERCASTES_ADVANCE:0 "‹ª®°ª ¢®ª¾°ª¾ ¢ºŒª ¬²: §Y$VAL$%§!"
